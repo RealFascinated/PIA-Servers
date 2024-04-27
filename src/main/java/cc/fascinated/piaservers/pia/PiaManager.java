@@ -25,6 +25,7 @@ public class PiaManager {
     private static final HttpClient HTTP_CLIENT = HttpClient.newHttpClient();
     private static final String PIA_OPENVPN_CONFIGS_URL = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final long REMOVAL_THRESHOLD = TimeUnit.DAYS.toMicros(14); // 2 weeks
+    public static List<PiaServer> SERVERS = new ArrayList<>();
 
     @SneakyThrows
     public PiaManager() {
@@ -38,20 +39,20 @@ public class PiaManager {
         System.out.println("Found " + piaDomain.size() + " pia domains");
 
         // Load the serversFile from the file
-        List<PiaServer> servers = Main.GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<List<PiaServer>>() {}.getType());
-        if (servers == null) {
-            servers = new ArrayList<>();
+        SERVERS = Main.GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<List<PiaServer>>() {}.getType());
+        if (SERVERS == null) {
+            SERVERS = new ArrayList<>();
         }
         List<PiaServer> toRemove = new ArrayList<>();
 
         System.out.println("Removing old servers...");
         // Get the servers that need to be removed
-        for (PiaServer server : servers) {
+        for (PiaServer server : SERVERS) {
             if (server.getLastSeen().getTime() < System.currentTimeMillis() - REMOVAL_THRESHOLD) {
                 toRemove.add(server);
             }
         }
-        servers.removeAll(toRemove); // Remove the servers
+        SERVERS.removeAll(toRemove); // Remove the servers
         System.out.printf("Removed %s old servers\n", toRemove.size());
 
         // Add the new servers to the list
@@ -59,12 +60,12 @@ public class PiaManager {
             InetAddress address = InetAddress.getByName(serverToken.getHostname());
 
             // Add the server to the list
-            servers.add(new PiaServer(address.getHostAddress(), serverToken.getRegion(), new Date()));
+            SERVERS.add(new PiaServer(address.getHostAddress(), serverToken.getRegion(), new Date()));
         }
 
         // Save the servers to the file
-        Files.writeString(serversFile.toPath(), Main.GSON.toJson(servers));
-        System.out.printf("Wrote %s servers to the file\n", servers.size());
+        Files.writeString(serversFile.toPath(), Main.GSON.toJson(SERVERS));
+        System.out.printf("Wrote %s servers to the file\n", SERVERS.size());
     }
 
     @SneakyThrows
