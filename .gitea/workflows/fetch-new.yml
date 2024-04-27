@@ -35,6 +35,9 @@ jobs:
           distribution: "zulu"
           maven-version: ${{ matrix.maven-version }}
 
+      - name: Build PIA Servers
+        run: mvn clean package -T 2C
+
       - name: Fetch new PIA servers
         run: java -jar PIA-Servers.jar
 
