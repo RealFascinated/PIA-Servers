@@ -45,7 +45,7 @@ jobs:
         run: |
           git config --global user.email "liam@fascinated.cc"
           git config --global user.name "Fascinated"
-          git remote set-url origin "https://git.fascinated.cc/Fascinated/PIA-Servers"
+          git remote add origin "https://git.fascinated.cc/Fascinated/PIA-Servers"
           git add servers.json
           git commit -m "Update PIA Servers"
           git push
