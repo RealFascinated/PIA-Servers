@@ -10,12 +10,14 @@ import java.io.File;
 import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
+import java.text.DecimalFormat;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class ReadMeManager {
+    private final DecimalFormat decimalFormat = new DecimalFormat("#,###.00");
 
     @SneakyThrows
     public ReadMeManager() {
@@ -31,16 +33,18 @@ public class ReadMeManager {
         // Get the contents of the README.md
         String contents = new String(readmeStream.readAllBytes());
 
-        // Replace the placeholders in the README.md file
-        contents = contents.replace("{server_count}", String.valueOf(PiaManager.SERVERS.size()));
-        contents = contents.replace("{last_update}", new Date().toString().replaceAll(" ", "_"));
-
-        // Write total servers per-region
         Map<String, Integer> regionCounts = new HashMap<>();
         for (PiaServer server : PiaManager.SERVERS) {
             String region = server.getRegion();
             regionCounts.put(region, regionCounts.getOrDefault(region, 0) + 1);
         }
+
+        // Replace the placeholders in the README.md file
+        contents = contents.replace("{server_count}", decimalFormat.format(PiaManager.SERVERS.size()));
+        contents = contents.replace("{last_update}", new Date().toString().replaceAll(" ", "_"));
+        contents = contents.replace("{region_count}", decimalFormat.format(regionCounts.size()));
+
+        // Write total servers per-region
         contents = contents.replace("{server_table}", regionCounts.entrySet().stream()
                 .sorted((a, b) -> Integer.compare(b.getValue(), a.getValue())) // Sort from highest to lowest
                 .map(entry -> "| " + entry.getKey() + " | " + entry.getValue() + " |") // Map the region to the count
