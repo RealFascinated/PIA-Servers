@@ -43,7 +43,7 @@ public class Main {
         // Load the serversFile from the file
         String serversJson = Files.readString(serversFile.toPath());
         System.out.println(serversJson);
-        List<PiaServer> servers = GSON.fromJson(serversJson, new TypeToken<PiaServer>() {}.getType());
+        List<PiaServer> servers = GSON.fromJson(serversJson, new TypeToken<List<PiaServer>>() {}.getType());
         if (servers == null) {
             servers = new ArrayList<>();
         }
