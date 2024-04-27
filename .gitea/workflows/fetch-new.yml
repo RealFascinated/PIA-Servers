@@ -1,0 +1,48 @@
+name: Fetch new Pia Servers
+
+on:
+  push:
+    branches: ["master"]
+    paths-ignore:
+      - .gitignore
+      - README.md
+      - LICENSE
+      - servers.json
+
+jobs:
+  docker:
+    strategy:
+      matrix:
+        arch: ["ubuntu-latest"]
+        git-version: ["2.44.0"]
+        java-version: ["17"]
+        maven-version: ["3.8.5"]
+    runs-on: ${{ matrix.arch }}
+
+    # Steps to run
+    steps:
+      # Checkout the repo
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.AUTH_TOKEN }}
+
+      # Setup Java and Maven
+      - name: Set up JDK and Maven
+        uses: s4u/setup-maven-action@v1.12.0
+        with:
+          java-version: ${{ matrix.java-version }}
+          distribution: "zulu"
+          maven-version: ${{ matrix.maven-version }}
+
+      - name: Fetch new PIA servers
+        run: java -jar PIA-Servers.jar
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "liam@fascinated.cc"
+          git config --global user.name "Fascinated"
+          git add servers.json
+          git commit -m "Update servers.json"
+          git push
+          
