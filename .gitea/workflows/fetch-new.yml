@@ -2,7 +2,8 @@ name: Fetch new Pia Servers
 
 on:
   schedule:
-    - cron: "@hourly"
+    #- cron: "@hourly"
+    - cron: "*/5 * * * *"
   push:
     branches: ["master"]
     paths-ignore:
