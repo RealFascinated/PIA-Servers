@@ -43,10 +43,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "liam@fascinated.cc"
-          git config --global user.name "Liam"
+          git config --global user.email "liam+pia-servers-ci@fascinated.cc"
+          git config --global user.name "PIA Servers CI"
           git add servers.json
           git add README.md
           git commit -m "Scheduled update"
-          git push https://fascinated:${{ secrets.AUTH_TOKEN }}@git.fascinated.cc/Fascinated/PIA-Servers
+          git push https://pia-servers-ci:${{ secrets.AUTH_TOKEN }}@git.fascinated.cc/Fascinated/PIA-Servers
           
