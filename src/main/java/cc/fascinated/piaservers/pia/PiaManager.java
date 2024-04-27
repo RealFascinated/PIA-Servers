@@ -55,6 +55,11 @@ public class PiaManager {
         SERVERS.removeAll(toRemove); // Remove the servers
         System.out.printf("Removed %s old servers\n", toRemove.size());
 
+        // Update the last seen time for all the servers
+        for (PiaServer server : SERVERS) {
+            server.setLastSeen(new Date());
+        }
+
         // Add the new servers to the list
         for (PiaServerToken serverToken : piaDomain) {
             InetAddress address = InetAddress.getByName(serverToken.getHostname());

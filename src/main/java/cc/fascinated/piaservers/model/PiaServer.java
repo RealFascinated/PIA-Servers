@@ -2,10 +2,11 @@ package cc.fascinated.piaservers.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.Setter;
 
 import java.util.Date;
 
-@AllArgsConstructor @Getter
+@AllArgsConstructor @Getter @Setter
 public class PiaServer {
     /**
      * The IP of this server.
