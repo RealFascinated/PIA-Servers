@@ -1,4 +1,4 @@
-package cc.fascinated.piaservers.pia;
+package cc.fascinated.piaservers.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
