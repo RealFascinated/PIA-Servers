@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Map;
 
 public class ReadMeManager {
-    private final DecimalFormat decimalFormat = new DecimalFormat("#,###.00");
+    private final DecimalFormat decimalFormat = new DecimalFormat("#,###");
 
     @SneakyThrows
     public ReadMeManager() {
