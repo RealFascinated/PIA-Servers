@@ -36,19 +36,16 @@ jobs:
           maven-version: ${{ matrix.maven-version }}
 
       - name: Build PIA Servers
-        run: mvn clean package -T 2C
-
-      - name: Switch to the correct directory
-        run: cd target
+        run: mvn clean package -T 2C -q
 
       - name: Fetch new PIA servers
-        run: java -jar PIA-Servers.jar
+        run: java -jar target/PIA-Servers.jar
 
       - name: Commit and push changes
         run: |
           git config --global user.email "liam@fascinated.cc"
           git config --global user.name "Fascinated"
           git add servers.json
-          git commit -m "Update servers.json"
+          git commit -m "Update PIA Servers"
           git push
           
