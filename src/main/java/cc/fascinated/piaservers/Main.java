@@ -4,7 +4,6 @@ import cc.fascinated.piaservers.pia.PiaServer;
 import cc.fascinated.piaservers.pia.PiaServerToken;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.JsonObject;
 import com.google.gson.reflect.TypeToken;
 import org.codehaus.plexus.archiver.zip.ZipUnArchiver;
 import lombok.SneakyThrows;
@@ -38,11 +37,13 @@ public class Main {
             serversFile.createNewFile();
         }
 
-        List<PiaServerToken> serverDomains = getServerDomains();
-        System.out.println("Found " + serverDomains.size() + " server domains");
+        List<PiaServerToken> piaDomain = getPiaDomains();
+        System.out.println("Found " + piaDomain.size() + " pia domains");
 
         // Load the serversFile from the file
-        List<PiaServer> servers = GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<PiaServer>() {}.getType());
+        String serversJson = Files.readString(serversFile.toPath());
+        System.out.println(serversJson);
+        List<PiaServer> servers = GSON.fromJson(serversJson, new TypeToken<PiaServer>() {}.getType());
         if (servers == null) {
             servers = new ArrayList<>();
         }
@@ -59,7 +60,7 @@ public class Main {
         System.out.printf("Removed %s old servers\n", toRemove.size());
 
         // Add the new servers to the list
-        for (PiaServerToken serverToken : serverDomains) {
+        for (PiaServerToken serverToken : piaDomain) {
             InetAddress address = InetAddress.getByName(serverToken.getHostname());
 
             // Add the server to the list
@@ -72,7 +73,7 @@ public class Main {
     }
 
     @SneakyThrows
-    private static List<PiaServerToken> getServerDomains() {
+    private static List<PiaServerToken> getPiaDomains() {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(PIA_OPENVPN_CONFIGS_URL))
                 .GET()
