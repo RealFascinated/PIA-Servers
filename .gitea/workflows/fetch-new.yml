@@ -38,6 +38,9 @@ jobs:
       - name: Build PIA Servers
         run: mvn clean package -T 2C
 
+      - name: Switch to the correct directory
+        run: cd target
+
       - name: Fetch new PIA servers
         run: java -jar PIA-Servers.jar
 
