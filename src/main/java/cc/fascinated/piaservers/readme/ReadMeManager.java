@@ -5,15 +5,12 @@ import cc.fascinated.piaservers.model.PiaServer;
 import cc.fascinated.piaservers.pia.PiaManager;
 import lombok.SneakyThrows;
 
-import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.InputStream;
 import java.nio.file.Files;
-import java.nio.file.StandardCopyOption;
 import java.text.DecimalFormat;
 import java.util.Date;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class ReadMeManager {
