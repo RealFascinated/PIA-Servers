@@ -1,6 +1,6 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-{server_count}-brightgreen) ![Last update](https://img.shields.io/badge/last_updated-{last_update}-brightgreen)
+![Servers](https://img.shields.io/badge/servers-{server_count}-blue) ![Last update](https://img.shields.io/badge/last_updated-{last_update}-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly.
 
