@@ -36,7 +36,7 @@ public class PiaManager {
             serversFile.createNewFile();
         }
         // Load the serversFile from the file
-        SERVERS = Main.GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<List<PiaServer>>() {}.getType());
+        SERVERS = Main.GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<Set<PiaServer>>() {}.getType());
         if (SERVERS == null) {
             SERVERS = new HashSet<>();
         }
