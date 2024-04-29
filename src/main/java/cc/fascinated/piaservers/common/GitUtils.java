@@ -32,6 +32,7 @@ public class GitUtils {
             runCommand("git", "clone", "https://git.fascinated.cc/Fascinated/PIA-Servers.git");
             runCommand("mv", "PIA-Servers/.git", ".");
             runCommand("rm", "-rf", "PIA-Servers");
+            runCommand("git", "pull"); // Pull the latest changes
         }
     }
 
