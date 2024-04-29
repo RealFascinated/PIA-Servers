@@ -13,13 +13,13 @@ public class GitUtils {
     public static void commitFiles(String message, Path... files) {
         System.out.println("Committing files");
         if (Config.isProduction()) {
-            runCommand("git", "config", "--global", "user.email", "liam+pia-servers-ci@fascinated.cc");
-            runCommand("git", "config", "--global", "user.name", "PIA Servers CI");
+            runCommand("git", "config", "--global", "user.email", "fascinated-helper@fascinated.cc");
+            runCommand("git", "config", "--global", "user.name", "Fascinated's Helper");
             for (Path file : files) {
                 runCommand("git", "add", file.toAbsolutePath().toString());
             }
             runCommand("git", "commit", "-m", message);
-            runCommand("git", "push", "https://pia-servers-ci:%s@git.fascinated.cc/Fascinated/PIA-Servers".formatted(System.getenv("AUTH_TOKEN")));
+            runCommand("git", "push", "https://fascinated-helper:%s@git.fascinated.cc/Fascinated/PIA-Servers".formatted(System.getenv("AUTH_TOKEN")));
         }
     }
 
