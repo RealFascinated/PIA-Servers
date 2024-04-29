@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,216-blue)
+![Servers](https://img.shields.io/badge/servers-10,479-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_19:03:16_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_20:03:16_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,52 +10,52 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 280 |
-| ca_montreal | 279 |
-| us_chicago | 271 |
-| ca_vancouver | 268 |
-| us_texas | 265 |
-| us_silicon_valley | 264 |
-| ca_toronto | 254 |
-| us_west | 253 |
-| ca_ontario | 250 |
-| us_california | 248 |
-| uk_london | 247 |
-| us_new_york | 246 |
-| us_east | 245 |
-| au_melbourne | 245 |
-| us_washington_dc | 243 |
-| us_atlanta | 243 |
-| us_las_vegas | 242 |
-| us_seattle | 234 |
-| us_florida | 224 |
-| de_frankfurt | 214 |
-| switzerland | 207 |
-| au_sydney | 204 |
-| de_berlin | 186 |
-| us_houston | 186 |
-| singapore | 178 |
-| us_denver | 178 |
-| uk_manchester | 176 |
-| au_perth | 159 |
-| sweden | 156 |
-| japan | 150 |
-| new_zealand | 147 |
-| france | 142 |
-| mexico | 125 |
-| uk_southampton | 125 |
-| ireland | 121 |
-| norway | 102 |
+| netherlands | 297 |
+| ca_montreal | 292 |
+| ca_vancouver | 282 |
+| us_chicago | 282 |
+| us_texas | 275 |
+| us_silicon_valley | 270 |
+| us_west | 265 |
+| ca_toronto | 263 |
+| ca_ontario | 263 |
+| uk_london | 258 |
+| us_new_york | 257 |
+| us_east | 256 |
+| us_washington_dc | 256 |
+| us_california | 255 |
+| us_atlanta | 255 |
+| us_las_vegas | 254 |
+| au_melbourne | 252 |
+| us_seattle | 242 |
+| us_florida | 233 |
+| de_frankfurt | 221 |
+| switzerland | 214 |
+| au_sydney | 210 |
+| de_berlin | 190 |
+| us_houston | 190 |
+| us_denver | 182 |
+| singapore | 180 |
+| uk_manchester | 179 |
+| au_perth | 162 |
+| sweden | 158 |
+| japan | 151 |
+| new_zealand | 150 |
+| france | 143 |
+| mexico | 127 |
+| uk_southampton | 126 |
+| ireland | 123 |
+| norway | 105 |
 | israel | 98 |
 | spain | 97 |
 | czech_republic | 91 |
-| denmark | 89 |
+| denmark | 90 |
 | estonia | 88 |
 | italy | 85 |
 | finland | 82 |
 | bahamas | 78 |
 | argentina | 75 |
-| austria | 69 |
+| austria | 70 |
 | brazil | 69 |
 | luxembourg | 62 |
 | panama | 60 |
