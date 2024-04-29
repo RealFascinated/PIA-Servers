@@ -6,6 +6,8 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import lombok.SneakyThrows;
 
+import java.util.concurrent.TimeUnit;
+
 public class Main {
     public static final Gson GSON = new GsonBuilder()
             .setPrettyPrinting()
@@ -13,7 +15,9 @@ public class Main {
 
     @SneakyThrows
     public static void main(String[] args) {
-        new PiaManager();
+        PiaManager.updateServers();
+        Thread.sleep(TimeUnit.MINUTES.toMillis(3));
+        PiaManager.updateServers();
         new ReadMeManager();
     }
 }

@@ -21,14 +21,13 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class PiaManager {
-
     private static final HttpClient HTTP_CLIENT = HttpClient.newHttpClient();
     private static final String PIA_OPENVPN_CONFIGS_URL = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final long REMOVAL_THRESHOLD = TimeUnit.DAYS.toMicros(14); // 2 weeks
     public static List<PiaServer> SERVERS = new ArrayList<>();
 
     @SneakyThrows
-    public PiaManager() {
+    public static void updateServers() {
         File serversFile = new File("servers.json");
         if (!serversFile.exists()) {
             System.out.println("serversFile.json does not exist, creating...");
@@ -54,11 +53,6 @@ public class PiaManager {
         }
         SERVERS.removeAll(toRemove); // Remove the servers
         System.out.printf("Removed %s old servers\n", toRemove.size());
-
-        // Update the last seen time for all the servers
-        for (PiaServer server : SERVERS) {
-            server.setLastSeen(new Date());
-        }
 
         // Add the new servers to the list
         for (PiaServerToken serverToken : piaDomain) {
