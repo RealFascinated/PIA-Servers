@@ -11,6 +11,7 @@ import org.xbill.DNS.Record;
 import org.xbill.DNS.*;
 
 import java.io.File;
+import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
@@ -46,7 +47,7 @@ public class PiaManager {
 
         GitUtils.cloneRepo(); // Clone the repository
 
-        // Update the servers every 2 minutes
+        // Update the servers every 5 minutes
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
@@ -67,20 +68,14 @@ public class PiaManager {
     @SneakyThrows
     public static void updateServers(File serversFile) {
         List<PiaServer> servers = getPiaServers();
-        List<PiaServer> toRemove = new ArrayList<>();
 
-        // Get the servers that need to be removed
-        for (PiaServer server : SERVERS) {
-            if (server.getLastSeen().getTime() < System.currentTimeMillis() - REMOVAL_THRESHOLD) {
-                toRemove.add(server);
-            }
-        }
-        toRemove.forEach(SERVERS::remove); // Remove the servers
-        System.out.printf("Removed %s servers that haven't been active in 2 weeks\n", toRemove.size());
-
-        int newServers = 0;
+        // Remove the servers that haven't been active in 2 weeks
+        int before = SERVERS.size();
+        SERVERS.removeIf(server -> System.currentTimeMillis() - server.getLastSeen().getTime() > REMOVAL_THRESHOLD);
+        System.out.printf("Removed %s servers that haven't been active in 2 weeks%n", before - SERVERS.size());
 
         // Add the new servers to the list
+        int newServers = 0;
         for (PiaServer piaServer : servers) {
             boolean newServer = SERVERS.stream().noneMatch(server -> server.getIp().equals(piaServer.getIp()));
             if (newServer) {
@@ -103,55 +98,40 @@ public class PiaManager {
                 .uri(URI.create(PIA_OPENVPN_CONFIGS_URL))
                 .GET()
                 .build();
-        // Send the request and get the response
         HttpResponse<Path> response = HTTP_CLIENT.send(request, HttpResponse.BodyHandlers.ofFile(Files.createTempFile("openvpn", ".zip")));
         if (response.statusCode() != 200) {
-            System.out.println("Failed to get the PIA OpenVPN configs, status code: " + response.statusCode());
-            System.exit(1);
+            throw new IOException("Failed to get the PIA OpenVPN configs, status code: " + response.statusCode());
         }
         System.out.printf("Downloaded the OpenVPN configs in %sms%n", System.currentTimeMillis() - start);
         Path downloadedFile = response.body();
         File tempDir = Files.createTempDirectory("openvpn").toFile();
         ZipUnArchiver unArchiver = new ZipUnArchiver();
-
-        // Extract the downloaded file
         unArchiver.setSourceFile(downloadedFile.toFile());
         unArchiver.setDestDirectory(tempDir);
         unArchiver.extract();
 
-        // Get the extracted files
         File[] files = tempDir.listFiles();
         if (files == null || files.length == 0) {
-            System.out.println("Failed to extract the OpenVPN configs");
-            System.exit(1);
+            throw new IOException("Failed to extract the OpenVPN configs");
         }
 
-        System.out.printf("Found %s regions%n", files.length - 1);
-
-        // Search for the servers
         List<PiaServer> servers = new ArrayList<>();
         for (File file : files) {
-            if (file.isDirectory()) {
+            if (file.isDirectory() || !file.getName().endsWith(".ovpn")) {
                 continue;
             }
-            if (!file.getName().endsWith(".ovpn")) {
-                continue;
-            }
-            // Read the file and get the server domain
             List<String> lines = Files.readAllLines(file.toPath());
             for (String line : lines) {
                 if (line.startsWith("remote ")) {
                     String[] parts = line.split(" ");
                     String hostname = parts[1];
                     String region = file.getName().split("\\.")[0];
-
                     Record[] records = new Lookup(hostname, Type.A).run();
-                    if (records == null) {
-                        continue;
-                    }
-                    for (Record record : records) {
-                        ARecord aRecord = (ARecord) record;
-                        servers.add(new PiaServer(aRecord.getAddress().getHostAddress(), region, new Date()));
+                    if (records != null) {
+                        for (Record record : records) {
+                            ARecord aRecord = (ARecord) record;
+                            servers.add(new PiaServer(aRecord.getAddress().getHostAddress(), region, new Date()));
+                        }
                     }
                     break;
                 }
