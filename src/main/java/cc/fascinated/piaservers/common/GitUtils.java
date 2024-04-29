@@ -30,6 +30,8 @@ public class GitUtils {
         if (System.getenv("ENVIRONMENT").equals("production")) {
             System.out.println("Cloning repository");
             runCommand("git", "clone", "https://git.fascinated.cc/Fascinated/PIA-Servers.git");
+            runCommand("mv", "PIA-Servers/.git", ".");
+            runCommand("rm", "-rf", "PIA-Servers");
         }
     }
 
