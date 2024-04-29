@@ -59,7 +59,7 @@ public class PiaManager {
             public void run() {
                 GitUtils.commitFiles("Scheduled update", serversFile.toPath(), README_PATH); // Commit the files
             }
-        }, 0, TimeUnit.HOURS.toMillis(1));
+        }, TimeUnit.MINUTES.toMillis(3), TimeUnit.HOURS.toMillis(1));
     }
 
     @SneakyThrows
