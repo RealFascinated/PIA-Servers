@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,767-blue)
+![Servers](https://img.shields.io/badge/servers-11,006-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_22:02:25_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_23:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,49 +10,49 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 313 |
-| ca_montreal | 306 |
-| ca_vancouver | 299 |
-| us_chicago | 296 |
-| us_texas | 289 |
-| us_silicon_valley | 280 |
-| ca_ontario | 275 |
-| ca_toronto | 274 |
-| us_west | 273 |
-| us_east | 270 |
-| us_washington_dc | 269 |
-| us_new_york | 268 |
-| uk_london | 268 |
-| us_las_vegas | 267 |
-| us_atlanta | 265 |
-| us_california | 260 |
-| au_melbourne | 260 |
-| us_seattle | 256 |
-| us_florida | 243 |
-| de_frankfurt | 226 |
-| switzerland | 221 |
-| au_sydney | 215 |
-| de_berlin | 195 |
-| us_houston | 195 |
-| singapore | 187 |
-| us_denver | 186 |
-| uk_manchester | 180 |
-| au_perth | 165 |
-| sweden | 159 |
+| netherlands | 327 |
+| ca_montreal | 320 |
+| ca_vancouver | 313 |
+| us_chicago | 304 |
+| us_texas | 300 |
+| us_silicon_valley | 289 |
+| ca_toronto | 285 |
+| ca_ontario | 283 |
+| us_west | 282 |
+| us_east | 278 |
+| uk_london | 277 |
+| us_las_vegas | 275 |
+| us_washington_dc | 274 |
+| us_atlanta | 274 |
+| us_new_york | 273 |
+| au_melbourne | 269 |
+| us_california | 268 |
+| us_seattle | 265 |
+| us_florida | 253 |
+| de_frankfurt | 232 |
+| switzerland | 226 |
+| au_sydney | 219 |
+| de_berlin | 199 |
+| us_houston | 198 |
+| singapore | 191 |
+| us_denver | 191 |
+| uk_manchester | 186 |
+| au_perth | 167 |
+| sweden | 162 |
 | japan | 153 |
 | new_zealand | 153 |
-| france | 148 |
-| uk_southampton | 129 |
+| france | 150 |
+| uk_southampton | 138 |
 | mexico | 128 |
-| ireland | 124 |
-| norway | 105 |
-| israel | 99 |
+| ireland | 126 |
+| norway | 106 |
+| israel | 100 |
 | spain | 97 |
 | czech_republic | 92 |
 | denmark | 92 |
-| estonia | 89 |
+| estonia | 91 |
 | italy | 85 |
-| finland | 82 |
+| finland | 83 |
 | bahamas | 78 |
 | argentina | 75 |
 | austria | 71 |
@@ -82,9 +82,9 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | qatar | 33 |
 | bangladesh | 31 |
 | hungary | 30 |
+| india | 30 |
 | liechtenstein | 29 |
 | isle_of_man | 29 |
-| india | 29 |
 | saudi_arabia | 28 |
 | bulgaria | 28 |
 | south_africa | 28 |
