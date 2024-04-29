@@ -11,6 +11,7 @@ public class GitUtils {
      * @param files The files to commit
      */
     public static void commitFiles(String message, Path... files) {
+        System.out.println("Committing files");
         if (System.getenv("ENVIRONMENT").equals("production")) {
             runCommand("git", "config", "--global", "user.email", "liam+pia-servers-ci@fascinated.cc");
             runCommand("git", "config", "--global", "user.name", "PIA Servers CI");
@@ -27,6 +28,7 @@ public class GitUtils {
      */
     public static void cloneRepo() {
         if (System.getenv("ENVIRONMENT").equals("production")) {
+            System.out.println("Cloning repository");
             runCommand("git", "clone", "https://git.fascinated.cc/Fascinated/PIA-Servers.git");
         }
     }

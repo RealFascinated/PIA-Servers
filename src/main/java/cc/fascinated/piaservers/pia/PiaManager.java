@@ -26,7 +26,7 @@ public class PiaManager {
     private static final HttpClient HTTP_CLIENT = HttpClient.newHttpClient();
     private static final String PIA_OPENVPN_CONFIGS_URL = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final long REMOVAL_THRESHOLD = TimeUnit.DAYS.toMicros(14); // 2 weeks
-    public static List<PiaServer> SERVERS = new ArrayList<>();
+    public static Set<PiaServer> SERVERS = new HashSet<>();
 
     @SneakyThrows
     public PiaManager() {
@@ -38,7 +38,7 @@ public class PiaManager {
         // Load the serversFile from the file
         SERVERS = Main.GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<List<PiaServer>>() {}.getType());
         if (SERVERS == null) {
-            SERVERS = new ArrayList<>();
+            SERVERS = new HashSet<>();
         }
 
         GitUtils.cloneRepo(); // Clone the repository
