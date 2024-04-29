@@ -23,6 +23,15 @@ public class GitUtils {
     }
 
     /**
+     * Clone the repository
+     */
+    public static void cloneRepo() {
+        if (System.getenv("ENVIRONMENT").equals("production")) {
+            runCommand("git", "clone", "https://git.fascinated.cc/Fascinated/PIA-Servers.git");
+        }
+    }
+
+    /**
      * Run a system command
      *
      * @param args The command to run (with arguments)

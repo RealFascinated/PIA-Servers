@@ -41,6 +41,8 @@ public class PiaManager {
             SERVERS = new ArrayList<>();
         }
 
+        GitUtils.cloneRepo(); // Clone the repository
+
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {

@@ -25,9 +25,5 @@ WORKDIR /home/container
 # Copy the built jar file from the builder stage
 COPY --from=builder /home/container/target/PIA-Servers.jar .
 
-# Make port 80 available to the world outside this container
-EXPOSE 80
-ENV PORT=80
-
 # Run the jar file
 CMD java -jar PIA-Servers.jar -Djava.awt.headless=true
