@@ -40,6 +40,7 @@ public class PiaManager {
         if (SERVERS == null) {
             SERVERS = new HashSet<>();
         }
+        System.out.println("Loaded " + SERVERS.size() + " servers from the file");
 
         GitUtils.cloneRepo(); // Clone the repository
 
@@ -82,13 +83,13 @@ public class PiaManager {
 
         // Add the new servers to the list
         for (PiaServerToken serverToken : piaDomain) {
-            // Add the server to the list
-            PiaServer server = new PiaServer(serverToken.getIp(), serverToken.getRegion(), new Date());
-            SERVERS.add(server);
-            boolean newServer = SERVERS.stream().noneMatch(s -> s.getIp().equals(server.getIp()));
+            boolean newServer = SERVERS.stream().noneMatch(server -> server.getIp().equals(serverToken.getIp()));
             if (newServer) {
                 newServers++;
             }
+
+            // Add the server to the list
+            SERVERS.add(new PiaServer(serverToken.getIp(), serverToken.getRegion(), new Date()));
         }
 
         // Save the servers to the file
