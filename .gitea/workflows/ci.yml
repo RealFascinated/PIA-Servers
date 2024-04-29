@@ -1,0 +1,30 @@
+name: Deploy to Dokku
+
+on:
+  push:
+    branches: ["master"]
+    paths-ignore:
+      - .gitignore
+      - README.md
+      - LICENSE
+      - servers.json
+
+jobs:
+  docker:
+    strategy:
+      matrix:
+        arch: ["ubuntu-latest"]
+    runs-on: ${{ matrix.arch }}
+
+    # Steps to run
+    steps:
+      # Checkout the repo
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Deploy to Dokku
+      - name: Push to dokku
+        uses: dokku/github-action@master
+        with:
+          git_remote_url: "ssh://dokku@10.0.50.65:22/pia-servers"
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}

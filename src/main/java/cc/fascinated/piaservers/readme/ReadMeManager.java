@@ -8,20 +8,21 @@ import lombok.SneakyThrows;
 import java.io.File;
 import java.io.InputStream;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.text.DecimalFormat;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
 public class ReadMeManager {
-    private final DecimalFormat decimalFormat = new DecimalFormat("#,###");
+    private static final DecimalFormat decimalFormat = new DecimalFormat("#,###");
 
     @SneakyThrows
-    public ReadMeManager() {
+    public static Path updateReadme() {
         InputStream readmeStream = Main.class.getResourceAsStream("/README.md");
         if (readmeStream == null) {
             System.out.println("Failed to find README.md");
-            return;
+            return null;
         }
         File readmeFile = new File("README.md");
         if (!readmeFile.exists()) { // Create the file if it doesn't exist
@@ -48,5 +49,6 @@ public class ReadMeManager {
                 .reduce((a, b) -> a + "\n" + b).orElse("")); // Reduce the entries to a single string
 
         Files.write(readmeFile.toPath(), contents.getBytes());
+        return readmeFile.toPath();
     }
 }

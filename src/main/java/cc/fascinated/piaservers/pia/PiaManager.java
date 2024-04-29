@@ -1,13 +1,15 @@
 package cc.fascinated.piaservers.pia;
 
 import cc.fascinated.piaservers.Main;
+import cc.fascinated.piaservers.common.GitUtils;
 import cc.fascinated.piaservers.model.PiaServer;
 import cc.fascinated.piaservers.model.PiaServerToken;
+import cc.fascinated.piaservers.readme.ReadMeManager;
 import com.google.gson.reflect.TypeToken;
 import lombok.SneakyThrows;
 import org.codehaus.plexus.archiver.zip.ZipUnArchiver;
-import org.xbill.DNS.*;
 import org.xbill.DNS.Record;
+import org.xbill.DNS.*;
 
 import java.io.File;
 import java.net.InetAddress;
@@ -17,9 +19,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 public class PiaManager {
@@ -29,21 +29,35 @@ public class PiaManager {
     public static List<PiaServer> SERVERS = new ArrayList<>();
 
     @SneakyThrows
-    public static void updateServers() {
+    public PiaManager() {
         File serversFile = new File("servers.json");
         if (!serversFile.exists()) {
             System.out.println("serversFile.json does not exist, creating...");
             serversFile.createNewFile();
         }
-
-        List<PiaServerToken> piaDomain = getPiaDomains();
-        System.out.println("Found " + piaDomain.size() + " pia domains");
-
         // Load the serversFile from the file
         SERVERS = Main.GSON.fromJson(Files.readString(serversFile.toPath()), new TypeToken<List<PiaServer>>() {}.getType());
         if (SERVERS == null) {
             SERVERS = new ArrayList<>();
         }
+
+        new Timer().scheduleAtFixedRate(new TimerTask() {
+            @Override
+            public void run() {
+                updateServers(serversFile); // Update the servers
+                Path readmePath = ReadMeManager.updateReadme(); // Update the README.md
+
+                // Commit the changes to the git repository
+                GitUtils.commitFiles("Scheduled update", serversFile.toPath(), readmePath);
+            }
+        }, 0, TimeUnit.MINUTES.toMillis(5));
+    }
+
+    @SneakyThrows
+    public static void updateServers(File serversFile) {
+        List<PiaServerToken> piaDomain = getPiaDomains();
+        System.out.println("Found " + piaDomain.size() + " pia domains");
+
         List<PiaServer> toRemove = new ArrayList<>();
 
         System.out.println("Removing old servers...");
