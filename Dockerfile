@@ -14,7 +14,7 @@ RUN mvn package -q -Dmaven.test.skip -DskipTests -T2C
 FROM eclipse-temurin:17.0.11_9-jre-focal
 
 # Install Git
-RUN apt-get install -y git
+RUN apt-get update && apt-get install -y git
 
 # Set the app to be in production mode
 ENV ENVIRONMENT=production
