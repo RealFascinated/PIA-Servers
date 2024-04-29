@@ -31,7 +31,7 @@ public class PiaManager {
     public PiaManager() {
         File serversFile = new File("servers.json");
         if (!serversFile.exists()) {
-            System.out.println("servers.json does not exist, creating...");
+            System.out.println("The servers file doesn't exist, creating it...");
             serversFile.createNewFile();
         }
         // Load the serversFile from the file
@@ -39,7 +39,7 @@ public class PiaManager {
         if (SERVERS == null) {
             SERVERS = new HashSet<>();
         }
-        System.out.println("Loaded " + SERVERS.size() + " servers from the file");
+        System.out.printf("Loaded %s servers from the file%n", SERVERS.size());
 
         // Set the DNS resolver to Cloudflare
         Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1"));
@@ -67,11 +67,8 @@ public class PiaManager {
     @SneakyThrows
     public static void updateServers(File serversFile) {
         List<PiaServer> servers = getPiaServers();
-        System.out.println("Found " + servers.size() + " pia server tokens");
-
         List<PiaServer> toRemove = new ArrayList<>();
 
-        System.out.println("Removing old servers...");
         // Get the servers that need to be removed
         for (PiaServer server : SERVERS) {
             if (server.getLastSeen().getTime() < System.currentTimeMillis() - REMOVAL_THRESHOLD) {
@@ -79,7 +76,7 @@ public class PiaManager {
             }
         }
         toRemove.forEach(SERVERS::remove); // Remove the servers
-        System.out.printf("Removed %s old servers\n", toRemove.size());
+        System.out.printf("Removed %s servers that haven't been active in 2 weeks\n", toRemove.size());
 
         int newServers = 0;
 
@@ -96,11 +93,12 @@ public class PiaManager {
 
         // Save the servers to the file
         Files.writeString(serversFile.toPath(), Main.GSON.toJson(SERVERS));
-        System.out.printf("Wrote %s new servers to the file\n", newServers);
+        System.out.printf("Wrote %s servers to the file (+%s new)%n", SERVERS.size(), newServers);
     }
 
     @SneakyThrows
     private static List<PiaServer> getPiaServers() {
+        long start = System.currentTimeMillis();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(PIA_OPENVPN_CONFIGS_URL))
                 .GET()
@@ -111,6 +109,7 @@ public class PiaManager {
             System.out.println("Failed to get the PIA OpenVPN configs, status code: " + response.statusCode());
             System.exit(1);
         }
+        System.out.printf("Downloaded the OpenVPN configs in %sms%n", System.currentTimeMillis() - start);
         Path downloadedFile = response.body();
         File tempDir = Files.createTempDirectory("openvpn").toFile();
         ZipUnArchiver unArchiver = new ZipUnArchiver();
@@ -126,6 +125,8 @@ public class PiaManager {
             System.out.println("Failed to extract the OpenVPN configs");
             System.exit(1);
         }
+
+        System.out.printf("Found %s regions%n", files.length - 1);
 
         // Search for the servers
         List<PiaServer> servers = new ArrayList<>();
