@@ -27,12 +27,13 @@ public class PiaManager {
     private static final String PIA_OPENVPN_CONFIGS_URL = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final long REMOVAL_THRESHOLD = TimeUnit.DAYS.toMicros(14); // 2 weeks
     public static Set<PiaServer> SERVERS = new HashSet<>();
+    private static Path README_PATH;
 
     @SneakyThrows
     public PiaManager() {
         File serversFile = new File("servers.json");
         if (!serversFile.exists()) {
-            System.out.println("serversFile.json does not exist, creating...");
+            System.out.println("servers.json does not exist, creating...");
             serversFile.createNewFile();
         }
         // Load the serversFile from the file
@@ -43,16 +44,22 @@ public class PiaManager {
 
         GitUtils.cloneRepo(); // Clone the repository
 
+        // Update the servers every 5 minutes
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
                 updateServers(serversFile); // Update the servers
-                Path readmePath = ReadMeManager.updateReadme(); // Update the README.md
-
-                // Commit the changes to the git repository
-                GitUtils.commitFiles("Scheduled update", serversFile.toPath(), readmePath);
+                README_PATH = ReadMeManager.updateReadme(); // Update the README.md
             }
         }, 0, TimeUnit.MINUTES.toMillis(5));
+
+        // Commit the files every hour
+        new Timer().scheduleAtFixedRate(new TimerTask() {
+            @Override
+            public void run() {
+                GitUtils.commitFiles("Scheduled update", serversFile.toPath(), README_PATH); // Commit the files
+            }
+        }, 0, TimeUnit.HOURS.toMillis(1));
     }
 
     @SneakyThrows

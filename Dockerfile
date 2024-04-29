@@ -25,5 +25,8 @@ WORKDIR /home/container
 # Copy the built jar file from the builder stage
 COPY --from=builder /home/container/target/PIA-Servers.jar .
 
+# Copy the old servers.json file
+COPY --from=builder /home/container/servers.json .
+
 # Run the jar file
 CMD java -jar PIA-Servers.jar -Djava.awt.headless=true
