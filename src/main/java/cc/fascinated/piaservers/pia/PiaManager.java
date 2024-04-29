@@ -85,7 +85,8 @@ public class PiaManager {
             // Add the server to the list
             PiaServer server = new PiaServer(serverToken.getIp(), serverToken.getRegion(), new Date());
             SERVERS.add(server);
-            if (!SERVERS.contains(server)) {
+            boolean newServer = SERVERS.stream().noneMatch(s -> s.getIp().equals(server.getIp()));
+            if (newServer) {
                 newServers++;
             }
         }
