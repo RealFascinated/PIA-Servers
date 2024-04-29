@@ -6,6 +6,8 @@ import cc.fascinated.piaservers.model.PiaServerToken;
 import com.google.gson.reflect.TypeToken;
 import lombok.SneakyThrows;
 import org.codehaus.plexus.archiver.zip.ZipUnArchiver;
+import org.xbill.DNS.*;
+import org.xbill.DNS.Record;
 
 import java.io.File;
 import java.net.InetAddress;
@@ -95,6 +97,9 @@ public class PiaManager {
             System.exit(1);
         }
 
+        // Set the DNS resolver to Cloudflare
+        Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1"));
+
         // Search for the server domains
         List<PiaServerToken> domains = new ArrayList<>();
         for (File file : files) {
@@ -109,10 +114,17 @@ public class PiaManager {
             for (String line : lines) {
                 if (line.startsWith("remote ")) {
                     String[] parts = line.split(" ");
-                    String domain = parts[1];
+                    String hostname = parts[1];
                     String region = file.getName().split("\\.")[0];
 
-                    domains.add(new PiaServerToken(domain, region));
+                    Record[] records = new Lookup(hostname, Type.A).run();
+                    if (records == null) {
+                        continue;
+                    }
+                    for (Record record : records) {
+                        ARecord aRecord = (ARecord) record;
+                        domains.add(new PiaServerToken(aRecord.getAddress().getHostAddress(), region));
+                    }
                     break;
                 }
             }
