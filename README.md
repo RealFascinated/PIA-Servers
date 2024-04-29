@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-9,109-blue)
+![Servers](https://img.shields.io/badge/servers-9,409-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_15:03:16_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_16:03:16_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,61 +10,61 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 233 |
-| us_chicago | 229 |
-| ca_montreal | 226 |
-| ca_vancouver | 221 |
-| us_texas | 221 |
-| ca_toronto | 220 |
-| us_silicon_valley | 218 |
-| us_west | 212 |
-| uk_london | 210 |
-| us_washington_dc | 208 |
-| us_east | 207 |
-| au_melbourne | 207 |
-| us_las_vegas | 206 |
-| us_california | 204 |
-| us_new_york | 204 |
-| us_seattle | 203 |
-| ca_ontario | 203 |
-| us_atlanta | 202 |
-| us_florida | 198 |
-| switzerland | 174 |
-| de_frankfurt | 174 |
-| au_sydney | 170 |
-| us_houston | 170 |
-| de_berlin | 169 |
-| us_denver | 158 |
-| singapore | 153 |
-| uk_manchester | 151 |
-| sweden | 141 |
-| au_perth | 141 |
-| japan | 136 |
-| new_zealand | 134 |
-| france | 131 |
-| uk_southampton | 122 |
-| mexico | 117 |
-| ireland | 115 |
-| norway | 96 |
-| israel | 95 |
-| spain | 94 |
-| czech_republic | 90 |
-| estonia | 85 |
-| denmark | 84 |
-| italy | 82 |
-| finland | 80 |
-| bahamas | 77 |
-| argentina | 72 |
+| netherlands | 249 |
+| us_chicago | 240 |
+| ca_montreal | 240 |
+| us_texas | 234 |
+| ca_vancouver | 233 |
+| ca_toronto | 232 |
+| us_silicon_valley | 229 |
+| us_west | 221 |
+| us_washington_dc | 218 |
+| uk_london | 217 |
+| us_las_vegas | 216 |
+| us_east | 216 |
+| us_california | 216 |
+| us_new_york | 216 |
+| au_melbourne | 215 |
+| ca_ontario | 214 |
+| us_atlanta | 213 |
+| us_seattle | 210 |
+| us_florida | 205 |
+| switzerland | 182 |
+| de_frankfurt | 180 |
+| au_sydney | 179 |
+| us_houston | 175 |
+| de_berlin | 173 |
+| us_denver | 168 |
+| singapore | 159 |
+| uk_manchester | 158 |
+| au_perth | 146 |
+| sweden | 144 |
+| japan | 139 |
+| new_zealand | 139 |
+| france | 136 |
+| uk_southampton | 124 |
+| mexico | 122 |
+| ireland | 116 |
+| norway | 98 |
+| israel | 96 |
+| spain | 95 |
+| czech_republic | 91 |
+| estonia | 86 |
+| denmark | 85 |
+| italy | 83 |
+| finland | 82 |
+| bahamas | 78 |
+| argentina | 73 |
 | brazil | 69 |
 | austria | 68 |
-| luxembourg | 61 |
+| luxembourg | 62 |
 | latvia | 60 |
 | ukraine | 59 |
 | romania | 59 |
 | panama | 57 |
+| lithuania | 56 |
 | greenland | 56 |
 | poland | 55 |
-| lithuania | 55 |
 | turkey | 52 |
 | slovakia | 52 |
 | andorra | 48 |
