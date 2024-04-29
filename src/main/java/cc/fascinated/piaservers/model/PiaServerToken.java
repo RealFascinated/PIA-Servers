@@ -6,9 +6,9 @@ import lombok.Getter;
 @AllArgsConstructor @Getter
 public class PiaServerToken {
     /**
-     * The hostname for this server.
+     * The ip for this server.
      */
-    private final String hostname;
+    private final String ip;
 
     /**
      * The region this server is in.

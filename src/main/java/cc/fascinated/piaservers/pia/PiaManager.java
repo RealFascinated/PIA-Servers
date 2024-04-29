@@ -12,7 +12,6 @@ import org.xbill.DNS.Record;
 import org.xbill.DNS.*;
 
 import java.io.File;
-import java.net.InetAddress;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
@@ -44,14 +43,14 @@ public class PiaManager {
 
         GitUtils.cloneRepo(); // Clone the repository
 
-        // Update the servers every 5 minutes
+        // Update the servers every 2 minutes
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
                 updateServers(serversFile); // Update the servers
                 README_PATH = ReadMeManager.updateReadme(); // Update the README.md
             }
-        }, 0, TimeUnit.MINUTES.toMillis(5));
+        }, 0, TimeUnit.MINUTES.toMillis(2));
 
         // Commit the files every hour
         new Timer().scheduleAtFixedRate(new TimerTask() {
@@ -76,20 +75,24 @@ public class PiaManager {
                 toRemove.add(server);
             }
         }
-        SERVERS.removeAll(toRemove); // Remove the servers
+        toRemove.forEach(SERVERS::remove); // Remove the servers
         System.out.printf("Removed %s old servers\n", toRemove.size());
+
+        int newServers = 0;
 
         // Add the new servers to the list
         for (PiaServerToken serverToken : piaDomain) {
-            InetAddress address = InetAddress.getByName(serverToken.getHostname());
-
             // Add the server to the list
-            SERVERS.add(new PiaServer(address.getHostAddress(), serverToken.getRegion(), new Date()));
+            PiaServer server = new PiaServer(serverToken.getIp(), serverToken.getRegion(), new Date());
+            SERVERS.add(server);
+            if (!SERVERS.contains(server)) {
+                newServers++;
+            }
         }
 
         // Save the servers to the file
         Files.writeString(serversFile.toPath(), Main.GSON.toJson(SERVERS));
-        System.out.printf("Wrote %s servers to the file\n", SERVERS.size());
+        System.out.printf("Wrote %s new servers to the file\n", newServers);
     }
 
     @SneakyThrows
