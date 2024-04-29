@@ -3,7 +3,6 @@ package cc.fascinated.piaservers.pia;
 import cc.fascinated.piaservers.Main;
 import cc.fascinated.piaservers.common.GitUtils;
 import cc.fascinated.piaservers.model.PiaServer;
-import cc.fascinated.piaservers.model.PiaServerToken;
 import cc.fascinated.piaservers.readme.ReadMeManager;
 import com.google.gson.reflect.TypeToken;
 import lombok.SneakyThrows;
@@ -42,6 +41,9 @@ public class PiaManager {
         }
         System.out.println("Loaded " + SERVERS.size() + " servers from the file");
 
+        // Set the DNS resolver to Cloudflare
+        Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1"));
+
         GitUtils.cloneRepo(); // Clone the repository
 
         // Update the servers every 2 minutes
@@ -51,7 +53,7 @@ public class PiaManager {
                 updateServers(serversFile); // Update the servers
                 README_PATH = ReadMeManager.updateReadme(); // Update the README.md
             }
-        }, 0, TimeUnit.MINUTES.toMillis(2));
+        }, 0, TimeUnit.MINUTES.toMillis(5));
 
         // Commit the files every hour
         new Timer().scheduleAtFixedRate(new TimerTask() {
@@ -64,8 +66,8 @@ public class PiaManager {
 
     @SneakyThrows
     public static void updateServers(File serversFile) {
-        List<PiaServerToken> piaDomain = getPiaDomains();
-        System.out.println("Found " + piaDomain.size() + " pia domains");
+        List<PiaServer> servers = getPiaServers();
+        System.out.println("Found " + servers.size() + " pia server tokens");
 
         List<PiaServer> toRemove = new ArrayList<>();
 
@@ -82,14 +84,14 @@ public class PiaManager {
         int newServers = 0;
 
         // Add the new servers to the list
-        for (PiaServerToken serverToken : piaDomain) {
-            boolean newServer = SERVERS.stream().noneMatch(server -> server.getIp().equals(serverToken.getIp()));
+        for (PiaServer piaServer : servers) {
+            boolean newServer = SERVERS.stream().noneMatch(server -> server.getIp().equals(piaServer.getIp()));
             if (newServer) {
                 newServers++;
             }
 
             // Add the server to the list
-            SERVERS.add(new PiaServer(serverToken.getIp(), serverToken.getRegion(), new Date()));
+            SERVERS.add(piaServer);
         }
 
         // Save the servers to the file
@@ -98,7 +100,7 @@ public class PiaManager {
     }
 
     @SneakyThrows
-    private static List<PiaServerToken> getPiaDomains() {
+    private static List<PiaServer> getPiaServers() {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(PIA_OPENVPN_CONFIGS_URL))
                 .GET()
@@ -125,11 +127,8 @@ public class PiaManager {
             System.exit(1);
         }
 
-        // Set the DNS resolver to Cloudflare
-        Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1"));
-
-        // Search for the server domains
-        List<PiaServerToken> domains = new ArrayList<>();
+        // Search for the servers
+        List<PiaServer> servers = new ArrayList<>();
         for (File file : files) {
             if (file.isDirectory()) {
                 continue;
@@ -151,13 +150,12 @@ public class PiaManager {
                     }
                     for (Record record : records) {
                         ARecord aRecord = (ARecord) record;
-                        domains.add(new PiaServerToken(aRecord.getAddress().getHostAddress(), region));
+                        servers.add(new PiaServer(aRecord.getAddress().getHostAddress(), region, new Date()));
                     }
                     break;
                 }
             }
         }
-
-        return domains;
+        return servers;
     }
 }
