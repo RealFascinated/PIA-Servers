@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,722-blue)
+![Servers](https://img.shields.io/badge/servers-10,767-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_21:03:16_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_29_22:02:25_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,46 +10,46 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 312 |
-| ca_montreal | 303 |
-| ca_vancouver | 296 |
-| us_chicago | 293 |
-| us_texas | 287 |
-| us_silicon_valley | 278 |
-| ca_toronto | 273 |
-| ca_ontario | 273 |
-| us_west | 272 |
-| us_east | 269 |
-| us_washington_dc | 267 |
-| us_new_york | 266 |
-| us_las_vegas | 265 |
-| uk_london | 265 |
-| us_atlanta | 264 |
-| us_california | 259 |
-| au_melbourne | 258 |
-| us_seattle | 255 |
+| netherlands | 313 |
+| ca_montreal | 306 |
+| ca_vancouver | 299 |
+| us_chicago | 296 |
+| us_texas | 289 |
+| us_silicon_valley | 280 |
+| ca_ontario | 275 |
+| ca_toronto | 274 |
+| us_west | 273 |
+| us_east | 270 |
+| us_washington_dc | 269 |
+| us_new_york | 268 |
+| uk_london | 268 |
+| us_las_vegas | 267 |
+| us_atlanta | 265 |
+| us_california | 260 |
+| au_melbourne | 260 |
+| us_seattle | 256 |
 | us_florida | 243 |
 | de_frankfurt | 226 |
 | switzerland | 221 |
-| au_sydney | 214 |
-| de_berlin | 194 |
-| us_houston | 193 |
-| singapore | 186 |
+| au_sydney | 215 |
+| de_berlin | 195 |
+| us_houston | 195 |
+| singapore | 187 |
 | us_denver | 186 |
-| uk_manchester | 179 |
-| au_perth | 164 |
-| sweden | 158 |
+| uk_manchester | 180 |
+| au_perth | 165 |
+| sweden | 159 |
 | japan | 153 |
 | new_zealand | 153 |
 | france | 148 |
+| uk_southampton | 129 |
 | mexico | 128 |
-| uk_southampton | 128 |
-| ireland | 123 |
+| ireland | 124 |
 | norway | 105 |
-| israel | 98 |
+| israel | 99 |
 | spain | 97 |
 | czech_republic | 92 |
-| denmark | 91 |
+| denmark | 92 |
 | estonia | 89 |
 | italy | 85 |
 | finland | 82 |
