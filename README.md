@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,875-blue)
+![Servers](https://img.shields.io/badge/servers-13,065-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_30_08:02:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_30_09:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,47 +10,47 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 421 |
-| ca_vancouver | 418 |
-| ca_montreal | 418 |
-| us_chicago | 400 |
-| us_texas | 383 |
-| us_silicon_valley | 369 |
-| ca_toronto | 365 |
-| us_west | 361 |
-| uk_london | 354 |
-| us_new_york | 349 |
-| us_atlanta | 349 |
-| ca_ontario | 348 |
-| us_east | 346 |
-| us_washington_dc | 342 |
-| us_las_vegas | 340 |
-| au_melbourne | 332 |
-| us_california | 328 |
-| us_seattle | 325 |
-| us_florida | 317 |
-| de_frankfurt | 295 |
-| switzerland | 262 |
-| au_sydney | 255 |
-| us_houston | 226 |
-| de_berlin | 224 |
-| us_denver | 215 |
-| uk_southampton | 208 |
-| uk_manchester | 205 |
-| singapore | 204 |
+| netherlands | 432 |
+| ca_montreal | 428 |
+| ca_vancouver | 426 |
+| us_chicago | 410 |
+| us_texas | 392 |
+| us_silicon_valley | 377 |
+| ca_toronto | 372 |
+| us_west | 370 |
+| uk_london | 362 |
+| ca_ontario | 359 |
+| us_new_york | 356 |
+| us_atlanta | 356 |
+| us_east | 353 |
+| us_washington_dc | 348 |
+| us_las_vegas | 347 |
+| us_california | 336 |
+| au_melbourne | 336 |
+| us_seattle | 329 |
+| us_florida | 325 |
+| de_frankfurt | 300 |
+| switzerland | 264 |
+| au_sydney | 261 |
+| us_houston | 229 |
+| de_berlin | 228 |
+| us_denver | 217 |
+| uk_southampton | 217 |
+| singapore | 208 |
+| uk_manchester | 206 |
+| sweden | 178 |
 | au_perth | 178 |
-| sweden | 175 |
 | japan | 171 |
 | new_zealand | 171 |
 | france | 162 |
-| mexico | 133 |
+| mexico | 134 |
 | ireland | 132 |
 | norway | 112 |
 | israel | 100 |
 | spain | 98 |
+| czech_republic | 94 |
 | denmark | 94 |
 | estonia | 93 |
-| czech_republic | 93 |
 | italy | 87 |
 | finland | 84 |
 | bahamas | 78 |
