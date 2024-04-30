@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,918-blue)
+![Servers](https://img.shields.io/badge/servers-14,996-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_30_21:02:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_30_22:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,40 +10,40 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| ca_montreal | 532 |
-| netherlands | 524 |
-| ca_vancouver | 518 |
-| us_chicago | 504 |
-| us_texas | 480 |
-| us_silicon_valley | 456 |
-| us_west | 441 |
-| ca_toronto | 441 |
-| uk_london | 439 |
-| ca_ontario | 436 |
-| us_las_vegas | 426 |
+| ca_montreal | 537 |
+| netherlands | 530 |
+| ca_vancouver | 521 |
+| us_chicago | 506 |
+| us_texas | 484 |
+| us_silicon_valley | 462 |
+| uk_london | 445 |
+| us_west | 444 |
+| ca_toronto | 444 |
+| ca_ontario | 439 |
+| us_las_vegas | 429 |
+| us_atlanta | 428 |
+| us_new_york | 426 |
 | us_east | 425 |
-| us_new_york | 424 |
-| us_atlanta | 423 |
-| us_washington_dc | 413 |
+| us_washington_dc | 416 |
 | us_california | 404 |
-| us_seattle | 394 |
-| us_florida | 387 |
-| au_melbourne | 382 |
-| de_frankfurt | 352 |
-| us_houston | 315 |
-| switzerland | 303 |
-| au_sydney | 297 |
-| uk_southampton | 282 |
+| us_seattle | 395 |
+| us_florida | 390 |
+| au_melbourne | 384 |
+| de_frankfurt | 356 |
+| us_houston | 319 |
+| switzerland | 306 |
+| au_sydney | 298 |
+| uk_southampton | 285 |
 | de_berlin | 246 |
 | singapore | 230 |
-| us_denver | 227 |
+| us_denver | 228 |
 | uk_manchester | 220 |
 | sweden | 185 |
 | au_perth | 180 |
-| new_zealand | 179 |
+| new_zealand | 180 |
 | japan | 178 |
 | france | 167 |
-| mexico | 137 |
+| mexico | 138 |
 | ireland | 132 |
 | norway | 112 |
 | estonia | 105 |
