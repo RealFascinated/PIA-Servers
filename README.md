@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,818-blue)
+![Servers](https://img.shields.io/badge/servers-14,918-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_30_20:02:25_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_30_21:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,32 +10,32 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| ca_montreal | 524 |
-| netherlands | 521 |
-| ca_vancouver | 512 |
-| us_chicago | 500 |
-| us_texas | 474 |
-| us_silicon_valley | 449 |
-| ca_toronto | 440 |
-| us_west | 434 |
-| uk_london | 434 |
-| ca_ontario | 429 |
-| us_las_vegas | 422 |
-| us_atlanta | 422 |
-| us_east | 420 |
-| us_new_york | 420 |
-| us_washington_dc | 410 |
-| us_california | 401 |
+| ca_montreal | 532 |
+| netherlands | 524 |
+| ca_vancouver | 518 |
+| us_chicago | 504 |
+| us_texas | 480 |
+| us_silicon_valley | 456 |
+| us_west | 441 |
+| ca_toronto | 441 |
+| uk_london | 439 |
+| ca_ontario | 436 |
+| us_las_vegas | 426 |
+| us_east | 425 |
+| us_new_york | 424 |
+| us_atlanta | 423 |
+| us_washington_dc | 413 |
+| us_california | 404 |
 | us_seattle | 394 |
-| au_melbourne | 381 |
-| us_florida | 380 |
-| de_frankfurt | 348 |
-| us_houston | 313 |
-| switzerland | 299 |
+| us_florida | 387 |
+| au_melbourne | 382 |
+| de_frankfurt | 352 |
+| us_houston | 315 |
+| switzerland | 303 |
 | au_sydney | 297 |
-| uk_southampton | 278 |
-| de_berlin | 245 |
-| singapore | 229 |
+| uk_southampton | 282 |
+| de_berlin | 246 |
+| singapore | 230 |
 | us_denver | 227 |
 | uk_manchester | 220 |
 | sweden | 185 |
@@ -46,7 +46,7 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | mexico | 137 |
 | ireland | 132 |
 | norway | 112 |
-| estonia | 103 |
+| estonia | 105 |
 | israel | 100 |
 | spain | 99 |
 | denmark | 95 |
