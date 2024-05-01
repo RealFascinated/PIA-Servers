@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,795-blue)
+![Servers](https://img.shields.io/badge/servers-15,877-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_10:02:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_11:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,35 +10,35 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 591 |
-| ca_montreal | 590 |
-| ca_vancouver | 567 |
-| us_chicago | 555 |
-| us_texas | 540 |
-| us_silicon_valley | 493 |
-| ca_toronto | 488 |
-| uk_london | 482 |
-| us_west | 477 |
-| ca_ontario | 476 |
-| us_las_vegas | 470 |
-| us_atlanta | 463 |
-| us_new_york | 454 |
-| us_washington_dc | 444 |
-| us_east | 443 |
-| us_california | 430 |
+| ca_montreal | 595 |
+| netherlands | 594 |
+| ca_vancouver | 571 |
+| us_chicago | 560 |
+| us_texas | 546 |
+| us_silicon_valley | 496 |
+| ca_toronto | 494 |
+| uk_london | 485 |
+| ca_ontario | 482 |
+| us_west | 479 |
+| us_las_vegas | 474 |
+| us_atlanta | 465 |
+| us_new_york | 457 |
+| us_east | 448 |
+| us_washington_dc | 446 |
+| us_california | 433 |
 | us_seattle | 423 |
-| us_florida | 405 |
-| au_melbourne | 402 |
-| de_frankfurt | 377 |
-| us_houston | 344 |
-| switzerland | 319 |
-| au_sydney | 310 |
-| uk_southampton | 307 |
-| de_berlin | 252 |
+| us_florida | 408 |
+| au_melbourne | 406 |
+| de_frankfurt | 379 |
+| us_houston | 347 |
+| switzerland | 321 |
+| au_sydney | 312 |
+| uk_southampton | 309 |
+| de_berlin | 253 |
 | singapore | 232 |
 | us_denver | 229 |
 | uk_manchester | 223 |
-| sweden | 189 |
+| sweden | 190 |
 | au_perth | 182 |
 | new_zealand | 181 |
 | japan | 178 |
