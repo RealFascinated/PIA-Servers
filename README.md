@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,165-blue)
+![Servers](https://img.shields.io/badge/servers-15,268-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_04:02:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_05:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,35 +10,35 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| ca_montreal | 545 |
-| netherlands | 538 |
-| ca_vancouver | 527 |
-| us_chicago | 519 |
-| us_texas | 494 |
-| us_silicon_valley | 468 |
-| us_west | 454 |
-| ca_toronto | 454 |
-| uk_london | 450 |
-| ca_ontario | 450 |
-| us_atlanta | 436 |
-| us_las_vegas | 435 |
-| us_new_york | 433 |
-| us_east | 430 |
-| us_washington_dc | 420 |
-| us_california | 410 |
-| us_seattle | 404 |
-| us_florida | 394 |
-| au_melbourne | 389 |
-| de_frankfurt | 361 |
-| us_houston | 322 |
+| ca_montreal | 555 |
+| netherlands | 545 |
+| ca_vancouver | 535 |
+| us_chicago | 526 |
+| us_texas | 502 |
+| us_silicon_valley | 472 |
+| ca_toronto | 459 |
+| us_west | 456 |
+| uk_london | 456 |
+| ca_ontario | 454 |
+| us_las_vegas | 442 |
+| us_atlanta | 442 |
+| us_new_york | 435 |
+| us_east | 431 |
+| us_washington_dc | 423 |
+| us_california | 415 |
+| us_seattle | 405 |
+| us_florida | 395 |
+| au_melbourne | 392 |
+| de_frankfurt | 365 |
+| us_houston | 323 |
 | switzerland | 310 |
-| au_sydney | 301 |
-| uk_southampton | 291 |
-| de_berlin | 248 |
+| au_sydney | 303 |
+| uk_southampton | 293 |
+| de_berlin | 251 |
 | singapore | 230 |
 | us_denver | 228 |
 | uk_manchester | 222 |
-| sweden | 186 |
+| sweden | 187 |
 | au_perth | 181 |
 | new_zealand | 180 |
 | japan | 178 |
