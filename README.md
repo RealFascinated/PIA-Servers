@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,392-blue)
+![Servers](https://img.shields.io/badge/servers-15,519-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_06:02:25_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_07:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,34 +10,34 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| ca_montreal | 563 |
-| netherlands | 553 |
-| ca_vancouver | 543 |
-| us_chicago | 531 |
-| us_texas | 509 |
-| us_silicon_valley | 477 |
-| ca_toronto | 464 |
-| uk_london | 464 |
-| us_west | 462 |
-| ca_ontario | 459 |
-| us_las_vegas | 447 |
-| us_atlanta | 445 |
-| us_new_york | 442 |
-| us_east | 433 |
-| us_washington_dc | 431 |
-| us_california | 419 |
-| us_seattle | 409 |
-| us_florida | 400 |
-| au_melbourne | 395 |
-| de_frankfurt | 369 |
-| us_houston | 329 |
-| switzerland | 312 |
+| ca_montreal | 570 |
+| netherlands | 562 |
+| ca_vancouver | 552 |
+| us_chicago | 537 |
+| us_texas | 517 |
+| us_silicon_valley | 482 |
+| ca_toronto | 472 |
+| uk_london | 471 |
+| us_west | 464 |
+| ca_ontario | 464 |
+| us_las_vegas | 454 |
+| us_atlanta | 454 |
+| us_new_york | 447 |
+| us_washington_dc | 438 |
+| us_east | 435 |
+| us_california | 423 |
+| us_seattle | 413 |
+| us_florida | 403 |
+| au_melbourne | 397 |
+| de_frankfurt | 372 |
+| us_houston | 336 |
+| switzerland | 314 |
 | au_sydney | 304 |
-| uk_southampton | 296 |
+| uk_southampton | 300 |
 | de_berlin | 252 |
-| singapore | 230 |
+| singapore | 231 |
 | us_denver | 228 |
-| uk_manchester | 222 |
+| uk_manchester | 223 |
 | sweden | 188 |
 | au_perth | 181 |
 | new_zealand | 180 |
