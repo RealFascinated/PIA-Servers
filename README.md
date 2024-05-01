@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-16,053-blue)
+![Servers](https://img.shields.io/badge/servers-16,136-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_13:02:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_14:02:24_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,27 +10,27 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 610 |
-| ca_montreal | 607 |
-| ca_vancouver | 578 |
-| us_chicago | 569 |
-| us_texas | 556 |
-| ca_toronto | 505 |
-| us_silicon_valley | 501 |
-| uk_london | 493 |
-| us_west | 490 |
-| ca_ontario | 490 |
-| us_las_vegas | 488 |
-| us_atlanta | 468 |
-| us_new_york | 462 |
-| us_east | 458 |
-| us_washington_dc | 449 |
-| us_california | 443 |
-| us_seattle | 429 |
-| us_florida | 411 |
-| au_melbourne | 408 |
-| de_frankfurt | 384 |
-| us_houston | 351 |
+| netherlands | 617 |
+| ca_montreal | 617 |
+| ca_vancouver | 581 |
+| us_chicago | 576 |
+| us_texas | 560 |
+| ca_toronto | 509 |
+| us_silicon_valley | 505 |
+| uk_london | 497 |
+| us_las_vegas | 494 |
+| ca_ontario | 494 |
+| us_west | 491 |
+| us_atlanta | 472 |
+| us_new_york | 465 |
+| us_east | 462 |
+| us_washington_dc | 451 |
+| us_california | 446 |
+| us_seattle | 431 |
+| us_florida | 413 |
+| au_melbourne | 409 |
+| de_frankfurt | 385 |
+| us_houston | 356 |
 | switzerland | 323 |
 | au_sydney | 316 |
 | uk_southampton | 313 |
@@ -38,9 +38,9 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | us_denver | 233 |
 | singapore | 232 |
 | uk_manchester | 223 |
-| sweden | 190 |
+| sweden | 191 |
 | au_perth | 182 |
-| new_zealand | 181 |
+| new_zealand | 182 |
 | japan | 178 |
 | france | 168 |
 | mexico | 139 |
