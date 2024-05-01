@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,268-blue)
+![Servers](https://img.shields.io/badge/servers-15,392-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_05:02:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_06:02:25_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,35 +10,35 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| ca_montreal | 555 |
-| netherlands | 545 |
-| ca_vancouver | 535 |
-| us_chicago | 526 |
-| us_texas | 502 |
-| us_silicon_valley | 472 |
-| ca_toronto | 459 |
-| us_west | 456 |
-| uk_london | 456 |
-| ca_ontario | 454 |
-| us_las_vegas | 442 |
-| us_atlanta | 442 |
-| us_new_york | 435 |
-| us_east | 431 |
-| us_washington_dc | 423 |
-| us_california | 415 |
-| us_seattle | 405 |
-| us_florida | 395 |
-| au_melbourne | 392 |
-| de_frankfurt | 365 |
-| us_houston | 323 |
-| switzerland | 310 |
-| au_sydney | 303 |
-| uk_southampton | 293 |
-| de_berlin | 251 |
+| ca_montreal | 563 |
+| netherlands | 553 |
+| ca_vancouver | 543 |
+| us_chicago | 531 |
+| us_texas | 509 |
+| us_silicon_valley | 477 |
+| ca_toronto | 464 |
+| uk_london | 464 |
+| us_west | 462 |
+| ca_ontario | 459 |
+| us_las_vegas | 447 |
+| us_atlanta | 445 |
+| us_new_york | 442 |
+| us_east | 433 |
+| us_washington_dc | 431 |
+| us_california | 419 |
+| us_seattle | 409 |
+| us_florida | 400 |
+| au_melbourne | 395 |
+| de_frankfurt | 369 |
+| us_houston | 329 |
+| switzerland | 312 |
+| au_sydney | 304 |
+| uk_southampton | 296 |
+| de_berlin | 252 |
 | singapore | 230 |
 | us_denver | 228 |
 | uk_manchester | 222 |
-| sweden | 187 |
+| sweden | 188 |
 | au_perth | 181 |
 | new_zealand | 180 |
 | japan | 178 |
