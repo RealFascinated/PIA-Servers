@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-16,760-blue)
+![Servers](https://img.shields.io/badge/servers-16,787-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_20_18:46:03_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_20_19:06:03_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -12,49 +12,49 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 |----------------------|---------|
 | netherlands | 670 |
 | ca_montreal | 650 |
-| ca_vancouver | 608 |
+| ca_vancouver | 609 |
 | us_chicago | 601 |
 | us_texas | 590 |
-| ca_toronto | 538 |
+| ca_toronto | 542 |
 | us_silicon_valley | 524 |
-| ca_ontario | 516 |
+| ca_ontario | 517 |
 | uk_london | 512 |
-| us_las_vegas | 507 |
-| us_west | 507 |
-| us_atlanta | 497 |
-| us_east | 485 |
-| us_new_york | 481 |
-| us_washington_dc | 465 |
+| us_las_vegas | 509 |
+| us_west | 508 |
+| us_atlanta | 499 |
+| us_east | 486 |
+| us_new_york | 482 |
+| us_washington_dc | 466 |
 | us_california | 456 |
 | us_seattle | 440 |
 | us_florida | 421 |
 | au_melbourne | 418 |
-| de_frankfurt | 406 |
-| us_houston | 360 |
-| switzerland | 333 |
+| de_frankfurt | 410 |
+| us_houston | 361 |
+| switzerland | 334 |
 | au_sydney | 326 |
 | uk_southampton | 315 |
 | de_berlin | 256 |
-| japan | 243 |
+| japan | 246 |
 | singapore | 236 |
 | us_denver | 233 |
 | uk_manchester | 223 |
 | sweden | 192 |
 | au_perth | 182 |
 | new_zealand | 182 |
-| france | 178 |
+| france | 179 |
 | mexico | 139 |
 | ireland | 132 |
+| estonia | 112 |
 | norway | 112 |
-| estonia | 111 |
 | israel | 100 |
 | spain | 99 |
-| romania | 96 |
+| romania | 97 |
 | denmark | 96 |
 | czech_republic | 94 |
 | italy | 87 |
 | finland | 84 |
-| belgium | 80 |
+| belgium | 81 |
 | bahamas | 78 |
 | argentina | 75 |
 | austria | 71 |
