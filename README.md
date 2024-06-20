@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-16,185-blue)
+![Servers](https://img.shields.io/badge/servers-16,203-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_01_14:42:24_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_20_13:46:04_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,20 +10,20 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 623 |
+| netherlands | 624 |
 | ca_montreal | 621 |
-| ca_vancouver | 585 |
+| ca_vancouver | 586 |
 | us_chicago | 578 |
-| us_texas | 561 |
+| us_texas | 564 |
 | ca_toronto | 513 |
 | us_silicon_valley | 511 |
-| uk_london | 498 |
+| uk_london | 499 |
 | ca_ontario | 496 |
 | us_las_vegas | 494 |
 | us_west | 491 |
 | us_atlanta | 474 |
+| us_east | 466 |
 | us_new_york | 466 |
-| us_east | 465 |
 | us_washington_dc | 454 |
 | us_california | 447 |
 | us_seattle | 432 |
@@ -31,18 +31,18 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | au_melbourne | 409 |
 | de_frankfurt | 388 |
 | us_houston | 356 |
-| switzerland | 323 |
+| switzerland | 324 |
 | au_sydney | 317 |
 | uk_southampton | 313 |
-| de_berlin | 254 |
+| de_berlin | 255 |
 | us_denver | 233 |
 | singapore | 232 |
 | uk_manchester | 223 |
 | sweden | 191 |
+| japan | 182 |
 | au_perth | 182 |
 | new_zealand | 182 |
-| japan | 179 |
-| france | 168 |
+| france | 170 |
 | mexico | 139 |
 | ireland | 132 |
 | norway | 112 |
@@ -69,10 +69,10 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | slovakia | 52 |
 | andorra | 48 |
 | vietnam | 46 |
+| belgium | 46 |
 | taiwan | 46 |
 | venezuela | 45 |
 | greece | 45 |
-| belgium | 44 |
 | portugal | 43 |
 | united_arab_emirates | 38 |
 | china | 38 |
@@ -81,9 +81,9 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | philippines | 36 |
 | algeria | 36 |
 | qatar | 33 |
+| india | 32 |
 | bangladesh | 31 |
 | hungary | 30 |
-| india | 30 |
 | liechtenstein | 29 |
 | isle_of_man | 29 |
 | saudi_arabia | 28 |
