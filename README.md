@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,987-blue)
+![Servers](https://img.shields.io/badge/servers-15,099-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_22:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_23:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,43 +10,43 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 543 |
-| ca_montreal | 519 |
-| us_texas | 493 |
-| ca_toronto | 469 |
-| us_chicago | 469 |
-| ca_vancouver | 447 |
-| us_silicon_valley | 437 |
-| us_atlanta | 429 |
-| us_washington_dc | 424 |
-| us_west | 422 |
-| us_las_vegas | 419 |
-| us_east | 414 |
-| us_new_york | 414 |
-| us_california | 413 |
-| uk_london | 407 |
-| ca_ontario | 388 |
-| us_florida | 381 |
-| us_seattle | 379 |
-| de_frankfurt | 360 |
-| au_melbourne | 358 |
-| switzerland | 328 |
-| us_houston | 323 |
-| au_sydney | 301 |
-| japan | 280 |
-| uk_southampton | 265 |
-| de_berlin | 245 |
+| netherlands | 548 |
+| ca_montreal | 527 |
+| us_texas | 502 |
+| ca_toronto | 475 |
+| us_chicago | 473 |
+| ca_vancouver | 451 |
+| us_silicon_valley | 444 |
+| us_atlanta | 433 |
+| us_washington_dc | 428 |
+| us_west | 426 |
+| us_las_vegas | 422 |
+| us_new_york | 421 |
+| us_east | 418 |
+| us_california | 415 |
+| uk_london | 414 |
+| ca_ontario | 392 |
+| us_florida | 389 |
+| us_seattle | 383 |
+| de_frankfurt | 363 |
+| au_melbourne | 359 |
+| switzerland | 330 |
+| us_houston | 325 |
+| au_sydney | 302 |
+| japan | 281 |
+| uk_southampton | 268 |
+| de_berlin | 246 |
 | us_denver | 220 |
+| uk_manchester | 215 |
 | singapore | 214 |
-| uk_manchester | 213 |
-| france | 194 |
+| france | 195 |
 | sweden | 185 |
 | au_perth | 183 |
 | new_zealand | 179 |
 | mexico | 139 |
 | ireland | 132 |
 | romania | 120 |
-| estonia | 113 |
+| estonia | 114 |
 | norway | 112 |
 | belgium | 101 |
 | israel | 100 |
