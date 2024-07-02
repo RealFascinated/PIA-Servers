@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,618-blue)
+![Servers](https://img.shields.io/badge/servers-12,846-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_08:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_09:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,57 +10,57 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 404 |
-| ca_montreal | 383 |
-| us_chicago | 366 |
-| us_texas | 366 |
-| ca_vancouver | 351 |
-| ca_toronto | 351 |
-| us_silicon_valley | 350 |
-| us_west | 345 |
-| us_washington_dc | 338 |
-| ca_ontario | 329 |
-| us_atlanta | 328 |
-| uk_london | 327 |
-| us_las_vegas | 324 |
-| us_california | 323 |
-| us_new_york | 323 |
-| us_east | 320 |
-| us_seattle | 305 |
-| au_melbourne | 304 |
-| us_florida | 297 |
-| de_frankfurt | 289 |
-| switzerland | 269 |
-| au_sydney | 252 |
-| us_houston | 252 |
-| japan | 221 |
-| de_berlin | 213 |
-| singapore | 206 |
-| us_denver | 204 |
-| uk_manchester | 196 |
-| uk_southampton | 191 |
+| netherlands | 414 |
+| ca_montreal | 393 |
+| us_chicago | 378 |
+| us_texas | 378 |
+| ca_toronto | 360 |
+| ca_vancouver | 358 |
+| us_silicon_valley | 358 |
+| us_west | 351 |
+| us_washington_dc | 347 |
+| uk_london | 337 |
+| ca_ontario | 335 |
+| us_atlanta | 335 |
+| us_new_york | 332 |
+| us_las_vegas | 331 |
+| us_california | 330 |
+| us_east | 326 |
+| us_seattle | 313 |
+| au_melbourne | 313 |
+| us_florida | 304 |
+| de_frankfurt | 297 |
+| switzerland | 275 |
+| au_sydney | 257 |
+| us_houston | 257 |
+| japan | 226 |
+| de_berlin | 218 |
+| singapore | 208 |
+| us_denver | 207 |
+| uk_southampton | 200 |
+| uk_manchester | 199 |
 | au_perth | 178 |
-| new_zealand | 172 |
-| sweden | 168 |
-| france | 168 |
+| new_zealand | 173 |
+| sweden | 172 |
+| france | 170 |
 | mexico | 135 |
 | ireland | 127 |
 | norway | 111 |
-| estonia | 107 |
-| romania | 104 |
-| spain | 98 |
+| estonia | 108 |
+| romania | 107 |
+| spain | 99 |
 | israel | 98 |
-| denmark | 95 |
+| denmark | 96 |
 | czech_republic | 93 |
 | italy | 87 |
 | finland | 84 |
-| belgium | 80 |
+| belgium | 84 |
 | bahamas | 78 |
 | argentina | 75 |
 | austria | 71 |
 | brazil | 69 |
 | panama | 68 |
-| poland | 63 |
+| poland | 64 |
 | luxembourg | 62 |
 | latvia | 60 |
 | ukraine | 59 |
