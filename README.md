@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,570-blue)
+![Servers](https://img.shields.io/badge/servers-14,708-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_19:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_20:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,38 +10,38 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 511 |
-| ca_montreal | 488 |
-| us_texas | 471 |
-| us_chicago | 452 |
-| ca_toronto | 448 |
-| ca_vancouver | 435 |
-| us_silicon_valley | 421 |
-| us_west | 410 |
-| us_atlanta | 407 |
-| us_washington_dc | 406 |
-| us_california | 403 |
-| us_las_vegas | 399 |
-| us_east | 397 |
-| us_new_york | 395 |
-| uk_london | 394 |
-| ca_ontario | 375 |
-| us_florida | 369 |
-| us_seattle | 365 |
+| netherlands | 522 |
+| ca_montreal | 497 |
+| us_texas | 479 |
+| us_chicago | 457 |
+| ca_toronto | 456 |
+| ca_vancouver | 442 |
+| us_silicon_valley | 425 |
+| us_atlanta | 416 |
+| us_west | 415 |
+| us_washington_dc | 409 |
+| us_las_vegas | 405 |
+| us_california | 404 |
+| us_east | 403 |
+| us_new_york | 402 |
+| uk_london | 398 |
+| ca_ontario | 381 |
+| us_florida | 372 |
+| us_seattle | 372 |
 | de_frankfurt | 355 |
-| au_melbourne | 350 |
-| us_houston | 312 |
-| switzerland | 311 |
-| au_sydney | 294 |
-| japan | 269 |
-| uk_southampton | 250 |
-| de_berlin | 238 |
-| us_denver | 218 |
+| au_melbourne | 351 |
+| switzerland | 317 |
+| us_houston | 313 |
+| au_sydney | 297 |
+| japan | 273 |
+| uk_southampton | 256 |
+| de_berlin | 240 |
+| us_denver | 219 |
 | singapore | 214 |
-| uk_manchester | 211 |
-| france | 190 |
-| sweden | 182 |
-| au_perth | 182 |
+| uk_manchester | 212 |
+| france | 191 |
+| sweden | 183 |
+| au_perth | 183 |
 | new_zealand | 179 |
 | mexico | 139 |
 | ireland | 132 |
@@ -58,7 +58,7 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 | bahamas | 78 |
 | argentina | 75 |
 | austria | 71 |
-| panama | 70 |
+| panama | 71 |
 | brazil | 69 |
 | poland | 64 |
 | luxembourg | 62 |
