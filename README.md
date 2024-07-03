@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-16,939-blue)
+![Servers](https://img.shields.io/badge/servers-17,001-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_20:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_21:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,39 +10,39 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 679 |
-| ca_montreal | 678 |
-| us_texas | 619 |
-| us_chicago | 587 |
-| ca_toronto | 577 |
-| us_silicon_valley | 533 |
-| us_washington_dc | 514 |
-| ca_vancouver | 513 |
-| us_atlanta | 507 |
+| ca_montreal | 684 |
+| netherlands | 683 |
+| us_texas | 621 |
+| us_chicago | 593 |
+| ca_toronto | 580 |
+| us_silicon_valley | 537 |
+| us_washington_dc | 519 |
+| ca_vancouver | 516 |
+| us_atlanta | 510 |
 | us_west | 504 |
-| us_las_vegas | 494 |
-| us_new_york | 494 |
+| us_new_york | 497 |
+| us_las_vegas | 496 |
+| us_east | 491 |
 | us_california | 489 |
-| us_east | 488 |
-| uk_london | 483 |
-| us_seattle | 451 |
-| us_florida | 450 |
-| ca_ontario | 417 |
+| uk_london | 487 |
+| us_seattle | 453 |
+| us_florida | 451 |
+| ca_ontario | 421 |
 | au_melbourne | 406 |
 | de_frankfurt | 403 |
 | switzerland | 386 |
-| us_houston | 361 |
-| au_sydney | 341 |
-| uk_southampton | 307 |
+| us_houston | 362 |
+| au_sydney | 343 |
+| uk_southampton | 308 |
 | japan | 305 |
-| de_berlin | 254 |
+| de_berlin | 255 |
 | us_denver | 226 |
 | uk_manchester | 223 |
 | singapore | 218 |
-| france | 199 |
+| france | 200 |
 | sweden | 192 |
 | au_perth | 183 |
-| new_zealand | 182 |
+| new_zealand | 183 |
 | mexico | 139 |
 | ireland | 132 |
 | romania | 120 |
