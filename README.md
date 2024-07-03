@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,832-blue)
+![Servers](https://img.shields.io/badge/servers-15,922-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_06:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_07:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,39 +10,39 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 589 |
-| ca_montreal | 584 |
-| us_texas | 544 |
-| ca_toronto | 529 |
-| us_chicago | 522 |
-| us_silicon_valley | 484 |
-| ca_vancouver | 481 |
-| us_washington_dc | 459 |
-| us_west | 454 |
-| us_atlanta | 454 |
-| us_new_york | 448 |
-| us_california | 446 |
-| us_las_vegas | 445 |
-| us_east | 445 |
-| uk_london | 436 |
-| us_florida | 415 |
-| us_seattle | 406 |
-| ca_ontario | 400 |
-| de_frankfurt | 382 |
-| au_melbourne | 379 |
-| switzerland | 351 |
-| us_houston | 340 |
-| au_sydney | 325 |
-| japan | 294 |
-| uk_southampton | 285 |
+| netherlands | 594 |
+| ca_montreal | 593 |
+| us_texas | 548 |
+| us_chicago | 531 |
+| ca_toronto | 530 |
+| us_silicon_valley | 489 |
+| ca_vancouver | 485 |
+| us_washington_dc | 462 |
+| us_west | 456 |
+| us_atlanta | 455 |
+| us_new_york | 450 |
+| us_las_vegas | 449 |
+| us_california | 448 |
+| us_east | 446 |
+| uk_london | 437 |
+| us_florida | 419 |
+| us_seattle | 415 |
+| ca_ontario | 402 |
+| de_frankfurt | 384 |
+| au_melbourne | 381 |
+| switzerland | 355 |
+| us_houston | 344 |
+| au_sydney | 327 |
+| japan | 295 |
+| uk_southampton | 288 |
 | de_berlin | 250 |
 | us_denver | 224 |
-| uk_manchester | 220 |
+| uk_manchester | 221 |
 | singapore | 217 |
-| france | 196 |
+| france | 197 |
 | sweden | 190 |
 | au_perth | 183 |
-| new_zealand | 179 |
+| new_zealand | 181 |
 | mexico | 139 |
 | ireland | 132 |
 | romania | 120 |
