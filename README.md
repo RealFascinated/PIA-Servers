@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,749-blue)
+![Servers](https://img.shields.io/badge/servers-15,832-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_05:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_06:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,43 +10,43 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 581 |
-| ca_montreal | 578 |
-| us_texas | 538 |
-| ca_toronto | 524 |
-| us_chicago | 519 |
-| ca_vancouver | 480 |
-| us_silicon_valley | 480 |
-| us_washington_dc | 456 |
-| us_atlanta | 452 |
-| us_west | 451 |
-| us_new_york | 447 |
-| us_california | 444 |
-| us_east | 441 |
-| us_las_vegas | 440 |
+| netherlands | 589 |
+| ca_montreal | 584 |
+| us_texas | 544 |
+| ca_toronto | 529 |
+| us_chicago | 522 |
+| us_silicon_valley | 484 |
+| ca_vancouver | 481 |
+| us_washington_dc | 459 |
+| us_west | 454 |
+| us_atlanta | 454 |
+| us_new_york | 448 |
+| us_california | 446 |
+| us_las_vegas | 445 |
+| us_east | 445 |
 | uk_london | 436 |
-| us_florida | 413 |
+| us_florida | 415 |
+| us_seattle | 406 |
 | ca_ontario | 400 |
-| us_seattle | 398 |
-| de_frankfurt | 380 |
-| au_melbourne | 375 |
-| switzerland | 345 |
+| de_frankfurt | 382 |
+| au_melbourne | 379 |
+| switzerland | 351 |
 | us_houston | 340 |
-| au_sydney | 323 |
-| japan | 293 |
-| uk_southampton | 284 |
+| au_sydney | 325 |
+| japan | 294 |
+| uk_southampton | 285 |
 | de_berlin | 250 |
 | us_denver | 224 |
-| uk_manchester | 218 |
+| uk_manchester | 220 |
 | singapore | 217 |
-| france | 195 |
+| france | 196 |
 | sweden | 190 |
 | au_perth | 183 |
 | new_zealand | 179 |
 | mexico | 139 |
 | ireland | 132 |
 | romania | 120 |
-| estonia | 116 |
+| estonia | 117 |
 | norway | 112 |
 | belgium | 101 |
 | israel | 100 |
