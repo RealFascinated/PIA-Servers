@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,434-blue)
+![Servers](https://img.shields.io/badge/servers-15,550-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_02:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_03:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,35 +10,35 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 567 |
-| ca_montreal | 546 |
-| us_texas | 522 |
-| us_chicago | 497 |
-| ca_toronto | 496 |
-| ca_vancouver | 467 |
-| us_silicon_valley | 466 |
-| us_atlanta | 443 |
-| us_washington_dc | 442 |
-| us_west | 440 |
-| us_new_york | 437 |
-| us_las_vegas | 432 |
-| us_east | 431 |
-| us_california | 430 |
-| uk_london | 424 |
-| us_florida | 404 |
-| ca_ontario | 397 |
-| us_seattle | 389 |
-| de_frankfurt | 372 |
-| au_melbourne | 365 |
-| switzerland | 337 |
-| us_houston | 332 |
-| au_sydney | 316 |
-| japan | 285 |
-| uk_southampton | 273 |
+| netherlands | 573 |
+| ca_montreal | 555 |
+| us_texas | 527 |
+| ca_toronto | 506 |
+| us_chicago | 506 |
+| ca_vancouver | 472 |
+| us_silicon_valley | 470 |
+| us_washington_dc | 447 |
+| us_atlanta | 447 |
+| us_west | 445 |
+| us_new_york | 441 |
+| us_east | 436 |
+| us_california | 436 |
+| us_las_vegas | 435 |
+| uk_london | 430 |
+| us_florida | 410 |
+| ca_ontario | 398 |
+| us_seattle | 390 |
+| de_frankfurt | 375 |
+| au_melbourne | 367 |
+| switzerland | 339 |
+| us_houston | 335 |
+| au_sydney | 319 |
+| japan | 290 |
+| uk_southampton | 276 |
 | de_berlin | 249 |
 | us_denver | 223 |
 | uk_manchester | 218 |
-| singapore | 216 |
+| singapore | 217 |
 | france | 195 |
 | sweden | 186 |
 | au_perth | 183 |
