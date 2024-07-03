@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,211-blue)
+![Servers](https://img.shields.io/badge/servers-15,317-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_00:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_01:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,34 +10,34 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 553 |
-| ca_montreal | 533 |
-| us_texas | 508 |
-| ca_toronto | 481 |
-| us_chicago | 481 |
-| ca_vancouver | 457 |
-| us_silicon_valley | 453 |
-| us_atlanta | 437 |
-| us_west | 431 |
-| us_washington_dc | 430 |
-| us_las_vegas | 428 |
-| us_new_york | 427 |
-| us_east | 423 |
-| us_california | 420 |
-| uk_london | 418 |
+| netherlands | 560 |
+| ca_montreal | 540 |
+| us_texas | 515 |
+| ca_toronto | 490 |
+| us_chicago | 489 |
+| ca_vancouver | 461 |
+| us_silicon_valley | 457 |
+| us_atlanta | 439 |
+| us_west | 436 |
+| us_washington_dc | 435 |
+| us_new_york | 433 |
+| us_las_vegas | 430 |
+| us_east | 428 |
+| us_california | 427 |
+| uk_london | 421 |
+| us_florida | 396 |
 | ca_ontario | 394 |
-| us_florida | 391 |
-| us_seattle | 384 |
-| de_frankfurt | 366 |
-| au_melbourne | 361 |
-| switzerland | 332 |
+| us_seattle | 386 |
+| de_frankfurt | 369 |
+| au_melbourne | 362 |
+| switzerland | 334 |
 | us_houston | 329 |
-| au_sydney | 306 |
-| japan | 283 |
-| uk_southampton | 270 |
+| au_sydney | 312 |
+| japan | 285 |
+| uk_southampton | 271 |
 | de_berlin | 247 |
-| us_denver | 221 |
-| uk_manchester | 216 |
+| us_denver | 222 |
+| uk_manchester | 218 |
 | singapore | 216 |
 | france | 195 |
 | sweden | 185 |
