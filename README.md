@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,922-blue)
+![Servers](https://img.shields.io/badge/servers-16,011-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_07:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_08:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,37 +10,37 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 594 |
-| ca_montreal | 593 |
-| us_texas | 548 |
-| us_chicago | 531 |
-| ca_toronto | 530 |
-| us_silicon_valley | 489 |
-| ca_vancouver | 485 |
-| us_washington_dc | 462 |
-| us_west | 456 |
-| us_atlanta | 455 |
-| us_new_york | 450 |
-| us_las_vegas | 449 |
-| us_california | 448 |
-| us_east | 446 |
-| uk_london | 437 |
-| us_florida | 419 |
-| us_seattle | 415 |
-| ca_ontario | 402 |
-| de_frankfurt | 384 |
+| ca_montreal | 602 |
+| netherlands | 601 |
+| us_texas | 556 |
+| ca_toronto | 535 |
+| us_chicago | 534 |
+| us_silicon_valley | 491 |
+| ca_vancouver | 488 |
+| us_washington_dc | 468 |
+| us_west | 461 |
+| us_atlanta | 460 |
+| us_las_vegas | 452 |
+| us_new_york | 452 |
+| us_east | 451 |
+| us_california | 450 |
+| uk_london | 442 |
+| us_florida | 421 |
+| us_seattle | 419 |
+| ca_ontario | 404 |
+| de_frankfurt | 385 |
 | au_melbourne | 381 |
-| switzerland | 355 |
-| us_houston | 344 |
-| au_sydney | 327 |
+| switzerland | 357 |
+| us_houston | 346 |
+| au_sydney | 328 |
 | japan | 295 |
-| uk_southampton | 288 |
-| de_berlin | 250 |
-| us_denver | 224 |
+| uk_southampton | 289 |
+| de_berlin | 251 |
+| us_denver | 225 |
 | uk_manchester | 221 |
 | singapore | 217 |
-| france | 197 |
-| sweden | 190 |
+| france | 198 |
+| sweden | 191 |
 | au_perth | 183 |
 | new_zealand | 181 |
 | mexico | 139 |
