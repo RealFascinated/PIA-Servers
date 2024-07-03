@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,099-blue)
+![Servers](https://img.shields.io/badge/servers-15,211-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jul_02_23:16:07_UTC_2024-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jul_03_00:16:07_UTC_2024-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed.
@@ -10,35 +10,35 @@ Servers that have not been active in the last 2 weeks will be automatically remo
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| netherlands | 548 |
-| ca_montreal | 527 |
-| us_texas | 502 |
-| ca_toronto | 475 |
-| us_chicago | 473 |
-| ca_vancouver | 451 |
-| us_silicon_valley | 444 |
-| us_atlanta | 433 |
-| us_washington_dc | 428 |
-| us_west | 426 |
-| us_las_vegas | 422 |
-| us_new_york | 421 |
-| us_east | 418 |
-| us_california | 415 |
-| uk_london | 414 |
-| ca_ontario | 392 |
-| us_florida | 389 |
-| us_seattle | 383 |
-| de_frankfurt | 363 |
-| au_melbourne | 359 |
-| switzerland | 330 |
-| us_houston | 325 |
-| au_sydney | 302 |
-| japan | 281 |
-| uk_southampton | 268 |
-| de_berlin | 246 |
-| us_denver | 220 |
-| uk_manchester | 215 |
-| singapore | 214 |
+| netherlands | 553 |
+| ca_montreal | 533 |
+| us_texas | 508 |
+| ca_toronto | 481 |
+| us_chicago | 481 |
+| ca_vancouver | 457 |
+| us_silicon_valley | 453 |
+| us_atlanta | 437 |
+| us_west | 431 |
+| us_washington_dc | 430 |
+| us_las_vegas | 428 |
+| us_new_york | 427 |
+| us_east | 423 |
+| us_california | 420 |
+| uk_london | 418 |
+| ca_ontario | 394 |
+| us_florida | 391 |
+| us_seattle | 384 |
+| de_frankfurt | 366 |
+| au_melbourne | 361 |
+| switzerland | 332 |
+| us_houston | 329 |
+| au_sydney | 306 |
+| japan | 283 |
+| uk_southampton | 270 |
+| de_berlin | 247 |
+| us_denver | 221 |
+| uk_manchester | 216 |
+| singapore | 216 |
 | france | 195 |
 | sweden | 185 |
 | au_perth | 183 |
