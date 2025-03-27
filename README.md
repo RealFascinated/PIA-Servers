@@ -1,106 +1,106 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-2,754-blue) ![Regions](https://img.shields.io/badge/regions-97-blue) ![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_27_21:25:27_UTC_2025-blue)
+![Servers](https://img.shields.io/badge/servers-3,024-blue) ![Regions](https://img.shields.io/badge/regions-97-blue) ![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_27_21:28:07_UTC_2025-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is every 30 minutes.
 
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| Japan | 30 |
-| US Florida | 30 |
-| Andorra | 30 |
-| Venezuela | 30 |
-| CA Vancouver | 30 |
-| Sweden | 30 |
-| United Arab Emirates | 30 |
-| US Seattle | 30 |
-| US Las Vegas | 30 |
-| US East | 30 |
-| DE Berlin | 30 |
-| Switzerland | 30 |
-| Vietnam | 30 |
-| Ukraine | 30 |
-| Spain | 30 |
-| Lithuania | 30 |
-| Cambodia | 30 |
-| Monaco | 30 |
-| US West | 30 |
-| Cyprus | 30 |
-| Italy | 30 |
-| Finland | 30 |
-| US Denver | 30 |
-| Mexico | 30 |
-| Bahamas | 30 |
-| Norway | 30 |
-| AU Perth | 30 |
-| CA Toronto | 30 |
-| US New York | 30 |
-| UK London | 30 |
-| Macao | 30 |
-| Georgia | 30 |
-| France | 30 |
-| US Chicago | 30 |
-| Belgium | 30 |
-| US Washington DC | 30 |
-| Czech Republic | 30 |
-| Morocco | 30 |
-| US Texas | 30 |
-| UK Southampton | 30 |
-| Brazil | 30 |
-| DE Frankfurt | 30 |
-| India | 30 |
-| US Silicon Valley | 30 |
-| AU Sydney | 30 |
-| AU Melbourne | 30 |
-| CA Ontario | 30 |
-| Latvia | 30 |
-| New Zealand | 30 |
-| Egypt | 30 |
-| Malta | 30 |
-| Iceland | 30 |
-| Macedonia | 30 |
-| CA Montreal | 30 |
-| US Atlanta | 30 |
-| Philippines | 29 |
-| Austria | 29 |
-| Slovakia | 29 |
-| Isle OF Man | 29 |
-| Taiwan | 29 |
-| Romania | 29 |
-| Denmark | 29 |
-| Albania | 28 |
-| Poland | 28 |
-| Hungary | 28 |
-| US California | 28 |
-| Nigeria | 28 |
-| Singapore | 28 |
-| Argentina | 28 |
-| Sri Lanka | 28 |
-| Kazakhstan | 28 |
-| US Houston | 28 |
-| Montenegro | 28 |
-| Qatar | 28 |
-| China | 28 |
-| Israel | 28 |
-| Bangladesh | 28 |
-| Ireland | 28 |
-| Panama | 27 |
-| Liechtenstein | 27 |
-| Turkey | 26 |
-| South Africa | 26 |
-| Estonia | 25 |
-| UK Manchester | 25 |
-| Algeria | 25 |
-| Greenland | 25 |
-| Netherlands | 25 |
-| Luxembourg | 24 |
-| Armenia | 23 |
-| Portugal | 23 |
-| Greece | 23 |
-| Serbia | 23 |
-| Hong Kong | 22 |
-| Bulgaria | 22 |
-| Moldova | 21 |
-| Saudi Arabia | 21 |
-| Mongolia | 20 |
+| Japan | 33 |
+| US Florida | 33 |
+| Andorra | 33 |
+| Venezuela | 33 |
+| CA Vancouver | 33 |
+| Sweden | 33 |
+| United Arab Emirates | 33 |
+| US Seattle | 33 |
+| US Las Vegas | 33 |
+| US East | 33 |
+| DE Berlin | 33 |
+| Switzerland | 33 |
+| Vietnam | 33 |
+| Spain | 33 |
+| Lithuania | 33 |
+| Cambodia | 33 |
+| Monaco | 33 |
+| US West | 33 |
+| Italy | 33 |
+| Finland | 33 |
+| US Denver | 33 |
+| Bahamas | 33 |
+| Norway | 33 |
+| AU Perth | 33 |
+| CA Toronto | 33 |
+| US New York | 33 |
+| UK London | 33 |
+| Macao | 33 |
+| Georgia | 33 |
+| France | 33 |
+| US Chicago | 33 |
+| Belgium | 33 |
+| US Washington DC | 33 |
+| Czech Republic | 33 |
+| Morocco | 33 |
+| US Texas | 33 |
+| UK Southampton | 33 |
+| Brazil | 33 |
+| DE Frankfurt | 33 |
+| India | 33 |
+| US Silicon Valley | 33 |
+| AU Sydney | 33 |
+| AU Melbourne | 33 |
+| CA Ontario | 33 |
+| Latvia | 33 |
+| New Zealand | 33 |
+| Egypt | 33 |
+| Iceland | 33 |
+| Macedonia | 33 |
+| CA Montreal | 33 |
+| US Atlanta | 33 |
+| Ukraine | 32 |
+| Austria | 32 |
+| Cyprus | 32 |
+| Mexico | 32 |
+| Isle OF Man | 32 |
+| Taiwan | 32 |
+| Romania | 32 |
+| Malta | 32 |
+| Albania | 31 |
+| Poland | 31 |
+| Philippines | 31 |
+| Hungary | 31 |
+| US California | 31 |
+| Nigeria | 31 |
+| Argentina | 31 |
+| Slovakia | 31 |
+| Denmark | 31 |
+| US Houston | 31 |
+| Montenegro | 31 |
+| Qatar | 31 |
+| China | 31 |
+| Israel | 31 |
+| Ireland | 31 |
+| Singapore | 30 |
+| Sri Lanka | 30 |
+| Kazakhstan | 30 |
+| Bangladesh | 30 |
+| Turkey | 29 |
+| Panama | 29 |
+| Liechtenstein | 29 |
+| UK Manchester | 28 |
+| Greenland | 28 |
+| South Africa | 28 |
+| Estonia | 27 |
+| Algeria | 27 |
+| Luxembourg | 27 |
+| Netherlands | 27 |
+| Armenia | 26 |
+| Portugal | 26 |
+| Greece | 26 |
+| Serbia | 26 |
+| Hong Kong | 25 |
+| Moldova | 24 |
+| Bulgaria | 24 |
+| Saudi Arabia | 22 |
+| Mongolia | 22 |
