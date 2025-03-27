@@ -25,7 +25,7 @@ import java.util.concurrent.TimeUnit;
 public class PiaManager {
     private static final HttpClient HTTP_CLIENT = HttpClient.newHttpClient();
     private static final String PIA_OPENVPN_CONFIGS_URL = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
-    private static final long REMOVAL_THRESHOLD = TimeUnit.DAYS.toMicros(14); // 2 weeks
+    private static final long REMOVAL_THRESHOLD = TimeUnit.DAYS.toMillis(14); // 2 weeks
     public static List<PiaServer> SERVERS = new ArrayList<>();
 
     @SneakyThrows
