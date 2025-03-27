@@ -28,6 +28,8 @@ jobs:
       # Checkout the repo
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Setup Java and Maven
       - name: Set up JDK and Maven
@@ -50,5 +52,5 @@ jobs:
           git add servers.json
           git add README.md
           git commit -m "Scheduled update"
-          git push
+          git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           
