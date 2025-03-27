@@ -1,6 +1,7 @@
 name: Fetch new Pia Servers
 
 on:
+  workflow_dispatch:
   schedule:
 #    - cron: "@hourly"
     - cron: "*/5 * * * *"
