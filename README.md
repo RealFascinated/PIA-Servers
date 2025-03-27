@@ -1,106 +1,106 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-1,925-blue) ![Regions](https://img.shields.io/badge/regions-97-blue) ![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_27_21:05:02_UTC_2025-blue)
+![Servers](https://img.shields.io/badge/servers-2,208-blue) ![Regions](https://img.shields.io/badge/regions-97-blue) ![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_27_21:13:56_UTC_2025-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly.
 
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| japan | 21 |
-| albania | 21 |
-| us_florida | 21 |
-| andorra | 21 |
-| venezuela | 21 |
-| ca_vancouver | 21 |
-| sweden | 21 |
-| united_arab_emirates | 21 |
-| us_seattle | 21 |
-| philippines | 21 |
-| us_las_vegas | 21 |
-| us_east | 21 |
-| de_berlin | 21 |
-| switzerland | 21 |
-| vietnam | 21 |
-| ukraine | 21 |
-| austria | 21 |
-| spain | 21 |
-| lithuania | 21 |
-| cambodia | 21 |
-| monaco | 21 |
-| hungary | 21 |
-| us_west | 21 |
-| cyprus | 21 |
-| italy | 21 |
-| finland | 21 |
-| nigeria | 21 |
-| us_denver | 21 |
-| mexico | 21 |
-| bahamas | 21 |
-| norway | 21 |
-| au_perth | 21 |
-| ca_toronto | 21 |
-| us_new_york | 21 |
-| uk_london | 21 |
-| macao | 21 |
-| georgia | 21 |
-| argentina | 21 |
-| liechtenstein | 21 |
-| france | 21 |
-| slovakia | 21 |
-| us_chicago | 21 |
-| belgium | 21 |
-| us_washington_dc | 21 |
-| isle_of_man | 21 |
-| taiwan | 21 |
-| czech_republic | 21 |
-| morocco | 21 |
-| us_texas | 21 |
-| uk_southampton | 21 |
-| brazil | 21 |
-| de_frankfurt | 21 |
-| romania | 21 |
-| india | 21 |
-| us_silicon_valley | 21 |
-| au_sydney | 21 |
-| denmark | 21 |
-| au_melbourne | 21 |
-| ca_ontario | 21 |
-| latvia | 21 |
-| kazakhstan | 21 |
-| new_zealand | 21 |
-| egypt | 21 |
-| malta | 21 |
-| iceland | 21 |
-| macedonia | 21 |
-| ca_montreal | 21 |
-| montenegro | 21 |
-| us_atlanta | 21 |
-| singapore | 20 |
-| china | 20 |
-| poland | 19 |
-| panama | 19 |
-| us_california | 19 |
-| sri_lanka | 19 |
-| us_houston | 19 |
-| south_africa | 19 |
-| qatar | 19 |
-| israel | 19 |
-| bangladesh | 19 |
-| ireland | 19 |
-| turkey | 17 |
-| moldova | 16 |
-| estonia | 16 |
-| uk_manchester | 16 |
-| algeria | 16 |
-| portugal | 16 |
-| greenland | 16 |
-| greece | 16 |
-| luxembourg | 16 |
-| bulgaria | 16 |
-| netherlands | 16 |
-| hong_kong | 15 |
-| armenia | 14 |
-| mongolia | 14 |
-| serbia | 14 |
-| saudi_arabia | 12 |
+| Japan | 24 |
+| Albania | 24 |
+| US Florida | 24 |
+| Andorra | 24 |
+| Venezuela | 24 |
+| CA Vancouver | 24 |
+| Sweden | 24 |
+| United Arab Emirates | 24 |
+| US Seattle | 24 |
+| US Las Vegas | 24 |
+| US East | 24 |
+| DE Berlin | 24 |
+| Switzerland | 24 |
+| Vietnam | 24 |
+| Ukraine | 24 |
+| Spain | 24 |
+| Lithuania | 24 |
+| Cambodia | 24 |
+| Monaco | 24 |
+| Hungary | 24 |
+| US West | 24 |
+| Cyprus | 24 |
+| Italy | 24 |
+| Finland | 24 |
+| Nigeria | 24 |
+| US Denver | 24 |
+| Mexico | 24 |
+| Bahamas | 24 |
+| Norway | 24 |
+| AU Perth | 24 |
+| CA Toronto | 24 |
+| US New York | 24 |
+| UK London | 24 |
+| Macao | 24 |
+| Georgia | 24 |
+| Argentina | 24 |
+| France | 24 |
+| Slovakia | 24 |
+| US Chicago | 24 |
+| Belgium | 24 |
+| US Washington DC | 24 |
+| Taiwan | 24 |
+| Czech Republic | 24 |
+| Morocco | 24 |
+| US Texas | 24 |
+| UK Southampton | 24 |
+| Brazil | 24 |
+| DE Frankfurt | 24 |
+| Romania | 24 |
+| India | 24 |
+| US Silicon Valley | 24 |
+| AU Sydney | 24 |
+| Denmark | 24 |
+| AU Melbourne | 24 |
+| CA Ontario | 24 |
+| Latvia | 24 |
+| Kazakhstan | 24 |
+| New Zealand | 24 |
+| Egypt | 24 |
+| Malta | 24 |
+| Iceland | 24 |
+| Macedonia | 24 |
+| CA Montreal | 24 |
+| Montenegro | 24 |
+| US Atlanta | 24 |
+| Philippines | 23 |
+| Austria | 23 |
+| Liechtenstein | 23 |
+| Isle OF Man | 23 |
+| Poland | 22 |
+| Panama | 22 |
+| US California | 22 |
+| Singapore | 22 |
+| Sri Lanka | 22 |
+| US Houston | 22 |
+| South Africa | 22 |
+| Qatar | 22 |
+| China | 22 |
+| Israel | 22 |
+| Bangladesh | 22 |
+| Ireland | 22 |
+| Turkey | 20 |
+| Moldova | 19 |
+| Estonia | 19 |
+| UK Manchester | 19 |
+| Algeria | 19 |
+| Portugal | 19 |
+| Greenland | 19 |
+| Greece | 19 |
+| Luxembourg | 19 |
+| Netherlands | 19 |
+| Hong Kong | 18 |
+| Bulgaria | 18 |
+| Armenia | 17 |
+| Serbia | 17 |
+| Mongolia | 16 |
+| Saudi Arabia | 15 |
