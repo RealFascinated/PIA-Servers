@@ -16,8 +16,6 @@ public class Main {
     @SneakyThrows
     public static void main(String[] args) {
         PiaManager.updateServers();
-        Thread.sleep(TimeUnit.MINUTES.toMillis(3));
-        PiaManager.updateServers();
         new ReadMeManager();
     }
 }
