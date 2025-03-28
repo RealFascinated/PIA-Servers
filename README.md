@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,983-blue)
+![Servers](https://img.shields.io/badge/servers-14,260-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_28_2025_02:03_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_28_2025_02:21_EST-blue)
 
 </div>
 
@@ -14,103 +14,103 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US East                        | 153          |
-| Italy                          | 153          |
-| US New York                    | 153          |
-| UK London                      | 153          |
-| US Washington DC               | 153          |
-| US Texas                       | 153          |
-| UK Southampton                 | 153          |
-| US Silicon Valley              | 153          |
-| AU Sydney                      | 153          |
-| AU Melbourne                   | 153          |
-| New Zealand                    | 153          |
-| CA Montreal                    | 153          |
-| US Atlanta                     | 153          |
-| Ireland                        | 153          |
-| US Florida                     | 152          |
-| US Las Vegas                   | 152          |
-| DE Berlin                      | 152          |
-| Switzerland                    | 152          |
-| US West                        | 152          |
-| Norway                         | 152          |
-| AU Perth                       | 152          |
-| CA Toronto                     | 152          |
-| France                         | 152          |
-| DE Frankfurt                   | 152          |
-| Japan                          | 151          |
-| Andorra                        | 151          |
-| CA Vancouver                   | 151          |
-| US California                  | 151          |
-| Finland                        | 151          |
-| US Denver                      | 151          |
-| US Chicago                     | 151          |
-| US Houston                     | 151          |
-| Latvia                         | 150          |
-| Israel                         | 150          |
-| Vietnam                        | 149          |
-| Lithuania                      | 149          |
-| Belgium                        | 149          |
-| Taiwan                         | 149          |
-| Romania                        | 149          |
-| Spain                          | 148          |
-| Argentina                      | 148          |
-| Sweden                         | 147          |
-| US Seattle                     | 147          |
-| UK Manchester                  | 147          |
-| Austria                        | 147          |
-| Georgia                        | 147          |
-| China                          | 147          |
-| Bahamas                        | 146          |
-| Brazil                         | 146          |
-| CA Ontario                     | 146          |
-| Greece                         | 145          |
-| Czech Republic                 | 145          |
-| India                          | 145          |
-| Denmark                        | 145          |
-| Qatar                          | 145          |
-| Albania                        | 144          |
-| Poland                         | 144          |
-| United Arab Emirates           | 144          |
-| Greenland                      | 144          |
-| Egypt                          | 144          |
-| Iceland                        | 144          |
-| Venezuela                      | 143          |
-| Mexico                         | 143          |
-| Netherlands                    | 143          |
-| Ukraine                        | 142          |
-| Singapore                      | 141          |
-| Macao                          | 141          |
-| Slovakia                       | 141          |
-| Malta                          | 141          |
-| Estonia                        | 140          |
-| Cambodia                       | 140          |
-| Monaco                         | 140          |
-| Isle OF Man                    | 140          |
-| Morocco                        | 140          |
-| Macedonia                      | 140          |
-| Portugal                       | 139          |
-| Luxembourg                     | 139          |
-| Nigeria                        | 139          |
-| Algeria                        | 138          |
-| Panama                         | 138          |
-| Montenegro                     | 137          |
-| Philippines                    | 136          |
-| Turkey                         | 136          |
-| Hungary                        | 135          |
-| Liechtenstein                  | 135          |
-| Cyprus                         | 134          |
-| Moldova                        | 133          |
-| Hong Kong                      | 133          |
-| Kazakhstan                     | 133          |
-| Bangladesh                     | 132          |
-| Sri Lanka                      | 131          |
-| South Africa                   | 129          |
-| Saudi Arabia                   | 124          |
-| Serbia                         | 124          |
-| Bulgaria                       | 121          |
-| Armenia                        | 116          |
-| Mongolia                       | 106          |
+| US East                        | 156          |
+| Italy                          | 156          |
+| US New York                    | 156          |
+| UK London                      | 156          |
+| US Washington DC               | 156          |
+| US Texas                       | 156          |
+| UK Southampton                 | 156          |
+| US Silicon Valley              | 156          |
+| AU Sydney                      | 156          |
+| AU Melbourne                   | 156          |
+| New Zealand                    | 156          |
+| CA Montreal                    | 156          |
+| US Atlanta                     | 156          |
+| Ireland                        | 156          |
+| US Florida                     | 155          |
+| US Las Vegas                   | 155          |
+| DE Berlin                      | 155          |
+| Switzerland                    | 155          |
+| US West                        | 155          |
+| Norway                         | 155          |
+| AU Perth                       | 155          |
+| CA Toronto                     | 155          |
+| DE Frankfurt                   | 155          |
+| Japan                          | 154          |
+| Andorra                        | 154          |
+| CA Vancouver                   | 154          |
+| US California                  | 154          |
+| Finland                        | 154          |
+| US Denver                      | 154          |
+| France                         | 154          |
+| US Chicago                     | 154          |
+| US Houston                     | 154          |
+| Latvia                         | 153          |
+| Israel                         | 153          |
+| Belgium                        | 152          |
+| Taiwan                         | 152          |
+| Romania                        | 152          |
+| Vietnam                        | 151          |
+| Spain                          | 151          |
+| Lithuania                      | 151          |
+| Sweden                         | 150          |
+| US Seattle                     | 150          |
+| UK Manchester                  | 150          |
+| Austria                        | 150          |
+| Georgia                        | 150          |
+| Argentina                      | 150          |
+| China                          | 150          |
+| Bahamas                        | 149          |
+| Brazil                         | 149          |
+| CA Ontario                     | 149          |
+| Greece                         | 148          |
+| Czech Republic                 | 148          |
+| India                          | 148          |
+| Denmark                        | 148          |
+| Qatar                          | 148          |
+| Albania                        | 147          |
+| Greenland                      | 147          |
+| Egypt                          | 147          |
+| Iceland                        | 147          |
+| Poland                         | 146          |
+| Venezuela                      | 146          |
+| United Arab Emirates           | 146          |
+| Netherlands                    | 146          |
+| Ukraine                        | 145          |
+| Mexico                         | 145          |
+| Singapore                      | 144          |
+| Macao                          | 144          |
+| Slovakia                       | 144          |
+| Malta                          | 144          |
+| Estonia                        | 143          |
+| Monaco                         | 143          |
+| Isle OF Man                    | 143          |
+| Morocco                        | 143          |
+| Macedonia                      | 143          |
+| Cambodia                       | 142          |
+| Luxembourg                     | 142          |
+| Nigeria                        | 142          |
+| Algeria                        | 141          |
+| Portugal                       | 141          |
+| Panama                         | 141          |
+| Philippines                    | 139          |
+| Turkey                         | 139          |
+| Montenegro                     | 139          |
+| Hungary                        | 138          |
+| Liechtenstein                  | 138          |
+| Cyprus                         | 137          |
+| Moldova                        | 136          |
+| Hong Kong                      | 136          |
+| Kazakhstan                     | 136          |
+| Sri Lanka                      | 134          |
+| Bangladesh                     | 134          |
+| South Africa                   | 131          |
+| Saudi Arabia                   | 127          |
+| Serbia                         | 127          |
+| Bulgaria                       | 123          |
+| Armenia                        | 118          |
+| Mongolia                       | 109          |
 
 ## Features
 - 🔄 Auto-updating every 15 minutes
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-28 07:03:14*
+*Last updated: 2025-03-28 07:21:51*
