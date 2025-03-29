@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-9,794-blue)
+![Servers](https://img.shields.io/badge/servers-9,824-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_28_2025_20:56_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_28_2025_21:27_EST-blue)
 
 </div>
 
@@ -14,39 +14,39 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US New York                    | 254          |
-| Netherlands                    | 253          |
+| US New York                    | 256          |
+| Netherlands                    | 255          |
+| US Chicago                     | 253          |
+| US Texas                       | 252          |
 | CA Montreal                    | 252          |
-| US Chicago                     | 251          |
-| US Texas                       | 250          |
 | US Florida                     | 247          |
+| US East                        | 245          |
 | US Atlanta                     | 245          |
-| US East                        | 244          |
-| US Washington DC               | 240          |
-| US Las Vegas                   | 238          |
-| CA Toronto                     | 235          |
+| US Washington DC               | 242          |
+| US Las Vegas                   | 239          |
+| CA Toronto                     | 236          |
 | US Silicon Valley              | 235          |
-| US California                  | 231          |
-| AU Melbourne                   | 225          |
-| UK London                      | 206          |
+| US California                  | 234          |
+| AU Melbourne                   | 226          |
+| UK London                      | 207          |
+| US Seattle                     | 196          |
 | CA Vancouver                   | 195          |
 | Switzerland                    | 195          |
-| US Seattle                     | 194          |
-| US Denver                      | 187          |
+| US Denver                      | 188          |
 | AU Sydney                      | 187          |
-| DE Frankfurt                   | 181          |
-| CA Ontario                     | 176          |
+| DE Frankfurt                   | 183          |
+| CA Ontario                     | 177          |
 | DE Berlin                      | 171          |
 | US West                        | 165          |
 | Japan                          | 159          |
 | UK Manchester                  | 158          |
 | US Houston                     | 157          |
-| UK Southampton                 | 154          |
+| UK Southampton                 | 156          |
 | AU Perth                       | 153          |
-| New Zealand                    | 150          |
+| New Zealand                    | 151          |
 | France                         | 135          |
-| Sweden                         | 132          |
-| Mexico                         | 121          |
+| Sweden                         | 133          |
+| Mexico                         | 122          |
 | Ireland                        | 121          |
 | Norway                         | 118          |
 | Greece                         | 109          |
@@ -70,8 +70,8 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Romania                        | 59           |
 | India                          | 59           |
 | Greenland                      | 56           |
+| Austria                        | 55           |
 | Lithuania                      | 55           |
-| Austria                        | 54           |
 | Slovakia                       | 52           |
 | Turkey                         | 51           |
 | United Arab Emirates           | 49           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-29 01:56:19*
+*Last updated: 2025-03-29 02:27:32*
