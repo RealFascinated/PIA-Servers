@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-10,516-blue)
+![Servers](https://img.shields.io/badge/servers-10,533-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_29_2025_01:45_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_29_2025_01:51_EST-blue)
 
 </div>
 
@@ -14,37 +14,37 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US Chicago                     | 291          |
+| US Chicago                     | 292          |
 | US New York                    | 288          |
-| Netherlands                    | 284          |
-| CA Montreal                    | 284          |
-| US Texas                       | 282          |
-| US Atlanta                     | 276          |
+| Netherlands                    | 285          |
+| CA Montreal                    | 285          |
+| US Texas                       | 283          |
+| US Atlanta                     | 277          |
 | US Las Vegas                   | 274          |
-| US Florida                     | 272          |
-| US East                        | 269          |
-| US Silicon Valley              | 264          |
-| CA Toronto                     | 263          |
-| US Washington DC               | 259          |
-| US California                  | 258          |
+| US Florida                     | 273          |
+| US East                        | 270          |
+| CA Toronto                     | 265          |
+| US Silicon Valley              | 265          |
+| US Washington DC               | 260          |
+| US California                  | 259          |
 | AU Melbourne                   | 249          |
-| UK London                      | 225          |
-| US Seattle                     | 219          |
+| UK London                      | 226          |
+| US Seattle                     | 220          |
 | CA Vancouver                   | 216          |
-| US Denver                      | 214          |
+| US Denver                      | 215          |
 | Switzerland                    | 212          |
 | AU Sydney                      | 207          |
 | DE Frankfurt                   | 205          |
 | CA Ontario                     | 185          |
 | DE Berlin                      | 182          |
-| US West                        | 178          |
+| US West                        | 179          |
 | UK Southampton                 | 171          |
 | Japan                          | 168          |
 | US Houston                     | 168          |
 | UK Manchester                  | 167          |
 | AU Perth                       | 165          |
 | New Zealand                    | 158          |
-| France                         | 142          |
+| France                         | 143          |
 | Sweden                         | 140          |
 | Mexico                         | 126          |
 | Ireland                        | 126          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-29 06:45:43*
+*Last updated: 2025-03-29 06:51:17*
