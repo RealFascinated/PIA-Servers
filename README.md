@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-10,350-blue)
+![Servers](https://img.shields.io/badge/servers-10,379-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_29_2025_00:41_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_29_2025_00:50_EST-blue)
 
 </div>
 
@@ -14,40 +14,40 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US Chicago                     | 283          |
-| US New York                    | 277          |
-| Netherlands                    | 277          |
-| CA Montreal                    | 275          |
+| US Chicago                     | 285          |
+| Netherlands                    | 280          |
+| US New York                    | 278          |
+| CA Montreal                    | 277          |
 | US Texas                       | 273          |
-| US Atlanta                     | 268          |
-| US Florida                     | 264          |
-| US Las Vegas                   | 264          |
+| US Atlanta                     | 271          |
+| US Las Vegas                   | 267          |
+| US Florida                     | 265          |
 | US East                        | 264          |
+| US Silicon Valley              | 259          |
+| CA Toronto                     | 258          |
 | US Washington DC               | 258          |
-| US Silicon Valley              | 257          |
-| CA Toronto                     | 256          |
-| US California                  | 253          |
-| AU Melbourne                   | 244          |
-| UK London                      | 219          |
+| US California                  | 254          |
+| AU Melbourne                   | 245          |
+| UK London                      | 220          |
 | US Seattle                     | 215          |
 | Switzerland                    | 210          |
+| US Denver                      | 210          |
 | CA Vancouver                   | 209          |
-| US Denver                      | 209          |
+| DE Frankfurt                   | 201          |
 | AU Sydney                      | 200          |
-| DE Frankfurt                   | 199          |
 | CA Ontario                     | 185          |
 | DE Berlin                      | 179          |
 | US West                        | 175          |
 | Japan                          | 168          |
-| UK Southampton                 | 167          |
+| UK Southampton                 | 168          |
 | US Houston                     | 166          |
 | UK Manchester                  | 165          |
-| AU Perth                       | 164          |
+| AU Perth                       | 165          |
 | New Zealand                    | 156          |
 | France                         | 140          |
 | Sweden                         | 139          |
+| Ireland                        | 126          |
 | Mexico                         | 125          |
-| Ireland                        | 125          |
 | Norway                         | 123          |
 | Greece                         | 111          |
 | Estonia                        | 109          |
@@ -58,7 +58,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Spain                          | 93           |
 | Denmark                        | 87           |
 | Italy                          | 85           |
-| Finland                        | 78           |
+| Finland                        | 79           |
 | Argentina                      | 75           |
 | Brazil                         | 66           |
 | Poland                         | 64           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-29 05:41:25*
+*Last updated: 2025-03-29 05:50:56*
