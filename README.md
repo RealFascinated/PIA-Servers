@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,649-blue)
+![Servers](https://img.shields.io/badge/servers-13,656-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_09:33_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_09:42_EST-blue)
 
 </div>
 
@@ -16,22 +16,22 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 |--------|--------------|
 | US Chicago                     | 494          |
 | Netherlands                    | 489          |
-| US Texas                       | 457          |
+| US Texas                       | 458          |
 | CA Montreal                    | 452          |
 | US New York                    | 447          |
-| US Atlanta                     | 440          |
+| US Atlanta                     | 441          |
 | US Las Vegas                   | 421          |
 | CA Toronto                     | 414          |
 | US East                        | 412          |
-| US Silicon Valley              | 408          |
+| US Silicon Valley              | 410          |
 | US Florida                     | 402          |
 | US Washington DC               | 387          |
-| AU Melbourne                   | 381          |
+| AU Melbourne                   | 382          |
 | US California                  | 377          |
-| UK London                      | 338          |
+| UK London                      | 339          |
 | CA Vancouver                   | 337          |
 | US Seattle                     | 300          |
-| DE Frankfurt                   | 287          |
+| DE Frankfurt                   | 288          |
 | AU Sydney                      | 275          |
 | US Denver                      | 270          |
 | Switzerland                    | 269          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-30 14:33:19*
+*Last updated: 2025-03-30 14:42:39*
