@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,114-blue)
+![Servers](https://img.shields.io/badge/servers-13,120-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_01:52_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_02:00_EST-blue)
 
 </div>
 
@@ -14,13 +14,13 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US Chicago                     | 450          |
+| US Chicago                     | 451          |
 | Netherlands                    | 446          |
-| US Texas                       | 428          |
+| US Texas                       | 429          |
 | US New York                    | 424          |
 | US Atlanta                     | 413          |
-| CA Montreal                    | 408          |
-| US Las Vegas                   | 388          |
+| CA Montreal                    | 409          |
+| US Las Vegas                   | 390          |
 | CA Toronto                     | 385          |
 | US Silicon Valley              | 384          |
 | US Florida                     | 383          |
@@ -34,7 +34,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | DE Frankfurt                   | 271          |
 | AU Sydney                      | 269          |
 | US Denver                      | 266          |
-| Switzerland                    | 260          |
+| Switzerland                    | 261          |
 | CA Ontario                     | 232          |
 | DE Berlin                      | 220          |
 | US West                        | 210          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-30 06:52:25*
+*Last updated: 2025-03-30 07:00:59*
