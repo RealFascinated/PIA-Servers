@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,641-blue)
+![Servers](https://img.shields.io/badge/servers-13,649-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_09:25_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_09:33_EST-blue)
 
 </div>
 
@@ -17,19 +17,19 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | US Chicago                     | 494          |
 | Netherlands                    | 489          |
 | US Texas                       | 457          |
-| CA Montreal                    | 451          |
-| US New York                    | 446          |
+| CA Montreal                    | 452          |
+| US New York                    | 447          |
 | US Atlanta                     | 440          |
-| US Las Vegas                   | 420          |
-| CA Toronto                     | 413          |
+| US Las Vegas                   | 421          |
+| CA Toronto                     | 414          |
 | US East                        | 412          |
-| US Silicon Valley              | 407          |
+| US Silicon Valley              | 408          |
 | US Florida                     | 402          |
-| US Washington DC               | 386          |
-| AU Melbourne                   | 380          |
+| US Washington DC               | 387          |
+| AU Melbourne                   | 381          |
 | US California                  | 377          |
 | UK London                      | 338          |
-| CA Vancouver                   | 336          |
+| CA Vancouver                   | 337          |
 | US Seattle                     | 300          |
 | DE Frankfurt                   | 287          |
 | AU Sydney                      | 275          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-30 14:25:13*
+*Last updated: 2025-03-30 14:33:19*
