@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,401-blue)
+![Servers](https://img.shields.io/badge/servers-13,409-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_05:25_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_05:34_EST-blue)
 
 </div>
 
@@ -18,18 +18,18 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Netherlands                    | 468          |
 | US Texas                       | 443          |
 | US New York                    | 436          |
-| CA Montreal                    | 427          |
-| US Atlanta                     | 427          |
+| CA Montreal                    | 429          |
+| US Atlanta                     | 428          |
 | US Las Vegas                   | 409          |
-| US East                        | 402          |
-| CA Toronto                     | 399          |
+| US East                        | 403          |
+| CA Toronto                     | 400          |
 | US Silicon Valley              | 397          |
-| US Florida                     | 394          |
+| US Florida                     | 395          |
 | US Washington DC               | 376          |
-| AU Melbourne                   | 372          |
+| AU Melbourne                   | 373          |
 | US California                  | 367          |
 | UK London                      | 328          |
-| CA Vancouver                   | 325          |
+| CA Vancouver                   | 326          |
 | US Seattle                     | 293          |
 | DE Frankfurt                   | 277          |
 | AU Sydney                      | 274          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-30 10:25:57*
+*Last updated: 2025-03-30 10:34:19*
