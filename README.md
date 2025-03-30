@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,715-blue)
+![Servers](https://img.shields.io/badge/servers-13,724-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_10:25_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_10:31_EST-blue)
 
 </div>
 
@@ -14,24 +14,24 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US Chicago                     | 499          |
+| US Chicago                     | 501          |
 | Netherlands                    | 492          |
 | US Texas                       | 461          |
 | CA Montreal                    | 455          |
 | US New York                    | 452          |
-| US Atlanta                     | 445          |
-| US Las Vegas                   | 424          |
+| US Atlanta                     | 447          |
+| US Las Vegas                   | 426          |
 | CA Toronto                     | 418          |
 | US East                        | 416          |
-| US Silicon Valley              | 415          |
+| US Silicon Valley              | 416          |
 | US Florida                     | 405          |
 | US Washington DC               | 388          |
+| US California                  | 383          |
 | AU Melbourne                   | 383          |
-| US California                  | 382          |
 | UK London                      | 340          |
 | CA Vancouver                   | 339          |
 | US Seattle                     | 301          |
-| DE Frankfurt                   | 288          |
+| DE Frankfurt                   | 289          |
 | AU Sydney                      | 276          |
 | US Denver                      | 270          |
 | Switzerland                    | 269          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-30 15:25:10*
+*Last updated: 2025-03-30 15:31:42*
