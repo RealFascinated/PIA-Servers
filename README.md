@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,632-blue)
+![Servers](https://img.shields.io/badge/servers-13,641-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_09:14_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-March_30_2025_09:25_EST-blue)
 
 </div>
 
@@ -15,20 +15,20 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Region | Server Count |
 |--------|--------------|
 | US Chicago                     | 494          |
-| Netherlands                    | 487          |
+| Netherlands                    | 489          |
 | US Texas                       | 457          |
-| CA Montreal                    | 450          |
-| US New York                    | 444          |
+| CA Montreal                    | 451          |
+| US New York                    | 446          |
 | US Atlanta                     | 440          |
 | US Las Vegas                   | 420          |
+| CA Toronto                     | 413          |
 | US East                        | 412          |
-| CA Toronto                     | 411          |
-| US Silicon Valley              | 406          |
+| US Silicon Valley              | 407          |
 | US Florida                     | 402          |
 | US Washington DC               | 386          |
 | AU Melbourne                   | 380          |
 | US California                  | 377          |
-| UK London                      | 337          |
+| UK London                      | 338          |
 | CA Vancouver                   | 336          |
 | US Seattle                     | 300          |
 | DE Frankfurt                   | 287          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-03-30 14:14:09*
+*Last updated: 2025-03-30 14:25:13*
