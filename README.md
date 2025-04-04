@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-13,796-blue)
+![Servers](https://img.shields.io/badge/servers-13,800-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_4_2025_09:46_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_4_2025_09:47_EST-blue)
 
 </div>
 
@@ -22,12 +22,12 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | US Atlanta                     | 448          |
 | US Las Vegas                   | 427          |
 | CA Toronto                     | 425          |
-| US East                        | 421          |
+| US East                        | 423          |
 | US Silicon Valley              | 417          |
 | US Florida                     | 408          |
 | US Washington DC               | 388          |
+| US California                  | 387          |
 | AU Melbourne                   | 387          |
-| US California                  | 385          |
 | CA Vancouver                   | 346          |
 | UK London                      | 343          |
 | US Seattle                     | 302          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-04 14:46:37*
+*Last updated: 2025-04-04 14:47:00*
