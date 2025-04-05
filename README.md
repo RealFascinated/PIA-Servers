@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-14,818-blue)
+![Servers](https://img.shields.io/badge/servers-14,825-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_5_2025_08:19_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_5_2025_08:29_EST-blue)
 
 </div>
 
@@ -14,21 +14,21 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| US Chicago                     | 597          |
-| Netherlands                    | 592          |
+| US Chicago                     | 598          |
+| Netherlands                    | 593          |
 | US Texas                       | 545          |
-| CA Montreal                    | 523          |
+| CA Montreal                    | 524          |
 | US New York                    | 514          |
 | US Atlanta                     | 512          |
-| CA Toronto                     | 489          |
+| CA Toronto                     | 491          |
 | US Las Vegas                   | 469          |
 | US East                        | 465          |
 | US Silicon Valley              | 458          |
 | US Florida                     | 439          |
-| US Washington DC               | 426          |
+| US Washington DC               | 427          |
 | US California                  | 422          |
 | AU Melbourne                   | 411          |
-| CA Vancouver                   | 401          |
+| CA Vancouver                   | 402          |
 | UK London                      | 364          |
 | US Seattle                     | 332          |
 | DE Frankfurt                   | 315          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-05 13:19:40*
+*Last updated: 2025-04-05 13:29:29*
