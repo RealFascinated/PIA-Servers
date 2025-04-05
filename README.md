@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-14,777-blue)
+![Servers](https://img.shields.io/badge/servers-14,785-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_5_2025_06:50_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_5_2025_07:01_EST-blue)
 
 </div>
 
@@ -15,20 +15,20 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Region | Server Count |
 |--------|--------------|
 | US Chicago                     | 595          |
-| Netherlands                    | 587          |
+| Netherlands                    | 588          |
 | US Texas                       | 542          |
 | CA Montreal                    | 517          |
-| US New York                    | 512          |
-| US Atlanta                     | 507          |
+| US New York                    | 513          |
+| US Atlanta                     | 508          |
 | CA Toronto                     | 488          |
-| US Las Vegas                   | 468          |
+| US Las Vegas                   | 469          |
 | US East                        | 462          |
 | US Silicon Valley              | 456          |
-| US Florida                     | 436          |
+| US Florida                     | 437          |
 | US Washington DC               | 425          |
-| US California                  | 421          |
-| AU Melbourne                   | 408          |
-| CA Vancouver                   | 400          |
+| US California                  | 422          |
+| AU Melbourne                   | 409          |
+| CA Vancouver                   | 401          |
 | UK London                      | 364          |
 | US Seattle                     | 332          |
 | DE Frankfurt                   | 315          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-05 11:50:35*
+*Last updated: 2025-04-05 12:01:01*
