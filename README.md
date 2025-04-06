@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-15,341-blue)
+![Servers](https://img.shields.io/badge/servers-15,345-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_6_2025_06:13_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_6_2025_06:22_EST-blue)
 
 </div>
 
@@ -15,9 +15,9 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Region | Server Count |
 |--------|--------------|
 | US Chicago                     | 647          |
-| Netherlands                    | 646          |
+| Netherlands                    | 647          |
 | US Texas                       | 575          |
-| CA Montreal                    | 569          |
+| CA Montreal                    | 570          |
 | US New York                    | 547          |
 | US Atlanta                     | 544          |
 | CA Toronto                     | 538          |
@@ -25,12 +25,12 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | US East                        | 493          |
 | US Silicon Valley              | 480          |
 | US Florida                     | 455          |
+| CA Vancouver                   | 439          |
 | US California                  | 439          |
 | US Washington DC               | 439          |
-| CA Vancouver                   | 438          |
 | AU Melbourne                   | 428          |
 | UK London                      | 375          |
-| US Seattle                     | 350          |
+| US Seattle                     | 351          |
 | DE Frankfurt                   | 322          |
 | AU Sydney                      | 296          |
 | US Denver                      | 282          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-06 11:13:25*
+*Last updated: 2025-04-06 11:22:40*
