@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-15,495-blue)
+![Servers](https://img.shields.io/badge/servers-15,503-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_6_2025_12:13_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_6_2025_12:24_EST-blue)
 
 </div>
 
@@ -14,23 +14,23 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| Netherlands                    | 665          |
+| Netherlands                    | 666          |
 | US Chicago                     | 663          |
 | US Texas                       | 583          |
-| CA Montreal                    | 578          |
-| US New York                    | 558          |
+| CA Montreal                    | 579          |
+| US New York                    | 559          |
 | US Atlanta                     | 555          |
 | CA Toronto                     | 548          |
 | US Las Vegas                   | 502          |
-| US East                        | 500          |
-| US Silicon Valley              | 483          |
+| US East                        | 502          |
+| US Silicon Valley              | 485          |
 | US Florida                     | 456          |
 | CA Vancouver                   | 446          |
 | US California                  | 446          |
 | US Washington DC               | 443          |
 | AU Melbourne                   | 431          |
 | UK London                      | 379          |
-| US Seattle                     | 372          |
+| US Seattle                     | 373          |
 | DE Frankfurt                   | 322          |
 | AU Sydney                      | 296          |
 | Switzerland                    | 283          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-06 17:13:35*
+*Last updated: 2025-04-06 17:24:16*
