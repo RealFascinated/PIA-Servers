@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-15,321-blue)
+![Servers](https://img.shields.io/badge/servers-15,329-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_6_2025_05:14_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_6_2025_05:26_EST-blue)
 
 </div>
 
@@ -16,21 +16,21 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 |--------|--------------|
 | US Chicago                     | 644          |
 | Netherlands                    | 643          |
-| US Texas                       | 574          |
-| CA Montreal                    | 567          |
+| US Texas                       | 575          |
+| CA Montreal                    | 569          |
 | US New York                    | 546          |
-| US Atlanta                     | 542          |
-| CA Toronto                     | 537          |
+| US Atlanta                     | 543          |
+| CA Toronto                     | 538          |
 | US Las Vegas                   | 494          |
 | US East                        | 493          |
-| US Silicon Valley              | 479          |
+| US Silicon Valley              | 480          |
 | US Florida                     | 455          |
 | US California                  | 439          |
 | CA Vancouver                   | 438          |
 | US Washington DC               | 438          |
 | AU Melbourne                   | 428          |
-| UK London                      | 374          |
-| US Seattle                     | 346          |
+| UK London                      | 375          |
+| US Seattle                     | 347          |
 | DE Frankfurt                   | 322          |
 | AU Sydney                      | 296          |
 | US Denver                      | 282          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-06 10:14:15*
+*Last updated: 2025-04-06 10:26:20*
