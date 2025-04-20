@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,302-blue)
+![Servers](https://img.shields.io/badge/servers-16,300-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_20_2025_14:40_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_20_2025_14:50_EST-blue)
 
 </div>
 
@@ -42,7 +42,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | UK Southampton                 | 200          |
 | US Houston                     | 197          |
 | UK Manchester                  | 195          |
-| Ireland                        | 189          |
+| Ireland                        | 187          |
 | AU Perth                       | 183          |
 | New Zealand                    | 183          |
 | France                         | 165          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-20 19:40:37*
+*Last updated: 2025-04-20 19:50:46*
