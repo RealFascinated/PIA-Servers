@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,332-blue)
+![Servers](https://img.shields.io/badge/servers-16,321-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_28_2025_01:59_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_28_2025_02:24_EST-blue)
 
 </div>
 
@@ -69,33 +69,33 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Ukraine                        | 59           |
 | Austria                        | 55           |
 | Lithuania                      | 55           |
-| Venezuela                      | 54           |
 | Finland                        | 54           |
+| Venezuela                      | 52           |
 | Turkey                         | 52           |
-| Greenland                      | 52           |
 | Slovakia                       | 52           |
+| Greenland                      | 51           |
 | United Arab Emirates           | 49           |
 | Andorra                        | 48           |
 | Taiwan                         | 46           |
 | Panama                         | 44           |
-| Portugal                       | 43           |
 | Vietnam                        | 42           |
+| Portugal                       | 42           |
 | Nigeria                        | 38           |
-| Liechtenstein                  | 38           |
+| Liechtenstein                  | 37           |
 | China                          | 37           |
 | Albania                        | 36           |
-| Philippines                    | 36           |
 | Iceland                        | 36           |
-| Malta                          | 34           |
+| Philippines                    | 35           |
 | Algeria                        | 33           |
+| Malta                          | 33           |
 | Hong Kong                      | 32           |
 | Georgia                        | 31           |
 | Bangladesh                     | 31           |
 | Qatar                          | 30           |
-| Isle OF Man                    | 29           |
-| Saudi Arabia                   | 28           |
 | Hungary                        | 28           |
+| Isle OF Man                    | 28           |
 | South Africa                   | 28           |
+| Saudi Arabia                   | 27           |
 | Macao                          | 26           |
 | Montenegro                     | 26           |
 | Bulgaria                       | 25           |
@@ -103,11 +103,11 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Morocco                        | 24           |
 | Egypt                          | 24           |
 | Macedonia                      | 24           |
-| Cyprus                         | 23           |
 | Kazakhstan                     | 23           |
 | Cambodia                       | 22           |
+| Cyprus                         | 22           |
 | Monaco                         | 20           |
-| Sri Lanka                      | 20           |
+| Sri Lanka                      | 19           |
 | Serbia                         | 15           |
 | Mongolia                       | 12           |
 | Armenia                        | 10           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-28 06:59:26*
+*Last updated: 2025-04-28 07:24:07*
