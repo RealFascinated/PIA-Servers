@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,341-blue)
+![Servers](https://img.shields.io/badge/servers-16,337-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_28_2025_01:34_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_28_2025_01:49_EST-blue)
 
 </div>
 
@@ -80,19 +80,19 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Panama                         | 44           |
 | Portugal                       | 43           |
 | Vietnam                        | 42           |
-| Liechtenstein                  | 39           |
 | Nigeria                        | 38           |
+| Liechtenstein                  | 38           |
 | China                          | 37           |
 | Albania                        | 36           |
 | Philippines                    | 36           |
-| Malta                          | 36           |
 | Iceland                        | 36           |
+| Malta                          | 35           |
 | Algeria                        | 34           |
 | Hong Kong                      | 32           |
 | Georgia                        | 31           |
 | Qatar                          | 31           |
 | Bangladesh                     | 31           |
-| Isle OF Man                    | 30           |
+| Isle OF Man                    | 29           |
 | Saudi Arabia                   | 28           |
 | Hungary                        | 28           |
 | South Africa                   | 28           |
@@ -110,7 +110,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Monaco                         | 20           |
 | Serbia                         | 15           |
 | Mongolia                       | 12           |
-| Armenia                        | 11           |
+| Armenia                        | 10           |
 
 ## Features
 - 🔄 Auto-updating every 15 minutes
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-28 06:34:07*
+*Last updated: 2025-04-28 06:49:07*
