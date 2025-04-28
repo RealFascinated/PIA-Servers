@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,312-blue)
+![Servers](https://img.shields.io/badge/servers-16,307-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_28_2025_02:58_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_28_2025_03:23_EST-blue)
 
 </div>
 
@@ -15,7 +15,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Region | Server Count |
 |--------|--------------|
 | Netherlands                    | 866          |
-| US Chicago                     | 759          |
+| US Chicago                     | 758          |
 | CA Montreal                    | 665          |
 | US California                  | 632          |
 | US Texas                       | 622          |
@@ -94,16 +94,16 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Qatar                          | 30           |
 | Hungary                        | 28           |
 | South Africa                   | 28           |
-| Saudi Arabia                   | 27           |
 | Isle OF Man                    | 27           |
+| Saudi Arabia                   | 26           |
 | Macao                          | 26           |
 | Bulgaria                       | 25           |
-| Montenegro                     | 25           |
 | Moldova                        | 24           |
 | Morocco                        | 24           |
-| Egypt                          | 24           |
 | Macedonia                      | 24           |
 | Kazakhstan                     | 23           |
+| Egypt                          | 23           |
+| Montenegro                     | 23           |
 | Cambodia                       | 21           |
 | Cyprus                         | 21           |
 | Monaco                         | 19           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-28 07:58:36*
+*Last updated: 2025-04-28 08:23:11*
