@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,336-blue)
+![Servers](https://img.shields.io/badge/servers-16,339-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-April_30_2025_02:41_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-April_30_2025_02:50_EST-blue)
 
 </div>
 
@@ -101,12 +101,12 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Moldova                        | 24           |
 | Morocco                        | 24           |
 | Macedonia                      | 24           |
+| Cyprus                         | 23           |
 | Kazakhstan                     | 23           |
 | Egypt                          | 23           |
 | Montenegro                     | 23           |
 | Cambodia                       | 21           |
-| Cyprus                         | 21           |
-| Monaco                         | 19           |
+| Monaco                         | 20           |
 | Sri Lanka                      | 17           |
 | Serbia                         | 15           |
 | Mongolia                       | 12           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-04-30 07:41:42*
+*Last updated: 2025-04-30 07:50:44*
