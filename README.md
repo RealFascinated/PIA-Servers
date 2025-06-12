@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,735-blue)
+![Servers](https://img.shields.io/badge/servers-16,736-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-June_12_2025_06:41_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-June_12_2025_06:50_EST-blue)
 
 </div>
 
@@ -67,7 +67,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | India                          | 60           |
 | Latvia                         | 60           |
 | Ukraine                        | 59           |
-| Venezuela                      | 57           |
+| Venezuela                      | 58           |
 | Austria                        | 55           |
 | Lithuania                      | 55           |
 | Finland                        | 54           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-06-12 11:41:53*
+*Last updated: 2025-06-12 11:50:38*
