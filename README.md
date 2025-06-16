@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,679-blue)
+![Servers](https://img.shields.io/badge/servers-16,680-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-June_16_2025_02:42_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-June_16_2025_02:50_EST-blue)
 
 </div>
 
@@ -24,7 +24,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | CA Toronto                     | 598          |
 | US East                        | 571          |
 | US Las Vegas                   | 517          |
-| US Silicon Valley              | 515          |
+| US Silicon Valley              | 514          |
 | CA Vancouver                   | 496          |
 | US California                  | 483          |
 | US Florida                     | 478          |
@@ -72,8 +72,8 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Lithuania                      | 55           |
 | Finland                        | 54           |
 | Turkey                         | 52           |
+| Greenland                      | 52           |
 | Slovakia                       | 52           |
-| Greenland                      | 51           |
 | United Arab Emirates           | 49           |
 | Andorra                        | 48           |
 | Taiwan                         | 46           |
@@ -98,13 +98,13 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 | Saudi Arabia                   | 26           |
 | Macao                          | 26           |
 | Bulgaria                       | 25           |
+| Montenegro                     | 25           |
 | Armenia                        | 24           |
 | Cambodia                       | 24           |
 | Cyprus                         | 24           |
 | Morocco                        | 24           |
 | Egypt                          | 24           |
 | Macedonia                      | 24           |
-| Montenegro                     | 24           |
 | Kazakhstan                     | 23           |
 | Moldova                        | 22           |
 | Sri Lanka                      | 22           |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-06-16 07:42:44*
+*Last updated: 2025-06-16 07:50:47*
