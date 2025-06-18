@@ -4,7 +4,7 @@
 
 ![Servers](https://img.shields.io/badge/servers-16,688-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-June_18_2025_13:28_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-June_18_2025_13:42_EST-blue)
 
 </div>
 
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-06-18 18:28:09*
+*Last updated: 2025-06-18 18:42:03*
