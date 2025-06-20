@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Servers](https://img.shields.io/badge/servers-16,743-blue)
+![Servers](https://img.shields.io/badge/servers-16,744-blue)
 ![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-June_20_2025_07:15_EST-blue)
+![Last update](https://img.shields.io/badge/Last_Updated-June_20_2025_07:30_EST-blue)
 
 </div>
 
@@ -14,7 +14,7 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 ## Server Statistics
 | Region | Server Count |
 |--------|--------------|
-| Netherlands                    | 972          |
+| Netherlands                    | 973          |
 | US Chicago                     | 762          |
 | CA Toronto                     | 706          |
 | US Washington DC               | 704          |
@@ -122,4 +122,4 @@ This repository maintains an up-to-date list of OpenVPN servers provided by Priv
 Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
-*Last updated: 2025-06-20 12:15:48*
+*Last updated: 2025-06-20 12:30:04*
