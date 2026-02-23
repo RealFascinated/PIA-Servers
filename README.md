@@ -1,125 +1,178 @@
 # PIA Server List
 
-<div align="center">
+![Servers](https://img.shields.io/badge/servers-478-blue)
+![Regions](https://img.shields.io/badge/regions-166-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Feb_23_16:39:38_UTC_2026-blue)
 
-![Servers](https://img.shields.io/badge/servers-304-blue)
-![Regions](https://img.shields.io/badge/regions-97-blue)
-![Last update](https://img.shields.io/badge/Last_Updated-August_16_2025_02:19_EST-blue)
+This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
+Servers that have not been active in the last 2 weeks will be automatically removed.
 
-</div>
-
-## Overview
-This repository maintains an up-to-date list of OpenVPN servers provided by Private Internet Access (PIA). The server list is automatically updated every 15 minutes to ensure you always have access to the latest server information.
-
-## Server Statistics
-| Region | Server Count |
-|--------|--------------|
-| Albania                        | 6            |
-| Estonia                        | 6            |
-| US Las Vegas                   | 6            |
-| Algeria                        | 6            |
-| Lithuania                      | 6            |
-| Bulgaria                       | 6            |
-| Iceland                        | 6            |
-| CA Montreal                    | 6            |
-| Bangladesh                     | 6            |
-| Venezuela                      | 5            |
-| CA Ontario                     | 5            |
-| Macedonia                      | 4            |
-| Poland                         | 3            |
-| US Florida                     | 3            |
-| Sweden                         | 3            |
-| CA Vancouver                   | 3            |
-| US Seattle                     | 3            |
-| United Arab Emirates           | 3            |
-| US East                        | 3            |
-| DE Berlin                      | 3            |
-| UK Manchester                  | 3            |
-| Switzerland                    | 3            |
-| Vietnam                        | 3            |
-| Turkey                         | 3            |
-| Ukraine                        | 3            |
-| Austria                        | 3            |
-| Spain                          | 3            |
-| Portugal                       | 3            |
-| Cambodia                       | 3            |
-| Hungary                        | 3            |
-| Greenland                      | 3            |
-| Panama                         | 3            |
-| Greece                         | 3            |
-| US California                  | 3            |
-| Luxembourg                     | 3            |
-| US West                        | 3            |
-| Cyprus                         | 3            |
-| Italy                          | 3            |
-| Nigeria                        | 3            |
-| Singapore                      | 3            |
-| Mexico                         | 3            |
-| US Denver                      | 3            |
-| Bahamas                        | 3            |
-| Norway                         | 3            |
-| AU Perth                       | 3            |
-| CA Toronto                     | 3            |
-| US New York                    | 3            |
-| UK London                      | 3            |
-| Argentina                      | 3            |
-| France                         | 3            |
-| Serbia                         | 3            |
-| US Chicago                     | 3            |
-| Belgium                        | 3            |
-| US Washington DC               | 3            |
-| Netherlands                    | 3            |
-| Isle OF Man                    | 3            |
-| Taiwan                         | 3            |
-| Czech Republic                 | 3            |
-| Morocco                        | 3            |
-| US Texas                       | 3            |
-| UK Southampton                 | 3            |
-| DE Frankfurt                   | 3            |
-| Romania                        | 3            |
-| India                          | 3            |
-| US Silicon Valley              | 3            |
-| AU Sydney                      | 3            |
-| Denmark                        | 3            |
-| AU Melbourne                   | 3            |
-| Latvia                         | 3            |
-| New Zealand                    | 3            |
-| US Houston                     | 3            |
-| Egypt                          | 3            |
-| Malta                          | 3            |
-| Montenegro                     | 3            |
-| Qatar                          | 3            |
-| China                          | 3            |
-| Israel                         | 3            |
-| US Atlanta                     | 3            |
-| Ireland                        | 3            |
-| Japan                          | 2            |
-| Andorra                        | 2            |
-| Moldova                        | 2            |
-| Saudi Arabia                   | 2            |
-| Philippines                    | 2            |
-| Armenia                        | 2            |
-| Monaco                         | 2            |
-| Mongolia                       | 2            |
-| Finland                        | 2            |
-| Hong Kong                      | 2            |
-| Macao                          | 2            |
-| Georgia                        | 2            |
-| Liechtenstein                  | 2            |
-| Sri Lanka                      | 2            |
-| Brazil                         | 2            |
-| Kazakhstan                     | 2            |
-| South Africa                   | 2            |
-| Slovakia                       | 1            |
-
-## Features
-- 🔄 Auto-updating every 15 minutes
-- 🌍 Comprehensive server coverage
-- 📊 Detailed server statistics
-- 🔍 Easy to read format
-
-## Contributing
-Feel free to contribute to this project by submitting issues or pull requests.
-
----
-*Last updated: 2025-08-16 07:19:07*
+## Servers
+| Region               | Servers |
+|----------------------|---------|
+| au_sydney | 5 |
+| au_melbourne | 5 |
+| albania | 3 |
+| poland | 3 |
+| dk_streaming_optimized | 3 |
+| us_florida | 3 |
+| de_germany_streaming_optimized | 3 |
+| andorra | 3 |
+| venezuela | 3 |
+| moldova | 3 |
+| estonia | 3 |
+| ca_vancouver | 3 |
+| united_arab_emirates | 3 |
+| us_seattle | 3 |
+| saudi_arabia | 3 |
+| philippines | 3 |
+| us_las_vegas | 3 |
+| us_arkansas | 3 |
+| us_east | 3 |
+| de_berlin | 3 |
+| us_virginia | 3 |
+| us_ohio | 3 |
+| us_idaho | 3 |
+| uk_manchester | 3 |
+| switzerland | 3 |
+| armenia | 3 |
+| vietnam | 3 |
+| indonesia | 3 |
+| us_kansas | 3 |
+| us_wilmington | 3 |
+| turkey | 3 |
+| dk_copenhagen | 3 |
+| ukraine | 3 |
+| austria | 3 |
+| ecuador | 3 |
+| algeria | 3 |
+| us_south_carolina | 3 |
+| portugal | 3 |
+| fi_helsinki | 3 |
+| cambodia | 3 |
+| lithuania | 3 |
+| us_maine | 3 |
+| monaco | 3 |
+| hungary | 3 |
+| greenland | 3 |
+| panama | 3 |
+| us_california | 3 |
+| us_west | 3 |
+| luxembourg | 3 |
+| mongolia | 3 |
+| us_west_virginia | 3 |
+| cyprus | 3 |
+| nl_netherlands_streaming_optimized | 3 |
+| au_brisbane | 3 |
+| nigeria | 3 |
+| us_minnesota | 3 |
+| hong_kong | 3 |
+| singapore | 3 |
+| mexico | 3 |
+| us_denver | 3 |
+| es_madrid | 3 |
+| bahamas | 3 |
+| us_mississippi | 3 |
+| norway | 3 |
+| uruguay | 3 |
+| us_nebraska | 3 |
+| australia_streaming_optimized | 3 |
+| costa_rica | 3 |
+| bosnia_and_herzegovina | 3 |
+| au_perth | 3 |
+| us_pennsylvania | 3 |
+| us_new_mexico | 3 |
+| ca_toronto | 3 |
+| us_new_york | 3 |
+| uk_london | 3 |
+| us_west_streaming_optimized | 3 |
+| guatemala | 3 |
+| macao | 3 |
+| georgia | 3 |
+| us_iowa | 3 |
+| argentina | 3 |
+| liechtenstein | 3 |
+| us_north_carolina | 3 |
+| us_oregon | 3 |
+| france | 3 |
+| slovakia | 3 |
+| us_chicago | 3 |
+| belgium | 3 |
+| us_rhode_island | 3 |
+| it_streaming_optimized | 3 |
+| it_milano | 3 |
+| us_washington_dc | 3 |
+| netherlands | 3 |
+| isle_of_man | 3 |
+| us_south_dakota | 3 |
+| us_wyoming | 3 |
+| us_massachusetts | 3 |
+| taiwan | 3 |
+| sri_lanka | 3 |
+| us_oklahoma | 3 |
+| czech_republic | 3 |
+| nepal | 3 |
+| us_vermont | 3 |
+| fi_streaming_optimized | 3 |
+| morocco | 3 |
+| us_texas | 3 |
+| chile | 3 |
+| uk_southampton | 3 |
+| brazil | 3 |
+| malaysia | 3 |
+| peru | 3 |
+| india | 3 |
+| us_silicon_valley | 3 |
+| us_wisconsin | 3 |
+| ca_ontario | 3 |
+| se_stockholm | 3 |
+| latvia | 3 |
+| us_montana | 3 |
+| kazakhstan | 3 |
+| us_east_streaming_optimized | 3 |
+| new_zealand | 3 |
+| uk_streaming_optimized | 3 |
+| us_houston | 3 |
+| us_michigan | 3 |
+| south_africa | 3 |
+| egypt | 3 |
+| us_missouri | 3 |
+| ca_ontario_streaming_optimized | 3 |
+| jp_streaming_optimized | 3 |
+| malta | 3 |
+| iceland | 3 |
+| ca_montreal | 3 |
+| montenegro | 3 |
+| us_connecticut | 3 |
+| qatar | 3 |
+| bolivia | 3 |
+| china | 3 |
+| israel | 3 |
+| us_baltimore | 3 |
+| us_alaska | 3 |
+| us_louisiana | 3 |
+| bangladesh | 3 |
+| us_atlanta | 3 |
+| ireland | 3 |
+| se_streaming_optimized | 2 |
+| au_adelaide | 2 |
+| us_new_hampshire | 2 |
+| south_korea | 2 |
+| us_indiana | 2 |
+| greece | 2 |
+| us_tennessee | 2 |
+| colombia | 2 |
+| us_honolulu | 2 |
+| bulgaria | 2 |
+| serbia | 2 |
+| us_north_dakota | 2 |
+| north_macedonia | 2 |
+| us_kentucky | 2 |
+| de_frankfurt | 2 |
+| romania | 2 |
+| es_valencia | 2 |
+| slovenia | 2 |
+| us_alabama | 2 |
+| us_salt_lake_city | 2 |
+| jp_tokyo | 1 |
+| croatia | 1 |
