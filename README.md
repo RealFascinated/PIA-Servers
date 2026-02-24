@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-8,413-blue)
+![Servers](https://img.shields.io/badge/servers-8,773-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Feb_24_16:55:45_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Feb_24_17:55:46_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,79 +13,79 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| US Chicago | 165 |
-| Netherlands | 163 |
-| US Atlanta | 161 |
-| US Washington DC | 159 |
-| US New York | 156 |
-| US Texas | 154 |
-| CA Vancouver | 148 |
-| US Las Vegas | 148 |
-| US Seattle | 146 |
-| US East | 146 |
-| US Silicon Valley | 144 |
-| US California | 143 |
-| US Florida | 142 |
-| CA Toronto | 140 |
-| CA Montreal | 138 |
-| US Denver | 134 |
-| US West | 130 |
-| UK London | 125 |
-| Switzerland | 123 |
-| SE Stockholm | 122 |
-| CA Ontario | 118 |
-| UK Southampton | 115 |
-| New Zealand | 113 |
-| US Houston | 113 |
-| DE Germany Streaming Optimized | 111 |
-| AU Perth | 110 |
-| Norway | 98 |
-| France | 98 |
-| US East Streaming Optimized | 96 |
-| UK Streaming Optimized | 95 |
-| Mexico | 93 |
-| Singapore | 92 |
-| Luxembourg | 83 |
-| Bahamas | 83 |
-| ES Madrid | 81 |
-| US West Streaming Optimized | 80 |
-| Panama | 79 |
-| IT Milano | 79 |
-| Israel | 78 |
-| DK Copenhagen | 75 |
-| Belgium | 75 |
-| AU Brisbane | 74 |
-| Argentina | 70 |
+| US Chicago | 179 |
+| Netherlands | 177 |
+| US Atlanta | 175 |
+| US Washington DC | 173 |
+| US New York | 169 |
+| US Texas | 168 |
+| US Las Vegas | 162 |
+| US East | 160 |
+| CA Vancouver | 158 |
+| US California | 157 |
+| US Silicon Valley | 156 |
+| US Florida | 155 |
+| US Seattle | 155 |
+| CA Toronto | 153 |
+| CA Montreal | 151 |
+| US Denver | 141 |
+| US West | 135 |
+| UK London | 135 |
+| Switzerland | 132 |
+| UK Southampton | 127 |
+| CA Ontario | 127 |
+| SE Stockholm | 126 |
+| US Houston | 119 |
+| AU Perth | 118 |
+| New Zealand | 118 |
+| DE Germany Streaming Optimized | 117 |
+| France | 108 |
+| Norway | 102 |
+| Mexico | 99 |
+| US East Streaming Optimized | 98 |
+| UK Streaming Optimized | 97 |
+| Singapore | 96 |
+| ES Madrid | 85 |
+| Bahamas | 85 |
+| Luxembourg | 84 |
+| Panama | 83 |
+| US West Streaming Optimized | 82 |
+| Israel | 82 |
+| IT Milano | 80 |
+| Belgium | 78 |
+| DK Copenhagen | 77 |
+| AU Brisbane | 77 |
+| Argentina | 71 |
 | Greenland | 66 |
 | Estonia | 64 |
-| NL Netherlands Streaming Optimized | 62 |
+| NL Netherlands Streaming Optimized | 63 |
 | Poland | 60 |
+| Brazil | 58 |
+| CA Ontario Streaming Optimized | 58 |
+| US Baltimore | 58 |
 | US Wilmington | 57 |
-| CA Ontario Streaming Optimized | 57 |
-| US Baltimore | 57 |
-| Brazil | 56 |
-| India | 56 |
-| Venezuela | 55 |
+| India | 57 |
+| JP Streaming Optimized | 57 |
+| Venezuela | 56 |
+| US Missouri | 56 |
 | Ukraine | 55 |
-| JP Streaming Optimized | 55 |
-| US Missouri | 54 |
+| Uruguay | 55 |
+| DK Streaming Optimized | 54 |
+| Ecuador | 54 |
 | US Connecticut | 54 |
-| DK Streaming Optimized | 53 |
-| Ecuador | 53 |
-| Uruguay | 53 |
-| Lithuania | 51 |
+| Lithuania | 53 |
+| Austria | 52 |
 | US Massachusetts | 51 |
-| Austria | 50 |
 | Andorra | 48 |
 | United Arab Emirates | 48 |
+| Turkey | 48 |
 | Slovakia | 48 |
 | Latvia | 48 |
-| Taiwan | 45 |
+| Taiwan | 46 |
 | Vietnam | 44 |
-| Turkey | 43 |
-| Portugal | 42 |
-| US Iowa | 42 |
-| Isle OF Man | 42 |
+| Portugal | 43 |
+| US Iowa | 43 |
+| Isle OF Man | 43 |
 | Saudi Arabia | 41 |
 | US Ohio | 41 |
 | US West Virginia | 40 |
@@ -114,9 +114,9 @@ View the IP list [here](/servers.json)
 | Czech Republic | 28 |
 | FI Streaming Optimized | 28 |
 | Malaysia | 28 |
+| Peru | 28 |
 | South Africa | 28 |
 | Bolivia | 28 |
-| Peru | 27 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Armenia | 24 |
