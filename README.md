@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,485-blue)
+![Servers](https://img.shields.io/badge/servers-12,517-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_21:59:20_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_22:59:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 397 |
-| US Chicago | 381 |
-| US Washington DC | 376 |
-| US New York | 371 |
-| US Atlanta | 352 |
-| US Las Vegas | 337 |
+| Netherlands | 400 |
+| US Chicago | 382 |
+| US Washington DC | 377 |
+| US New York | 373 |
+| US Atlanta | 354 |
+| US Las Vegas | 339 |
 | US Texas | 332 |
-| US Silicon Valley | 324 |
-| US East | 315 |
+| US Silicon Valley | 325 |
+| US East | 316 |
+| CA Vancouver | 310 |
 | US California | 309 |
-| CA Vancouver | 308 |
 | CA Toronto | 305 |
-| CA Montreal | 301 |
-| US Florida | 295 |
-| US Seattle | 282 |
+| CA Montreal | 303 |
+| US Florida | 298 |
+| US Seattle | 284 |
 | UK London | 243 |
-| US Denver | 235 |
+| US Denver | 237 |
 | Switzerland | 225 |
-| CA Ontario | 216 |
-| US West | 203 |
-| SE Stockholm | 184 |
+| CA Ontario | 217 |
+| US West | 204 |
+| SE Stockholm | 186 |
 | US Houston | 184 |
 | UK Southampton | 183 |
 | DE Germany Streaming Optimized | 175 |
+| New Zealand | 170 |
 | AU Perth | 169 |
-| New Zealand | 169 |
 | France | 157 |
+| Norway | 135 |
 | Mexico | 134 |
-| Norway | 134 |
 | US East Streaming Optimized | 120 |
+| Singapore | 113 |
 | UK Streaming Optimized | 113 |
-| Singapore | 112 |
 | Israel | 100 |
 | ES Madrid | 96 |
 | Bahamas | 96 |
@@ -69,9 +69,9 @@ View the IP list [here](/servers.json)
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
+| US Pennsylvania | 58 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
-| US Pennsylvania | 57 |
 | Uruguay | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
