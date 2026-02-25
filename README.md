@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,246-blue)
+![Servers](https://img.shields.io/badge/servers-12,300-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_16:58:37_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_17:56:44_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 378 |
-| US Chicago | 367 |
-| US Washington DC | 355 |
-| US New York | 352 |
-| US Atlanta | 341 |
+| Netherlands | 382 |
+| US Chicago | 372 |
+| US Washington DC | 360 |
+| US New York | 357 |
+| US Atlanta | 345 |
 | US Las Vegas | 328 |
-| US Texas | 323 |
-| US Silicon Valley | 311 |
-| US East | 304 |
-| US California | 300 |
-| CA Vancouver | 297 |
-| CA Toronto | 294 |
-| CA Montreal | 293 |
-| US Florida | 285 |
-| US Seattle | 275 |
-| UK London | 233 |
-| US Denver | 229 |
-| Switzerland | 221 |
-| CA Ontario | 212 |
-| US West | 196 |
+| US Texas | 325 |
+| US Silicon Valley | 314 |
+| US East | 307 |
+| US California | 302 |
+| CA Vancouver | 300 |
+| CA Toronto | 297 |
+| CA Montreal | 294 |
+| US Florida | 286 |
+| US Seattle | 276 |
+| UK London | 235 |
+| US Denver | 231 |
+| Switzerland | 223 |
+| CA Ontario | 213 |
+| US West | 197 |
+| UK Southampton | 182 |
 | US Houston | 182 |
-| UK Southampton | 181 |
-| SE Stockholm | 179 |
+| SE Stockholm | 180 |
 | DE Germany Streaming Optimized | 172 |
 | New Zealand | 168 |
 | AU Perth | 166 |
 | France | 157 |
 | Mexico | 133 |
-| Norway | 132 |
+| Norway | 133 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
 | Singapore | 111 |
@@ -75,7 +75,7 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| US Pennsylvania | 53 |
+| US Pennsylvania | 54 |
 | Slovakia | 52 |
 | US Massachusetts | 52 |
 | Turkey | 51 |
