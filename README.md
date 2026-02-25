@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,404-blue)
+![Servers](https://img.shields.io/badge/servers-12,442-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_19:58:04_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_20:58:45_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,34 +13,34 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 390 |
-| US Chicago | 378 |
-| US Washington DC | 371 |
-| US New York | 367 |
-| US Atlanta | 348 |
-| US Las Vegas | 332 |
-| US Texas | 329 |
-| US Silicon Valley | 319 |
-| US East | 311 |
-| US California | 306 |
-| CA Vancouver | 304 |
+| Netherlands | 393 |
+| US Chicago | 380 |
+| US Washington DC | 373 |
+| US New York | 370 |
+| US Atlanta | 351 |
+| US Las Vegas | 333 |
+| US Texas | 331 |
+| US Silicon Valley | 321 |
+| US East | 313 |
+| US California | 307 |
+| CA Vancouver | 306 |
 | CA Toronto | 302 |
-| CA Montreal | 299 |
-| US Florida | 290 |
-| US Seattle | 280 |
-| UK London | 239 |
+| CA Montreal | 300 |
+| US Florida | 294 |
+| US Seattle | 281 |
+| UK London | 241 |
 | US Denver | 234 |
 | Switzerland | 224 |
 | CA Ontario | 215 |
-| US West | 200 |
+| US West | 201 |
 | US Houston | 184 |
 | UK Southampton | 183 |
 | SE Stockholm | 181 |
-| DE Germany Streaming Optimized | 174 |
-| AU Perth | 168 |
-| New Zealand | 168 |
+| DE Germany Streaming Optimized | 175 |
+| AU Perth | 169 |
+| New Zealand | 169 |
 | France | 157 |
-| Mexico | 133 |
+| Mexico | 134 |
 | Norway | 133 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
@@ -71,11 +71,11 @@ View the IP list [here](/servers.json)
 | US Baltimore | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
+| US Pennsylvania | 57 |
 | Uruguay | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| US Pennsylvania | 55 |
 | Slovakia | 52 |
 | US Massachusetts | 52 |
 | Turkey | 51 |
