@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,363-blue)
+![Servers](https://img.shields.io/badge/servers-12,404-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_18:57:21_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_19:58:04_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,39 +13,39 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 387 |
-| US Chicago | 376 |
-| US Washington DC | 367 |
-| US New York | 363 |
-| US Atlanta | 346 |
-| US Las Vegas | 330 |
-| US Texas | 328 |
-| US Silicon Valley | 317 |
-| US East | 310 |
-| US California | 305 |
-| CA Vancouver | 303 |
-| CA Toronto | 300 |
-| CA Montreal | 296 |
-| US Florida | 288 |
-| US Seattle | 279 |
-| UK London | 238 |
-| US Denver | 233 |
+| Netherlands | 390 |
+| US Chicago | 378 |
+| US Washington DC | 371 |
+| US New York | 367 |
+| US Atlanta | 348 |
+| US Las Vegas | 332 |
+| US Texas | 329 |
+| US Silicon Valley | 319 |
+| US East | 311 |
+| US California | 306 |
+| CA Vancouver | 304 |
+| CA Toronto | 302 |
+| CA Montreal | 299 |
+| US Florida | 290 |
+| US Seattle | 280 |
+| UK London | 239 |
+| US Denver | 234 |
 | Switzerland | 224 |
-| CA Ontario | 214 |
-| US West | 198 |
+| CA Ontario | 215 |
+| US West | 200 |
+| US Houston | 184 |
 | UK Southampton | 183 |
-| US Houston | 183 |
 | SE Stockholm | 181 |
-| DE Germany Streaming Optimized | 173 |
+| DE Germany Streaming Optimized | 174 |
+| AU Perth | 168 |
 | New Zealand | 168 |
-| AU Perth | 166 |
 | France | 157 |
 | Mexico | 133 |
 | Norway | 133 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
 | Singapore | 111 |
-| Israel | 99 |
+| Israel | 100 |
 | ES Madrid | 96 |
 | Bahamas | 96 |
 | US West Streaming Optimized | 96 |
