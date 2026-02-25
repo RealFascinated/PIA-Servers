@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,951-blue)
+![Servers](https://img.shields.io/badge/servers-11,012-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_06:57:10_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Feb_25_07:57:20_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 288 |
-| US Chicago | 287 |
-| US New York | 277 |
-| US Atlanta | 272 |
-| US Washington DC | 271 |
-| US Texas | 267 |
-| US Las Vegas | 260 |
-| US Silicon Valley | 256 |
-| US East | 243 |
-| US California | 242 |
-| CA Toronto | 241 |
-| CA Vancouver | 235 |
-| CA Montreal | 234 |
-| US Seattle | 233 |
-| US Florida | 228 |
-| US Denver | 198 |
-| UK London | 194 |
+| US Chicago | 292 |
+| Netherlands | 292 |
+| US New York | 282 |
+| US Washington DC | 276 |
+| US Atlanta | 274 |
+| US Texas | 270 |
+| US Las Vegas | 261 |
+| US Silicon Valley | 259 |
+| US East | 246 |
+| US California | 245 |
+| CA Toronto | 244 |
+| CA Vancouver | 237 |
+| CA Montreal | 237 |
+| US Seattle | 234 |
+| US Florida | 230 |
+| US Denver | 201 |
+| UK London | 197 |
 | Switzerland | 186 |
-| CA Ontario | 181 |
+| CA Ontario | 183 |
 | US West | 177 |
+| UK Southampton | 164 |
 | US Houston | 164 |
-| UK Southampton | 163 |
-| SE Stockholm | 159 |
+| SE Stockholm | 161 |
 | New Zealand | 159 |
+| DE Germany Streaming Optimized | 155 |
 | AU Perth | 155 |
-| DE Germany Streaming Optimized | 152 |
 | France | 143 |
 | Mexico | 127 |
-| Norway | 123 |
+| Norway | 124 |
 | US East Streaming Optimized | 117 |
 | Singapore | 110 |
 | UK Streaming Optimized | 110 |
@@ -61,10 +61,10 @@ View the IP list [here](/servers.json)
 | Brazil | 66 |
 | NL Netherlands Streaming Optimized | 65 |
 | Poland | 63 |
+| US Wilmington | 60 |
 | India | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | JP Streaming Optimized | 60 |
-| US Wilmington | 59 |
 | US Missouri | 59 |
 | US Baltimore | 59 |
 | Venezuela | 58 |
