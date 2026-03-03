@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,750-blue)
+![Servers](https://img.shields.io/badge/servers-13,811-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_03_13:57:26_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_03_14:57:34_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,43 +13,43 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 500 |
-| US Chicago | 465 |
-| US Washington DC | 457 |
-| US New York | 446 |
-| US Atlanta | 434 |
-| US Texas | 406 |
-| US Las Vegas | 400 |
-| US Silicon Valley | 387 |
-| US East | 386 |
-| CA Vancouver | 377 |
-| US California | 372 |
-| CA Toronto | 370 |
+| Netherlands | 507 |
+| US Chicago | 470 |
+| US Washington DC | 459 |
+| US New York | 449 |
+| US Atlanta | 436 |
+| US Texas | 410 |
+| US Las Vegas | 401 |
+| US Silicon Valley | 390 |
+| US East | 389 |
+| CA Vancouver | 382 |
+| US California | 378 |
+| CA Toronto | 373 |
 | CA Montreal | 360 |
-| US Florida | 341 |
-| US Seattle | 328 |
-| UK London | 274 |
-| Switzerland | 265 |
-| US Denver | 262 |
+| US Florida | 345 |
+| US Seattle | 331 |
+| UK London | 277 |
+| Switzerland | 266 |
+| US Denver | 263 |
 | CA Ontario | 240 |
 | US West | 216 |
 | SE Stockholm | 198 |
 | UK Southampton | 192 |
 | US Houston | 189 |
+| New Zealand | 181 |
 | DE Germany Streaming Optimized | 180 |
-| New Zealand | 180 |
 | AU Perth | 177 |
-| France | 162 |
+| France | 163 |
 | Norway | 139 |
 | Mexico | 136 |
 | US East Streaming Optimized | 120 |
 | Singapore | 116 |
 | UK Streaming Optimized | 113 |
 | Israel | 100 |
+| Belgium | 99 |
 | Bahamas | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
-| Belgium | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | DK Copenhagen | 90 |
@@ -102,7 +102,7 @@ View the IP list [here](/servers.json)
 | Chile | 36 |
 | Iceland | 36 |
 | Costa Rica | 35 |
-| Georgia | 34 |
+| Georgia | 35 |
 | Qatar | 33 |
 | Hong Kong | 32 |
 | Bangladesh | 31 |
