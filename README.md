@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,375-blue)
+![Servers](https://img.shields.io/badge/servers-13,434-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_03_02:58:31_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_03_03:58:52_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 464 |
-| US Chicago | 435 |
-| US Washington DC | 431 |
-| US New York | 418 |
-| US Atlanta | 408 |
-| US Las Vegas | 383 |
-| US Texas | 380 |
-| US East | 367 |
-| US Silicon Valley | 367 |
+| Netherlands | 469 |
+| US Chicago | 442 |
+| US Washington DC | 434 |
+| US New York | 423 |
+| US Atlanta | 413 |
+| US Las Vegas | 384 |
+| US Texas | 382 |
+| US East | 373 |
+| US Silicon Valley | 369 |
+| US California | 361 |
 | CA Vancouver | 358 |
-| US California | 358 |
-| CA Toronto | 351 |
-| CA Montreal | 345 |
-| US Florida | 331 |
-| US Seattle | 314 |
-| UK London | 263 |
+| CA Toronto | 354 |
+| CA Montreal | 347 |
+| US Florida | 333 |
+| US Seattle | 318 |
+| UK London | 266 |
 | US Denver | 259 |
-| Switzerland | 251 |
-| CA Ontario | 232 |
+| Switzerland | 252 |
+| CA Ontario | 234 |
 | US West | 211 |
 | SE Stockholm | 196 |
 | UK Southampton | 192 |
 | US Houston | 188 |
 | DE Germany Streaming Optimized | 179 |
-| New Zealand | 178 |
+| New Zealand | 179 |
 | AU Perth | 175 |
-| France | 161 |
+| France | 162 |
 | Norway | 137 |
 | Mexico | 135 |
 | US East Streaming Optimized | 120 |
@@ -49,7 +49,7 @@ View the IP list [here](/servers.json)
 | Bahamas | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
-| Belgium | 95 |
+| Belgium | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | DK Copenhagen | 90 |
