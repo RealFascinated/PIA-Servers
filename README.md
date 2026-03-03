@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,465-blue)
+![Servers](https://img.shields.io/badge/servers-13,507-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_03_04:59:14_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_03_05:59:36_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 472 |
-| US Chicago | 445 |
-| US Washington DC | 436 |
-| US New York | 426 |
-| US Atlanta | 414 |
-| US Las Vegas | 386 |
-| US Texas | 382 |
+| Netherlands | 478 |
+| US Chicago | 449 |
+| US Washington DC | 440 |
+| US New York | 430 |
+| US Atlanta | 415 |
+| US Las Vegas | 389 |
+| US Texas | 386 |
+| US Silicon Valley | 377 |
 | US East | 375 |
-| US Silicon Valley | 373 |
-| CA Vancouver | 361 |
+| CA Vancouver | 363 |
 | US California | 361 |
 | CA Toronto | 355 |
-| CA Montreal | 348 |
-| US Florida | 335 |
+| CA Montreal | 350 |
+| US Florida | 336 |
 | US Seattle | 319 |
-| UK London | 267 |
+| UK London | 268 |
 | US Denver | 259 |
-| Switzerland | 253 |
+| Switzerland | 254 |
 | CA Ontario | 234 |
-| US West | 212 |
-| SE Stockholm | 196 |
+| US West | 213 |
+| SE Stockholm | 197 |
 | UK Southampton | 192 |
 | US Houston | 188 |
+| New Zealand | 180 |
 | DE Germany Streaming Optimized | 179 |
-| New Zealand | 179 |
 | AU Perth | 175 |
 | France | 162 |
 | Norway | 137 |
@@ -49,7 +49,7 @@ View the IP list [here](/servers.json)
 | Bahamas | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
-| Belgium | 96 |
+| Belgium | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | DK Copenhagen | 90 |
@@ -76,9 +76,9 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
+| Turkey | 52 |
 | Slovakia | 52 |
 | US Massachusetts | 52 |
-| Turkey | 51 |
 | United Arab Emirates | 49 |
 | Andorra | 48 |
 | Latvia | 48 |
