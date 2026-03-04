@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,262-blue)
+![Servers](https://img.shields.io/badge/servers-14,300-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_04_06:58:01_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_04_07:58:23_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 555 |
-| US Chicago | 509 |
-| US New York | 486 |
-| US Washington DC | 486 |
-| US Atlanta | 468 |
-| US Texas | 438 |
-| US East | 418 |
-| US Las Vegas | 417 |
-| CA Toronto | 409 |
-| US Silicon Valley | 407 |
-| CA Vancouver | 406 |
-| US California | 397 |
+| Netherlands | 556 |
+| US Chicago | 512 |
+| US Washington DC | 490 |
+| US New York | 488 |
+| US Atlanta | 470 |
+| US Texas | 442 |
+| US Las Vegas | 422 |
+| US East | 420 |
+| CA Toronto | 411 |
+| US Silicon Valley | 410 |
+| CA Vancouver | 407 |
+| US California | 398 |
 | CA Montreal | 379 |
-| US Florida | 364 |
-| US Seattle | 344 |
+| US Florida | 365 |
+| US Seattle | 347 |
 | UK London | 285 |
-| Switzerland | 277 |
+| Switzerland | 278 |
 | US Denver | 266 |
-| CA Ontario | 245 |
+| CA Ontario | 246 |
 | US West | 217 |
 | SE Stockholm | 202 |
 | UK Southampton | 196 |
 | US Houston | 192 |
 | DE Germany Streaming Optimized | 183 |
+| AU Perth | 181 |
 | New Zealand | 181 |
-| AU Perth | 180 |
 | France | 164 |
 | Norway | 140 |
 | Mexico | 137 |
@@ -106,9 +106,9 @@ View the IP list [here](/servers.json)
 | Qatar | 33 |
 | Hong Kong | 32 |
 | Bangladesh | 31 |
+| US South Carolina | 30 |
 | Hungary | 30 |
 | IT Streaming Optimized | 30 |
-| US South Carolina | 29 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
 | Czech Republic | 28 |
