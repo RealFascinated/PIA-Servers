@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,756-blue)
+![Servers](https://img.shields.io/badge/servers-13,803-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_10_07:56:09_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_10_08:56:27_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,51 +13,51 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 828 |
+| Netherlands | 829 |
 | US Chicago | 630 |
 | US New York | 606 |
-| US Washington DC | 592 |
-| US Atlanta | 571 |
-| US Texas | 526 |
-| US East | 479 |
+| US Washington DC | 593 |
+| US Atlanta | 572 |
+| US Texas | 527 |
+| US East | 480 |
 | CA Toronto | 473 |
 | CA Vancouver | 447 |
 | US Las Vegas | 435 |
-| CA Montreal | 431 |
+| CA Montreal | 432 |
 | US Silicon Valley | 423 |
-| US California | 397 |
-| US Florida | 365 |
-| US Seattle | 326 |
-| UK London | 266 |
+| US California | 398 |
+| US Florida | 367 |
+| US Seattle | 327 |
+| UK London | 268 |
 | Switzerland | 243 |
 | US Denver | 226 |
 | CA Ontario | 201 |
-| US West | 162 |
-| SE Stockholm | 150 |
+| US West | 164 |
+| SE Stockholm | 152 |
+| US Houston | 147 |
 | UK Southampton | 146 |
-| US Houston | 146 |
-| DE Germany Streaming Optimized | 142 |
-| France | 133 |
+| DE Germany Streaming Optimized | 143 |
+| France | 135 |
+| AU Perth | 132 |
 | New Zealand | 131 |
-| AU Perth | 130 |
 | Mexico | 110 |
-| Norway | 99 |
+| Norway | 101 |
 | Singapore | 81 |
 | Bahamas | 79 |
+| US East Streaming Optimized | 78 |
 | ES Madrid | 77 |
-| US East Streaming Optimized | 77 |
-| Israel | 76 |
+| Israel | 77 |
+| Panama | 75 |
+| US West Streaming Optimized | 74 |
 | UK Streaming Optimized | 74 |
-| Panama | 73 |
 | Luxembourg | 73 |
-| US West Streaming Optimized | 73 |
 | Belgium | 73 |
-| DK Copenhagen | 68 |
-| AU Brisbane | 63 |
-| IT Milano | 63 |
+| DK Copenhagen | 70 |
+| AU Brisbane | 64 |
+| IT Milano | 64 |
 | Argentina | 61 |
 | Brazil | 61 |
-| JP Streaming Optimized | 55 |
+| JP Streaming Optimized | 56 |
 | Venezuela | 54 |
 | NL Netherlands Streaming Optimized | 53 |
 | US Wilmington | 52 |
@@ -67,19 +67,19 @@ View the IP list [here](/servers.json)
 | US Pennsylvania | 51 |
 | Ukraine | 50 |
 | Lithuania | 50 |
+| Uruguay | 50 |
 | CA Ontario Streaming Optimized | 50 |
+| US Connecticut | 50 |
 | DK Streaming Optimized | 49 |
 | Ecuador | 49 |
-| Uruguay | 49 |
-| US Connecticut | 49 |
-| Austria | 47 |
+| Austria | 48 |
 | Slovakia | 47 |
 | India | 46 |
 | Taiwan | 44 |
 | Turkey | 43 |
+| Andorra | 42 |
 | Vietnam | 42 |
 | US Massachusetts | 42 |
-| Andorra | 41 |
 | Saudi Arabia | 41 |
 | Isle OF Man | 41 |
 | US Ohio | 39 |
@@ -87,18 +87,18 @@ View the IP list [here](/servers.json)
 | US West Virginia | 37 |
 | Liechtenstein | 37 |
 | US Wisconsin | 37 |
+| US Michigan | 37 |
 | Morocco | 36 |
-| US Michigan | 36 |
 | Malta | 35 |
-| Philippines | 33 |
+| Philippines | 34 |
+| Chile | 34 |
 | Algeria | 33 |
 | Costa Rica | 33 |
-| Chile | 33 |
 | Albania | 31 |
-| US South Carolina | 30 |
+| US South Carolina | 31 |
+| Bangladesh | 31 |
 | Hong Kong | 30 |
 | IT Streaming Optimized | 30 |
-| Bangladesh | 30 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 27 |
@@ -106,10 +106,10 @@ View the IP list [here](/servers.json)
 | Bolivia | 27 |
 | Australia Streaming Optimized | 26 |
 | Montenegro | 26 |
+| Hungary | 25 |
 | Macao | 25 |
 | Malaysia | 25 |
 | Armenia | 24 |
-| Hungary | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
 | Egypt | 24 |
@@ -139,12 +139,12 @@ View the IP list [here](/servers.json)
 | US North Dakota | 18 |
 | US Rhode Island | 17 |
 | Poland | 15 |
+| Cambodia | 15 |
 | Serbia | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
 | Iceland | 13 |
 | SE Streaming Optimized | 12 |
-| Cambodia | 12 |
 | Mongolia | 12 |
 | Nigeria | 12 |
 | Sri Lanka | 11 |
