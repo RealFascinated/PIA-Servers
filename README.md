@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,582-blue)
+![Servers](https://img.shields.io/badge/servers-12,548-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_10_23:55:44_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_11_00:55:54_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,75 +13,75 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 734 |
-| US Chicago | 532 |
-| US New York | 512 |
-| US Washington DC | 507 |
-| US Atlanta | 478 |
-| US Texas | 438 |
-| US East | 409 |
-| CA Toronto | 392 |
-| CA Montreal | 371 |
-| CA Vancouver | 370 |
-| US Las Vegas | 353 |
-| US Silicon Valley | 350 |
-| US California | 327 |
-| US Florida | 294 |
-| US Seattle | 265 |
-| UK London | 232 |
-| Switzerland | 202 |
-| US Denver | 185 |
-| CA Ontario | 162 |
-| US West | 155 |
-| SE Stockholm | 138 |
-| US Houston | 136 |
-| UK Southampton | 130 |
-| DE Germany Streaming Optimized | 127 |
-| New Zealand | 123 |
-| AU Perth | 118 |
-| France | 116 |
-| Mexico | 103 |
-| Norway | 98 |
-| US East Streaming Optimized | 91 |
-| Singapore | 90 |
-| Israel | 84 |
-| UK Streaming Optimized | 83 |
+| Netherlands | 733 |
+| US Chicago | 528 |
+| US New York | 509 |
+| US Washington DC | 502 |
+| US Atlanta | 470 |
+| US Texas | 433 |
+| US East | 408 |
+| CA Toronto | 388 |
+| CA Montreal | 368 |
+| CA Vancouver | 366 |
+| US Las Vegas | 349 |
+| US Silicon Valley | 343 |
+| US California | 326 |
+| US Florida | 292 |
+| US Seattle | 262 |
+| UK London | 227 |
+| Switzerland | 203 |
+| US Denver | 186 |
+| CA Ontario | 160 |
+| US West | 153 |
+| SE Stockholm | 137 |
+| US Houston | 137 |
+| UK Southampton | 132 |
+| DE Germany Streaming Optimized | 126 |
+| New Zealand | 125 |
+| AU Perth | 117 |
+| France | 115 |
+| Mexico | 105 |
+| Norway | 101 |
+| Singapore | 94 |
+| US East Streaming Optimized | 92 |
+| Israel | 85 |
+| UK Streaming Optimized | 82 |
 | Panama | 81 |
+| ES Madrid | 80 |
 | Luxembourg | 79 |
-| ES Madrid | 79 |
+| US West Streaming Optimized | 78 |
 | Belgium | 78 |
-| Bahamas | 77 |
-| US West Streaming Optimized | 76 |
-| IT Milano | 76 |
-| DK Copenhagen | 72 |
-| AU Brisbane | 69 |
+| IT Milano | 77 |
+| Bahamas | 76 |
+| DK Copenhagen | 73 |
+| AU Brisbane | 70 |
+| Estonia | 62 |
 | Argentina | 62 |
-| Estonia | 60 |
-| NL Netherlands Streaming Optimized | 60 |
-| Brazil | 60 |
-| US Baltimore | 59 |
-| CA Ontario Streaming Optimized | 58 |
-| US Wilmington | 57 |
+| NL Netherlands Streaming Optimized | 61 |
+| US Baltimore | 60 |
+| Brazil | 59 |
+| CA Ontario Streaming Optimized | 59 |
+| US Wilmington | 58 |
 | Ukraine | 57 |
 | DK Streaming Optimized | 56 |
 | Venezuela | 56 |
-| Ecuador | 56 |
-| India | 55 |
+| India | 56 |
+| Ecuador | 55 |
 | JP Streaming Optimized | 55 |
 | US Connecticut | 55 |
+| Austria | 54 |
+| Uruguay | 54 |
+| US Missouri | 54 |
 | Lithuania | 53 |
-| Uruguay | 53 |
 | US Pennsylvania | 53 |
-| US Missouri | 53 |
-| Austria | 52 |
+| Slovakia | 50 |
 | US Massachusetts | 50 |
-| Slovakia | 49 |
 | Andorra | 47 |
-| Turkey | 46 |
+| Turkey | 47 |
 | Taiwan | 46 |
 | Vietnam | 44 |
+| Isle OF Man | 44 |
 | US Iowa | 43 |
-| Isle OF Man | 43 |
 | Portugal | 42 |
 | Saudi Arabia | 41 |
 | US Ohio | 41 |
