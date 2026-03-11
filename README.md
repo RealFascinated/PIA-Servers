@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,587-blue)
+![Servers](https://img.shields.io/badge/servers-12,681-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_11_19:55:22_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_11_20:55:32_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,44 +14,44 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 658 |
-| US Chicago | 468 |
-| US New York | 456 |
-| US Atlanta | 423 |
-| US Washington DC | 417 |
-| US Texas | 412 |
-| CA Toronto | 373 |
-| US East | 368 |
-| CA Vancouver | 344 |
-| CA Montreal | 343 |
-| US Silicon Valley | 315 |
-| US Las Vegas | 311 |
-| US California | 294 |
-| US Florida | 289 |
-| US Seattle | 268 |
-| UK London | 240 |
-| Switzerland | 219 |
-| US Denver | 207 |
-| CA Ontario | 184 |
-| US West | 183 |
-| SE Stockholm | 163 |
+| US Chicago | 472 |
+| US New York | 460 |
+| US Atlanta | 425 |
+| US Washington DC | 420 |
+| US Texas | 413 |
+| CA Toronto | 378 |
+| US East | 371 |
+| CA Montreal | 348 |
+| CA Vancouver | 347 |
+| US Silicon Valley | 322 |
+| US Las Vegas | 316 |
+| US California | 298 |
+| US Florida | 290 |
+| US Seattle | 273 |
+| UK London | 243 |
+| Switzerland | 223 |
+| US Denver | 211 |
+| CA Ontario | 188 |
+| US West | 187 |
+| SE Stockholm | 168 |
+| New Zealand | 156 |
 | US Houston | 155 |
-| New Zealand | 153 |
-| AU Perth | 151 |
-| UK Southampton | 151 |
-| DE Germany Streaming Optimized | 147 |
-| France | 141 |
-| Norway | 124 |
-| Mexico | 118 |
+| AU Perth | 152 |
+| UK Southampton | 152 |
+| DE Germany Streaming Optimized | 150 |
+| France | 144 |
+| Norway | 125 |
+| Mexico | 117 |
 | US East Streaming Optimized | 115 |
 | Singapore | 113 |
 | UK Streaming Optimized | 104 |
-| Israel | 99 |
+| Israel | 100 |
 | Bahamas | 95 |
-| ES Madrid | 92 |
+| ES Madrid | 93 |
+| US West Streaming Optimized | 92 |
+| Belgium | 92 |
 | Panama | 91 |
 | Luxembourg | 91 |
-| Belgium | 91 |
-| US West Streaming Optimized | 90 |
 | IT Milano | 87 |
 | DK Copenhagen | 84 |
 | AU Brisbane | 83 |
@@ -70,10 +70,10 @@ View the IP list [here](/servers.json)
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | Uruguay | 56 |
+| US Pennsylvania | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| US Pennsylvania | 54 |
 | Turkey | 52 |
 | Slovakia | 52 |
 | US Massachusetts | 52 |
