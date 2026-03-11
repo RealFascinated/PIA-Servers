@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,671-blue)
+![Servers](https://img.shields.io/badge/servers-12,582-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_10_22:55:34_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_10_23:55:44_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,88 +13,88 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 745 |
-| US Chicago | 540 |
-| US New York | 522 |
-| US Washington DC | 519 |
-| US Atlanta | 487 |
-| US Texas | 447 |
-| US East | 414 |
-| CA Toronto | 402 |
-| CA Montreal | 381 |
-| CA Vancouver | 377 |
-| US Las Vegas | 361 |
-| US Silicon Valley | 356 |
-| US California | 335 |
-| US Florida | 300 |
-| US Seattle | 271 |
-| UK London | 239 |
-| Switzerland | 203 |
-| US Denver | 191 |
-| CA Ontario | 165 |
+| Netherlands | 734 |
+| US Chicago | 532 |
+| US New York | 512 |
+| US Washington DC | 507 |
+| US Atlanta | 478 |
+| US Texas | 438 |
+| US East | 409 |
+| CA Toronto | 392 |
+| CA Montreal | 371 |
+| CA Vancouver | 370 |
+| US Las Vegas | 353 |
+| US Silicon Valley | 350 |
+| US California | 327 |
+| US Florida | 294 |
+| US Seattle | 265 |
+| UK London | 232 |
+| Switzerland | 202 |
+| US Denver | 185 |
+| CA Ontario | 162 |
 | US West | 155 |
-| SE Stockholm | 137 |
-| US Houston | 131 |
-| UK Southampton | 129 |
-| DE Germany Streaming Optimized | 125 |
-| New Zealand | 124 |
-| AU Perth | 120 |
-| France | 114 |
-| Mexico | 102 |
+| SE Stockholm | 138 |
+| US Houston | 136 |
+| UK Southampton | 130 |
+| DE Germany Streaming Optimized | 127 |
+| New Zealand | 123 |
+| AU Perth | 118 |
+| France | 116 |
+| Mexico | 103 |
 | Norway | 98 |
-| US East Streaming Optimized | 90 |
-| Singapore | 88 |
+| US East Streaming Optimized | 91 |
+| Singapore | 90 |
+| Israel | 84 |
+| UK Streaming Optimized | 83 |
 | Panama | 81 |
-| UK Streaming Optimized | 79 |
-| Israel | 79 |
-| ES Madrid | 76 |
-| Bahamas | 76 |
-| Belgium | 76 |
-| Luxembourg | 75 |
-| US West Streaming Optimized | 75 |
-| DK Copenhagen | 74 |
-| IT Milano | 73 |
-| AU Brisbane | 66 |
-| Argentina | 61 |
+| Luxembourg | 79 |
+| ES Madrid | 79 |
+| Belgium | 78 |
+| Bahamas | 77 |
+| US West Streaming Optimized | 76 |
+| IT Milano | 76 |
+| DK Copenhagen | 72 |
+| AU Brisbane | 69 |
+| Argentina | 62 |
 | Estonia | 60 |
 | NL Netherlands Streaming Optimized | 60 |
+| Brazil | 60 |
 | US Baltimore | 59 |
-| Brazil | 58 |
 | CA Ontario Streaming Optimized | 58 |
-| US Wilmington | 56 |
-| Ukraine | 56 |
+| US Wilmington | 57 |
+| Ukraine | 57 |
+| DK Streaming Optimized | 56 |
+| Venezuela | 56 |
 | Ecuador | 56 |
-| Venezuela | 55 |
+| India | 55 |
 | JP Streaming Optimized | 55 |
-| DK Streaming Optimized | 54 |
-| India | 54 |
+| US Connecticut | 55 |
+| Lithuania | 53 |
+| Uruguay | 53 |
+| US Pennsylvania | 53 |
 | US Missouri | 53 |
-| US Connecticut | 53 |
 | Austria | 52 |
-| Uruguay | 52 |
-| US Pennsylvania | 52 |
-| Lithuania | 51 |
 | US Massachusetts | 50 |
 | Slovakia | 49 |
 | Andorra | 47 |
 | Turkey | 46 |
 | Taiwan | 46 |
 | Vietnam | 44 |
-| Isle OF Man | 44 |
-| Saudi Arabia | 42 |
-| US Iowa | 42 |
+| US Iowa | 43 |
+| Isle OF Man | 43 |
+| Portugal | 42 |
+| Saudi Arabia | 41 |
+| US Ohio | 41 |
 | Liechtenstein | 41 |
-| US Ohio | 40 |
-| Portugal | 40 |
 | US West Virginia | 40 |
-| US Wisconsin | 39 |
+| US Wisconsin | 40 |
 | US Michigan | 39 |
 | Morocco | 38 |
+| Serbia | 37 |
 | Albania | 36 |
-| Serbia | 36 |
+| Philippines | 36 |
 | Chile | 36 |
 | Malta | 36 |
-| Philippines | 35 |
 | Algeria | 35 |
 | Costa Rica | 35 |
 | Hong Kong | 32 |
@@ -148,12 +148,12 @@ View the IP list [here](/servers.json)
 | Sri Lanka | 11 |
 | Qatar | 11 |
 | Moldova | 8 |
-| Greenland | 8 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
+| Greenland | 6 |
 | Poland | 5 |
-| United Arab Emirates | 5 |
 | Latvia | 5 |
+| United Arab Emirates | 4 |
 | DE Berlin | 4 |
 | US Salt Lake City | 4 |
 | UK Manchester | 3 |
