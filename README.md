@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,357-blue)
+![Servers](https://img.shields.io/badge/servers-13,422-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_13:57:47_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_14:57:57_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,37 +13,37 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 666 |
-| US Chicago | 499 |
-| US New York | 486 |
-| US Atlanta | 466 |
-| US Washington DC | 449 |
-| US Texas | 441 |
-| CA Toronto | 389 |
-| US East | 387 |
-| CA Montreal | 377 |
+| Netherlands | 669 |
+| US Chicago | 503 |
+| US New York | 494 |
+| US Atlanta | 468 |
+| US Washington DC | 453 |
+| US Texas | 444 |
+| CA Toronto | 394 |
+| US East | 388 |
+| CA Montreal | 384 |
 | CA Vancouver | 358 |
-| US Silicon Valley | 354 |
-| US Las Vegas | 346 |
-| US Florida | 319 |
-| US California | 309 |
+| US Silicon Valley | 358 |
+| US Las Vegas | 350 |
+| US Florida | 321 |
+| US California | 311 |
 | US Seattle | 303 |
-| UK London | 277 |
-| Switzerland | 247 |
-| US Denver | 236 |
-| CA Ontario | 216 |
-| US West | 207 |
-| US Houston | 179 |
-| UK Southampton | 176 |
-| New Zealand | 174 |
-| SE Stockholm | 171 |
+| UK London | 278 |
+| Switzerland | 249 |
+| US Denver | 237 |
+| CA Ontario | 218 |
+| US West | 208 |
+| US Houston | 181 |
+| UK Southampton | 177 |
+| New Zealand | 176 |
+| SE Stockholm | 172 |
+| AU Perth | 170 |
 | DE Germany Streaming Optimized | 169 |
-| AU Perth | 168 |
 | France | 161 |
 | Norway | 135 |
 | Mexico | 132 |
 | US East Streaming Optimized | 120 |
-| Singapore | 115 |
+| Singapore | 116 |
 | UK Streaming Optimized | 112 |
 | Israel | 100 |
 | Belgium | 98 |
