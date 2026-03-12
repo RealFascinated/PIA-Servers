@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,422-blue)
+![Servers](https://img.shields.io/badge/servers-13,474-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_14:57:57_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_15:58:07_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 669 |
-| US Chicago | 503 |
-| US New York | 494 |
-| US Atlanta | 468 |
-| US Washington DC | 453 |
-| US Texas | 444 |
-| CA Toronto | 394 |
-| US East | 388 |
-| CA Montreal | 384 |
-| CA Vancouver | 358 |
-| US Silicon Valley | 358 |
-| US Las Vegas | 350 |
-| US Florida | 321 |
-| US California | 311 |
-| US Seattle | 303 |
+| Netherlands | 673 |
+| US Chicago | 506 |
+| US New York | 499 |
+| US Atlanta | 470 |
+| US Washington DC | 458 |
+| US Texas | 446 |
+| CA Toronto | 397 |
+| US East | 392 |
+| CA Montreal | 386 |
+| US Silicon Valley | 362 |
+| CA Vancouver | 360 |
+| US Las Vegas | 353 |
+| US Florida | 323 |
+| US California | 314 |
+| US Seattle | 305 |
 | UK London | 278 |
 | Switzerland | 249 |
 | US Denver | 237 |
 | CA Ontario | 218 |
-| US West | 208 |
+| US West | 210 |
 | US Houston | 181 |
 | UK Southampton | 177 |
 | New Zealand | 176 |
-| SE Stockholm | 172 |
-| AU Perth | 170 |
+| SE Stockholm | 173 |
+| AU Perth | 171 |
 | DE Germany Streaming Optimized | 169 |
-| France | 161 |
+| France | 162 |
 | Norway | 135 |
 | Mexico | 132 |
 | US East Streaming Optimized | 120 |
@@ -154,12 +154,12 @@ View the IP list [here](/servers.json)
 | Latvia | 5 |
 | United Arab Emirates | 4 |
 | DE Berlin | 4 |
+| US Salt Lake City | 4 |
 | Poland | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
-| US Salt Lake City | 3 |
 | China | 3 |
 | Ireland | 3 |
 | AU Adelaide | 2 |
