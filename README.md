@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,664-blue)
+![Servers](https://img.shields.io/badge/servers-13,691-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_17:58:06_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_18:58:16_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 681 |
+| Netherlands | 683 |
 | US Chicago | 515 |
-| US New York | 506 |
-| US Atlanta | 480 |
-| US Washington DC | 469 |
+| US New York | 510 |
+| US Atlanta | 481 |
+| US Washington DC | 470 |
 | US Texas | 451 |
-| CA Toronto | 407 |
-| US East | 405 |
-| CA Montreal | 393 |
-| CA Vancouver | 370 |
-| US Silicon Valley | 370 |
-| US Las Vegas | 363 |
-| US Florida | 331 |
-| US California | 324 |
+| CA Toronto | 408 |
+| US East | 407 |
+| CA Montreal | 394 |
+| US Silicon Valley | 373 |
+| CA Vancouver | 371 |
+| US Las Vegas | 364 |
+| US Florida | 334 |
+| US California | 326 |
 | US Seattle | 314 |
 | UK London | 282 |
-| Switzerland | 255 |
+| Switzerland | 256 |
 | US Denver | 243 |
 | CA Ontario | 223 |
-| US West | 211 |
+| US West | 212 |
 | US Houston | 185 |
-| UK Southampton | 183 |
+| UK Southampton | 184 |
 | New Zealand | 178 |
 | SE Stockholm | 177 |
 | AU Perth | 176 |
 | DE Germany Streaming Optimized | 172 |
 | France | 164 |
+| Mexico | 136 |
 | Norway | 136 |
-| Mexico | 135 |
 | US East Streaming Optimized | 120 |
 | Singapore | 116 |
 | UK Streaming Optimized | 112 |
@@ -52,7 +52,7 @@ View the IP list [here](/servers.json)
 | ES Madrid | 94 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| DK Copenhagen | 87 |
+| DK Copenhagen | 88 |
 | IT Milano | 87 |
 | AU Brisbane | 84 |
 | Argentina | 74 |
