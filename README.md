@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,247-blue)
+![Servers](https://img.shields.io/badge/servers-13,290-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_11:57:15_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_12:57:35_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 661 |
-| US Chicago | 491 |
-| US New York | 480 |
-| US Atlanta | 461 |
-| US Washington DC | 445 |
-| US Texas | 432 |
-| CA Toronto | 384 |
-| US East | 381 |
-| CA Montreal | 372 |
-| CA Vancouver | 350 |
+| Netherlands | 664 |
+| US Chicago | 495 |
+| US New York | 484 |
+| US Atlanta | 462 |
+| US Washington DC | 446 |
+| US Texas | 436 |
+| CA Toronto | 386 |
+| US East | 384 |
+| CA Montreal | 373 |
+| CA Vancouver | 354 |
 | US Silicon Valley | 348 |
-| US Las Vegas | 342 |
-| US Florida | 312 |
-| US California | 305 |
-| US Seattle | 301 |
-| UK London | 272 |
-| Switzerland | 249 |
-| US Denver | 234 |
-| CA Ontario | 214 |
-| US West | 202 |
+| US Las Vegas | 344 |
+| US Florida | 313 |
+| US California | 306 |
+| US Seattle | 302 |
+| UK London | 275 |
+| Switzerland | 247 |
+| US Denver | 235 |
+| CA Ontario | 215 |
+| US West | 205 |
 | US Houston | 177 |
 | UK Southampton | 175 |
 | New Zealand | 173 |
 | SE Stockholm | 171 |
 | DE Germany Streaming Optimized | 167 |
-| AU Perth | 166 |
-| France | 158 |
+| AU Perth | 167 |
+| France | 159 |
 | Norway | 135 |
 | Mexico | 132 |
 | US East Streaming Optimized | 120 |
-| Singapore | 114 |
-| UK Streaming Optimized | 110 |
+| Singapore | 115 |
+| UK Streaming Optimized | 112 |
 | Israel | 100 |
 | Belgium | 98 |
 | Bahamas | 97 |
