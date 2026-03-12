@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,976-blue)
+![Servers](https://img.shields.io/badge/servers-13,020-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_04:56:32_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_05:56:42_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 658 |
-| US Chicago | 479 |
-| US New York | 467 |
-| US Atlanta | 448 |
-| US Washington DC | 423 |
-| US Texas | 423 |
+| Netherlands | 659 |
+| US Chicago | 483 |
+| US New York | 469 |
+| US Atlanta | 447 |
+| US Washington DC | 425 |
+| US Texas | 425 |
 | CA Toronto | 381 |
-| US East | 378 |
+| US East | 380 |
 | CA Montreal | 355 |
-| CA Vancouver | 348 |
-| US Silicon Valley | 333 |
-| US Las Vegas | 327 |
-| US California | 302 |
+| CA Vancouver | 352 |
+| US Silicon Valley | 335 |
+| US Las Vegas | 329 |
+| US California | 305 |
+| US Seattle | 295 |
 | US Florida | 294 |
-| US Seattle | 292 |
-| UK London | 263 |
-| Switzerland | 241 |
-| US Denver | 224 |
-| US West | 197 |
-| CA Ontario | 196 |
-| UK Southampton | 166 |
-| US Houston | 166 |
+| UK London | 266 |
+| Switzerland | 243 |
+| US Denver | 226 |
+| US West | 200 |
+| CA Ontario | 197 |
+| UK Southampton | 167 |
+| US Houston | 167 |
+| DE Germany Streaming Optimized | 165 |
+| SE Stockholm | 165 |
 | New Zealand | 165 |
-| SE Stockholm | 164 |
-| DE Germany Streaming Optimized | 163 |
 | AU Perth | 163 |
 | France | 154 |
 | Norway | 130 |
-| Mexico | 128 |
+| Mexico | 129 |
 | US East Streaming Optimized | 119 |
 | Singapore | 113 |
 | UK Streaming Optimized | 108 |
@@ -57,8 +57,8 @@ View the IP list [here](/servers.json)
 | AU Brisbane | 84 |
 | Argentina | 74 |
 | Estonia | 67 |
+| NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
-| NL Netherlands Streaming Optimized | 65 |
 | US Wilmington | 60 |
 | India | 60 |
 | US Missouri | 60 |
