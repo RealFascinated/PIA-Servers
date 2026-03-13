@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,217-blue)
+![Servers](https://img.shields.io/badge/servers-14,277-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_13_05:55:11_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_13_06:55:21_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 723 |
-| US Chicago | 548 |
-| US New York | 544 |
-| US Atlanta | 509 |
-| US Washington DC | 499 |
-| US Texas | 480 |
-| CA Toronto | 435 |
-| US East | 431 |
-| CA Montreal | 421 |
-| CA Vancouver | 400 |
-| US Silicon Valley | 399 |
-| US Las Vegas | 393 |
-| US Florida | 361 |
-| US California | 353 |
-| US Seattle | 330 |
-| UK London | 295 |
-| Switzerland | 270 |
+| Netherlands | 729 |
+| US Chicago | 551 |
+| US New York | 549 |
+| US Atlanta | 511 |
+| US Washington DC | 502 |
+| US Texas | 482 |
+| CA Toronto | 439 |
+| US East | 435 |
+| CA Montreal | 424 |
+| US Silicon Valley | 402 |
+| CA Vancouver | 401 |
+| US Las Vegas | 394 |
+| US Florida | 362 |
+| US California | 361 |
+| US Seattle | 332 |
+| UK London | 296 |
+| Switzerland | 271 |
 | US Denver | 256 |
-| CA Ontario | 236 |
-| US West | 216 |
+| CA Ontario | 240 |
+| US West | 217 |
 | UK Southampton | 193 |
-| US Houston | 192 |
-| SE Stockholm | 187 |
+| US Houston | 193 |
+| SE Stockholm | 188 |
+| AU Perth | 179 |
 | New Zealand | 179 |
-| AU Perth | 178 |
-| DE Germany Streaming Optimized | 174 |
+| DE Germany Streaming Optimized | 175 |
 | France | 167 |
 | Norway | 139 |
 | Mexico | 137 |
@@ -52,7 +52,7 @@ View the IP list [here](/servers.json)
 | ES Madrid | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| DK Copenhagen | 89 |
+| DK Copenhagen | 90 |
 | IT Milano | 87 |
 | AU Brisbane | 84 |
 | Argentina | 75 |
