@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,810-blue)
+![Servers](https://img.shields.io/badge/servers-13,864-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_22:58:47_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_12_23:55:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,49 +13,49 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 694 |
-| US Chicago | 524 |
-| US New York | 519 |
-| US Atlanta | 485 |
-| US Washington DC | 475 |
-| US Texas | 454 |
+| Netherlands | 699 |
+| US Chicago | 527 |
+| US New York | 521 |
+| US Atlanta | 488 |
+| US Washington DC | 477 |
+| US Texas | 461 |
 | US East | 415 |
-| CA Toronto | 411 |
-| CA Montreal | 403 |
-| US Silicon Valley | 381 |
-| CA Vancouver | 379 |
-| US Las Vegas | 368 |
-| US Florida | 339 |
-| US California | 331 |
-| US Seattle | 319 |
-| UK London | 284 |
-| Switzerland | 261 |
-| US Denver | 243 |
-| CA Ontario | 226 |
-| US West | 212 |
-| UK Southampton | 188 |
+| CA Toronto | 415 |
+| CA Montreal | 404 |
+| US Silicon Valley | 382 |
+| CA Vancouver | 380 |
+| US Las Vegas | 373 |
+| US Florida | 342 |
+| US California | 336 |
+| US Seattle | 318 |
+| UK London | 287 |
+| Switzerland | 260 |
+| US Denver | 244 |
+| CA Ontario | 230 |
+| US West | 213 |
+| UK Southampton | 187 |
 | US Houston | 187 |
 | SE Stockholm | 181 |
+| AU Perth | 178 |
 | New Zealand | 178 |
-| AU Perth | 176 |
 | DE Germany Streaming Optimized | 173 |
 | France | 165 |
 | Norway | 137 |
 | Mexico | 136 |
 | US East Streaming Optimized | 120 |
 | Singapore | 116 |
-| UK Streaming Optimized | 112 |
+| UK Streaming Optimized | 113 |
 | Israel | 100 |
+| Belgium | 99 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 98 |
-| Belgium | 98 |
 | ES Madrid | 94 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| DK Copenhagen | 88 |
+| DK Copenhagen | 89 |
 | IT Milano | 87 |
 | AU Brisbane | 84 |
-| Argentina | 74 |
+| Argentina | 75 |
 | Estonia | 67 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
