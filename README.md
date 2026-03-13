@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,419-blue)
+![Servers](https://img.shields.io/badge/servers-14,468-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_13_09:55:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_13_10:55:40_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 740 |
-| US Chicago | 558 |
-| US New York | 556 |
-| US Atlanta | 519 |
-| US Washington DC | 510 |
-| US Texas | 494 |
-| CA Toronto | 450 |
-| US East | 443 |
-| CA Montreal | 430 |
-| US Silicon Valley | 410 |
-| CA Vancouver | 408 |
-| US Las Vegas | 405 |
+| Netherlands | 743 |
+| US New York | 560 |
+| US Chicago | 560 |
+| US Atlanta | 524 |
+| US Washington DC | 513 |
+| US Texas | 497 |
+| CA Toronto | 454 |
+| US East | 444 |
+| CA Montreal | 431 |
+| US Silicon Valley | 412 |
+| CA Vancouver | 410 |
+| US Las Vegas | 409 |
+| US California | 370 |
 | US Florida | 368 |
-| US California | 368 |
-| US Seattle | 334 |
-| UK London | 297 |
+| US Seattle | 336 |
+| UK London | 298 |
 | Switzerland | 277 |
 | US Denver | 259 |
-| CA Ontario | 243 |
-| US West | 219 |
+| CA Ontario | 245 |
+| US West | 220 |
 | UK Southampton | 195 |
 | US Houston | 194 |
 | SE Stockholm | 189 |
-| AU Perth | 180 |
+| AU Perth | 181 |
 | New Zealand | 180 |
-| DE Germany Streaming Optimized | 177 |
+| DE Germany Streaming Optimized | 178 |
 | France | 167 |
-| Norway | 139 |
-| Mexico | 137 |
+| Norway | 140 |
+| Mexico | 139 |
 | US East Streaming Optimized | 120 |
 | Singapore | 116 |
 | UK Streaming Optimized | 113 |
+| Belgium | 100 |
 | Israel | 100 |
-| Belgium | 99 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 98 |
 | ES Madrid | 96 |
@@ -141,7 +141,7 @@ View the IP list [here](/servers.json)
 | US Alabama | 18 |
 | South Korea | 14 |
 | Nepal | 14 |
-| Iceland | 13 |
+| Iceland | 14 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
 | Nigeria | 12 |
