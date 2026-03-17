@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,818-blue)
+![Servers](https://img.shields.io/badge/servers-15,791-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_17_04:56:31_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_17_05:56:43_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 894 |
-| US Chicago | 667 |
-| US New York | 656 |
-| US Washington DC | 630 |
-| US Atlanta | 611 |
-| US Texas | 587 |
+| Netherlands | 890 |
+| US Chicago | 663 |
+| US New York | 655 |
+| US Washington DC | 626 |
+| US Atlanta | 612 |
+| US Texas | 583 |
 | CA Toronto | 530 |
-| US East | 514 |
-| CA Vancouver | 489 |
-| CA Montreal | 489 |
-| US Las Vegas | 481 |
-| US Silicon Valley | 472 |
+| US East | 513 |
+| CA Montreal | 488 |
+| CA Vancouver | 487 |
+| US Las Vegas | 478 |
+| US Silicon Valley | 469 |
 | US California | 448 |
-| US Florida | 426 |
-| US Seattle | 384 |
-| UK London | 318 |
-| Switzerland | 299 |
+| US Florida | 428 |
+| US Seattle | 385 |
+| UK London | 319 |
+| Switzerland | 298 |
 | US Denver | 277 |
 | CA Ontario | 249 |
 | US West | 226 |
-| SE Stockholm | 210 |
+| SE Stockholm | 209 |
 | UK Southampton | 198 |
 | US Houston | 196 |
 | DE Germany Streaming Optimized | 185 |
 | AU Perth | 182 |
-| New Zealand | 181 |
+| New Zealand | 180 |
 | France | 165 |
 | Mexico | 139 |
 | Norway | 139 |
@@ -47,8 +47,8 @@ View the IP list [here](/servers.json)
 | UK Streaming Optimized | 113 |
 | Israel | 100 |
 | US West Streaming Optimized | 99 |
-| Belgium | 99 |
 | Bahamas | 98 |
+| Belgium | 98 |
 | ES Madrid | 97 |
 | Panama | 93 |
 | Luxembourg | 92 |
@@ -74,9 +74,9 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| Turkey | 52 |
 | Slovakia | 52 |
 | US Massachusetts | 52 |
+| Turkey | 51 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
