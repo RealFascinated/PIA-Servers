@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,686-blue)
+![Servers](https://img.shields.io/badge/servers-15,665-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_17_10:57:29_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_17_11:57:39_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 886 |
-| US Chicago | 658 |
-| US New York | 646 |
+| Netherlands | 885 |
+| US Chicago | 657 |
+| US New York | 643 |
 | US Washington DC | 620 |
-| US Atlanta | 602 |
-| US Texas | 575 |
-| CA Toronto | 524 |
-| US East | 513 |
-| CA Vancouver | 482 |
-| CA Montreal | 482 |
+| US Atlanta | 599 |
+| US Texas | 570 |
+| CA Toronto | 519 |
+| US East | 511 |
+| CA Montreal | 483 |
+| CA Vancouver | 481 |
 | US Las Vegas | 474 |
 | US Silicon Valley | 468 |
-| US California | 442 |
-| US Florida | 425 |
+| US California | 440 |
+| US Florida | 424 |
 | US Seattle | 379 |
 | UK London | 315 |
 | Switzerland | 291 |
-| US Denver | 277 |
-| CA Ontario | 244 |
-| US West | 223 |
+| US Denver | 278 |
+| CA Ontario | 243 |
+| US West | 222 |
 | SE Stockholm | 208 |
 | UK Southampton | 198 |
 | US Houston | 195 |
 | DE Germany Streaming Optimized | 184 |
-| AU Perth | 181 |
+| AU Perth | 180 |
 | New Zealand | 180 |
 | France | 165 |
 | Mexico | 138 |
@@ -140,13 +140,13 @@ View the IP list [here](/servers.json)
 | US Rhode Island | 18 |
 | US Alabama | 18 |
 | South Korea | 14 |
+| Nigeria | 14 |
 | Nepal | 14 |
 | Iceland | 14 |
+| Qatar | 13 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
-| Nigeria | 12 |
 | Sri Lanka | 11 |
-| Qatar | 11 |
 | Moldova | 9 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
