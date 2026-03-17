@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,668-blue)
+![Servers](https://img.shields.io/badge/servers-15,616-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_17_13:58:01_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_17_14:58:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 888 |
-| US Chicago | 659 |
-| US New York | 645 |
-| US Washington DC | 620 |
-| US Atlanta | 599 |
-| US Texas | 568 |
-| CA Toronto | 520 |
-| US East | 510 |
+| Netherlands | 883 |
+| US Chicago | 654 |
+| US New York | 642 |
+| US Washington DC | 618 |
+| US Atlanta | 598 |
+| US Texas | 564 |
+| CA Toronto | 518 |
+| US East | 507 |
 | CA Montreal | 483 |
-| CA Vancouver | 481 |
-| US Las Vegas | 476 |
-| US Silicon Valley | 464 |
-| US California | 440 |
-| US Florida | 424 |
-| US Seattle | 378 |
-| UK London | 314 |
-| Switzerland | 290 |
-| US Denver | 276 |
+| CA Vancouver | 476 |
+| US Las Vegas | 475 |
+| US Silicon Valley | 462 |
+| US California | 435 |
+| US Florida | 420 |
+| US Seattle | 375 |
+| UK London | 312 |
+| Switzerland | 289 |
+| US Denver | 275 |
 | CA Ontario | 244 |
 | US West | 223 |
 | SE Stockholm | 208 |
 | UK Southampton | 199 |
 | US Houston | 195 |
 | DE Germany Streaming Optimized | 184 |
-| New Zealand | 181 |
 | AU Perth | 180 |
+| New Zealand | 180 |
 | France | 165 |
 | Mexico | 138 |
 | Norway | 137 |
@@ -47,9 +47,9 @@ View the IP list [here](/servers.json)
 | UK Streaming Optimized | 113 |
 | Israel | 100 |
 | US West Streaming Optimized | 99 |
-| Belgium | 99 |
 | Bahamas | 98 |
 | ES Madrid | 97 |
+| Belgium | 97 |
 | Panama | 93 |
 | Luxembourg | 92 |
 | DK Copenhagen | 90 |
