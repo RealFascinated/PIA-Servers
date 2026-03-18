@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,456-blue)
+![Servers](https://img.shields.io/badge/servers-15,446-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_18_12:57:00_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_18_13:57:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,36 +14,36 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 867 |
-| US Chicago | 644 |
+| US Chicago | 642 |
 | US New York | 633 |
-| US Washington DC | 603 |
+| US Washington DC | 601 |
 | US Atlanta | 587 |
-| US Texas | 549 |
-| US East | 499 |
-| CA Toronto | 485 |
-| CA Montreal | 479 |
-| CA Vancouver | 473 |
-| US Las Vegas | 465 |
+| US Texas | 545 |
+| US East | 500 |
+| CA Toronto | 488 |
+| CA Montreal | 478 |
+| CA Vancouver | 472 |
+| US Las Vegas | 464 |
 | US Silicon Valley | 459 |
-| US California | 434 |
-| US Florida | 413 |
-| US Seattle | 367 |
+| US California | 432 |
+| US Florida | 412 |
+| US Seattle | 366 |
 | UK London | 308 |
-| Switzerland | 284 |
-| US Denver | 278 |
-| CA Ontario | 245 |
+| Switzerland | 285 |
+| US Denver | 276 |
+| CA Ontario | 246 |
 | US West | 227 |
-| SE Stockholm | 206 |
+| SE Stockholm | 204 |
 | UK Southampton | 197 |
-| US Houston | 195 |
+| US Houston | 196 |
 | DE Germany Streaming Optimized | 182 |
-| New Zealand | 180 |
+| New Zealand | 182 |
 | AU Perth | 179 |
-| France | 163 |
+| France | 164 |
 | Norway | 139 |
-| Mexico | 137 |
+| Mexico | 136 |
 | US East Streaming Optimized | 120 |
-| Singapore | 116 |
+| Singapore | 117 |
 | UK Streaming Optimized | 113 |
 | Israel | 100 |
 | US West Streaming Optimized | 99 |
@@ -99,9 +99,9 @@ View the IP list [here](/servers.json)
 | Costa Rica | 35 |
 | Hong Kong | 32 |
 | Bangladesh | 31 |
-| US South Carolina | 30 |
 | Hungary | 30 |
 | IT Streaming Optimized | 30 |
+| US South Carolina | 29 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
