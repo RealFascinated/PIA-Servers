@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,444-blue)
+![Servers](https://img.shields.io/badge/servers-15,427-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_18_08:56:13_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_18_09:56:24_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,22 +13,22 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 869 |
-| US Chicago | 638 |
-| US New York | 632 |
-| US Washington DC | 601 |
-| US Atlanta | 587 |
-| US Texas | 551 |
-| US East | 492 |
-| CA Toronto | 488 |
+| Netherlands | 866 |
+| US Chicago | 637 |
+| US New York | 630 |
+| US Washington DC | 604 |
+| US Atlanta | 584 |
+| US Texas | 549 |
+| US East | 493 |
+| CA Toronto | 485 |
 | CA Montreal | 479 |
-| CA Vancouver | 471 |
-| US Las Vegas | 466 |
-| US Silicon Valley | 461 |
-| US California | 430 |
-| US Florida | 409 |
+| CA Vancouver | 470 |
+| US Las Vegas | 464 |
+| US Silicon Valley | 459 |
+| US California | 431 |
+| US Florida | 410 |
 | US Seattle | 368 |
-| UK London | 310 |
+| UK London | 309 |
 | Switzerland | 285 |
 | US Denver | 276 |
 | CA Ontario | 245 |
@@ -38,12 +38,12 @@ View the IP list [here](/servers.json)
 | US Houston | 194 |
 | DE Germany Streaming Optimized | 182 |
 | New Zealand | 181 |
-| AU Perth | 180 |
+| AU Perth | 179 |
 | France | 164 |
 | Norway | 139 |
 | Mexico | 137 |
 | US East Streaming Optimized | 120 |
-| Singapore | 117 |
+| Singapore | 116 |
 | UK Streaming Optimized | 113 |
 | Israel | 100 |
 | US West Streaming Optimized | 99 |
@@ -155,13 +155,13 @@ View the IP list [here](/servers.json)
 | United Arab Emirates | 4 |
 | DE Berlin | 4 |
 | US Salt Lake City | 4 |
-| Poland | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
 | China | 3 |
 | Ireland | 3 |
+| Poland | 2 |
 | AU Adelaide | 2 |
 | US New Hampshire | 2 |
 | Indonesia | 2 |
