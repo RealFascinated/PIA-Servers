@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-15,398-blue)
+![Servers](https://img.shields.io/badge/servers-15,402-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_18_16:55:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Mar_18_17:55:22_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 859 |
-| US Chicago | 635 |
-| US New York | 628 |
+| Netherlands | 860 |
+| US Chicago | 632 |
+| US New York | 627 |
 | US Washington DC | 599 |
-| US Atlanta | 585 |
-| US Texas | 540 |
-| US East | 495 |
-| CA Toronto | 489 |
-| CA Montreal | 473 |
-| CA Vancouver | 468 |
-| US Las Vegas | 461 |
-| US Silicon Valley | 458 |
-| US California | 434 |
-| US Florida | 411 |
-| US Seattle | 364 |
-| UK London | 303 |
-| Switzerland | 288 |
+| US Atlanta | 586 |
+| US Texas | 542 |
+| US East | 494 |
+| CA Toronto | 490 |
+| CA Montreal | 472 |
+| CA Vancouver | 466 |
+| US Las Vegas | 464 |
+| US Silicon Valley | 456 |
+| US California | 436 |
+| US Florida | 412 |
+| US Seattle | 362 |
+| UK London | 304 |
+| Switzerland | 287 |
 | US Denver | 275 |
-| CA Ontario | 245 |
+| CA Ontario | 246 |
 | US West | 228 |
-| SE Stockholm | 202 |
+| SE Stockholm | 203 |
 | UK Southampton | 197 |
 | US Houston | 196 |
 | New Zealand | 183 |
@@ -41,7 +41,7 @@ View the IP list [here](/servers.json)
 | AU Perth | 180 |
 | France | 164 |
 | Norway | 140 |
-| Mexico | 137 |
+| Mexico | 138 |
 | US East Streaming Optimized | 120 |
 | Singapore | 117 |
 | UK Streaming Optimized | 113 |
@@ -155,15 +155,16 @@ View the IP list [here](/servers.json)
 | United Arab Emirates | 4 |
 | DE Berlin | 4 |
 | US Salt Lake City | 4 |
+| Poland | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
 | China | 3 |
 | Ireland | 3 |
-| Poland | 2 |
 | AU Adelaide | 2 |
 | US New Hampshire | 2 |
+| Indonesia | 2 |
 | US Indiana | 2 |
 | Greece | 2 |
 | US Tennessee | 2 |
@@ -178,4 +179,3 @@ View the IP list [here](/servers.json)
 | Romania | 2 |
 | ES Valencia | 2 |
 | Slovenia | 2 |
-| Indonesia | 1 |
