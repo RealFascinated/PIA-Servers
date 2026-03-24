@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,344-blue)
+![Servers](https://img.shields.io/badge/servers-13,232-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_24_20:56:32_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_24_21:56:59_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,92 +13,92 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 714 |
-| US Chicago | 586 |
-| US New York | 582 |
-| US Washington DC | 538 |
-| US Atlanta | 533 |
+| Netherlands | 711 |
+| US Chicago | 582 |
+| US New York | 577 |
+| US Washington DC | 536 |
+| US Atlanta | 532 |
 | US Texas | 492 |
-| CA Toronto | 480 |
-| CA Vancouver | 453 |
-| US Silicon Valley | 453 |
+| CA Toronto | 478 |
+| CA Vancouver | 450 |
 | US East | 450 |
-| US Las Vegas | 444 |
-| US California | 419 |
-| CA Montreal | 409 |
+| US Silicon Valley | 450 |
+| US Las Vegas | 439 |
+| US California | 417 |
+| CA Montreal | 404 |
 | US Florida | 383 |
-| US Seattle | 346 |
-| UK London | 273 |
-| Switzerland | 266 |
-| US Denver | 236 |
-| CA Ontario | 211 |
-| US West | 170 |
-| SE Stockholm | 169 |
-| US Houston | 156 |
-| UK Southampton | 155 |
-| AU Perth | 143 |
-| DE Germany Streaming Optimized | 141 |
-| New Zealand | 135 |
-| France | 130 |
+| US Seattle | 344 |
+| UK London | 268 |
+| Switzerland | 262 |
+| US Denver | 231 |
+| CA Ontario | 209 |
+| US West | 166 |
+| SE Stockholm | 166 |
+| US Houston | 151 |
+| UK Southampton | 149 |
+| DE Germany Streaming Optimized | 138 |
+| AU Perth | 136 |
+| New Zealand | 132 |
+| France | 126 |
 | Mexico | 100 |
-| Norway | 98 |
-| Singapore | 84 |
-| UK Streaming Optimized | 82 |
-| Belgium | 81 |
-| US East Streaming Optimized | 76 |
-| Bahamas | 72 |
-| US West Streaming Optimized | 68 |
-| Israel | 68 |
+| Norway | 97 |
+| Singapore | 83 |
+| Belgium | 78 |
+| UK Streaming Optimized | 77 |
+| US East Streaming Optimized | 75 |
+| Bahamas | 71 |
+| ES Madrid | 67 |
+| US West Streaming Optimized | 67 |
 | Luxembourg | 66 |
-| ES Madrid | 66 |
-| Panama | 65 |
+| Israel | 66 |
 | DK Copenhagen | 63 |
-| IT Milano | 63 |
-| AU Brisbane | 56 |
-| NL Netherlands Streaming Optimized | 51 |
+| Panama | 62 |
+| IT Milano | 61 |
+| AU Brisbane | 55 |
+| NL Netherlands Streaming Optimized | 52 |
 | CA Ontario Streaming Optimized | 51 |
-| US Wilmington | 50 |
 | US Pennsylvania | 50 |
-| Brazil | 50 |
+| Brazil | 49 |
+| US Wilmington | 48 |
 | Ukraine | 48 |
 | US Missouri | 48 |
 | US Baltimore | 48 |
 | Argentina | 47 |
+| US Connecticut | 47 |
 | DK Streaming Optimized | 46 |
-| Venezuela | 46 |
-| US Connecticut | 46 |
+| India | 46 |
+| Venezuela | 45 |
+| Ecuador | 45 |
 | Lithuania | 45 |
-| India | 45 |
-| Turkey | 44 |
-| Ecuador | 44 |
 | Andorra | 43 |
-| Austria | 42 |
-| Taiwan | 41 |
+| Turkey | 42 |
+| Taiwan | 42 |
+| Austria | 41 |
 | Saudi Arabia | 40 |
 | Uruguay | 40 |
 | Slovakia | 40 |
-| Portugal | 38 |
+| Vietnam | 38 |
 | US Iowa | 38 |
 | US Michigan | 38 |
 | US Ohio | 37 |
-| Vietnam | 37 |
-| Liechtenstein | 37 |
+| Portugal | 37 |
 | US Wisconsin | 37 |
-| Estonia | 36 |
 | US West Virginia | 36 |
+| Liechtenstein | 36 |
 | Isle OF Man | 35 |
 | Morocco | 35 |
+| Albania | 34 |
+| Estonia | 34 |
 | Philippines | 34 |
 | Chile | 34 |
-| Albania | 33 |
 | Malta | 33 |
 | Costa Rica | 31 |
 | Algeria | 30 |
 | US South Carolina | 30 |
 | Hong Kong | 30 |
 | Bangladesh | 30 |
+| Hungary | 29 |
 | IT Streaming Optimized | 29 |
-| Hungary | 28 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
 | Peru | 28 |
@@ -110,9 +110,9 @@ View the IP list [here](/servers.json)
 | Montenegro | 26 |
 | Armenia | 24 |
 | Bosnia And Herzegovina | 24 |
-| Serbia | 24 |
 | Egypt | 24 |
 | Cyprus | 23 |
+| Serbia | 23 |
 | Kazakhstan | 23 |
 | Cambodia | 22 |
 | US Virginia | 21 |
