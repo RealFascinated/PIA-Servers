@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,328-blue)
+![Servers](https://img.shields.io/badge/servers-13,344-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_24_19:56:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_24_20:56:32_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,104 +13,104 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 713 |
-| US Chicago | 588 |
+| Netherlands | 714 |
+| US Chicago | 586 |
 | US New York | 582 |
 | US Washington DC | 538 |
 | US Atlanta | 533 |
-| US Texas | 493 |
-| CA Toronto | 479 |
-| US Silicon Valley | 456 |
-| CA Vancouver | 452 |
+| US Texas | 492 |
+| CA Toronto | 480 |
+| CA Vancouver | 453 |
+| US Silicon Valley | 453 |
 | US East | 450 |
 | US Las Vegas | 444 |
-| US California | 418 |
+| US California | 419 |
 | CA Montreal | 409 |
 | US Florida | 383 |
-| US Seattle | 349 |
-| UK London | 274 |
-| Switzerland | 267 |
-| US Denver | 239 |
-| CA Ontario | 214 |
-| SE Stockholm | 172 |
+| US Seattle | 346 |
+| UK London | 273 |
+| Switzerland | 266 |
+| US Denver | 236 |
+| CA Ontario | 211 |
 | US West | 170 |
-| US Houston | 157 |
-| UK Southampton | 154 |
-| AU Perth | 144 |
-| DE Germany Streaming Optimized | 142 |
+| SE Stockholm | 169 |
+| US Houston | 156 |
+| UK Southampton | 155 |
+| AU Perth | 143 |
+| DE Germany Streaming Optimized | 141 |
 | New Zealand | 135 |
 | France | 130 |
-| Mexico | 101 |
-| Norway | 96 |
-| Singapore | 85 |
-| Belgium | 79 |
-| UK Streaming Optimized | 79 |
+| Mexico | 100 |
+| Norway | 98 |
+| Singapore | 84 |
+| UK Streaming Optimized | 82 |
+| Belgium | 81 |
 | US East Streaming Optimized | 76 |
-| Bahamas | 69 |
-| Israel | 69 |
+| Bahamas | 72 |
 | US West Streaming Optimized | 68 |
-| Luxembourg | 67 |
-| ES Madrid | 67 |
-| Panama | 63 |
-| DK Copenhagen | 61 |
-| IT Milano | 61 |
+| Israel | 68 |
+| Luxembourg | 66 |
+| ES Madrid | 66 |
+| Panama | 65 |
+| DK Copenhagen | 63 |
+| IT Milano | 63 |
 | AU Brisbane | 56 |
+| NL Netherlands Streaming Optimized | 51 |
+| CA Ontario Streaming Optimized | 51 |
 | US Wilmington | 50 |
-| NL Netherlands Streaming Optimized | 50 |
 | US Pennsylvania | 50 |
-| CA Ontario Streaming Optimized | 50 |
+| Brazil | 50 |
 | Ukraine | 48 |
 | US Missouri | 48 |
 | US Baltimore | 48 |
-| DK Streaming Optimized | 47 |
-| Venezuela | 47 |
-| US Connecticut | 47 |
-| Brazil | 46 |
+| Argentina | 47 |
+| DK Streaming Optimized | 46 |
+| Venezuela | 46 |
+| US Connecticut | 46 |
 | Lithuania | 45 |
-| Argentina | 45 |
+| India | 45 |
+| Turkey | 44 |
 | Ecuador | 44 |
-| India | 44 |
+| Andorra | 43 |
 | Austria | 42 |
-| Andorra | 41 |
 | Taiwan | 41 |
 | Saudi Arabia | 40 |
-| Turkey | 40 |
+| Uruguay | 40 |
 | Slovakia | 40 |
-| Estonia | 38 |
-| Uruguay | 38 |
-| Liechtenstein | 38 |
+| Portugal | 38 |
+| US Iowa | 38 |
 | US Michigan | 38 |
-| Portugal | 37 |
-| US Iowa | 37 |
-| US Ohio | 36 |
-| Vietnam | 36 |
+| US Ohio | 37 |
+| Vietnam | 37 |
+| Liechtenstein | 37 |
+| US Wisconsin | 37 |
+| Estonia | 36 |
 | US West Virginia | 36 |
-| US Wisconsin | 36 |
 | Isle OF Man | 35 |
-| Morocco | 34 |
-| Philippines | 33 |
-| Albania | 32 |
-| Chile | 32 |
-| Malta | 32 |
+| Morocco | 35 |
+| Philippines | 34 |
+| Chile | 34 |
+| Albania | 33 |
+| Malta | 33 |
 | Costa Rica | 31 |
 | Algeria | 30 |
 | US South Carolina | 30 |
+| Hong Kong | 30 |
 | Bangladesh | 30 |
-| Hong Kong | 29 |
 | IT Streaming Optimized | 29 |
 | Hungary | 28 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
+| Peru | 28 |
 | Bolivia | 28 |
 | FI Streaming Optimized | 27 |
-| Peru | 27 |
 | Malaysia | 27 |
 | South Africa | 27 |
-| Serbia | 26 |
+| Macao | 26 |
 | Montenegro | 26 |
-| Macao | 25 |
 | Armenia | 24 |
 | Bosnia And Herzegovina | 24 |
+| Serbia | 24 |
 | Egypt | 24 |
 | Cyprus | 23 |
 | Kazakhstan | 23 |
