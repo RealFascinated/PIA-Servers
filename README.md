@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,151-blue)
+![Servers](https://img.shields.io/badge/servers-12,177-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_26_04:57:56_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Mar_26_05:58:17_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,51 +13,51 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 650 |
-| US Chicago | 509 |
-| US New York | 493 |
-| US Washington DC | 476 |
-| US Atlanta | 458 |
+| Netherlands | 653 |
+| US Chicago | 507 |
+| US New York | 494 |
+| US Washington DC | 477 |
+| US Atlanta | 460 |
 | US Texas | 407 |
-| US East | 397 |
-| CA Toronto | 397 |
-| CA Vancouver | 380 |
-| US Silicon Valley | 361 |
+| US East | 398 |
+| CA Toronto | 398 |
+| CA Vancouver | 375 |
+| US Silicon Valley | 362 |
 | US Las Vegas | 350 |
-| US California | 348 |
-| CA Montreal | 333 |
-| US Florida | 306 |
-| US Seattle | 245 |
-| Switzerland | 195 |
+| US California | 349 |
+| CA Montreal | 334 |
+| US Florida | 308 |
+| US Seattle | 242 |
+| Switzerland | 194 |
 | US Denver | 170 |
 | CA Ontario | 164 |
-| US West | 139 |
-| UK London | 137 |
-| SE Stockholm | 135 |
-| UK Southampton | 134 |
-| AU Perth | 125 |
-| US Houston | 123 |
-| France | 120 |
-| DE Germany Streaming Optimized | 116 |
-| New Zealand | 115 |
-| Norway | 109 |
-| Mexico | 96 |
-| Singapore | 92 |
+| US West | 138 |
+| UK Southampton | 137 |
+| SE Stockholm | 137 |
+| UK London | 134 |
+| AU Perth | 128 |
+| US Houston | 126 |
+| France | 123 |
+| DE Germany Streaming Optimized | 117 |
+| New Zealand | 117 |
+| Norway | 112 |
+| Mexico | 95 |
+| Singapore | 94 |
+| UK Streaming Optimized | 94 |
 | US East Streaming Optimized | 92 |
-| UK Streaming Optimized | 91 |
-| Israel | 91 |
+| Israel | 92 |
 | Panama | 89 |
+| Luxembourg | 86 |
 | ES Madrid | 86 |
-| Luxembourg | 85 |
-| US West Streaming Optimized | 84 |
+| US West Streaming Optimized | 85 |
 | Belgium | 84 |
 | DK Copenhagen | 83 |
 | Bahamas | 82 |
 | IT Milano | 82 |
 | AU Brisbane | 72 |
 | Argentina | 67 |
-| NL Netherlands Streaming Optimized | 64 |
 | Brazil | 64 |
+| NL Netherlands Streaming Optimized | 63 |
 | India | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 59 |
@@ -146,9 +146,9 @@ View the IP list [here](/servers.json)
 | AU Melbourne | 7 |
 | Greenland | 5 |
 | Latvia | 5 |
+| Poland | 4 |
 | United Arab Emirates | 4 |
 | US Salt Lake City | 4 |
-| Poland | 3 |
 | DE Berlin | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
