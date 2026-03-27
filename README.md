@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,221-blue)
+![Servers](https://img.shields.io/badge/servers-12,164-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_27_01:59:14_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_27_02:59:44_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 636 |
-| US Chicago | 475 |
-| US New York | 464 |
-| US Washington DC | 441 |
-| US Atlanta | 439 |
-| US East | 393 |
-| US Texas | 391 |
-| CA Toronto | 382 |
-| CA Vancouver | 356 |
-| US Silicon Valley | 351 |
-| US Las Vegas | 330 |
-| US California | 329 |
-| CA Montreal | 322 |
-| US Florida | 291 |
-| US Seattle | 200 |
-| Switzerland | 198 |
-| US Denver | 188 |
+| Netherlands | 628 |
+| US Chicago | 472 |
+| US New York | 458 |
+| US Washington DC | 438 |
+| US Atlanta | 435 |
+| US East | 391 |
+| US Texas | 386 |
+| CA Toronto | 380 |
+| CA Vancouver | 353 |
+| US Silicon Valley | 347 |
+| US California | 327 |
+| US Las Vegas | 325 |
+| CA Montreal | 317 |
+| US Florida | 288 |
+| US Seattle | 199 |
+| Switzerland | 197 |
+| US Denver | 189 |
 | US West | 171 |
-| CA Ontario | 167 |
-| UK Southampton | 159 |
-| SE Stockholm | 156 |
+| CA Ontario | 168 |
+| UK Southampton | 158 |
+| SE Stockholm | 157 |
 | DE Germany Streaming Optimized | 153 |
 | AU Perth | 146 |
-| US Houston | 146 |
-| New Zealand | 143 |
-| France | 133 |
-| Norway | 127 |
-| Mexico | 117 |
+| US Houston | 145 |
+| New Zealand | 144 |
+| France | 132 |
+| Norway | 126 |
+| Mexico | 118 |
 | US East Streaming Optimized | 112 |
 | Singapore | 110 |
 | UK Streaming Optimized | 107 |
-| UK London | 98 |
 | Israel | 97 |
-| ES Madrid | 94 |
+| UK London | 96 |
+| ES Madrid | 95 |
 | Luxembourg | 93 |
 | Panama | 92 |
 | Bahamas | 92 |
