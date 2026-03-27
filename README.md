@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,117-blue)
+![Servers](https://img.shields.io/badge/servers-12,100-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_27_13:55:42_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Mar_27_14:56:08_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 611 |
-| US Chicago | 471 |
-| US New York | 446 |
-| US Washington DC | 433 |
-| US Atlanta | 426 |
-| US East | 379 |
-| US Texas | 379 |
-| CA Toronto | 365 |
-| CA Vancouver | 347 |
-| US Silicon Valley | 341 |
-| CA Montreal | 324 |
+| Netherlands | 610 |
+| US Chicago | 472 |
+| US New York | 447 |
+| US Washington DC | 428 |
+| US Atlanta | 424 |
+| US East | 377 |
+| US Texas | 376 |
+| CA Toronto | 364 |
+| CA Vancouver | 344 |
+| US Silicon Valley | 342 |
+| CA Montreal | 325 |
 | US Las Vegas | 321 |
 | US California | 312 |
-| US Florida | 288 |
+| US Florida | 285 |
 | Switzerland | 200 |
-| US Denver | 192 |
-| US Seattle | 183 |
-| US West | 175 |
-| CA Ontario | 173 |
+| US Denver | 193 |
+| US Seattle | 180 |
+| US West | 174 |
+| CA Ontario | 174 |
 | SE Stockholm | 164 |
-| UK Southampton | 161 |
+| UK Southampton | 162 |
 | US Houston | 155 |
 | DE Germany Streaming Optimized | 154 |
-| AU Perth | 152 |
-| New Zealand | 151 |
-| France | 137 |
+| AU Perth | 153 |
+| New Zealand | 152 |
+| France | 138 |
 | Norway | 130 |
 | Mexico | 123 |
 | US East Streaming Optimized | 114 |
@@ -50,8 +50,8 @@ View the IP list [here](/servers.json)
 | Bahamas | 94 |
 | Luxembourg | 93 |
 | Panama | 92 |
-| UK London | 91 |
 | Belgium | 91 |
+| UK London | 88 |
 | IT Milano | 87 |
 | DK Copenhagen | 84 |
 | AU Brisbane | 84 |
