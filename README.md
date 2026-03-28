@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,452-blue)
+![Servers](https://img.shields.io/badge/servers-12,506-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_12:55:38_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_13:55:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,45 +13,45 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 597 |
-| US Chicago | 467 |
-| US New York | 456 |
-| US Atlanta | 445 |
+| Netherlands | 600 |
+| US Chicago | 469 |
+| US New York | 458 |
+| US Atlanta | 448 |
 | US Washington DC | 435 |
+| US Texas | 394 |
 | US East | 393 |
-| US Texas | 388 |
-| CA Toronto | 372 |
-| US Silicon Valley | 355 |
-| CA Vancouver | 351 |
+| CA Toronto | 373 |
+| US Silicon Valley | 359 |
+| CA Vancouver | 354 |
+| US Las Vegas | 346 |
 | CA Montreal | 345 |
-| US Las Vegas | 340 |
-| US California | 320 |
-| US Florida | 297 |
-| Switzerland | 224 |
-| US Denver | 219 |
-| CA Ontario | 201 |
-| US West | 191 |
+| US California | 324 |
+| US Florida | 300 |
+| Switzerland | 226 |
+| US Denver | 222 |
+| CA Ontario | 205 |
+| US West | 192 |
 | UK Southampton | 181 |
+| US Houston | 176 |
 | SE Stockholm | 175 |
-| US Houston | 174 |
 | AU Perth | 171 |
-| New Zealand | 167 |
-| DE Germany Streaming Optimized | 166 |
+| New Zealand | 168 |
+| DE Germany Streaming Optimized | 167 |
 | US Seattle | 161 |
 | France | 152 |
 | Mexico | 136 |
-| Norway | 135 |
+| Norway | 136 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
 | Israel | 99 |
 | ES Madrid | 97 |
+| Bahamas | 97 |
 | US West Streaming Optimized | 97 |
-| Bahamas | 96 |
 | Belgium | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| DK Copenhagen | 87 |
+| DK Copenhagen | 88 |
 | IT Milano | 87 |
 | AU Brisbane | 84 |
 | UK London | 79 |
