@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,506-blue)
+![Servers](https://img.shields.io/badge/servers-12,547-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_13:55:56_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_14:56:16_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 600 |
-| US Chicago | 469 |
-| US New York | 458 |
-| US Atlanta | 448 |
-| US Washington DC | 435 |
-| US Texas | 394 |
-| US East | 393 |
-| CA Toronto | 373 |
-| US Silicon Valley | 359 |
-| CA Vancouver | 354 |
-| US Las Vegas | 346 |
-| CA Montreal | 345 |
-| US California | 324 |
-| US Florida | 300 |
+| Netherlands | 604 |
+| US Chicago | 471 |
+| US New York | 460 |
+| US Atlanta | 449 |
+| US Washington DC | 433 |
+| US East | 397 |
+| US Texas | 397 |
+| CA Toronto | 377 |
+| US Silicon Valley | 362 |
+| CA Vancouver | 357 |
+| CA Montreal | 350 |
+| US Las Vegas | 345 |
+| US California | 326 |
+| US Florida | 302 |
 | Switzerland | 226 |
 | US Denver | 222 |
-| CA Ontario | 205 |
+| CA Ontario | 206 |
 | US West | 192 |
-| UK Southampton | 181 |
+| UK Southampton | 182 |
+| SE Stockholm | 177 |
 | US Houston | 176 |
-| SE Stockholm | 175 |
-| AU Perth | 171 |
+| AU Perth | 173 |
+| DE Germany Streaming Optimized | 169 |
 | New Zealand | 168 |
-| DE Germany Streaming Optimized | 167 |
-| US Seattle | 161 |
-| France | 152 |
+| US Seattle | 160 |
+| France | 153 |
 | Mexico | 136 |
 | Norway | 136 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
 | Israel | 99 |
+| Bahamas | 98 |
 | ES Madrid | 97 |
-| Bahamas | 97 |
 | US West Streaming Optimized | 97 |
 | Belgium | 96 |
 | Panama | 93 |
