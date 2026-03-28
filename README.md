@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,705-blue)
+![Servers](https://img.shields.io/badge/servers-12,707-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_19:57:52_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_20:55:21_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 611 |
-| US Chicago | 474 |
-| US New York | 469 |
+| Netherlands | 609 |
+| US Chicago | 475 |
+| US New York | 465 |
 | US Atlanta | 457 |
-| US Washington DC | 437 |
-| US Texas | 406 |
-| US East | 398 |
+| US Washington DC | 436 |
+| US Texas | 403 |
+| US East | 400 |
 | CA Toronto | 389 |
-| CA Vancouver | 373 |
-| US Silicon Valley | 369 |
-| CA Montreal | 361 |
-| US Las Vegas | 349 |
-| US California | 333 |
-| US Florida | 311 |
-| Switzerland | 235 |
-| US Denver | 226 |
-| CA Ontario | 214 |
-| US West | 199 |
-| UK Southampton | 186 |
+| CA Vancouver | 372 |
+| US Silicon Valley | 372 |
+| CA Montreal | 362 |
+| US Las Vegas | 352 |
+| US California | 332 |
+| US Florida | 315 |
+| Switzerland | 237 |
+| US Denver | 229 |
+| CA Ontario | 212 |
+| US West | 197 |
+| UK Southampton | 187 |
 | SE Stockholm | 179 |
-| US Houston | 178 |
-| AU Perth | 176 |
+| US Houston | 177 |
+| AU Perth | 175 |
 | DE Germany Streaming Optimized | 174 |
-| New Zealand | 173 |
+| New Zealand | 172 |
 | US Seattle | 159 |
-| France | 154 |
+| France | 155 |
+| Norway | 138 |
 | Mexico | 137 |
-| Norway | 137 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
-| Israel | 100 |
+| Israel | 99 |
 | Bahamas | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
