@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,271-blue)
+![Servers](https://img.shields.io/badge/servers-12,294-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_02:57:36_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_03:57:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,44 +13,44 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 602 |
+| Netherlands | 601 |
 | US Chicago | 471 |
 | US New York | 445 |
-| US Atlanta | 430 |
-| US Washington DC | 423 |
-| US East | 388 |
-| US Texas | 382 |
-| CA Toronto | 367 |
+| US Atlanta | 431 |
+| US Washington DC | 428 |
+| US East | 392 |
+| US Texas | 381 |
+| CA Toronto | 366 |
 | CA Vancouver | 347 |
-| US Silicon Valley | 340 |
+| US Silicon Valley | 342 |
 | CA Montreal | 332 |
-| US Las Vegas | 324 |
-| US California | 319 |
+| US Las Vegas | 326 |
+| US California | 321 |
 | US Florida | 290 |
 | Switzerland | 220 |
 | US Denver | 209 |
-| CA Ontario | 193 |
-| US West | 185 |
+| CA Ontario | 194 |
+| US West | 186 |
+| SE Stockholm | 172 |
 | UK Southampton | 171 |
-| SE Stockholm | 171 |
-| US Seattle | 169 |
+| US Seattle | 168 |
 | US Houston | 167 |
 | AU Perth | 165 |
+| DE Germany Streaming Optimized | 160 |
 | New Zealand | 159 |
-| DE Germany Streaming Optimized | 157 |
-| France | 147 |
+| France | 148 |
 | Mexico | 134 |
 | Norway | 132 |
-| US East Streaming Optimized | 116 |
+| US East Streaming Optimized | 117 |
 | UK Streaming Optimized | 112 |
 | Singapore | 110 |
-| Israel | 98 |
+| Israel | 99 |
+| US West Streaming Optimized | 97 |
 | ES Madrid | 96 |
 | Bahamas | 96 |
-| US West Streaming Optimized | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| Belgium | 92 |
+| Belgium | 93 |
 | IT Milano | 87 |
 | DK Copenhagen | 86 |
 | AU Brisbane | 84 |
