@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,646-blue)
+![Servers](https://img.shields.io/badge/servers-12,705-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_18:57:48_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_19:57:52_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 610 |
-| US Chicago | 471 |
-| US New York | 465 |
-| US Atlanta | 455 |
-| US Washington DC | 434 |
-| US Texas | 404 |
-| US East | 399 |
-| CA Toronto | 386 |
-| CA Vancouver | 368 |
-| US Silicon Valley | 366 |
-| CA Montreal | 357 |
-| US Las Vegas | 346 |
-| US California | 329 |
-| US Florida | 309 |
-| Switzerland | 232 |
+| Netherlands | 611 |
+| US Chicago | 474 |
+| US New York | 469 |
+| US Atlanta | 457 |
+| US Washington DC | 437 |
+| US Texas | 406 |
+| US East | 398 |
+| CA Toronto | 389 |
+| CA Vancouver | 373 |
+| US Silicon Valley | 369 |
+| CA Montreal | 361 |
+| US Las Vegas | 349 |
+| US California | 333 |
+| US Florida | 311 |
+| Switzerland | 235 |
 | US Denver | 226 |
-| CA Ontario | 209 |
-| US West | 197 |
+| CA Ontario | 214 |
+| US West | 199 |
 | UK Southampton | 186 |
-| SE Stockholm | 177 |
-| US Houston | 177 |
-| AU Perth | 175 |
-| DE Germany Streaming Optimized | 172 |
-| New Zealand | 170 |
-| US Seattle | 160 |
-| France | 153 |
+| SE Stockholm | 179 |
+| US Houston | 178 |
+| AU Perth | 176 |
+| DE Germany Streaming Optimized | 174 |
+| New Zealand | 173 |
+| US Seattle | 159 |
+| France | 154 |
 | Mexico | 137 |
-| Norway | 136 |
+| Norway | 137 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
-| Israel | 99 |
+| Israel | 100 |
 | Bahamas | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
