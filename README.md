@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,330-blue)
+![Servers](https://img.shields.io/badge/servers-12,342-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_05:58:24_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_06:58:44_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 599 |
-| US Chicago | 472 |
-| US New York | 446 |
+| Netherlands | 601 |
+| US Chicago | 468 |
+| US New York | 449 |
 | US Atlanta | 434 |
-| US Washington DC | 428 |
+| US Washington DC | 430 |
 | US East | 389 |
-| US Texas | 382 |
-| CA Toronto | 369 |
+| US Texas | 381 |
+| CA Toronto | 370 |
 | CA Vancouver | 348 |
 | US Silicon Valley | 348 |
-| CA Montreal | 333 |
-| US Las Vegas | 331 |
-| US California | 321 |
-| US Florida | 291 |
-| Switzerland | 220 |
-| US Denver | 212 |
+| CA Montreal | 336 |
+| US Las Vegas | 329 |
+| US California | 319 |
+| US Florida | 292 |
+| Switzerland | 221 |
+| US Denver | 213 |
 | CA Ontario | 196 |
-| US West | 187 |
-| UK Southampton | 173 |
+| US West | 188 |
+| UK Southampton | 174 |
 | SE Stockholm | 173 |
-| US Houston | 169 |
+| US Houston | 170 |
 | AU Perth | 167 |
-| US Seattle | 164 |
-| New Zealand | 162 |
-| DE Germany Streaming Optimized | 161 |
-| France | 149 |
+| New Zealand | 164 |
+| US Seattle | 163 |
+| DE Germany Streaming Optimized | 162 |
+| France | 150 |
 | Mexico | 135 |
 | Norway | 134 |
 | US East Streaming Optimized | 117 |
@@ -48,7 +48,7 @@ View the IP list [here](/servers.json)
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
 | Bahamas | 96 |
-| Belgium | 94 |
+| Belgium | 95 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | IT Milano | 87 |
