@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,707-blue)
+![Servers](https://img.shields.io/badge/servers-12,670-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_20:55:21_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Mar_28_21:55:20_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,34 +13,34 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 609 |
-| US Chicago | 475 |
-| US New York | 465 |
-| US Atlanta | 457 |
-| US Washington DC | 436 |
-| US Texas | 403 |
+| Netherlands | 603 |
+| US Chicago | 469 |
+| US New York | 466 |
+| US Atlanta | 456 |
+| US Washington DC | 431 |
+| US Texas | 402 |
 | US East | 400 |
-| CA Toronto | 389 |
-| CA Vancouver | 372 |
-| US Silicon Valley | 372 |
-| CA Montreal | 362 |
-| US Las Vegas | 352 |
-| US California | 332 |
-| US Florida | 315 |
-| Switzerland | 237 |
-| US Denver | 229 |
-| CA Ontario | 212 |
+| CA Toronto | 388 |
+| CA Vancouver | 371 |
+| US Silicon Valley | 368 |
+| CA Montreal | 363 |
+| US Las Vegas | 349 |
+| US California | 330 |
+| US Florida | 312 |
+| Switzerland | 236 |
+| US Denver | 228 |
+| CA Ontario | 210 |
 | US West | 197 |
-| UK Southampton | 187 |
-| SE Stockholm | 179 |
-| US Houston | 177 |
+| UK Southampton | 188 |
+| SE Stockholm | 180 |
+| US Houston | 178 |
 | AU Perth | 175 |
-| DE Germany Streaming Optimized | 174 |
+| DE Germany Streaming Optimized | 173 |
 | New Zealand | 172 |
 | US Seattle | 159 |
-| France | 155 |
-| Norway | 138 |
+| France | 154 |
 | Mexico | 137 |
+| Norway | 136 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
@@ -54,7 +54,7 @@ View the IP list [here](/servers.json)
 | DK Copenhagen | 88 |
 | IT Milano | 87 |
 | AU Brisbane | 84 |
-| UK London | 78 |
+| UK London | 77 |
 | Argentina | 74 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
