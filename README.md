@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,921-blue)
+![Servers](https://img.shields.io/badge/servers-12,970-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Mar_29_13:58:02_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Mar_29_14:58:23_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 614 |
-| US Chicago | 482 |
-| US New York | 480 |
-| US Atlanta | 461 |
-| US Washington DC | 446 |
-| US Texas | 424 |
-| US East | 411 |
-| CA Toronto | 401 |
-| US Silicon Valley | 374 |
-| CA Montreal | 372 |
+| Netherlands | 619 |
+| US Chicago | 485 |
+| US New York | 484 |
+| US Atlanta | 467 |
+| US Washington DC | 449 |
+| US Texas | 426 |
+| US East | 412 |
+| CA Toronto | 402 |
+| CA Montreal | 376 |
+| US Silicon Valley | 375 |
 | CA Vancouver | 371 |
-| US Las Vegas | 363 |
-| US California | 346 |
-| US Florida | 330 |
-| Switzerland | 255 |
-| US Denver | 240 |
+| US Las Vegas | 367 |
+| US California | 349 |
+| US Florida | 333 |
+| Switzerland | 257 |
+| US Denver | 241 |
 | CA Ontario | 228 |
-| US West | 206 |
-| UK Southampton | 192 |
-| US Houston | 187 |
+| US West | 207 |
+| UK Southampton | 194 |
+| US Houston | 188 |
 | SE Stockholm | 184 |
 | DE Germany Streaming Optimized | 178 |
+| AU Perth | 177 |
 | New Zealand | 177 |
-| AU Perth | 176 |
-| France | 157 |
-| US Seattle | 149 |
-| Mexico | 138 |
+| France | 158 |
+| US Seattle | 148 |
+| Mexico | 139 |
 | Norway | 137 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
