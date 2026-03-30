@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,170-blue)
+![Servers](https://img.shields.io/badge/servers-13,181-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Mar_29_22:56:03_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Mar_29_23:56:23_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,23 +14,23 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 633 |
-| US Chicago | 502 |
-| US New York | 498 |
-| US Atlanta | 476 |
-| US Washington DC | 465 |
-| US Texas | 428 |
+| US New York | 500 |
+| US Chicago | 498 |
+| US Atlanta | 477 |
+| US Washington DC | 468 |
+| US Texas | 429 |
 | US East | 422 |
-| CA Toronto | 413 |
-| CA Montreal | 390 |
-| CA Vancouver | 386 |
-| US Silicon Valley | 381 |
-| US Las Vegas | 377 |
-| US California | 359 |
-| US Florida | 349 |
-| Switzerland | 268 |
-| US Denver | 247 |
-| CA Ontario | 234 |
-| US West | 213 |
+| CA Toronto | 414 |
+| CA Vancouver | 388 |
+| CA Montreal | 388 |
+| US Silicon Valley | 383 |
+| US Las Vegas | 378 |
+| US California | 357 |
+| US Florida | 351 |
+| Switzerland | 269 |
+| US Denver | 248 |
+| CA Ontario | 235 |
+| US West | 214 |
 | UK Southampton | 196 |
 | US Houston | 190 |
 | SE Stockholm | 186 |
@@ -38,7 +38,7 @@ View the IP list [here](/servers.json)
 | DE Germany Streaming Optimized | 179 |
 | New Zealand | 178 |
 | France | 160 |
-| US Seattle | 142 |
+| US Seattle | 141 |
 | Mexico | 139 |
 | Norway | 138 |
 | US East Streaming Optimized | 120 |
@@ -46,9 +46,9 @@ View the IP list [here](/servers.json)
 | Singapore | 109 |
 | Israel | 100 |
 | Bahamas | 98 |
+| Belgium | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
-| Belgium | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | DK Copenhagen | 89 |
