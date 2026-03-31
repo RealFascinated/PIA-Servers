@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,639-blue)
+![Servers](https://img.shields.io/badge/servers-13,627-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_31_12:57:10_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_31_13:57:53_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,26 +13,26 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 662 |
-| US Chicago | 536 |
-| US New York | 518 |
-| US Atlanta | 509 |
+| Netherlands | 660 |
+| US Chicago | 535 |
+| US New York | 517 |
+| US Atlanta | 508 |
 | US Washington DC | 490 |
-| US East | 447 |
-| US Texas | 447 |
-| CA Toronto | 433 |
+| US Texas | 449 |
+| US East | 445 |
+| CA Toronto | 431 |
 | US Silicon Valley | 415 |
-| CA Montreal | 415 |
-| US Las Vegas | 414 |
+| CA Montreal | 414 |
+| US Las Vegas | 413 |
 | CA Vancouver | 406 |
-| US California | 377 |
-| US Florida | 367 |
-| Switzerland | 282 |
+| US California | 378 |
+| US Florida | 368 |
+| Switzerland | 281 |
 | US Denver | 263 |
-| CA Ontario | 249 |
+| CA Ontario | 248 |
 | US West | 218 |
 | SE Stockholm | 201 |
-| UK Southampton | 200 |
+| UK Southampton | 199 |
 | US Houston | 194 |
 | DE Germany Streaming Optimized | 182 |
 | AU Perth | 181 |
@@ -46,8 +46,8 @@ View the IP list [here](/servers.json)
 | India | 110 |
 | Singapore | 109 |
 | Israel | 100 |
-| Belgium | 99 |
 | Bahamas | 98 |
+| Belgium | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 96 |
 | Panama | 93 |
@@ -58,7 +58,7 @@ View the IP list [here](/servers.json)
 | Argentina | 75 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
-| UK London | 65 |
+| UK London | 64 |
 | US Wilmington | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Missouri | 60 |
