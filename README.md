@@ -2,7 +2,7 @@
 
 ![Servers](https://img.shields.io/badge/servers-13,579-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_31_19:55:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Mar_31_20:55:33_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,42 +13,42 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 651 |
-| US Chicago | 532 |
+| Netherlands | 654 |
+| US Chicago | 530 |
 | US New York | 516 |
-| US Atlanta | 502 |
-| US Washington DC | 491 |
-| US Texas | 451 |
-| US East | 443 |
+| US Atlanta | 498 |
+| US Washington DC | 492 |
+| US Texas | 453 |
+| US East | 442 |
 | CA Toronto | 430 |
-| US Las Vegas | 411 |
-| CA Montreal | 411 |
-| US Silicon Valley | 410 |
-| CA Vancouver | 402 |
-| US California | 376 |
-| US Florida | 370 |
-| Switzerland | 279 |
+| US Las Vegas | 413 |
+| US Silicon Valley | 409 |
+| CA Montreal | 409 |
+| CA Vancouver | 401 |
+| US California | 377 |
+| US Florida | 372 |
+| Switzerland | 278 |
 | US Denver | 263 |
 | CA Ontario | 244 |
-| US West | 219 |
-| SE Stockholm | 201 |
-| UK Southampton | 199 |
+| US West | 220 |
+| UK Southampton | 200 |
+| SE Stockholm | 200 |
 | US Houston | 194 |
 | DE Germany Streaming Optimized | 182 |
 | AU Perth | 181 |
 | New Zealand | 180 |
-| France | 164 |
+| France | 165 |
 | Mexico | 139 |
 | Norway | 138 |
 | US Seattle | 121 |
 | US East Streaming Optimized | 120 |
+| India | 113 |
 | UK Streaming Optimized | 113 |
-| India | 112 |
 | Singapore | 109 |
 | Israel | 100 |
 | Bahamas | 98 |
-| Belgium | 98 |
 | ES Madrid | 97 |
+| Belgium | 97 |
 | US West Streaming Optimized | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
@@ -72,8 +72,8 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| Turkey | 52 |
 | Slovakia | 52 |
+| Turkey | 51 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
