@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,690-blue)
+![Servers](https://img.shields.io/badge/servers-13,681-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_21:58:58_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_22:59:34_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 657 |
+| Netherlands | 656 |
 | US Chicago | 545 |
-| US New York | 521 |
-| US Washington DC | 512 |
-| US Atlanta | 508 |
+| US New York | 520 |
+| US Washington DC | 511 |
+| US Atlanta | 507 |
 | US Texas | 472 |
-| US East | 445 |
-| CA Toronto | 439 |
+| US East | 446 |
+| CA Toronto | 436 |
 | CA Montreal | 423 |
 | US Las Vegas | 418 |
-| US Silicon Valley | 410 |
-| CA Vancouver | 408 |
+| CA Vancouver | 409 |
+| US Silicon Valley | 409 |
 | US California | 387 |
 | US Florida | 381 |
-| Switzerland | 280 |
+| Switzerland | 278 |
 | US Denver | 266 |
 | CA Ontario | 241 |
 | US West | 221 |
@@ -35,7 +35,7 @@ View the IP list [here](/servers.json)
 | UK Southampton | 197 |
 | US Houston | 192 |
 | DE Germany Streaming Optimized | 183 |
-| AU Perth | 180 |
+| AU Perth | 181 |
 | New Zealand | 180 |
 | France | 164 |
 | Mexico | 138 |
@@ -71,7 +71,7 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| UK London | 54 |
+| UK London | 53 |
 | Turkey | 52 |
 | Slovakia | 52 |
 | Andorra | 48 |
@@ -95,8 +95,8 @@ View the IP list [here](/servers.json)
 | Costa Rica | 35 |
 | Estonia | 34 |
 | Hong Kong | 32 |
-| US South Carolina | 31 |
 | Bangladesh | 31 |
+| US South Carolina | 30 |
 | Hungary | 30 |
 | IT Streaming Optimized | 30 |
 | South Africa | 30 |
