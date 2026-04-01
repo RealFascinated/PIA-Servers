@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,582-blue)
+![Servers](https://img.shields.io/badge/servers-13,597-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_09:55:13_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_10:55:33_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 653 |
+| Netherlands | 655 |
 | US Chicago | 529 |
-| US New York | 516 |
-| US Atlanta | 496 |
-| US Washington DC | 492 |
-| US Texas | 454 |
-| US East | 448 |
-| CA Toronto | 437 |
-| US Las Vegas | 414 |
-| US Silicon Valley | 410 |
-| CA Montreal | 407 |
-| CA Vancouver | 400 |
-| US California | 382 |
-| US Florida | 376 |
-| Switzerland | 278 |
-| US Denver | 264 |
+| US New York | 517 |
+| US Washington DC | 496 |
+| US Atlanta | 495 |
+| US Texas | 456 |
+| US East | 449 |
+| CA Toronto | 436 |
+| US Las Vegas | 415 |
+| US Silicon Valley | 411 |
+| CA Montreal | 409 |
+| CA Vancouver | 401 |
+| US California | 380 |
+| US Florida | 375 |
+| Switzerland | 279 |
+| US Denver | 265 |
 | CA Ontario | 244 |
 | US West | 218 |
 | SE Stockholm | 200 |
-| UK Southampton | 199 |
+| UK Southampton | 198 |
 | US Houston | 193 |
+| DE Germany Streaming Optimized | 182 |
 | New Zealand | 182 |
-| DE Germany Streaming Optimized | 181 |
-| AU Perth | 179 |
+| AU Perth | 180 |
 | France | 164 |
 | Mexico | 139 |
 | Norway | 136 |
 | US East Streaming Optimized | 120 |
-| India | 115 |
+| India | 116 |
 | US Seattle | 113 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
@@ -152,6 +152,7 @@ View the IP list [here](/servers.json)
 | US Salt Lake City | 4 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
+| Nigeria | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
 | JP Streaming Optimized | 3 |
@@ -167,7 +168,6 @@ View the IP list [here](/servers.json)
 | US Tennessee | 2 |
 | Colombia | 2 |
 | US Honolulu | 2 |
-| Nigeria | 2 |
 | Bulgaria | 2 |
 | North Macedonia | 2 |
 | US Massachusetts | 2 |
