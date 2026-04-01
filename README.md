@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,592-blue)
+![Servers](https://img.shields.io/badge/servers-13,568-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_00:57:03_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_01:57:41_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 654 |
-| US Chicago | 532 |
-| US New York | 516 |
-| US Washington DC | 495 |
+| Netherlands | 651 |
+| US Chicago | 530 |
+| US New York | 514 |
 | US Atlanta | 495 |
-| US Texas | 450 |
-| US East | 444 |
-| CA Toronto | 437 |
-| US Las Vegas | 414 |
-| CA Montreal | 410 |
-| US Silicon Valley | 409 |
+| US Washington DC | 492 |
+| US Texas | 451 |
+| US East | 445 |
+| CA Toronto | 436 |
+| US Las Vegas | 413 |
+| US Silicon Valley | 407 |
+| CA Montreal | 405 |
 | CA Vancouver | 403 |
-| US California | 381 |
-| US Florida | 375 |
-| Switzerland | 274 |
-| US Denver | 265 |
+| US California | 380 |
+| US Florida | 374 |
+| Switzerland | 275 |
+| US Denver | 264 |
 | CA Ontario | 245 |
 | US West | 219 |
-| UK Southampton | 200 |
+| UK Southampton | 199 |
 | SE Stockholm | 199 |
-| US Houston | 194 |
-| DE Germany Streaming Optimized | 182 |
+| US Houston | 193 |
+| DE Germany Streaming Optimized | 181 |
 | New Zealand | 181 |
-| AU Perth | 180 |
+| AU Perth | 179 |
 | France | 165 |
 | Mexico | 139 |
 | Norway | 137 |
@@ -59,12 +59,12 @@ View the IP list [here](/servers.json)
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
 | US Wilmington | 60 |
-| UK London | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Missouri | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
+| UK London | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | US Pennsylvania | 57 |
