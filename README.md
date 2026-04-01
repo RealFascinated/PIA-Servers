@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,568-blue)
+![Servers](https://img.shields.io/badge/servers-13,552-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_01:57:41_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_01_02:58:02_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 651 |
+| Netherlands | 650 |
 | US Chicago | 530 |
-| US New York | 514 |
-| US Atlanta | 495 |
+| US New York | 511 |
+| US Atlanta | 494 |
 | US Washington DC | 492 |
-| US Texas | 451 |
+| US Texas | 452 |
 | US East | 445 |
-| CA Toronto | 436 |
-| US Las Vegas | 413 |
-| US Silicon Valley | 407 |
+| CA Toronto | 435 |
+| US Las Vegas | 410 |
+| US Silicon Valley | 405 |
 | CA Montreal | 405 |
-| CA Vancouver | 403 |
-| US California | 380 |
+| CA Vancouver | 401 |
+| US California | 381 |
 | US Florida | 374 |
-| Switzerland | 275 |
+| Switzerland | 276 |
 | US Denver | 264 |
 | CA Ontario | 245 |
 | US West | 219 |
@@ -36,12 +36,12 @@ View the IP list [here](/servers.json)
 | US Houston | 193 |
 | DE Germany Streaming Optimized | 181 |
 | New Zealand | 181 |
-| AU Perth | 179 |
-| France | 165 |
+| AU Perth | 178 |
+| France | 164 |
 | Mexico | 139 |
-| Norway | 137 |
+| Norway | 136 |
 | US East Streaming Optimized | 120 |
-| US Seattle | 118 |
+| US Seattle | 117 |
 | India | 113 |
 | UK Streaming Optimized | 113 |
 | Singapore | 109 |
@@ -64,10 +64,10 @@ View the IP list [here](/servers.json)
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| UK London | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | US Pennsylvania | 57 |
+| UK London | 57 |
 | Uruguay | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
