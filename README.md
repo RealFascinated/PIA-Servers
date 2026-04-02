@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,671-blue)
+![Servers](https://img.shields.io/badge/servers-13,670-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_02_08:57:48_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_02_09:58:10_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,29 +14,29 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 659 |
-| US Chicago | 540 |
-| US New York | 518 |
-| US Washington DC | 516 |
-| US Atlanta | 501 |
-| US Texas | 475 |
-| US East | 443 |
-| CA Toronto | 429 |
-| CA Montreal | 427 |
-| US Las Vegas | 421 |
-| CA Vancouver | 414 |
-| US Silicon Valley | 404 |
-| US California | 391 |
-| US Florida | 380 |
+| US Chicago | 538 |
+| US Washington DC | 518 |
+| US New York | 517 |
+| US Atlanta | 502 |
+| US Texas | 476 |
+| US East | 444 |
+| CA Montreal | 428 |
+| CA Toronto | 427 |
+| US Las Vegas | 422 |
+| CA Vancouver | 413 |
+| US Silicon Valley | 403 |
+| US California | 390 |
+| US Florida | 381 |
 | Switzerland | 278 |
 | US Denver | 269 |
 | CA Ontario | 242 |
 | US West | 220 |
-| SE Stockholm | 197 |
+| SE Stockholm | 196 |
 | UK Southampton | 194 |
 | US Houston | 194 |
+| New Zealand | 183 |
 | DE Germany Streaming Optimized | 182 |
 | AU Perth | 181 |
-| New Zealand | 181 |
 | France | 163 |
 | Norway | 139 |
 | Mexico | 137 |
@@ -44,8 +44,8 @@ View the IP list [here](/servers.json)
 | India | 118 |
 | UK Streaming Optimized | 113 |
 | Singapore | 108 |
-| US Seattle | 100 |
 | Israel | 100 |
+| US Seattle | 99 |
 | Bahamas | 98 |
 | Belgium | 98 |
 | ES Madrid | 97 |
@@ -73,7 +73,7 @@ View the IP list [here](/servers.json)
 | Lithuania | 55 |
 | Turkey | 52 |
 | Slovakia | 52 |
-| UK London | 50 |
+| UK London | 49 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
