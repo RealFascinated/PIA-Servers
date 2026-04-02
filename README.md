@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,652-blue)
+![Servers](https://img.shields.io/badge/servers-13,635-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_02_00:55:10_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_02_01:55:34_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,26 +13,26 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 652 |
-| US Chicago | 544 |
+| Netherlands | 650 |
+| US Chicago | 543 |
 | US New York | 517 |
 | US Washington DC | 511 |
-| US Atlanta | 503 |
-| US Texas | 472 |
-| US East | 443 |
-| CA Toronto | 432 |
-| CA Montreal | 424 |
-| US Las Vegas | 418 |
-| CA Vancouver | 409 |
-| US Silicon Valley | 405 |
-| US California | 387 |
+| US Atlanta | 500 |
+| US Texas | 471 |
+| US East | 444 |
+| CA Toronto | 430 |
+| CA Montreal | 423 |
+| US Las Vegas | 417 |
+| CA Vancouver | 411 |
+| US Silicon Valley | 402 |
+| US California | 385 |
 | US Florida | 381 |
 | Switzerland | 278 |
-| US Denver | 266 |
+| US Denver | 265 |
 | CA Ontario | 242 |
 | US West | 221 |
 | SE Stockholm | 199 |
-| UK Southampton | 195 |
+| UK Southampton | 194 |
 | US Houston | 191 |
 | DE Germany Streaming Optimized | 182 |
 | AU Perth | 180 |
@@ -47,9 +47,9 @@ View the IP list [here](/servers.json)
 | US Seattle | 105 |
 | Israel | 100 |
 | Bahamas | 98 |
-| Belgium | 98 |
 | ES Madrid | 97 |
 | US West Streaming Optimized | 97 |
+| Belgium | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | DK Copenhagen | 90 |
@@ -72,8 +72,8 @@ View the IP list [here](/servers.json)
 | Austria | 55 |
 | Lithuania | 55 |
 | Turkey | 52 |
-| UK London | 52 |
 | Slovakia | 52 |
+| UK London | 51 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
