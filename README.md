@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,700-blue)
+![Servers](https://img.shields.io/badge/servers-13,689-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_02_16:56:01_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_02_17:56:22_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 658 |
-| US Chicago | 536 |
-| US Washington DC | 520 |
-| US New York | 515 |
-| US Atlanta | 508 |
-| US Texas | 475 |
+| Netherlands | 655 |
+| US Chicago | 534 |
+| US Washington DC | 519 |
+| US New York | 514 |
+| US Atlanta | 507 |
+| US Texas | 474 |
 | US East | 446 |
-| CA Montreal | 428 |
 | CA Toronto | 427 |
-| US Las Vegas | 422 |
-| CA Vancouver | 416 |
-| US Silicon Valley | 402 |
-| US California | 388 |
-| US Florida | 379 |
-| Switzerland | 280 |
+| CA Montreal | 426 |
+| US Las Vegas | 421 |
+| CA Vancouver | 417 |
+| US Silicon Valley | 403 |
+| US California | 387 |
+| US Florida | 380 |
+| Switzerland | 279 |
 | US Denver | 269 |
-| CA Ontario | 243 |
+| CA Ontario | 244 |
 | US West | 222 |
 | SE Stockholm | 201 |
-| US Houston | 195 |
 | UK Southampton | 194 |
+| US Houston | 194 |
 | DE Germany Streaming Optimized | 182 |
 | AU Perth | 182 |
 | New Zealand | 182 |
@@ -41,15 +41,15 @@ View the IP list [here](/servers.json)
 | Norway | 139 |
 | Mexico | 137 |
 | US East Streaming Optimized | 120 |
-| India | 118 |
+| India | 119 |
 | UK Streaming Optimized | 113 |
 | Singapore | 108 |
 | ES Madrid | 102 |
 | Israel | 100 |
 | Belgium | 99 |
 | Bahamas | 98 |
-| US Seattle | 97 |
 | US West Streaming Optimized | 97 |
+| US Seattle | 95 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | DK Copenhagen | 90 |
@@ -146,11 +146,11 @@ View the IP list [here](/servers.json)
 | AU Melbourne | 7 |
 | Greenland | 5 |
 | Latvia | 5 |
+| Poland | 4 |
 | United Arab Emirates | 4 |
 | DE Berlin | 4 |
 | US Massachusetts | 4 |
 | US Salt Lake City | 4 |
-| Poland | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
 | Nigeria | 3 |
