@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,870-blue)
+![Servers](https://img.shields.io/badge/servers-13,874-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_03_10:55:06_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_03_11:55:24_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 677 |
-| US Chicago | 551 |
-| US Washington DC | 535 |
-| US New York | 527 |
-| US Atlanta | 526 |
-| US Texas | 488 |
-| US East | 466 |
-| CA Montreal | 437 |
-| US Las Vegas | 434 |
-| CA Toronto | 434 |
-| CA Vancouver | 418 |
-| US Silicon Valley | 410 |
-| US California | 407 |
+| Netherlands | 679 |
+| US Chicago | 552 |
+| US Washington DC | 536 |
+| US New York | 528 |
+| US Atlanta | 527 |
+| US Texas | 490 |
+| US East | 467 |
+| CA Montreal | 436 |
+| US Las Vegas | 435 |
+| CA Toronto | 433 |
+| CA Vancouver | 417 |
+| US Silicon Valley | 411 |
+| US California | 406 |
 | US Florida | 381 |
-| Switzerland | 283 |
+| Switzerland | 282 |
 | US Denver | 273 |
 | CA Ontario | 246 |
 | US West | 225 |
 | SE Stockholm | 199 |
-| US Houston | 194 |
+| US Houston | 195 |
 | UK Southampton | 193 |
-| DE Germany Streaming Optimized | 184 |
+| DE Germany Streaming Optimized | 183 |
 | New Zealand | 183 |
 | AU Perth | 182 |
-| France | 169 |
+| France | 168 |
+| Norway | 140 |
 | Mexico | 139 |
-| Norway | 139 |
 | India | 121 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
@@ -54,7 +54,7 @@ View the IP list [here](/servers.json)
 | DK Copenhagen | 90 |
 | AU Brisbane | 87 |
 | IT Milano | 87 |
-| US Seattle | 84 |
+| US Seattle | 82 |
 | Argentina | 75 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
