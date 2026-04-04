@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,921-blue)
+![Servers](https://img.shields.io/badge/servers-13,924-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_04_15:56:37_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_04_16:56:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,20 +13,20 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 686 |
+| Netherlands | 688 |
 | US Chicago | 560 |
 | US Washington DC | 544 |
 | US New York | 527 |
-| US Atlanta | 524 |
-| US Texas | 501 |
+| US Atlanta | 523 |
+| US Texas | 502 |
 | US East | 475 |
+| CA Montreal | 444 |
 | CA Toronto | 443 |
-| CA Montreal | 442 |
 | US Las Vegas | 431 |
 | CA Vancouver | 425 |
 | US Silicon Valley | 421 |
-| US California | 414 |
-| US Florida | 384 |
+| US California | 412 |
+| US Florida | 385 |
 | Switzerland | 285 |
 | US Denver | 270 |
 | CA Ontario | 247 |
