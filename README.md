@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,922-blue)
+![Servers](https://img.shields.io/badge/servers-13,919-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_04_09:55:20_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_04_10:55:41_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,24 +14,24 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 684 |
-| US Chicago | 558 |
-| US Washington DC | 538 |
-| US New York | 531 |
+| US Chicago | 561 |
+| US Washington DC | 539 |
+| US New York | 529 |
 | US Atlanta | 525 |
-| US Texas | 500 |
-| US East | 481 |
-| CA Toronto | 443 |
-| CA Montreal | 442 |
-| US Las Vegas | 431 |
-| CA Vancouver | 426 |
-| US Silicon Valley | 420 |
-| US California | 414 |
-| US Florida | 385 |
-| Switzerland | 284 |
-| US Denver | 271 |
-| CA Ontario | 246 |
-| US West | 223 |
-| SE Stockholm | 198 |
+| US Texas | 498 |
+| US East | 480 |
+| CA Toronto | 441 |
+| CA Montreal | 441 |
+| US Las Vegas | 434 |
+| CA Vancouver | 425 |
+| US Silicon Valley | 419 |
+| US California | 416 |
+| US Florida | 384 |
+| Switzerland | 285 |
+| US Denver | 270 |
+| CA Ontario | 245 |
+| US West | 224 |
+| SE Stockholm | 197 |
 | US Houston | 194 |
 | UK Southampton | 191 |
 | DE Germany Streaming Optimized | 184 |
@@ -46,8 +46,8 @@ View the IP list [here](/servers.json)
 | Singapore | 108 |
 | ES Madrid | 102 |
 | Israel | 100 |
+| Belgium | 99 |
 | Bahamas | 98 |
-| Belgium | 98 |
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
@@ -55,9 +55,9 @@ View the IP list [here](/servers.json)
 | AU Brisbane | 87 |
 | IT Milano | 87 |
 | Argentina | 75 |
-| US Seattle | 66 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
+| US Seattle | 65 |
 | US Wilmington | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Missouri | 60 |
