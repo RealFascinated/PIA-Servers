@@ -2,7 +2,7 @@
 
 ![Servers](https://img.shields.io/badge/servers-14,083-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_05_10:58:15_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_05_11:58:34_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 702 |
-| US Chicago | 583 |
-| US New York | 554 |
+| Netherlands | 705 |
+| US Chicago | 584 |
+| US New York | 555 |
 | US Washington DC | 544 |
-| US Atlanta | 539 |
-| US Texas | 509 |
+| US Atlanta | 538 |
+| US Texas | 508 |
 | US East | 483 |
-| CA Montreal | 457 |
+| CA Montreal | 458 |
 | CA Toronto | 454 |
-| US Las Vegas | 444 |
+| US Las Vegas | 443 |
 | CA Vancouver | 435 |
 | US Silicon Valley | 429 |
-| US California | 421 |
+| US California | 420 |
 | US Florida | 384 |
-| Switzerland | 293 |
+| Switzerland | 292 |
 | US Denver | 272 |
 | CA Ontario | 250 |
 | US West | 226 |
@@ -129,10 +129,10 @@ View the IP list [here](/servers.json)
 | US Montana | 20 |
 | US Alaska | 20 |
 | US New Mexico | 19 |
-| UK London | 19 |
 | US North Carolina | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
+| UK London | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Alabama | 18 |
