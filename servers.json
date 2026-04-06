@@ -1,10 +1,5 @@
 [
   {
-    "ip": "146.70.11.30",
-    "region": "chile",
-    "lastSeen": "Mar 23, 2026, 5:59:28 PM"
-  },
-  {
     "ip": "98.159.36.135",
     "region": "bosnia_and_herzegovina",
     "lastSeen": "Mar 23, 2026, 7:55:33 PM"
@@ -70388,5 +70383,70 @@
     "ip": "140.228.24.221",
     "region": "ca_montreal",
     "lastSeen": "Apr 6, 2026, 5:54:32 PM"
+  },
+  {
+    "ip": "37.19.198.86",
+    "region": "us_new_york",
+    "lastSeen": "Apr 6, 2026, 6:59:53 PM"
+  },
+  {
+    "ip": "85.203.46.8",
+    "region": "uk_london",
+    "lastSeen": "Apr 6, 2026, 6:59:53 PM"
+  },
+  {
+    "ip": "84.239.45.13",
+    "region": "us_rhode_island",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "146.70.11.30",
+    "region": "chile",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "102.129.234.49",
+    "region": "us_texas",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "156.146.39.225",
+    "region": "us_texas",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "84.239.25.9",
+    "region": "us_minnesota",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "138.199.54.35",
+    "region": "it_streaming_optimized",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "138.199.54.50",
+    "region": "it_streaming_optimized",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "102.129.153.184",
+    "region": "us_florida",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "84.239.33.142",
+    "region": "us_oklahoma",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "84.239.33.143",
+    "region": "us_oklahoma",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
+  },
+  {
+    "ip": "191.96.255.134",
+    "region": "us_silicon_valley",
+    "lastSeen": "Apr 6, 2026, 6:59:54 PM"
   }
 ]
