@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-14,090-blue)
+![Servers](https://img.shields.io/badge/servers-14,102-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_06_18:59:56_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_06_19:55:18_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,19 +13,19 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 700 |
-| US Chicago | 580 |
+| Netherlands | 701 |
+| US Chicago | 581 |
 | US New York | 573 |
 | US Washington DC | 546 |
 | US Atlanta | 534 |
-| US Texas | 510 |
+| US Texas | 511 |
 | US East | 490 |
-| CA Montreal | 466 |
+| CA Montreal | 467 |
 | US Las Vegas | 454 |
-| CA Toronto | 441 |
+| CA Toronto | 442 |
 | CA Vancouver | 440 |
-| US Silicon Valley | 435 |
-| US California | 425 |
+| US Silicon Valley | 436 |
+| US California | 426 |
 | US Florida | 397 |
 | Switzerland | 292 |
 | US Denver | 275 |
@@ -60,9 +60,9 @@ View the IP list [here](/servers.json)
 | US Wilmington | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Missouri | 60 |
+| US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| US Baltimore | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | US Pennsylvania | 57 |
@@ -96,26 +96,26 @@ View the IP list [here](/servers.json)
 | Hungary | 32 |
 | Hong Kong | 32 |
 | US South Carolina | 31 |
+| Bangladesh | 31 |
 | IT Streaming Optimized | 30 |
 | Malaysia | 30 |
 | South Africa | 30 |
-| Bangladesh | 30 |
 | Bolivia | 28 |
 | Australia Streaming Optimized | 27 |
 | Guatemala | 27 |
 | FI Streaming Optimized | 27 |
 | Peru | 27 |
+| Montenegro | 26 |
 | Macao | 25 |
-| Montenegro | 25 |
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
 | Egypt | 24 |
 | Armenia | 22 |
+| Monaco | 22 |
 | Kazakhstan | 22 |
+| US Louisiana | 22 |
 | US Virginia | 21 |
-| Monaco | 21 |
-| US Louisiana | 21 |
 | US Arkansas | 20 |
 | US Idaho | 20 |
 | US Minnesota | 20 |
