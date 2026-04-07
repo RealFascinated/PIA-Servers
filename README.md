@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-13,898-blue)
+![Servers](https://img.shields.io/badge/servers-13,936-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_07_04:58:25_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_07_05:58:46_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,20 +13,20 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 711 |
+| Netherlands | 713 |
 | US Chicago | 586 |
-| US New York | 574 |
+| US New York | 575 |
 | US Washington DC | 551 |
 | US Atlanta | 534 |
 | US Texas | 511 |
 | US East | 492 |
 | CA Montreal | 471 |
-| US Las Vegas | 455 |
+| US Las Vegas | 456 |
 | CA Toronto | 448 |
-| CA Vancouver | 445 |
-| US Silicon Valley | 437 |
+| CA Vancouver | 446 |
+| US Silicon Valley | 438 |
 | US California | 428 |
-| US Florida | 397 |
+| US Florida | 399 |
 | Switzerland | 294 |
 | US Denver | 275 |
 | CA Ontario | 251 |
@@ -40,7 +40,7 @@ View the IP list [here](/servers.json)
 | France | 166 |
 | Mexico | 139 |
 | Norway | 138 |
-| India | 117 |
+| India | 118 |
 | US East Streaming Optimized | 117 |
 | UK Streaming Optimized | 112 |
 | Singapore | 107 |
@@ -50,8 +50,8 @@ View the IP list [here](/servers.json)
 | Bahamas | 97 |
 | US West Streaming Optimized | 95 |
 | Luxembourg | 92 |
-| Panama | 90 |
-| DK Copenhagen | 88 |
+| Panama | 91 |
+| DK Copenhagen | 89 |
 | IT Milano | 87 |
 | AU Brisbane | 82 |
 | Argentina | 74 |
@@ -62,51 +62,51 @@ View the IP list [here](/servers.json)
 | CA Ontario Streaming Optimized | 57 |
 | US Missouri | 57 |
 | US Wilmington | 55 |
+| US Pennsylvania | 55 |
 | Venezuela | 54 |
+| Ukraine | 54 |
 | Lithuania | 54 |
-| US Pennsylvania | 54 |
+| US Connecticut | 54 |
 | DK Streaming Optimized | 53 |
-| Ukraine | 53 |
 | Uruguay | 53 |
-| US Connecticut | 53 |
+| Austria | 49 |
 | Slovakia | 49 |
 | Turkey | 48 |
-| Austria | 48 |
+| Taiwan | 45 |
 | Andorra | 44 |
 | US Seattle | 44 |
-| Taiwan | 44 |
+| Vietnam | 43 |
 | US Iowa | 42 |
-| Vietnam | 41 |
-| Isle OF Man | 39 |
-| US Ohio | 38 |
+| Isle OF Man | 42 |
+| US Ohio | 39 |
+| US Michigan | 39 |
 | US West Virginia | 38 |
-| US Michigan | 38 |
+| US Wisconsin | 37 |
 | Portugal | 36 |
 | Liechtenstein | 36 |
-| US Wisconsin | 36 |
 | Saudi Arabia | 35 |
+| Algeria | 34 |
 | Morocco | 34 |
 | Chile | 34 |
+| Albania | 33 |
 | Philippines | 33 |
-| Algeria | 33 |
 | Costa Rica | 33 |
-| Albania | 32 |
-| Malta | 32 |
+| Malta | 33 |
 | Hong Kong | 31 |
 | IT Streaming Optimized | 28 |
+| Bolivia | 28 |
 | Bangladesh | 28 |
 | Estonia | 27 |
 | US South Carolina | 27 |
+| Australia Streaming Optimized | 27 |
 | FI Streaming Optimized | 27 |
-| Bolivia | 27 |
-| Australia Streaming Optimized | 26 |
+| Guatemala | 26 |
 | Montenegro | 26 |
-| Guatemala | 25 |
 | Peru | 25 |
+| Cyprus | 24 |
 | Armenia | 23 |
 | Cambodia | 23 |
 | Hungary | 23 |
-| Cyprus | 23 |
 | Bosnia And Herzegovina | 23 |
 | Macao | 23 |
 | Monaco | 22 |
@@ -115,13 +115,13 @@ View the IP list [here](/servers.json)
 | US Louisiana | 22 |
 | US Virginia | 20 |
 | US Idaho | 20 |
+| US Minnesota | 20 |
+| US South Dakota | 20 |
+| US Wyoming | 20 |
 | US Alaska | 20 |
 | US Arkansas | 19 |
-| US Minnesota | 19 |
 | US Nebraska | 19 |
 | US Oregon | 19 |
-| US South Dakota | 19 |
-| US Wyoming | 19 |
 | US Oklahoma | 19 |
 | US Montana | 19 |
 | South Africa | 19 |
@@ -134,14 +134,14 @@ View the IP list [here](/servers.json)
 | US Mississippi | 17 |
 | US North Carolina | 17 |
 | Malaysia | 17 |
-| US Maine | 15 |
-| Serbia | 14 |
+| US Maine | 16 |
+| Serbia | 15 |
+| South Korea | 14 |
 | Nepal | 14 |
-| South Korea | 13 |
 | Mongolia | 12 |
 | SE Streaming Optimized | 11 |
+| Sri Lanka | 11 |
 | UK London | 10 |
-| Sri Lanka | 10 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | Greenland | 5 |
