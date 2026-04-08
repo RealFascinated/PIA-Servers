@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,520-blue)
+![Servers](https://img.shields.io/badge/servers-12,479-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_08_21:57:18_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_08_22:57:41_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,88 +13,88 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 713 |
-| US Chicago | 576 |
-| US New York | 553 |
-| US Washington DC | 537 |
-| US Atlanta | 514 |
-| US Texas | 494 |
-| US East | 459 |
-| US Las Vegas | 452 |
+| Netherlands | 714 |
+| US Chicago | 575 |
+| US New York | 552 |
+| US Washington DC | 534 |
+| US Atlanta | 513 |
+| US Texas | 493 |
+| US East | 460 |
+| US Las Vegas | 447 |
 | CA Montreal | 441 |
 | CA Vancouver | 439 |
 | CA Toronto | 437 |
-| US Silicon Valley | 430 |
-| US California | 421 |
-| US Florida | 389 |
-| Switzerland | 260 |
-| US Denver | 238 |
-| CA Ontario | 218 |
-| US West | 183 |
-| US Houston | 162 |
-| DE Germany Streaming Optimized | 152 |
+| US Silicon Valley | 431 |
+| US California | 420 |
+| US Florida | 387 |
+| Switzerland | 261 |
+| US Denver | 236 |
+| CA Ontario | 217 |
+| US West | 182 |
+| US Houston | 161 |
+| DE Germany Streaming Optimized | 148 |
 | New Zealand | 147 |
-| SE Stockholm | 138 |
-| UK Southampton | 127 |
-| AU Perth | 108 |
-| Mexico | 107 |
-| Norway | 100 |
+| SE Stockholm | 135 |
+| UK Southampton | 123 |
+| Mexico | 104 |
+| AU Perth | 102 |
+| Norway | 99 |
 | India | 98 |
-| US East Streaming Optimized | 94 |
-| UK Streaming Optimized | 89 |
-| France | 88 |
+| US East Streaming Optimized | 95 |
+| UK Streaming Optimized | 90 |
+| France | 83 |
 | Belgium | 83 |
-| Panama | 75 |
+| Panama | 74 |
 | Israel | 74 |
 | US West Streaming Optimized | 72 |
 | Luxembourg | 71 |
-| Bahamas | 70 |
-| DK Copenhagen | 69 |
-| IT Milano | 68 |
-| Argentina | 62 |
-| Brazil | 59 |
+| Bahamas | 69 |
+| DK Copenhagen | 67 |
+| IT Milano | 67 |
+| Argentina | 61 |
+| Brazil | 61 |
 | CA Ontario Streaming Optimized | 58 |
-| NL Netherlands Streaming Optimized | 56 |
-| Venezuela | 54 |
-| US Baltimore | 54 |
+| NL Netherlands Streaming Optimized | 57 |
+| Venezuela | 55 |
+| US Baltimore | 55 |
+| DK Streaming Optimized | 54 |
 | US Wilmington | 53 |
-| Ecuador | 53 |
+| Ukraine | 53 |
 | US Missouri | 53 |
 | US Connecticut | 53 |
-| DK Streaming Optimized | 52 |
-| Ukraine | 52 |
-| US Pennsylvania | 52 |
+| Ecuador | 52 |
 | Austria | 51 |
+| Uruguay | 50 |
+| US Pennsylvania | 50 |
 | Lithuania | 49 |
-| Uruguay | 49 |
+| Turkey | 47 |
 | Andorra | 46 |
-| Turkey | 46 |
-| Taiwan | 44 |
+| Taiwan | 45 |
 | Vietnam | 42 |
 | Isle OF Man | 42 |
 | US Ohio | 41 |
+| Liechtenstein | 41 |
 | US West Virginia | 40 |
-| US Iowa | 40 |
-| Liechtenstein | 40 |
 | US Wisconsin | 40 |
 | US Michigan | 40 |
+| US Iowa | 39 |
 | Morocco | 38 |
 | Malta | 37 |
 | Albania | 36 |
 | Philippines | 36 |
 | Chile | 36 |
+| Algeria | 35 |
 | Costa Rica | 35 |
-| Algeria | 34 |
 | Hong Kong | 32 |
 | US South Carolina | 31 |
 | Bangladesh | 31 |
 | IT Streaming Optimized | 30 |
-| ES Madrid | 28 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
+| ES Madrid | 27 |
 | Singapore | 26 |
 | Macao | 26 |
 | Montenegro | 26 |
@@ -110,7 +110,6 @@ View the IP list [here](/servers.json)
 | US Idaho | 21 |
 | US Wyoming | 21 |
 | US Arkansas | 20 |
-| AU Brisbane | 20 |
 | US Minnesota | 20 |
 | US Mississippi | 20 |
 | US Nebraska | 20 |
@@ -124,6 +123,7 @@ View the IP list [here](/servers.json)
 | US North Carolina | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
+| AU Brisbane | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Alabama | 18 |
@@ -139,11 +139,11 @@ View the IP list [here](/servers.json)
 | AU Melbourne | 7 |
 | Estonia | 6 |
 | Greenland | 5 |
-| Slovakia | 5 |
 | Latvia | 5 |
 | Poland | 4 |
 | United Arab Emirates | 4 |
 | DE Berlin | 4 |
+| Slovakia | 4 |
 | US Salt Lake City | 4 |
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
