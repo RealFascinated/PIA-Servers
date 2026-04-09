@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,000-blue)
+![Servers](https://img.shields.io/badge/servers-12,010-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_09_21:55:21_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_09_22:55:46_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,36 +13,36 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 696 |
+| Netherlands | 697 |
 | US Chicago | 551 |
 | US New York | 546 |
-| US Washington DC | 525 |
-| US Atlanta | 494 |
+| US Washington DC | 526 |
+| US Atlanta | 495 |
 | US Texas | 480 |
 | US East | 429 |
-| CA Toronto | 425 |
-| CA Montreal | 424 |
-| US Las Vegas | 423 |
-| CA Vancouver | 420 |
-| US Silicon Valley | 405 |
+| US Las Vegas | 424 |
+| CA Toronto | 424 |
+| CA Montreal | 423 |
+| CA Vancouver | 419 |
+| US Silicon Valley | 406 |
 | US California | 393 |
-| US Florida | 353 |
-| Switzerland | 248 |
-| US Denver | 212 |
+| US Florida | 354 |
+| Switzerland | 249 |
+| US Denver | 213 |
 | CA Ontario | 193 |
 | US West | 166 |
-| US Houston | 142 |
+| US Houston | 143 |
 | DE Germany Streaming Optimized | 136 |
-| New Zealand | 124 |
-| India | 111 |
-| Mexico | 105 |
-| UK Streaming Optimized | 96 |
+| New Zealand | 125 |
+| India | 112 |
+| Mexico | 106 |
+| UK Streaming Optimized | 97 |
 | Norway | 94 |
-| US East Streaming Optimized | 93 |
+| US East Streaming Optimized | 94 |
 | Bahamas | 89 |
 | SE Stockholm | 87 |
 | Luxembourg | 84 |
-| Panama | 81 |
+| Panama | 82 |
 | Israel | 81 |
 | US West Streaming Optimized | 80 |
 | IT Milano | 80 |
@@ -60,15 +60,15 @@ View the IP list [here](/servers.json)
 | DK Streaming Optimized | 57 |
 | US Wilmington | 57 |
 | US Connecticut | 56 |
+| Austria | 55 |
 | Ecuador | 55 |
 | Lithuania | 55 |
 | Uruguay | 55 |
-| Austria | 54 |
 | US Pennsylvania | 54 |
-| AU Perth | 52 |
+| AU Perth | 51 |
 | Turkey | 50 |
 | Andorra | 48 |
-| France | 47 |
+| France | 46 |
 | Taiwan | 46 |
 | Vietnam | 44 |
 | US Iowa | 44 |
@@ -130,8 +130,8 @@ View the IP list [here](/servers.json)
 | Nepal | 14 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
-| ES Madrid | 12 |
 | UK London | 12 |
+| ES Madrid | 11 |
 | Sri Lanka | 11 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
