@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,028-blue)
+![Servers](https://img.shields.io/badge/servers-12,032-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_12:59:29_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_13:59:37_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -17,28 +17,28 @@ View the IP list [here](/servers.json)
 | US Chicago | 558 |
 | US New York | 546 |
 | US Washington DC | 523 |
-| US Atlanta | 495 |
-| US Texas | 466 |
-| CA Toronto | 436 |
-| US East | 432 |
-| CA Vancouver | 410 |
-| CA Montreal | 408 |
+| US Atlanta | 496 |
+| US Texas | 469 |
+| US East | 434 |
+| CA Toronto | 433 |
+| CA Vancouver | 408 |
 | US Las Vegas | 407 |
-| US Silicon Valley | 399 |
+| CA Montreal | 407 |
+| US Silicon Valley | 400 |
 | US California | 389 |
-| US Florida | 358 |
-| Switzerland | 244 |
-| US Denver | 209 |
-| CA Ontario | 199 |
-| US West | 173 |
+| US Florida | 361 |
+| Switzerland | 245 |
+| US Denver | 210 |
+| CA Ontario | 197 |
+| US West | 176 |
 | US Houston | 150 |
-| DE Germany Streaming Optimized | 148 |
-| New Zealand | 145 |
-| India | 115 |
+| DE Germany Streaming Optimized | 147 |
+| New Zealand | 144 |
+| India | 116 |
 | Mexico | 111 |
-| US East Streaming Optimized | 108 |
-| UK Streaming Optimized | 104 |
-| Bahamas | 96 |
+| US East Streaming Optimized | 109 |
+| UK Streaming Optimized | 107 |
+| Bahamas | 97 |
 | Luxembourg | 91 |
 | Panama | 90 |
 | US West Streaming Optimized | 90 |
@@ -48,9 +48,9 @@ View the IP list [here](/servers.json)
 | DK Copenhagen | 74 |
 | Belgium | 73 |
 | Argentina | 72 |
-| SE Stockholm | 67 |
 | NL Netherlands Streaming Optimized | 65 |
 | Brazil | 65 |
+| SE Stockholm | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | US Wilmington | 59 |
@@ -66,19 +66,19 @@ View the IP list [here](/servers.json)
 | Lithuania | 55 |
 | Turkey | 52 |
 | Andorra | 48 |
-| UK Southampton | 47 |
 | Taiwan | 46 |
+| UK Southampton | 45 |
 | Vietnam | 44 |
 | US Iowa | 44 |
 | Isle OF Man | 44 |
 | US Ohio | 41 |
-| AU Perth | 41 |
 | Liechtenstein | 41 |
 | US West Virginia | 40 |
 | US Wisconsin | 40 |
 | US Michigan | 40 |
 | Albania | 39 |
-| France | 39 |
+| AU Perth | 39 |
+| France | 38 |
 | Morocco | 38 |
 | Malta | 37 |
 | Philippines | 36 |
