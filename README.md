@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,008-blue)
+![Servers](https://img.shields.io/badge/servers-12,004-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_16:55:29_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_17:55:54_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -16,47 +16,47 @@ View the IP list [here](/servers.json)
 | Netherlands | 704 |
 | US Chicago | 558 |
 | US New York | 548 |
-| US Washington DC | 522 |
+| US Washington DC | 520 |
 | US Atlanta | 496 |
 | US Texas | 467 |
 | CA Toronto | 435 |
 | US East | 428 |
-| CA Vancouver | 408 |
-| US Las Vegas | 406 |
+| US Las Vegas | 408 |
+| CA Vancouver | 407 |
 | CA Montreal | 405 |
-| US Silicon Valley | 402 |
+| US Silicon Valley | 399 |
 | US California | 388 |
-| US Florida | 360 |
-| Switzerland | 241 |
+| US Florida | 358 |
+| Switzerland | 239 |
 | US Denver | 204 |
-| CA Ontario | 196 |
+| CA Ontario | 197 |
 | US West | 175 |
-| US Houston | 152 |
-| DE Germany Streaming Optimized | 150 |
-| New Zealand | 149 |
+| US Houston | 153 |
+| DE Germany Streaming Optimized | 152 |
+| New Zealand | 148 |
 | India | 116 |
-| Mexico | 111 |
+| Mexico | 113 |
 | US East Streaming Optimized | 110 |
 | UK Streaming Optimized | 108 |
 | Bahamas | 95 |
 | Luxembourg | 92 |
-| US West Streaming Optimized | 92 |
 | Panama | 91 |
+| US West Streaming Optimized | 91 |
 | IT Milano | 86 |
 | Norway | 84 |
 | Israel | 79 |
-| DK Copenhagen | 74 |
+| DK Copenhagen | 73 |
 | Argentina | 73 |
 | Belgium | 73 |
 | NL Netherlands Streaming Optimized | 65 |
 | Brazil | 65 |
 | SE Stockholm | 61 |
+| US Missouri | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | US Wilmington | 59 |
 | Ukraine | 59 |
-| US Missouri | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | Uruguay | 56 |
