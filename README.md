@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,004-blue)
+![Servers](https://img.shields.io/badge/servers-12,030-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_17:55:54_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_18:55:59_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,39 +14,39 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 704 |
-| US Chicago | 558 |
-| US New York | 548 |
-| US Washington DC | 520 |
-| US Atlanta | 496 |
-| US Texas | 467 |
-| CA Toronto | 435 |
-| US East | 428 |
+| US Chicago | 561 |
+| US New York | 551 |
+| US Washington DC | 523 |
+| US Atlanta | 498 |
+| US Texas | 468 |
+| CA Toronto | 434 |
+| US East | 430 |
+| CA Vancouver | 408 |
 | US Las Vegas | 408 |
-| CA Vancouver | 407 |
-| CA Montreal | 405 |
-| US Silicon Valley | 399 |
+| CA Montreal | 406 |
+| US Silicon Valley | 400 |
 | US California | 388 |
-| US Florida | 358 |
+| US Florida | 359 |
 | Switzerland | 239 |
-| US Denver | 204 |
+| US Denver | 207 |
 | CA Ontario | 197 |
 | US West | 175 |
-| US Houston | 153 |
-| DE Germany Streaming Optimized | 152 |
+| US Houston | 157 |
+| DE Germany Streaming Optimized | 154 |
 | New Zealand | 148 |
 | India | 116 |
 | Mexico | 113 |
-| US East Streaming Optimized | 110 |
-| UK Streaming Optimized | 108 |
-| Bahamas | 95 |
+| US East Streaming Optimized | 112 |
+| UK Streaming Optimized | 106 |
+| Bahamas | 96 |
 | Luxembourg | 92 |
 | Panama | 91 |
 | US West Streaming Optimized | 91 |
 | IT Milano | 86 |
-| Norway | 84 |
+| Norway | 83 |
 | Israel | 79 |
+| Argentina | 74 |
 | DK Copenhagen | 73 |
-| Argentina | 73 |
 | Belgium | 73 |
 | NL Netherlands Streaming Optimized | 65 |
 | Brazil | 65 |
@@ -83,7 +83,7 @@ View the IP list [here](/servers.json)
 | Algeria | 36 |
 | Chile | 36 |
 | Costa Rica | 35 |
-| AU Perth | 34 |
+| AU Perth | 33 |
 | France | 33 |
 | Hong Kong | 32 |
 | US South Carolina | 31 |
