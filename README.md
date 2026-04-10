@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,005-blue)
+![Servers](https://img.shields.io/badge/servers-12,003-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_21:57:06_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_22:57:24_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,36 +13,36 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 707 |
-| US Chicago | 566 |
+| Netherlands | 709 |
+| US Chicago | 565 |
 | US New York | 548 |
-| US Washington DC | 520 |
-| US Atlanta | 495 |
+| US Washington DC | 517 |
+| US Atlanta | 497 |
 | US Texas | 467 |
-| CA Toronto | 430 |
+| CA Toronto | 428 |
 | US East | 426 |
 | CA Vancouver | 408 |
-| US Las Vegas | 406 |
-| US Silicon Valley | 404 |
-| CA Montreal | 404 |
-| US California | 388 |
+| US Las Vegas | 405 |
+| CA Montreal | 405 |
+| US Silicon Valley | 403 |
+| US California | 387 |
 | US Florida | 355 |
 | Switzerland | 239 |
-| US Denver | 203 |
-| CA Ontario | 201 |
-| US West | 177 |
+| US Denver | 204 |
+| CA Ontario | 198 |
+| US West | 178 |
+| US Houston | 157 |
 | DE Germany Streaming Optimized | 156 |
-| US Houston | 156 |
-| New Zealand | 148 |
+| New Zealand | 150 |
 | India | 117 |
-| Mexico | 114 |
+| Mexico | 113 |
 | US East Streaming Optimized | 112 |
-| UK Streaming Optimized | 105 |
+| UK Streaming Optimized | 106 |
 | Bahamas | 96 |
+| Panama | 92 |
 | Luxembourg | 92 |
-| Panama | 91 |
 | US West Streaming Optimized | 91 |
-| IT Milano | 86 |
+| IT Milano | 87 |
 | Norway | 83 |
 | Israel | 79 |
 | Argentina | 75 |
@@ -60,10 +60,10 @@ View the IP list [here](/servers.json)
 | Ecuador | 57 |
 | Uruguay | 56 |
 | US Pennsylvania | 56 |
-| SE Stockholm | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
+| SE Stockholm | 54 |
 | Turkey | 52 |
 | Andorra | 48 |
 | Taiwan | 46 |
