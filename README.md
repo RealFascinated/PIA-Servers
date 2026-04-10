@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,032-blue)
+![Servers](https://img.shields.io/badge/servers-12,036-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_13:59:37_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_14:59:59_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,26 +14,26 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 703 |
-| US Chicago | 558 |
+| US Chicago | 556 |
 | US New York | 546 |
-| US Washington DC | 523 |
-| US Atlanta | 496 |
-| US Texas | 469 |
-| US East | 434 |
-| CA Toronto | 433 |
-| CA Vancouver | 408 |
+| US Washington DC | 525 |
+| US Atlanta | 498 |
+| US Texas | 471 |
+| US East | 432 |
+| CA Toronto | 432 |
+| CA Vancouver | 409 |
+| CA Montreal | 408 |
 | US Las Vegas | 407 |
-| CA Montreal | 407 |
-| US Silicon Valley | 400 |
-| US California | 389 |
-| US Florida | 361 |
+| US Silicon Valley | 402 |
+| US California | 391 |
+| US Florida | 360 |
 | Switzerland | 245 |
-| US Denver | 210 |
+| US Denver | 209 |
 | CA Ontario | 197 |
 | US West | 176 |
-| US Houston | 150 |
+| US Houston | 151 |
 | DE Germany Streaming Optimized | 147 |
-| New Zealand | 144 |
+| New Zealand | 145 |
 | India | 116 |
 | Mexico | 111 |
 | US East Streaming Optimized | 109 |
@@ -67,19 +67,19 @@ View the IP list [here](/servers.json)
 | Turkey | 52 |
 | Andorra | 48 |
 | Taiwan | 46 |
-| UK Southampton | 45 |
 | Vietnam | 44 |
 | US Iowa | 44 |
 | Isle OF Man | 44 |
+| UK Southampton | 44 |
 | US Ohio | 41 |
 | Liechtenstein | 41 |
 | US West Virginia | 40 |
 | US Wisconsin | 40 |
 | US Michigan | 40 |
 | Albania | 39 |
-| AU Perth | 39 |
-| France | 38 |
+| AU Perth | 38 |
 | Morocco | 38 |
+| France | 37 |
 | Malta | 37 |
 | Philippines | 36 |
 | Algeria | 36 |
