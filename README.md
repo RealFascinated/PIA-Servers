@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,938-blue)
+![Servers](https://img.shields.io/badge/servers-11,975-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_06:57:55_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_10_07:57:59_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,50 +13,50 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 696 |
-| US Chicago | 552 |
-| US New York | 545 |
-| US Washington DC | 522 |
-| US Atlanta | 488 |
+| Netherlands | 697 |
+| US Chicago | 556 |
+| US New York | 543 |
+| US Washington DC | 524 |
+| US Atlanta | 493 |
 | US Texas | 467 |
-| US East | 430 |
-| CA Toronto | 426 |
-| US Las Vegas | 412 |
+| US East | 433 |
+| CA Toronto | 429 |
+| US Las Vegas | 411 |
 | CA Montreal | 411 |
-| CA Vancouver | 408 |
-| US Silicon Valley | 396 |
+| CA Vancouver | 409 |
+| US Silicon Valley | 398 |
 | US California | 387 |
-| US Florida | 354 |
-| Switzerland | 242 |
-| US Denver | 210 |
-| CA Ontario | 186 |
+| US Florida | 357 |
+| Switzerland | 244 |
+| US Denver | 211 |
+| CA Ontario | 187 |
 | US West | 171 |
-| DE Germany Streaming Optimized | 144 |
-| US Houston | 144 |
-| New Zealand | 138 |
+| DE Germany Streaming Optimized | 146 |
+| US Houston | 145 |
+| New Zealand | 140 |
 | India | 114 |
-| Mexico | 107 |
+| Mexico | 109 |
+| US East Streaming Optimized | 102 |
 | UK Streaming Optimized | 102 |
-| US East Streaming Optimized | 101 |
-| Bahamas | 93 |
+| Bahamas | 95 |
 | Panama | 88 |
 | Luxembourg | 88 |
 | Norway | 87 |
-| US West Streaming Optimized | 85 |
+| US West Streaming Optimized | 87 |
 | IT Milano | 82 |
 | Israel | 79 |
 | DK Copenhagen | 75 |
 | Belgium | 74 |
-| SE Stockholm | 74 |
+| SE Stockholm | 72 |
 | Argentina | 71 |
 | Brazil | 65 |
-| NL Netherlands Streaming Optimized | 62 |
+| NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
+| US Wilmington | 59 |
 | Ukraine | 59 |
 | US Missouri | 59 |
 | Venezuela | 58 |
-| US Wilmington | 58 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | Uruguay | 56 |
