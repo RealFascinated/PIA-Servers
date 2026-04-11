@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,977-blue)
+![Servers](https://img.shields.io/badge/servers-11,978-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_03:59:08_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_04:59:30_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,37 +13,37 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 709 |
+| Netherlands | 708 |
 | US Chicago | 560 |
-| US New York | 546 |
+| US New York | 548 |
 | US Washington DC | 510 |
-| US Atlanta | 494 |
-| US Texas | 464 |
-| CA Toronto | 427 |
+| US Atlanta | 493 |
+| US Texas | 463 |
+| CA Toronto | 426 |
 | US East | 425 |
-| US Las Vegas | 408 |
-| CA Vancouver | 402 |
-| CA Montreal | 402 |
-| US Silicon Valley | 400 |
-| US California | 387 |
+| US Las Vegas | 407 |
+| CA Vancouver | 403 |
+| CA Montreal | 403 |
+| US Silicon Valley | 401 |
+| US California | 386 |
 | US Florida | 355 |
 | Switzerland | 242 |
 | US Denver | 203 |
-| CA Ontario | 201 |
+| CA Ontario | 203 |
 | US West | 179 |
 | US Houston | 159 |
-| DE Germany Streaming Optimized | 156 |
-| New Zealand | 154 |
-| Mexico | 117 |
+| DE Germany Streaming Optimized | 157 |
+| New Zealand | 153 |
+| Mexico | 118 |
 | India | 117 |
-| US East Streaming Optimized | 114 |
-| UK Streaming Optimized | 108 |
+| US East Streaming Optimized | 115 |
+| UK Streaming Optimized | 109 |
 | Bahamas | 97 |
 | Luxembourg | 93 |
 | Panama | 91 |
 | US West Streaming Optimized | 91 |
 | IT Milano | 87 |
-| Norway | 83 |
+| Norway | 82 |
 | Israel | 78 |
 | Argentina | 74 |
 | DK Copenhagen | 72 |
@@ -64,7 +64,7 @@ View the IP list [here](/servers.json)
 | Austria | 55 |
 | Lithuania | 55 |
 | Turkey | 52 |
-| SE Stockholm | 50 |
+| SE Stockholm | 49 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
@@ -92,8 +92,8 @@ View the IP list [here](/servers.json)
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
-| France | 27 |
 | Macao | 26 |
+| France | 26 |
 | Montenegro | 26 |
 | AU Perth | 25 |
 | Armenia | 24 |
