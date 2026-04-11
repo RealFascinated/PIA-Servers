@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,985-blue)
+![Servers](https://img.shields.io/badge/servers-11,961-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_11:56:14_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_12:56:35_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,28 +13,28 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 711 |
-| US Chicago | 572 |
-| US New York | 541 |
-| US Washington DC | 506 |
-| US Atlanta | 491 |
-| US Texas | 467 |
-| US East | 428 |
-| CA Toronto | 423 |
-| US Las Vegas | 408 |
-| CA Vancouver | 402 |
-| US Silicon Valley | 398 |
-| CA Montreal | 396 |
-| US California | 390 |
-| US Florida | 358 |
-| Switzerland | 247 |
-| US Denver | 208 |
+| Netherlands | 709 |
+| US Chicago | 569 |
+| US New York | 539 |
+| US Washington DC | 508 |
+| US Atlanta | 487 |
+| US Texas | 464 |
+| US East | 427 |
+| CA Toronto | 422 |
+| US Las Vegas | 407 |
+| CA Vancouver | 401 |
+| US Silicon Valley | 400 |
+| CA Montreal | 395 |
+| US California | 387 |
+| US Florida | 353 |
+| Switzerland | 248 |
 | CA Ontario | 208 |
+| US Denver | 207 |
 | US West | 184 |
-| US Houston | 159 |
-| DE Germany Streaming Optimized | 158 |
-| New Zealand | 156 |
-| Mexico | 119 |
+| DE Germany Streaming Optimized | 160 |
+| US Houston | 160 |
+| New Zealand | 157 |
+| Mexico | 118 |
 | India | 118 |
 | US East Streaming Optimized | 115 |
 | UK Streaming Optimized | 109 |
@@ -46,8 +46,8 @@ View the IP list [here](/servers.json)
 | Norway | 80 |
 | Israel | 78 |
 | Argentina | 73 |
-| DK Copenhagen | 72 |
-| Belgium | 69 |
+| DK Copenhagen | 71 |
+| Belgium | 68 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
 | US Wilmington | 60 |
@@ -93,11 +93,11 @@ View the IP list [here](/servers.json)
 | Bolivia | 28 |
 | Macao | 26 |
 | Montenegro | 26 |
-| UK Southampton | 25 |
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
+| UK Southampton | 24 |
 | Egypt | 24 |
 | France | 23 |
 | Kazakhstan | 23 |
@@ -110,13 +110,13 @@ View the IP list [here](/servers.json)
 | US Minnesota | 20 |
 | US Mississippi | 20 |
 | US Nebraska | 20 |
-| AU Perth | 20 |
 | US Oregon | 20 |
 | US South Dakota | 20 |
 | US Vermont | 20 |
 | US Montana | 20 |
 | US Alaska | 20 |
 | US Louisiana | 20 |
+| AU Perth | 19 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
 | US Kansas | 18 |
