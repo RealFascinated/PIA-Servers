@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,922-blue)
+![Servers](https://img.shields.io/badge/servers-11,875-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_14:57:06_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_15:55:21_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 706 |
-| US Chicago | 564 |
-| US New York | 539 |
-| US Washington DC | 508 |
+| Netherlands | 703 |
+| US Chicago | 567 |
+| US New York | 535 |
+| US Washington DC | 507 |
 | US Atlanta | 484 |
-| US Texas | 458 |
+| US Texas | 456 |
 | US East | 425 |
-| CA Toronto | 420 |
-| US Las Vegas | 405 |
-| US Silicon Valley | 398 |
-| CA Vancouver | 397 |
-| CA Montreal | 393 |
-| US California | 386 |
-| US Florida | 354 |
-| Switzerland | 247 |
-| US Denver | 208 |
-| CA Ontario | 206 |
-| US West | 186 |
-| US Houston | 159 |
+| CA Toronto | 415 |
+| US Las Vegas | 402 |
+| US Silicon Valley | 395 |
+| CA Vancouver | 394 |
+| CA Montreal | 387 |
+| US California | 382 |
+| US Florida | 350 |
+| Switzerland | 244 |
+| CA Ontario | 208 |
+| US Denver | 205 |
+| US West | 183 |
+| US Houston | 160 |
 | DE Germany Streaming Optimized | 158 |
-| New Zealand | 157 |
-| Mexico | 121 |
+| New Zealand | 156 |
+| Mexico | 118 |
 | India | 118 |
-| US East Streaming Optimized | 116 |
+| US East Streaming Optimized | 115 |
 | UK Streaming Optimized | 109 |
 | Bahamas | 95 |
 | Panama | 93 |
@@ -45,7 +45,7 @@ View the IP list [here](/servers.json)
 | IT Milano | 87 |
 | Norway | 79 |
 | Israel | 78 |
-| Argentina | 74 |
+| Argentina | 73 |
 | DK Copenhagen | 70 |
 | Belgium | 68 |
 | NL Netherlands Streaming Optimized | 66 |
