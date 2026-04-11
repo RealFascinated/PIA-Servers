@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,921-blue)
+![Servers](https://img.shields.io/badge/servers-11,956-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_18:56:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_19:56:23_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -15,26 +15,26 @@ View the IP list [here](/servers.json)
 | ------ | ------- |
 | Netherlands | 703 |
 | US Chicago | 570 |
-| US New York | 535 |
-| US Washington DC | 511 |
-| US Atlanta | 482 |
+| US New York | 539 |
+| US Washington DC | 512 |
+| US Atlanta | 485 |
 | US Texas | 455 |
-| US East | 428 |
-| CA Toronto | 423 |
-| US Las Vegas | 406 |
+| US East | 429 |
+| CA Toronto | 424 |
+| US Las Vegas | 407 |
+| CA Montreal | 396 |
 | US Silicon Valley | 393 |
-| CA Montreal | 392 |
 | CA Vancouver | 391 |
-| US California | 384 |
+| US California | 387 |
 | US Florida | 352 |
-| Switzerland | 246 |
-| US Denver | 210 |
-| CA Ontario | 208 |
-| US West | 184 |
-| US Houston | 167 |
-| DE Germany Streaming Optimized | 160 |
-| New Zealand | 158 |
-| Mexico | 120 |
+| Switzerland | 250 |
+| US Denver | 215 |
+| CA Ontario | 211 |
+| US West | 186 |
+| US Houston | 168 |
+| DE Germany Streaming Optimized | 161 |
+| New Zealand | 160 |
+| Mexico | 121 |
 | India | 118 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 109 |
@@ -112,12 +112,12 @@ View the IP list [here](/servers.json)
 | US Oregon | 20 |
 | US South Dakota | 20 |
 | US Vermont | 20 |
-| UK Southampton | 20 |
 | US Montana | 20 |
 | US Alaska | 20 |
 | US Louisiana | 20 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
+| UK Southampton | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
 | Serbia | 18 |
@@ -125,7 +125,7 @@ View the IP list [here](/servers.json)
 | US Rhode Island | 18 |
 | US Alabama | 18 |
 | US Seattle | 16 |
-| AU Perth | 16 |
+| AU Perth | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
 | SE Streaming Optimized | 12 |
