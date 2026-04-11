@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,048-blue)
+![Servers](https://img.shields.io/badge/servers-11,983-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_00:58:10_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_01:58:51_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 714 |
-| US Chicago | 566 |
-| US New York | 552 |
-| US Washington DC | 519 |
+| Netherlands | 709 |
+| US Chicago | 563 |
+| US New York | 547 |
+| US Washington DC | 515 |
 | US Atlanta | 497 |
-| US Texas | 466 |
-| US East | 429 |
-| CA Toronto | 428 |
-| CA Montreal | 409 |
-| US Las Vegas | 408 |
-| US Silicon Valley | 406 |
-| CA Vancouver | 405 |
-| US California | 389 |
-| US Florida | 358 |
-| Switzerland | 239 |
-| CA Ontario | 204 |
-| US Denver | 202 |
-| US West | 183 |
+| US Texas | 464 |
+| US East | 425 |
+| CA Toronto | 424 |
+| US Las Vegas | 406 |
+| CA Montreal | 405 |
+| US Silicon Valley | 403 |
+| CA Vancouver | 400 |
+| US California | 388 |
+| US Florida | 355 |
+| Switzerland | 238 |
+| US Denver | 200 |
+| CA Ontario | 197 |
+| US West | 179 |
 | US Houston | 158 |
-| DE Germany Streaming Optimized | 156 |
+| DE Germany Streaming Optimized | 157 |
 | New Zealand | 151 |
+| Mexico | 117 |
 | India | 117 |
-| Mexico | 116 |
 | US East Streaming Optimized | 115 |
 | UK Streaming Optimized | 107 |
 | Bahamas | 97 |
 | Luxembourg | 93 |
 | US West Streaming Optimized | 93 |
-| Panama | 92 |
+| Panama | 91 |
 | IT Milano | 87 |
 | Norway | 83 |
 | Israel | 79 |
@@ -63,8 +63,8 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| SE Stockholm | 54 |
 | Turkey | 52 |
+| SE Stockholm | 51 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
@@ -82,18 +82,18 @@ View the IP list [here](/servers.json)
 | Algeria | 36 |
 | Chile | 36 |
 | Costa Rica | 35 |
-| UK Southampton | 35 |
+| UK Southampton | 34 |
 | Hong Kong | 32 |
 | US South Carolina | 31 |
 | Bangladesh | 31 |
-| France | 30 |
 | IT Streaming Optimized | 30 |
+| France | 29 |
 | Australia Streaming Optimized | 28 |
-| AU Perth | 28 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
+| AU Perth | 26 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Armenia | 24 |
