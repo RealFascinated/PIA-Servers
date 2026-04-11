@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,912-blue)
+![Servers](https://img.shields.io/badge/servers-11,921-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_17:55:52_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_18:56:12_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,31 +14,31 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 703 |
-| US Chicago | 571 |
+| US Chicago | 570 |
 | US New York | 535 |
-| US Washington DC | 512 |
-| US Atlanta | 480 |
-| US Texas | 454 |
-| US East | 427 |
-| CA Toronto | 420 |
-| US Las Vegas | 404 |
-| US Silicon Valley | 395 |
-| CA Montreal | 393 |
-| CA Vancouver | 392 |
-| US California | 383 |
+| US Washington DC | 511 |
+| US Atlanta | 482 |
+| US Texas | 455 |
+| US East | 428 |
+| CA Toronto | 423 |
+| US Las Vegas | 406 |
+| US Silicon Valley | 393 |
+| CA Montreal | 392 |
+| CA Vancouver | 391 |
+| US California | 384 |
 | US Florida | 352 |
-| Switzerland | 247 |
+| Switzerland | 246 |
 | US Denver | 210 |
 | CA Ontario | 208 |
-| US West | 182 |
-| US Houston | 165 |
-| DE Germany Streaming Optimized | 158 |
+| US West | 184 |
+| US Houston | 167 |
+| DE Germany Streaming Optimized | 160 |
 | New Zealand | 158 |
 | Mexico | 120 |
 | India | 118 |
 | US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 109 |
-| Bahamas | 96 |
+| Bahamas | 97 |
 | US West Streaming Optimized | 94 |
 | Panama | 93 |
 | Luxembourg | 93 |
@@ -105,7 +105,6 @@ View the IP list [here](/servers.json)
 | US Virginia | 21 |
 | US Idaho | 21 |
 | US Wyoming | 21 |
-| UK Southampton | 21 |
 | US Arkansas | 20 |
 | US Minnesota | 20 |
 | US Mississippi | 20 |
@@ -113,6 +112,7 @@ View the IP list [here](/servers.json)
 | US Oregon | 20 |
 | US South Dakota | 20 |
 | US Vermont | 20 |
+| UK Southampton | 20 |
 | US Montana | 20 |
 | US Alaska | 20 |
 | US Louisiana | 20 |
