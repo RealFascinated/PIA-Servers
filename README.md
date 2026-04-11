@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,931-blue)
+![Servers](https://img.shields.io/badge/servers-11,906-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_21:55:41_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_22:56:01_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 705 |
-| US Chicago | 567 |
-| US New York | 534 |
-| US Washington DC | 509 |
+| Netherlands | 702 |
+| US Chicago | 563 |
+| US New York | 531 |
+| US Washington DC | 510 |
 | US Atlanta | 486 |
-| US Texas | 457 |
-| US East | 429 |
-| CA Toronto | 423 |
-| US Las Vegas | 406 |
-| US Silicon Valley | 394 |
-| CA Montreal | 392 |
-| CA Vancouver | 389 |
-| US California | 386 |
-| US Florida | 352 |
+| US Texas | 453 |
+| US East | 428 |
+| CA Toronto | 421 |
+| US Las Vegas | 400 |
+| CA Vancouver | 393 |
+| US Silicon Valley | 392 |
+| CA Montreal | 390 |
+| US California | 385 |
+| US Florida | 355 |
 | Switzerland | 245 |
-| US Denver | 214 |
+| US Denver | 211 |
 | CA Ontario | 209 |
-| US West | 188 |
+| US West | 186 |
 | US Houston | 170 |
-| DE Germany Streaming Optimized | 161 |
-| New Zealand | 157 |
+| DE Germany Streaming Optimized | 162 |
+| New Zealand | 159 |
 | Mexico | 121 |
 | India | 118 |
-| US East Streaming Optimized | 118 |
+| US East Streaming Optimized | 117 |
 | UK Streaming Optimized | 111 |
 | Bahamas | 97 |
 | US West Streaming Optimized | 94 |
@@ -47,7 +47,7 @@ View the IP list [here](/servers.json)
 | Israel | 78 |
 | Argentina | 74 |
 | DK Copenhagen | 70 |
-| Belgium | 68 |
+| Belgium | 67 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
 | US Wilmington | 60 |
@@ -76,7 +76,7 @@ View the IP list [here](/servers.json)
 | US Michigan | 40 |
 | Albania | 39 |
 | Morocco | 38 |
-| SE Stockholm | 38 |
+| SE Stockholm | 37 |
 | Malta | 37 |
 | Philippines | 36 |
 | Algeria | 36 |
