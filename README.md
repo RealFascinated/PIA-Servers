@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,949-blue)
+![Servers](https://img.shields.io/badge/servers-11,945-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_09:59:16_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_10:59:38_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,25 +14,25 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 700 |
-| US Chicago | 563 |
-| US New York | 532 |
+| US Chicago | 561 |
+| US New York | 533 |
 | US Washington DC | 507 |
-| US Atlanta | 487 |
-| US Texas | 446 |
+| US Atlanta | 488 |
+| US Texas | 448 |
 | US East | 432 |
-| CA Toronto | 428 |
-| US Las Vegas | 401 |
-| CA Vancouver | 398 |
-| CA Montreal | 397 |
-| US Silicon Valley | 396 |
-| US California | 376 |
-| US Florida | 353 |
+| CA Toronto | 425 |
+| US Las Vegas | 400 |
+| CA Vancouver | 399 |
+| CA Montreal | 396 |
+| US Silicon Valley | 395 |
+| US California | 375 |
+| US Florida | 351 |
 | Switzerland | 244 |
-| US Denver | 226 |
-| CA Ontario | 215 |
-| US West | 192 |
-| US Houston | 174 |
-| New Zealand | 166 |
+| US Denver | 227 |
+| CA Ontario | 216 |
+| US West | 191 |
+| US Houston | 175 |
+| New Zealand | 168 |
 | DE Germany Streaming Optimized | 163 |
 | Mexico | 127 |
 | India | 118 |
@@ -85,7 +85,7 @@ View the IP list [here](/servers.json)
 | US South Carolina | 31 |
 | Bangladesh | 31 |
 | IT Streaming Optimized | 30 |
-| SE Stockholm | 30 |
+| SE Stockholm | 29 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
@@ -116,9 +116,9 @@ View the IP list [here](/servers.json)
 | US Louisiana | 20 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
-| France | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
+| France | 18 |
 | Serbia | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
