@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,875-blue)
+![Servers](https://img.shields.io/badge/servers-11,881-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_23:56:30_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_00:56:43_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 699 |
-| US Chicago | 563 |
+| Netherlands | 702 |
+| US Chicago | 565 |
 | US New York | 531 |
-| US Washington DC | 503 |
-| US Atlanta | 485 |
-| US Texas | 447 |
-| US East | 427 |
-| CA Toronto | 420 |
-| US Las Vegas | 398 |
-| CA Vancouver | 392 |
-| CA Montreal | 390 |
-| US Silicon Valley | 389 |
-| US California | 385 |
-| US Florida | 354 |
-| Switzerland | 245 |
-| US Denver | 212 |
+| US Washington DC | 504 |
+| US Atlanta | 483 |
+| US Texas | 445 |
+| US East | 430 |
+| CA Toronto | 421 |
+| US Las Vegas | 396 |
+| CA Montreal | 393 |
+| CA Vancouver | 391 |
+| US Silicon Valley | 390 |
+| US California | 383 |
+| US Florida | 353 |
+| Switzerland | 241 |
+| US Denver | 214 |
 | CA Ontario | 208 |
-| US West | 186 |
-| US Houston | 169 |
-| DE Germany Streaming Optimized | 162 |
-| New Zealand | 159 |
-| Mexico | 121 |
+| US West | 187 |
+| US Houston | 168 |
+| DE Germany Streaming Optimized | 163 |
+| New Zealand | 161 |
+| Mexico | 122 |
 | India | 118 |
 | US East Streaming Optimized | 117 |
 | UK Streaming Optimized | 111 |
 | Bahamas | 97 |
-| US West Streaming Optimized | 94 |
+| US West Streaming Optimized | 95 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | IT Milano | 87 |
@@ -80,8 +80,8 @@ View the IP list [here](/servers.json)
 | Philippines | 36 |
 | Algeria | 36 |
 | Chile | 36 |
-| SE Stockholm | 36 |
 | Costa Rica | 35 |
+| SE Stockholm | 35 |
 | Hong Kong | 32 |
 | US South Carolina | 31 |
 | Bangladesh | 31 |
