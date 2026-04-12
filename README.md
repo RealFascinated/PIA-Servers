@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,893-blue)
+![Servers](https://img.shields.io/badge/servers-11,923-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_16:55:39_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_17:55:49_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 694 |
-| US Chicago | 552 |
-| US New York | 521 |
-| US Washington DC | 499 |
-| US Atlanta | 483 |
-| US Texas | 446 |
-| US East | 427 |
-| CA Toronto | 423 |
-| US Las Vegas | 407 |
-| CA Vancouver | 399 |
-| US Silicon Valley | 396 |
-| CA Montreal | 387 |
-| US California | 367 |
-| US Florida | 351 |
-| Switzerland | 246 |
-| US Denver | 232 |
-| CA Ontario | 220 |
+| Netherlands | 693 |
+| US Chicago | 554 |
+| US New York | 523 |
+| US Washington DC | 501 |
+| US Atlanta | 486 |
+| US Texas | 449 |
+| US East | 425 |
+| CA Toronto | 424 |
+| US Las Vegas | 409 |
+| CA Vancouver | 401 |
+| US Silicon Valley | 397 |
+| CA Montreal | 386 |
+| US California | 370 |
+| US Florida | 354 |
+| Switzerland | 247 |
+| US Denver | 231 |
+| CA Ontario | 223 |
 | US West | 189 |
-| US Houston | 178 |
-| New Zealand | 168 |
-| DE Germany Streaming Optimized | 167 |
+| US Houston | 181 |
+| New Zealand | 170 |
+| DE Germany Streaming Optimized | 169 |
 | Mexico | 128 |
+| US East Streaming Optimized | 119 |
 | India | 118 |
-| US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
@@ -128,8 +128,8 @@ View the IP list [here](/servers.json)
 | Nepal | 14 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
-| AU Perth | 12 |
 | UK London | 12 |
+| AU Perth | 11 |
 | Sri Lanka | 11 |
 | UK Southampton | 9 |
 | Singapore | 7 |
