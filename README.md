@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,906-blue)
+![Servers](https://img.shields.io/badge/servers-11,875-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_22:56:01_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_11_23:56:30_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,25 +13,25 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 702 |
+| Netherlands | 699 |
 | US Chicago | 563 |
 | US New York | 531 |
-| US Washington DC | 510 |
-| US Atlanta | 486 |
-| US Texas | 453 |
-| US East | 428 |
-| CA Toronto | 421 |
-| US Las Vegas | 400 |
-| CA Vancouver | 393 |
-| US Silicon Valley | 392 |
+| US Washington DC | 503 |
+| US Atlanta | 485 |
+| US Texas | 447 |
+| US East | 427 |
+| CA Toronto | 420 |
+| US Las Vegas | 398 |
+| CA Vancouver | 392 |
 | CA Montreal | 390 |
+| US Silicon Valley | 389 |
 | US California | 385 |
-| US Florida | 355 |
+| US Florida | 354 |
 | Switzerland | 245 |
-| US Denver | 211 |
-| CA Ontario | 209 |
+| US Denver | 212 |
+| CA Ontario | 208 |
 | US West | 186 |
-| US Houston | 170 |
+| US Houston | 169 |
 | DE Germany Streaming Optimized | 162 |
 | New Zealand | 159 |
 | Mexico | 121 |
@@ -43,7 +43,7 @@ View the IP list [here](/servers.json)
 | Panama | 93 |
 | Luxembourg | 93 |
 | IT Milano | 87 |
-| Norway | 79 |
+| Norway | 78 |
 | Israel | 78 |
 | Argentina | 74 |
 | DK Copenhagen | 70 |
@@ -76,11 +76,11 @@ View the IP list [here](/servers.json)
 | US Michigan | 40 |
 | Albania | 39 |
 | Morocco | 38 |
-| SE Stockholm | 37 |
 | Malta | 37 |
 | Philippines | 36 |
 | Algeria | 36 |
 | Chile | 36 |
+| SE Stockholm | 36 |
 | Costa Rica | 35 |
 | Hong Kong | 32 |
 | US South Carolina | 31 |
@@ -103,13 +103,13 @@ View the IP list [here](/servers.json)
 | US Oklahoma | 22 |
 | US Virginia | 21 |
 | US Idaho | 21 |
-| France | 21 |
 | US Wyoming | 21 |
 | US Arkansas | 20 |
 | US Minnesota | 20 |
 | US Mississippi | 20 |
 | US Nebraska | 20 |
 | US Oregon | 20 |
+| France | 20 |
 | US South Dakota | 20 |
 | US Vermont | 20 |
 | US Montana | 20 |
@@ -123,8 +123,8 @@ View the IP list [here](/servers.json)
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Alabama | 18 |
-| UK Southampton | 17 |
 | US Seattle | 16 |
+| UK Southampton | 16 |
 | AU Perth | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
