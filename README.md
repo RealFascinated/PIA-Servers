@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,969-blue)
+![Servers](https://img.shields.io/badge/servers-11,978-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_13:55:42_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_12_14:55:52_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 699 |
-| US Chicago | 562 |
-| US New York | 528 |
-| US Washington DC | 511 |
-| US Atlanta | 490 |
-| US Texas | 448 |
-| US East | 429 |
-| CA Toronto | 426 |
+| Netherlands | 700 |
+| US Chicago | 561 |
+| US New York | 530 |
+| US Washington DC | 508 |
+| US Atlanta | 491 |
+| US Texas | 449 |
+| US East | 432 |
+| CA Toronto | 429 |
 | US Las Vegas | 408 |
-| CA Vancouver | 401 |
-| US Silicon Valley | 397 |
-| CA Montreal | 395 |
-| US California | 374 |
-| US Florida | 355 |
-| Switzerland | 247 |
-| US Denver | 228 |
+| CA Vancouver | 402 |
+| US Silicon Valley | 399 |
+| CA Montreal | 394 |
+| US California | 368 |
+| US Florida | 353 |
+| Switzerland | 250 |
+| US Denver | 227 |
 | CA Ontario | 218 |
-| US West | 191 |
-| US Houston | 177 |
-| New Zealand | 168 |
+| US West | 194 |
+| US Houston | 179 |
+| New Zealand | 169 |
 | DE Germany Streaming Optimized | 166 |
 | Mexico | 128 |
+| US East Streaming Optimized | 119 |
 | India | 118 |
-| US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
@@ -118,20 +118,20 @@ View the IP list [here](/servers.json)
 | US North Carolina | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
-| France | 18 |
 | Serbia | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Alabama | 18 |
+| France | 17 |
 | US Seattle | 16 |
+| AU Perth | 16 |
 | South Korea | 14 |
-| AU Perth | 14 |
 | Nepal | 14 |
-| UK Southampton | 13 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 11 |
+| UK Southampton | 11 |
 | Singapore | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
