@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,027-blue)
+![Servers](https://img.shields.io/badge/servers-11,973-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_13:59:48_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_14:55:21_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 689 |
-| US Chicago | 558 |
-| US New York | 527 |
-| US Washington DC | 508 |
-| US Atlanta | 500 |
-| US Texas | 460 |
-| US East | 442 |
-| CA Toronto | 422 |
-| US Silicon Valley | 411 |
-| CA Vancouver | 408 |
-| US Las Vegas | 408 |
-| CA Montreal | 393 |
+| Netherlands | 685 |
+| US Chicago | 553 |
+| US New York | 525 |
+| US Washington DC | 505 |
+| US Atlanta | 498 |
+| US Texas | 455 |
+| US East | 439 |
+| CA Toronto | 423 |
+| US Silicon Valley | 407 |
+| CA Vancouver | 406 |
+| US Las Vegas | 404 |
+| CA Montreal | 390 |
 | US California | 375 |
-| US Florida | 352 |
-| Switzerland | 256 |
-| CA Ontario | 233 |
-| US Denver | 232 |
-| US West | 201 |
+| US Florida | 350 |
+| Switzerland | 252 |
+| US Denver | 233 |
+| CA Ontario | 231 |
+| US West | 198 |
 | US Houston | 188 |
-| DE Germany Streaming Optimized | 179 |
+| DE Germany Streaming Optimized | 176 |
 | New Zealand | 175 |
 | Mexico | 134 |
 | US East Streaming Optimized | 119 |
 | UK Streaming Optimized | 113 |
-| India | 101 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
+| India | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | IT Milano | 87 |
@@ -120,8 +120,8 @@ View the IP list [here](/servers.json)
 | Serbia | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
-| SE Stockholm | 18 |
 | US Alabama | 18 |
+| SE Stockholm | 17 |
 | US Seattle | 16 |
 | South Korea | 14 |
 | France | 14 |
