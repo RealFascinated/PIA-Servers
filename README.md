@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,884-blue)
+![Servers](https://img.shields.io/badge/servers-11,918-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_20:56:08_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_21:56:12_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,34 +14,34 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 676 |
-| US Chicago | 542 |
-| US New York | 519 |
-| US Washington DC | 500 |
-| US Atlanta | 484 |
+| US Chicago | 543 |
+| US New York | 520 |
+| US Washington DC | 502 |
+| US Atlanta | 487 |
 | US Texas | 453 |
-| US East | 433 |
-| CA Toronto | 422 |
+| US East | 437 |
+| CA Toronto | 425 |
 | CA Vancouver | 404 |
 | US Las Vegas | 403 |
-| US Silicon Valley | 398 |
-| CA Montreal | 386 |
-| US California | 372 |
-| US Florida | 349 |
+| US Silicon Valley | 399 |
+| CA Montreal | 388 |
+| US California | 376 |
+| US Florida | 351 |
 | Switzerland | 252 |
-| US Denver | 232 |
-| CA Ontario | 230 |
+| US Denver | 233 |
+| CA Ontario | 231 |
 | US West | 199 |
-| US Houston | 186 |
-| DE Germany Streaming Optimized | 177 |
-| New Zealand | 175 |
-| Mexico | 134 |
+| US Houston | 188 |
+| DE Germany Streaming Optimized | 179 |
+| New Zealand | 176 |
+| Mexico | 135 |
 | US East Streaming Optimized | 119 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| India | 88 |
+| India | 92 |
 | IT Milano | 87 |
 | Israel | 77 |
 | Norway | 76 |
@@ -124,7 +124,7 @@ View the IP list [here](/servers.json)
 | US Seattle | 16 |
 | South Korea | 14 |
 | Nepal | 14 |
-| SE Stockholm | 14 |
+| SE Stockholm | 13 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
 | UK London | 12 |
