@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,950-blue)
+![Servers](https://img.shields.io/badge/servers-11,905-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_15:55:41_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_16:56:20_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,24 +13,24 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 680 |
-| US Chicago | 548 |
-| US New York | 528 |
-| US Washington DC | 506 |
-| US Atlanta | 495 |
-| US Texas | 456 |
-| US East | 439 |
-| CA Toronto | 421 |
-| CA Vancouver | 406 |
-| US Las Vegas | 405 |
-| US Silicon Valley | 401 |
+| Netherlands | 678 |
+| US Chicago | 545 |
+| US New York | 523 |
+| US Washington DC | 503 |
+| US Atlanta | 489 |
+| US Texas | 453 |
+| US East | 437 |
+| CA Toronto | 417 |
+| CA Vancouver | 404 |
+| US Las Vegas | 402 |
+| US Silicon Valley | 397 |
 | CA Montreal | 386 |
 | US California | 374 |
-| US Florida | 351 |
-| Switzerland | 252 |
+| US Florida | 349 |
+| Switzerland | 251 |
 | US Denver | 233 |
-| CA Ontario | 229 |
-| US West | 199 |
+| CA Ontario | 228 |
+| US West | 200 |
 | US Houston | 187 |
 | DE Germany Streaming Optimized | 177 |
 | New Zealand | 176 |
@@ -39,9 +39,9 @@ View the IP list [here](/servers.json)
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
-| India | 95 |
 | Panama | 93 |
 | Luxembourg | 93 |
+| India | 91 |
 | IT Milano | 87 |
 | Israel | 77 |
 | Norway | 76 |
@@ -121,8 +121,8 @@ View the IP list [here](/servers.json)
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Alabama | 18 |
-| SE Stockholm | 17 |
 | US Seattle | 16 |
+| SE Stockholm | 16 |
 | South Korea | 14 |
 | Nepal | 14 |
 | SE Streaming Optimized | 12 |
