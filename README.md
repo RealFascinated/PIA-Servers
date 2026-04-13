@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,916-blue)
+![Servers](https://img.shields.io/badge/servers-11,935-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_03:57:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_04:57:23_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 690 |
+| Netherlands | 689 |
 | US Chicago | 551 |
-| US New York | 521 |
-| US Washington DC | 501 |
-| US Atlanta | 492 |
+| US New York | 523 |
+| US Washington DC | 499 |
+| US Atlanta | 491 |
 | US Texas | 455 |
-| US East | 427 |
-| CA Toronto | 425 |
-| CA Vancouver | 400 |
-| US Silicon Valley | 400 |
-| US Las Vegas | 398 |
-| CA Montreal | 386 |
-| US California | 369 |
-| US Florida | 352 |
-| Switzerland | 246 |
-| US Denver | 227 |
+| US East | 429 |
+| CA Toronto | 426 |
+| US Las Vegas | 401 |
+| US Silicon Valley | 401 |
+| CA Vancouver | 399 |
+| CA Montreal | 387 |
+| US California | 373 |
+| US Florida | 353 |
+| Switzerland | 249 |
+| US Denver | 228 |
 | CA Ontario | 224 |
-| US West | 191 |
-| US Houston | 184 |
-| New Zealand | 172 |
-| DE Germany Streaming Optimized | 171 |
+| US West | 194 |
+| US Houston | 185 |
+| DE Germany Streaming Optimized | 173 |
+| New Zealand | 173 |
 | Mexico | 131 |
 | US East Streaming Optimized | 119 |
 | India | 118 |
@@ -123,14 +123,14 @@ View the IP list [here](/servers.json)
 | US Rhode Island | 18 |
 | US Alabama | 18 |
 | US Seattle | 16 |
-| France | 15 |
 | South Korea | 14 |
+| France | 14 |
 | Nepal | 14 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 11 |
-| AU Perth | 10 |
+| AU Perth | 9 |
 | UK Southampton | 8 |
 | Singapore | 7 |
 | AU Sydney | 7 |
