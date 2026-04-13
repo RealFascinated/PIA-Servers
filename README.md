@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,914-blue)
+![Servers](https://img.shields.io/badge/servers-11,916-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_01:56:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_13_02:56:53_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 689 |
-| US Chicago | 551 |
-| US New York | 518 |
-| US Washington DC | 498 |
-| US Atlanta | 491 |
+| Netherlands | 690 |
+| US Chicago | 552 |
+| US New York | 519 |
+| US Washington DC | 497 |
+| US Atlanta | 494 |
 | US Texas | 454 |
 | US East | 427 |
-| CA Toronto | 426 |
-| US Las Vegas | 403 |
-| US Silicon Valley | 398 |
-| CA Vancouver | 397 |
+| CA Toronto | 425 |
+| US Las Vegas | 401 |
+| CA Vancouver | 399 |
+| US Silicon Valley | 397 |
 | CA Montreal | 387 |
-| US California | 372 |
-| US Florida | 350 |
+| US California | 371 |
+| US Florida | 351 |
 | Switzerland | 246 |
-| US Denver | 229 |
+| US Denver | 227 |
 | CA Ontario | 224 |
-| US West | 191 |
+| US West | 192 |
 | US Houston | 183 |
-| New Zealand | 172 |
-| DE Germany Streaming Optimized | 170 |
+| New Zealand | 173 |
+| DE Germany Streaming Optimized | 171 |
 | Mexico | 131 |
 | US East Streaming Optimized | 119 |
 | India | 118 |
@@ -43,8 +43,8 @@ View the IP list [here](/servers.json)
 | Panama | 93 |
 | Luxembourg | 93 |
 | IT Milano | 87 |
-| Norway | 77 |
 | Israel | 77 |
+| Norway | 76 |
 | Argentina | 75 |
 | DK Copenhagen | 69 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -92,11 +92,11 @@ View the IP list [here](/servers.json)
 | Bolivia | 28 |
 | Macao | 26 |
 | Montenegro | 26 |
-| SE Stockholm | 25 |
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
+| SE Stockholm | 24 |
 | Egypt | 24 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
