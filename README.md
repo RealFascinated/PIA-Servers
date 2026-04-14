@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,035-blue)
+![Servers](https://img.shields.io/badge/servers-12,037-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_19:55:22_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_20:55:43_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,24 +13,24 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 669 |
-| US Chicago | 544 |
-| US New York | 520 |
-| US Washington DC | 505 |
-| US Atlanta | 496 |
-| US Texas | 461 |
-| US East | 434 |
-| CA Toronto | 433 |
-| US Silicon Valley | 410 |
-| CA Vancouver | 409 |
-| US Las Vegas | 404 |
-| CA Montreal | 399 |
-| US California | 385 |
-| US Florida | 356 |
-| Switzerland | 270 |
-| US Denver | 241 |
+| Netherlands | 666 |
+| US Chicago | 542 |
+| US New York | 521 |
+| US Washington DC | 509 |
+| US Atlanta | 497 |
+| US Texas | 460 |
+| US East | 436 |
+| CA Toronto | 435 |
+| CA Vancouver | 412 |
+| US Silicon Valley | 408 |
+| CA Montreal | 404 |
+| US Las Vegas | 402 |
+| US California | 383 |
+| US Florida | 353 |
+| Switzerland | 272 |
+| US Denver | 243 |
 | CA Ontario | 237 |
-| US West | 207 |
+| US West | 206 |
 | US Houston | 191 |
 | DE Germany Streaming Optimized | 181 |
 | New Zealand | 177 |
@@ -49,7 +49,7 @@ View the IP list [here](/servers.json)
 | DK Copenhagen | 68 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
-| Belgium | 65 |
+| Belgium | 64 |
 | US Wilmington | 60 |
 | US Missouri | 60 |
 | CA Ontario Streaming Optimized | 60 |
@@ -128,16 +128,16 @@ View the IP list [here](/servers.json)
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 11 |
-| France | 10 |
-| AU Perth | 9 |
+| France | 9 |
 | SE Stockholm | 9 |
 | Estonia | 8 |
+| AU Perth | 8 |
 | Singapore | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
-| UK Southampton | 6 |
 | Greenland | 5 |
 | ES Madrid | 5 |
+| UK Southampton | 5 |
 | Latvia | 5 |
 | Poland | 4 |
 | United Arab Emirates | 4 |
