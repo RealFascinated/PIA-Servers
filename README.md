@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,961-blue)
+![Servers](https://img.shields.io/badge/servers-11,959-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_11:58:45_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_12:59:04_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,23 +13,23 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 672 |
-| US Chicago | 541 |
+| Netherlands | 671 |
+| US Chicago | 538 |
 | US New York | 522 |
-| US Washington DC | 503 |
+| US Washington DC | 499 |
 | US Atlanta | 484 |
 | US Texas | 462 |
-| US East | 434 |
-| CA Toronto | 426 |
-| CA Vancouver | 402 |
-| US Silicon Valley | 402 |
-| US Las Vegas | 399 |
-| CA Montreal | 393 |
-| US California | 385 |
-| US Florida | 349 |
-| Switzerland | 263 |
+| US East | 431 |
+| CA Toronto | 427 |
+| CA Vancouver | 404 |
+| US Silicon Valley | 403 |
+| US Las Vegas | 400 |
+| CA Montreal | 392 |
+| US California | 384 |
+| US Florida | 350 |
+| Switzerland | 264 |
 | US Denver | 238 |
-| CA Ontario | 234 |
+| CA Ontario | 235 |
 | US West | 205 |
 | US Houston | 190 |
 | DE Germany Streaming Optimized | 181 |
@@ -131,10 +131,10 @@ View the IP list [here](/servers.json)
 | France | 10 |
 | SE Stockholm | 10 |
 | AU Perth | 9 |
+| Estonia | 7 |
 | Singapore | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
-| Estonia | 6 |
 | UK Southampton | 6 |
 | Greenland | 5 |
 | ES Madrid | 5 |
@@ -147,6 +147,8 @@ View the IP list [here](/servers.json)
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
 | AU Brisbane | 3 |
+| Nigeria | 3 |
+| JP Tokyo | 3 |
 | Georgia | 3 |
 | US Massachusetts | 3 |
 | JP Streaming Optimized | 3 |
@@ -165,8 +167,6 @@ View the IP list [here](/servers.json)
 | US Tennessee | 2 |
 | Colombia | 2 |
 | US Honolulu | 2 |
-| Nigeria | 2 |
-| JP Tokyo | 2 |
 | Bulgaria | 2 |
 | Slovakia | 2 |
 | North Macedonia | 2 |
