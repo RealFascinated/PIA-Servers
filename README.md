@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,894-blue)
+![Servers](https://img.shields.io/badge/servers-11,910-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_00:55:22_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_01:55:41_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,23 +13,23 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 669 |
+| Netherlands | 671 |
 | US Chicago | 538 |
 | US New York | 519 |
-| US Washington DC | 500 |
-| US Atlanta | 485 |
-| US Texas | 455 |
-| US East | 438 |
+| US Washington DC | 501 |
+| US Atlanta | 487 |
+| US Texas | 458 |
+| US East | 437 |
 | CA Toronto | 427 |
-| US Las Vegas | 402 |
-| CA Vancouver | 400 |
-| US Silicon Valley | 398 |
-| CA Montreal | 385 |
-| US California | 376 |
-| US Florida | 350 |
-| Switzerland | 252 |
-| US Denver | 234 |
-| CA Ontario | 228 |
+| US Las Vegas | 403 |
+| CA Vancouver | 399 |
+| US Silicon Valley | 399 |
+| CA Montreal | 386 |
+| US California | 377 |
+| US Florida | 351 |
+| Switzerland | 254 |
+| US Denver | 235 |
+| CA Ontario | 229 |
 | US West | 199 |
 | US Houston | 189 |
 | DE Germany Streaming Optimized | 179 |
@@ -41,7 +41,7 @@ View the IP list [here](/servers.json)
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| India | 90 |
+| India | 92 |
 | IT Milano | 87 |
 | Israel | 77 |
 | Norway | 76 |
@@ -148,7 +148,6 @@ View the IP list [here](/servers.json)
 | FI Helsinki | 3 |
 | AU Brisbane | 3 |
 | Nigeria | 3 |
-| JP Tokyo | 3 |
 | Georgia | 3 |
 | US Massachusetts | 3 |
 | JP Streaming Optimized | 3 |
@@ -167,6 +166,7 @@ View the IP list [here](/servers.json)
 | US Tennessee | 2 |
 | Colombia | 2 |
 | US Honolulu | 2 |
+| JP Tokyo | 2 |
 | Bulgaria | 2 |
 | Slovakia | 2 |
 | North Macedonia | 2 |
