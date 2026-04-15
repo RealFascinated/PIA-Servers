@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,259-blue)
+![Servers](https://img.shields.io/badge/servers-12,282-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_15_06:58:53_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_15_07:59:12_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,24 +13,24 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 686 |
-| US Chicago | 550 |
-| US New York | 531 |
-| US Washington DC | 527 |
-| US Atlanta | 512 |
+| Netherlands | 689 |
+| US Chicago | 551 |
+| US New York | 532 |
+| US Washington DC | 530 |
+| US Atlanta | 511 |
 | US Texas | 477 |
-| US East | 448 |
-| CA Toronto | 443 |
-| CA Montreal | 422 |
-| CA Vancouver | 420 |
-| US Silicon Valley | 419 |
-| US Las Vegas | 417 |
-| US California | 397 |
-| US Florida | 368 |
+| US East | 447 |
+| CA Toronto | 445 |
+| US Silicon Valley | 422 |
+| CA Vancouver | 421 |
+| CA Montreal | 421 |
+| US Las Vegas | 419 |
+| US California | 396 |
+| US Florida | 369 |
 | Switzerland | 278 |
-| US Denver | 252 |
+| US Denver | 253 |
 | CA Ontario | 240 |
-| US West | 208 |
+| US West | 209 |
 | US Houston | 193 |
 | DE Germany Streaming Optimized | 182 |
 | New Zealand | 179 |
@@ -39,7 +39,7 @@ View the IP list [here](/servers.json)
 | India | 114 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
-| US West Streaming Optimized | 97 |
+| US West Streaming Optimized | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | IT Milano | 87 |
@@ -123,6 +123,7 @@ View the IP list [here](/servers.json)
 | US Alabama | 18 |
 | US Seattle | 16 |
 | South Korea | 14 |
+| AU Perth | 14 |
 | Nepal | 14 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
@@ -131,10 +132,10 @@ View the IP list [here](/servers.json)
 | France | 9 |
 | SE Stockholm | 9 |
 | Estonia | 8 |
-| AU Perth | 8 |
 | Singapore | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
+| AU Brisbane | 6 |
 | Greenland | 5 |
 | ES Madrid | 5 |
 | UK Southampton | 5 |
@@ -146,7 +147,6 @@ View the IP list [here](/servers.json)
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
-| AU Brisbane | 3 |
 | Nigeria | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
