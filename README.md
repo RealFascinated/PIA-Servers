@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,074-blue)
+![Servers](https://img.shields.io/badge/servers-12,110-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_22:56:13_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_14_23:56:33_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 671 |
-| US Chicago | 543 |
-| US New York | 522 |
-| US Washington DC | 513 |
-| US Atlanta | 498 |
-| US Texas | 467 |
-| US East | 439 |
-| CA Toronto | 437 |
-| CA Vancouver | 415 |
-| US Silicon Valley | 411 |
-| CA Montreal | 408 |
+| Netherlands | 673 |
+| US Chicago | 546 |
+| US New York | 526 |
+| US Washington DC | 516 |
+| US Atlanta | 501 |
+| US Texas | 468 |
+| US East | 441 |
+| CA Toronto | 439 |
+| CA Vancouver | 414 |
+| US Silicon Valley | 414 |
+| CA Montreal | 409 |
 | US Las Vegas | 403 |
-| US California | 383 |
-| US Florida | 353 |
-| Switzerland | 274 |
-| US Denver | 242 |
+| US California | 384 |
+| US Florida | 356 |
+| Switzerland | 275 |
+| US Denver | 245 |
 | CA Ontario | 238 |
 | US West | 207 |
-| US Houston | 191 |
-| DE Germany Streaming Optimized | 181 |
+| US Houston | 192 |
+| DE Germany Streaming Optimized | 182 |
 | New Zealand | 176 |
 | Mexico | 137 |
-| US East Streaming Optimized | 119 |
+| US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
-| India | 108 |
+| India | 109 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
@@ -63,7 +63,7 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| Turkey | 51 |
+| Turkey | 52 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | Vietnam | 44 |
