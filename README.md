@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,282-blue)
+![Servers](https://img.shields.io/badge/servers-12,255-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_15_07:59:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_15_08:59:38_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 689 |
+| Netherlands | 684 |
 | US Chicago | 551 |
-| US New York | 532 |
 | US Washington DC | 530 |
+| US New York | 528 |
 | US Atlanta | 511 |
-| US Texas | 477 |
-| US East | 447 |
+| US Texas | 475 |
 | CA Toronto | 445 |
+| US East | 444 |
 | US Silicon Valley | 422 |
-| CA Vancouver | 421 |
-| CA Montreal | 421 |
-| US Las Vegas | 419 |
-| US California | 396 |
-| US Florida | 369 |
-| Switzerland | 278 |
-| US Denver | 253 |
-| CA Ontario | 240 |
-| US West | 209 |
+| CA Vancouver | 420 |
+| CA Montreal | 419 |
+| US Las Vegas | 416 |
+| US California | 394 |
+| US Florida | 370 |
+| Switzerland | 277 |
+| US Denver | 252 |
+| CA Ontario | 239 |
+| US West | 208 |
 | US Houston | 193 |
 | DE Germany Streaming Optimized | 182 |
-| New Zealand | 179 |
+| New Zealand | 180 |
 | Mexico | 137 |
 | US East Streaming Optimized | 120 |
-| India | 114 |
+| India | 113 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
@@ -123,15 +123,15 @@ View the IP list [here](/servers.json)
 | US Alabama | 18 |
 | US Seattle | 16 |
 | South Korea | 14 |
-| AU Perth | 14 |
 | Nepal | 14 |
+| AU Perth | 13 |
 | SE Streaming Optimized | 12 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 11 |
 | France | 9 |
-| SE Stockholm | 9 |
 | Estonia | 8 |
+| SE Stockholm | 8 |
 | Singapore | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
