@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,301-blue)
+![Servers](https://img.shields.io/badge/servers-12,292-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_16_06:56:31_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_16_07:56:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 702 |
-| US Chicago | 543 |
+| Netherlands | 700 |
+| US Chicago | 541 |
 | US New York | 535 |
-| US Washington DC | 521 |
-| US Atlanta | 516 |
-| US Texas | 462 |
+| US Washington DC | 523 |
+| US Atlanta | 515 |
+| US Texas | 461 |
 | CA Toronto | 453 |
 | US East | 449 |
-| US Silicon Valley | 424 |
-| US Las Vegas | 418 |
+| US Silicon Valley | 425 |
+| US Las Vegas | 416 |
 | CA Montreal | 416 |
-| CA Vancouver | 415 |
-| US California | 403 |
+| CA Vancouver | 414 |
+| US California | 401 |
 | US Florida | 370 |
-| Switzerland | 283 |
+| Switzerland | 284 |
 | US Denver | 257 |
 | CA Ontario | 248 |
-| US West | 210 |
+| US West | 211 |
 | US Houston | 191 |
 | DE Germany Streaming Optimized | 183 |
-| New Zealand | 183 |
+| New Zealand | 182 |
 | Mexico | 136 |
 | US East Streaming Optimized | 120 |
 | India | 114 |
@@ -117,11 +117,11 @@ View the IP list [here](/servers.json)
 | US North Carolina | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
-| AU Perth | 18 |
 | Serbia | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Alabama | 18 |
+| AU Perth | 17 |
 | US Seattle | 16 |
 | South Korea | 14 |
 | Nepal | 14 |
@@ -135,7 +135,7 @@ View the IP list [here](/servers.json)
 | France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
-| SE Stockholm | 7 |
+| SE Stockholm | 6 |
 | Greenland | 5 |
 | ES Madrid | 5 |
 | UK Southampton | 5 |
