@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,296-blue)
+![Servers](https://img.shields.io/badge/servers-12,283-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_15_22:57:02_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_15_23:57:22_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -18,19 +18,19 @@ View the IP list [here](/servers.json)
 | US New York | 531 |
 | US Washington DC | 523 |
 | US Atlanta | 511 |
-| US Texas | 464 |
+| US Texas | 461 |
 | CA Toronto | 453 |
-| US East | 448 |
-| US Silicon Valley | 427 |
-| CA Vancouver | 418 |
-| US Las Vegas | 418 |
+| US East | 449 |
+| US Silicon Valley | 425 |
+| CA Vancouver | 416 |
+| US Las Vegas | 415 |
 | CA Montreal | 415 |
 | US California | 399 |
-| US Florida | 372 |
+| US Florida | 370 |
 | Switzerland | 280 |
 | US Denver | 257 |
-| CA Ontario | 248 |
-| US West | 207 |
+| CA Ontario | 249 |
+| US West | 206 |
 | US Houston | 194 |
 | New Zealand | 183 |
 | DE Germany Streaming Optimized | 182 |
@@ -44,8 +44,8 @@ View the IP list [here](/servers.json)
 | Luxembourg | 92 |
 | IT Milano | 87 |
 | Israel | 77 |
-| Norway | 75 |
 | Argentina | 75 |
+| Norway | 74 |
 | DK Copenhagen | 68 |
 | NL Netherlands Streaming Optimized | 66 |
 | Brazil | 66 |
@@ -58,8 +58,8 @@ View the IP list [here](/servers.json)
 | Ukraine | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
+| US Pennsylvania | 57 |
 | Uruguay | 56 |
-| US Pennsylvania | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
@@ -82,8 +82,8 @@ View the IP list [here](/servers.json)
 | Chile | 36 |
 | Costa Rica | 35 |
 | Hong Kong | 32 |
-| US South Carolina | 31 |
 | Bangladesh | 31 |
+| US South Carolina | 30 |
 | IT Streaming Optimized | 30 |
 | Australia Streaming Optimized | 28 |
 | Guatemala | 28 |
@@ -113,11 +113,11 @@ View the IP list [here](/servers.json)
 | US Montana | 20 |
 | US Alaska | 20 |
 | US Louisiana | 20 |
-| AU Perth | 19 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
 | US Kansas | 18 |
 | US Maine | 18 |
+| AU Perth | 18 |
 | Serbia | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
