@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,511-blue)
+![Servers](https://img.shields.io/badge/servers-12,522-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_20_16:55:50_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_20_17:56:09_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,23 +13,23 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 717 |
-| US Washington DC | 543 |
-| US Atlanta | 541 |
+| Netherlands | 719 |
+| US Washington DC | 544 |
+| US Atlanta | 542 |
 | US Chicago | 535 |
-| US New York | 531 |
+| US New York | 533 |
 | US Texas | 485 |
 | US East | 464 |
 | CA Toronto | 456 |
-| US Las Vegas | 441 |
+| US Las Vegas | 442 |
 | CA Vancouver | 428 |
-| CA Montreal | 428 |
-| US Silicon Valley | 425 |
+| US Silicon Valley | 427 |
+| CA Montreal | 427 |
 | US California | 420 |
 | US Florida | 385 |
 | Switzerland | 284 |
-| US Denver | 271 |
-| CA Ontario | 253 |
+| US Denver | 272 |
+| CA Ontario | 255 |
 | US West | 223 |
 | US Houston | 193 |
 | DE Germany Streaming Optimized | 184 |
@@ -49,13 +49,13 @@ View the IP list [here](/servers.json)
 | Brazil | 69 |
 | DK Copenhagen | 68 |
 | NL Netherlands Streaming Optimized | 66 |
+| Belgium | 61 |
 | US Wilmington | 60 |
 | US Missouri | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| Belgium | 59 |
 | DK Streaming Optimized | 57 |
 | Ecuador | 57 |
 | US Pennsylvania | 57 |
@@ -95,8 +95,8 @@ View the IP list [here](/servers.json)
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
-| Bosnia And Herzegovina | 24 |
 | Egypt | 24 |
+| Bosnia And Herzegovina | 23 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
 | US Oklahoma | 22 |
@@ -120,7 +120,7 @@ View the IP list [here](/servers.json)
 | Serbia | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
-| US Alabama | 18 |
+| US Alabama | 17 |
 | US Seattle | 16 |
 | AU Perth | 16 |
 | South Korea | 14 |
