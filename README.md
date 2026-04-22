@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,514-blue)
+![Servers](https://img.shields.io/badge/servers-12,394-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_22_09:55:52_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_22_10:56:07_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,86 +13,86 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 775 |
-| US Washington DC | 602 |
-| US New York | 595 |
-| US Chicago | 575 |
-| US Atlanta | 571 |
+| Netherlands | 768 |
+| US Washington DC | 599 |
+| US New York | 593 |
+| US Chicago | 573 |
+| US Atlanta | 569 |
 | US Texas | 528 |
-| US East | 487 |
-| CA Toronto | 487 |
-| US Las Vegas | 465 |
+| CA Toronto | 486 |
+| US East | 485 |
+| US Las Vegas | 464 |
 | CA Montreal | 463 |
-| US Silicon Valley | 461 |
-| CA Vancouver | 447 |
-| US California | 439 |
-| US Florida | 407 |
-| Switzerland | 292 |
-| US Denver | 275 |
-| CA Ontario | 255 |
+| US Silicon Valley | 459 |
+| CA Vancouver | 445 |
+| US California | 438 |
+| US Florida | 406 |
+| Switzerland | 291 |
+| US Denver | 271 |
+| CA Ontario | 254 |
 | US West | 218 |
-| US Houston | 182 |
-| DE Germany Streaming Optimized | 176 |
-| New Zealand | 165 |
-| Mexico | 116 |
-| US East Streaming Optimized | 112 |
-| India | 107 |
-| UK Streaming Optimized | 101 |
-| US West Streaming Optimized | 89 |
-| Bahamas | 87 |
-| Luxembourg | 86 |
-| Panama | 82 |
+| US Houston | 178 |
+| DE Germany Streaming Optimized | 173 |
+| New Zealand | 163 |
+| Mexico | 112 |
+| US East Streaming Optimized | 111 |
+| India | 103 |
+| UK Streaming Optimized | 95 |
+| Bahamas | 86 |
+| US West Streaming Optimized | 86 |
+| Luxembourg | 83 |
+| Panama | 77 |
 | Argentina | 71 |
-| NL Netherlands Streaming Optimized | 61 |
-| US Wilmington | 57 |
-| Ukraine | 56 |
-| US Pennsylvania | 56 |
-| IT Milano | 56 |
-| US Missouri | 56 |
-| CA Ontario Streaming Optimized | 55 |
+| NL Netherlands Streaming Optimized | 58 |
+| US Wilmington | 55 |
+| US Pennsylvania | 55 |
+| US Missouri | 55 |
+| Ukraine | 54 |
 | Ecuador | 54 |
-| Norway | 54 |
-| Uruguay | 53 |
-| US Connecticut | 53 |
 | US Baltimore | 53 |
-| Austria | 50 |
-| Lithuania | 50 |
-| Israel | 50 |
-| Venezuela | 49 |
-| Turkey | 46 |
-| Andorra | 44 |
-| US Iowa | 43 |
+| Uruguay | 52 |
+| US Connecticut | 52 |
+| CA Ontario Streaming Optimized | 51 |
+| Norway | 50 |
+| IT Milano | 50 |
+| Lithuania | 49 |
+| Venezuela | 48 |
+| Austria | 48 |
+| Turkey | 47 |
+| Israel | 47 |
+| Andorra | 43 |
 | Isle OF Man | 43 |
-| Taiwan | 43 |
+| US Iowa | 42 |
+| Taiwan | 42 |
+| Vietnam | 41 |
 | US Ohio | 40 |
-| Vietnam | 40 |
-| Liechtenstein | 40 |
+| Liechtenstein | 39 |
 | US Wisconsin | 39 |
-| US Michigan | 39 |
-| US West Virginia | 38 |
-| DK Streaming Optimized | 37 |
-| DK Copenhagen | 36 |
-| Algeria | 36 |
+| US Michigan | 38 |
+| US West Virginia | 37 |
 | Morocco | 36 |
-| Chile | 36 |
 | Malta | 36 |
+| DK Streaming Optimized | 35 |
 | Philippines | 35 |
-| Costa Rica | 33 |
+| DK Copenhagen | 35 |
+| Chile | 35 |
+| Algeria | 34 |
 | Hong Kong | 32 |
-| US South Carolina | 31 |
-| Brazil | 31 |
+| Costa Rica | 32 |
 | Bangladesh | 31 |
+| US South Carolina | 30 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
+| Brazil | 28 |
 | Peru | 28 |
-| Bolivia | 28 |
-| Belgium | 27 |
+| Bolivia | 27 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
+| Belgium | 24 |
 | Egypt | 24 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
@@ -126,7 +126,7 @@ View the IP list [here](/servers.json)
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
-| Albania | 9 |
+| Albania | 8 |
 | Estonia | 8 |
 | Singapore | 7 |
 | France | 7 |
