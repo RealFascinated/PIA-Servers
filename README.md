@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,379-blue)
+![Servers](https://img.shields.io/badge/servers-12,318-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_22_05:55:21_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_22_06:55:37_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,84 +13,84 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 762 |
-| US Washington DC | 597 |
-| US New York | 581 |
+| Netherlands | 761 |
+| US Washington DC | 595 |
+| US New York | 584 |
 | US Chicago | 568 |
-| US Atlanta | 563 |
-| US Texas | 520 |
-| CA Toronto | 485 |
-| US East | 484 |
-| US Las Vegas | 463 |
+| US Atlanta | 561 |
+| US Texas | 521 |
+| CA Toronto | 484 |
+| US East | 482 |
+| US Las Vegas | 462 |
 | CA Montreal | 461 |
-| US Silicon Valley | 459 |
-| CA Vancouver | 442 |
+| US Silicon Valley | 457 |
+| CA Vancouver | 441 |
 | US California | 441 |
 | US Florida | 406 |
-| Switzerland | 294 |
+| Switzerland | 293 |
 | US Denver | 272 |
 | CA Ontario | 253 |
-| US West | 219 |
+| US West | 218 |
 | US Houston | 180 |
-| DE Germany Streaming Optimized | 178 |
-| New Zealand | 167 |
-| Mexico | 122 |
-| US East Streaming Optimized | 108 |
+| DE Germany Streaming Optimized | 175 |
+| New Zealand | 165 |
+| Mexico | 121 |
+| US East Streaming Optimized | 106 |
 | India | 104 |
-| UK Streaming Optimized | 102 |
-| US West Streaming Optimized | 87 |
+| UK Streaming Optimized | 100 |
+| US West Streaming Optimized | 86 |
 | Luxembourg | 83 |
-| Bahamas | 83 |
-| Panama | 79 |
-| Argentina | 73 |
-| NL Netherlands Streaming Optimized | 60 |
-| Norway | 58 |
-| IT Milano | 58 |
-| Israel | 56 |
-| US Pennsylvania | 55 |
+| Bahamas | 82 |
+| Panama | 75 |
+| Argentina | 70 |
+| NL Netherlands Streaming Optimized | 59 |
+| IT Milano | 57 |
+| Norway | 56 |
 | US Missouri | 55 |
-| US Wilmington | 53 |
-| Ukraine | 53 |
-| Venezuela | 51 |
+| Israel | 55 |
+| US Pennsylvania | 53 |
+| US Wilmington | 51 |
+| Ukraine | 51 |
+| Venezuela | 50 |
 | Austria | 50 |
-| US Connecticut | 50 |
-| CA Ontario Streaming Optimized | 49 |
 | Uruguay | 48 |
-| US Baltimore | 48 |
-| Ecuador | 47 |
-| Lithuania | 46 |
+| CA Ontario Streaming Optimized | 48 |
+| US Connecticut | 47 |
+| US Baltimore | 47 |
+| Ecuador | 46 |
+| Lithuania | 45 |
 | Turkey | 44 |
-| Taiwan | 44 |
-| DK Copenhagen | 40 |
+| Taiwan | 43 |
 | Andorra | 39 |
-| Vietnam | 39 |
+| DK Copenhagen | 39 |
 | Isle OF Man | 39 |
-| Brazil | 39 |
-| DK Streaming Optimized | 38 |
-| US Ohio | 38 |
+| Vietnam | 38 |
 | US Iowa | 38 |
-| Liechtenstein | 37 |
-| Morocco | 37 |
+| DK Streaming Optimized | 37 |
 | US Wisconsin | 37 |
-| US West Virginia | 36 |
+| US Ohio | 36 |
+| Liechtenstein | 36 |
+| Morocco | 36 |
+| Brazil | 36 |
 | US Michigan | 36 |
 | Malta | 36 |
 | Philippines | 35 |
+| US West Virginia | 35 |
 | Algeria | 34 |
 | Costa Rica | 34 |
-| Chile | 33 |
-| Hong Kong | 31 |
-| US South Carolina | 30 |
-| Belgium | 30 |
+| Chile | 34 |
+| Hong Kong | 32 |
 | Bangladesh | 30 |
+| US South Carolina | 29 |
+| Belgium | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 27 |
-| Bolivia | 27 |
 | Guatemala | 26 |
+| Bolivia | 26 |
 | Macao | 25 |
+| Montenegro | 25 |
 | Armenia | 24 |
 | Egypt | 24 |
-| Montenegro | 24 |
 | Cambodia | 23 |
 | Cyprus | 23 |
 | Bosnia And Herzegovina | 23 |
@@ -116,7 +116,7 @@ View the IP list [here](/servers.json)
 | US Maine | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
-| US Alabama | 17 |
+| US Alabama | 18 |
 | US Seattle | 16 |
 | AU Perth | 16 |
 | South Korea | 14 |
@@ -126,7 +126,7 @@ View the IP list [here](/servers.json)
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
-| Albania | 10 |
+| Albania | 9 |
 | Estonia | 8 |
 | Singapore | 7 |
 | France | 7 |
