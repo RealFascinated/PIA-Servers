@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,359-blue)
+![Servers](https://img.shields.io/badge/servers-12,343-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_23_09:57:45_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Apr_23_10:57:45_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,62 +14,62 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 796 |
-| US New York | 611 |
-| US Washington DC | 604 |
-| US Chicago | 594 |
-| US Atlanta | 585 |
-| US Texas | 547 |
-| CA Toronto | 507 |
-| US East | 491 |
+| US New York | 608 |
+| US Washington DC | 602 |
+| US Chicago | 597 |
+| US Atlanta | 587 |
+| US Texas | 545 |
+| CA Toronto | 508 |
+| US East | 489 |
 | US Las Vegas | 470 |
-| CA Vancouver | 469 |
-| US Silicon Valley | 465 |
-| CA Montreal | 465 |
+| CA Vancouver | 468 |
+| US Silicon Valley | 464 |
+| CA Montreal | 464 |
 | US California | 450 |
-| US Florida | 408 |
-| Switzerland | 286 |
-| US Denver | 259 |
-| CA Ontario | 242 |
-| US West | 210 |
-| US Houston | 180 |
-| DE Germany Streaming Optimized | 156 |
-| New Zealand | 132 |
+| US Florida | 407 |
+| Switzerland | 285 |
+| US Denver | 258 |
+| CA Ontario | 244 |
+| US West | 207 |
+| US Houston | 178 |
+| DE Germany Streaming Optimized | 154 |
+| New Zealand | 128 |
 | India | 109 |
-| US East Streaming Optimized | 107 |
-| UK Streaming Optimized | 94 |
-| Bahamas | 92 |
-| US West Streaming Optimized | 91 |
-| Panama | 88 |
+| US East Streaming Optimized | 106 |
+| UK Streaming Optimized | 97 |
+| US West Streaming Optimized | 93 |
+| Bahamas | 91 |
+| Panama | 87 |
 | Luxembourg | 87 |
-| Mexico | 83 |
+| Mexico | 82 |
 | NL Netherlands Streaming Optimized | 62 |
 | US Wilmington | 60 |
 | CA Ontario Streaming Optimized | 60 |
-| US Baltimore | 59 |
+| US Baltimore | 60 |
 | Ukraine | 58 |
-| US Missouri | 57 |
-| Venezuela | 56 |
-| Ecuador | 56 |
+| Venezuela | 57 |
+| Ecuador | 57 |
+| US Missouri | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
-| US Pennsylvania | 54 |
+| US Pennsylvania | 55 |
+| Lithuania | 54 |
 | Uruguay | 53 |
-| Lithuania | 52 |
 | Andorra | 47 |
 | Taiwan | 46 |
 | US Iowa | 45 |
 | Vietnam | 44 |
 | Turkey | 43 |
-| Argentina | 43 |
 | Isle OF Man | 43 |
+| Argentina | 42 |
 | US Ohio | 41 |
 | Liechtenstein | 41 |
 | US West Virginia | 40 |
 | US Wisconsin | 40 |
 | US Michigan | 40 |
 | Morocco | 38 |
+| Malta | 37 |
 | Chile | 36 |
-| Malta | 36 |
 | Philippines | 35 |
 | Costa Rica | 35 |
 | Algeria | 34 |
@@ -89,14 +89,15 @@ View the IP list [here](/servers.json)
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
 | US Idaho | 23 |
-| IT Milano | 23 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
+| IT Milano | 22 |
 | US Oklahoma | 22 |
 | US Alaska | 22 |
 | US Virginia | 21 |
 | US Wyoming | 21 |
 | US Arkansas | 20 |
+| US Kansas | 20 |
 | US Minnesota | 20 |
 | US Mississippi | 20 |
 | US Nebraska | 20 |
@@ -108,7 +109,6 @@ View the IP list [here](/servers.json)
 | US Louisiana | 20 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
-| US Kansas | 18 |
 | US Maine | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
@@ -122,7 +122,6 @@ View the IP list [here](/servers.json)
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
 | Estonia | 8 |
-| Norway | 8 |
 | DK Copenhagen | 7 |
 | Singapore | 7 |
 | France | 7 |
@@ -133,13 +132,13 @@ View the IP list [here](/servers.json)
 | SE Stockholm | 6 |
 | Greenland | 5 |
 | ES Madrid | 5 |
+| Norway | 5 |
 | UK Southampton | 5 |
 | Latvia | 5 |
 | Poland | 4 |
 | United Arab Emirates | 4 |
 | Bulgaria | 4 |
 | Belgium | 4 |
-| Israel | 4 |
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
@@ -179,3 +178,4 @@ View the IP list [here](/servers.json)
 | ES Valencia | 2 |
 | South Africa | 2 |
 | Slovenia | 2 |
+| Israel | 2 |
