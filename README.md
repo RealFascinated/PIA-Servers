@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,187-blue)
+![Servers](https://img.shields.io/badge/servers-12,159-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_12:59:44_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_13:59:54_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,32 +14,32 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 811 |
-| US New York | 616 |
-| US Washington DC | 608 |
+| US New York | 615 |
+| US Washington DC | 607 |
 | US Chicago | 601 |
-| US Atlanta | 582 |
-| US Texas | 554 |
-| US East | 493 |
+| US Atlanta | 580 |
+| US Texas | 550 |
+| US East | 492 |
 | CA Toronto | 488 |
-| CA Montreal | 477 |
+| CA Montreal | 476 |
 | US Las Vegas | 471 |
-| CA Vancouver | 467 |
-| US Silicon Valley | 453 |
-| US California | 447 |
-| US Florida | 396 |
-| Switzerland | 276 |
+| CA Vancouver | 466 |
+| US Silicon Valley | 451 |
+| US California | 445 |
+| US Florida | 394 |
+| Switzerland | 274 |
 | US Denver | 255 |
 | CA Ontario | 226 |
-| US West | 166 |
-| US Houston | 165 |
+| US Houston | 164 |
+| US West | 163 |
 | DE Germany Streaming Optimized | 150 |
-| India | 115 |
-| UK Streaming Optimized | 110 |
-| US East Streaming Optimized | 108 |
-| Bahamas | 94 |
+| India | 114 |
+| US East Streaming Optimized | 110 |
+| UK Streaming Optimized | 107 |
+| Bahamas | 93 |
 | Panama | 91 |
-| Luxembourg | 89 |
-| US West Streaming Optimized | 89 |
+| Luxembourg | 90 |
+| US West Streaming Optimized | 88 |
 | New Zealand | 75 |
 | NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
@@ -55,7 +55,7 @@ View the IP list [here](/servers.json)
 | Austria | 55 |
 | Lithuania | 55 |
 | Andorra | 48 |
-| Mexico | 48 |
+| Mexico | 46 |
 | Taiwan | 46 |
 | US Iowa | 45 |
 | Vietnam | 44 |
