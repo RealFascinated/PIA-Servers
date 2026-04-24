@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,159-blue)
+![Servers](https://img.shields.io/badge/servers-12,171-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_13:59:54_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_14:59:54_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,34 +13,34 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 811 |
-| US New York | 615 |
-| US Washington DC | 607 |
-| US Chicago | 601 |
+| Netherlands | 812 |
+| US New York | 617 |
+| US Washington DC | 606 |
+| US Chicago | 602 |
 | US Atlanta | 580 |
-| US Texas | 550 |
-| US East | 492 |
-| CA Toronto | 488 |
-| CA Montreal | 476 |
-| US Las Vegas | 471 |
-| CA Vancouver | 466 |
-| US Silicon Valley | 451 |
-| US California | 445 |
-| US Florida | 394 |
-| Switzerland | 274 |
+| US Texas | 549 |
+| US East | 493 |
+| CA Toronto | 490 |
+| CA Montreal | 473 |
+| CA Vancouver | 469 |
+| US Las Vegas | 469 |
+| US Silicon Valley | 448 |
+| US California | 444 |
+| US Florida | 395 |
+| Switzerland | 276 |
 | US Denver | 255 |
-| CA Ontario | 226 |
+| CA Ontario | 227 |
 | US Houston | 164 |
 | US West | 163 |
-| DE Germany Streaming Optimized | 150 |
+| DE Germany Streaming Optimized | 155 |
 | India | 114 |
-| US East Streaming Optimized | 110 |
-| UK Streaming Optimized | 107 |
-| Bahamas | 93 |
+| US East Streaming Optimized | 111 |
+| UK Streaming Optimized | 109 |
+| Bahamas | 94 |
 | Panama | 91 |
-| Luxembourg | 90 |
-| US West Streaming Optimized | 88 |
-| New Zealand | 75 |
+| Luxembourg | 91 |
+| US West Streaming Optimized | 89 |
+| New Zealand | 73 |
 | NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
