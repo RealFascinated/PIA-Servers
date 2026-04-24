@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,103-blue)
+![Servers](https://img.shields.io/badge/servers-12,121-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_21:55:34_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_22:55:43_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,32 +14,32 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 815 |
-| US New York | 614 |
-| US Washington DC | 608 |
-| US Chicago | 592 |
+| US New York | 617 |
+| US Washington DC | 609 |
+| US Chicago | 594 |
 | US Atlanta | 579 |
-| US Texas | 547 |
-| US East | 491 |
-| CA Toronto | 487 |
-| CA Montreal | 474 |
-| CA Vancouver | 466 |
-| US Las Vegas | 464 |
-| US Silicon Valley | 444 |
-| US California | 436 |
-| US Florida | 395 |
-| Switzerland | 272 |
-| US Denver | 252 |
-| CA Ontario | 223 |
-| US Houston | 167 |
-| DE Germany Streaming Optimized | 156 |
-| US West | 153 |
+| US Texas | 546 |
+| US East | 494 |
+| CA Toronto | 488 |
+| CA Montreal | 476 |
+| US Las Vegas | 465 |
+| CA Vancouver | 464 |
+| US Silicon Valley | 448 |
+| US California | 439 |
+| US Florida | 396 |
+| Switzerland | 273 |
+| US Denver | 253 |
+| CA Ontario | 222 |
+| US Houston | 168 |
+| DE Germany Streaming Optimized | 157 |
+| US West | 151 |
 | India | 117 |
-| US East Streaming Optimized | 110 |
 | UK Streaming Optimized | 110 |
+| US East Streaming Optimized | 110 |
 | Bahamas | 94 |
 | Luxembourg | 92 |
-| Panama | 91 |
-| US West Streaming Optimized | 91 |
+| US West Streaming Optimized | 92 |
+| Panama | 90 |
 | NL Netherlands Streaming Optimized | 65 |
 | New Zealand | 63 |
 | CA Ontario Streaming Optimized | 60 |
@@ -123,11 +123,11 @@ View the IP list [here](/servers.json)
 | Estonia | 8 |
 | Singapore | 7 |
 | France | 7 |
-| IT Milano | 7 |
 | UK Southampton | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
+| IT Milano | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
