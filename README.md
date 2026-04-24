@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,252-blue)
+![Servers](https://img.shields.io/badge/servers-12,240-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_06:59:05_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_07:59:05_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,48 +13,48 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 818 |
-| US New York | 612 |
-| US Washington DC | 611 |
-| US Chicago | 608 |
-| US Atlanta | 585 |
+| Netherlands | 817 |
+| US New York | 616 |
+| US Chicago | 610 |
+| US Washington DC | 610 |
+| US Atlanta | 583 |
 | US Texas | 556 |
-| CA Toronto | 500 |
-| US East | 491 |
-| CA Montreal | 478 |
+| CA Toronto | 498 |
+| US East | 490 |
+| CA Montreal | 476 |
 | US Las Vegas | 472 |
 | CA Vancouver | 467 |
 | US Silicon Valley | 458 |
 | US California | 448 |
-| US Florida | 403 |
-| Switzerland | 279 |
-| US Denver | 253 |
-| CA Ontario | 231 |
-| US West | 174 |
+| US Florida | 400 |
+| Switzerland | 276 |
+| US Denver | 252 |
+| CA Ontario | 232 |
+| US West | 173 |
 | US Houston | 170 |
-| DE Germany Streaming Optimized | 146 |
+| DE Germany Streaming Optimized | 145 |
 | India | 116 |
-| US East Streaming Optimized | 105 |
-| UK Streaming Optimized | 105 |
-| Bahamas | 93 |
-| Panama | 89 |
-| US West Streaming Optimized | 88 |
-| Luxembourg | 87 |
-| New Zealand | 84 |
-| NL Netherlands Streaming Optimized | 66 |
+| US East Streaming Optimized | 107 |
+| UK Streaming Optimized | 106 |
+| Bahamas | 92 |
+| Panama | 91 |
+| Luxembourg | 88 |
+| US West Streaming Optimized | 87 |
+| New Zealand | 82 |
+| NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| US Wilmington | 58 |
-| US Missouri | 58 |
+| US Missouri | 59 |
+| US Wilmington | 57 |
 | Ecuador | 57 |
 | Uruguay | 56 |
 | US Pennsylvania | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| Mexico | 55 |
+| Mexico | 53 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | US Iowa | 45 |
