@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,095-blue)
+![Servers](https://img.shields.io/badge/servers-12,103-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_20:55:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_21:55:34_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 817 |
+| Netherlands | 815 |
 | US New York | 614 |
-| US Washington DC | 607 |
+| US Washington DC | 608 |
 | US Chicago | 592 |
-| US Atlanta | 577 |
-| US Texas | 546 |
-| CA Toronto | 489 |
-| US East | 488 |
+| US Atlanta | 579 |
+| US Texas | 547 |
+| US East | 491 |
+| CA Toronto | 487 |
 | CA Montreal | 474 |
-| CA Vancouver | 465 |
-| US Las Vegas | 463 |
-| US Silicon Valley | 446 |
-| US California | 435 |
-| US Florida | 392 |
-| Switzerland | 274 |
-| US Denver | 255 |
-| CA Ontario | 221 |
-| US Houston | 164 |
+| CA Vancouver | 466 |
+| US Las Vegas | 464 |
+| US Silicon Valley | 444 |
+| US California | 436 |
+| US Florida | 395 |
+| Switzerland | 272 |
+| US Denver | 252 |
+| CA Ontario | 223 |
+| US Houston | 167 |
 | DE Germany Streaming Optimized | 156 |
-| US West | 155 |
+| US West | 153 |
 | India | 117 |
 | US East Streaming Optimized | 110 |
-| UK Streaming Optimized | 108 |
+| UK Streaming Optimized | 110 |
 | Bahamas | 94 |
-| Luxembourg | 91 |
-| Panama | 90 |
-| US West Streaming Optimized | 90 |
-| NL Netherlands Streaming Optimized | 66 |
-| New Zealand | 64 |
+| Luxembourg | 92 |
+| Panama | 91 |
+| US West Streaming Optimized | 91 |
+| NL Netherlands Streaming Optimized | 65 |
+| New Zealand | 63 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
