@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,151-blue)
+![Servers](https://img.shields.io/badge/servers-12,187-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_11:59:33_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_12:59:44_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,34 +14,34 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 811 |
-| US New York | 611 |
-| US Washington DC | 607 |
+| US New York | 616 |
+| US Washington DC | 608 |
 | US Chicago | 601 |
-| US Atlanta | 581 |
-| US Texas | 552 |
-| US East | 490 |
+| US Atlanta | 582 |
+| US Texas | 554 |
+| US East | 493 |
 | CA Toronto | 488 |
-| CA Montreal | 475 |
-| US Las Vegas | 468 |
+| CA Montreal | 477 |
+| US Las Vegas | 471 |
 | CA Vancouver | 467 |
-| US Silicon Valley | 452 |
-| US California | 445 |
+| US Silicon Valley | 453 |
+| US California | 447 |
 | US Florida | 396 |
-| Switzerland | 273 |
-| US Denver | 253 |
-| CA Ontario | 225 |
-| US West | 167 |
-| US Houston | 166 |
-| DE Germany Streaming Optimized | 145 |
+| Switzerland | 276 |
+| US Denver | 255 |
+| CA Ontario | 226 |
+| US West | 166 |
+| US Houston | 165 |
+| DE Germany Streaming Optimized | 150 |
 | India | 115 |
+| UK Streaming Optimized | 110 |
 | US East Streaming Optimized | 108 |
-| UK Streaming Optimized | 107 |
-| Bahamas | 93 |
-| Panama | 90 |
+| Bahamas | 94 |
+| Panama | 91 |
 | Luxembourg | 89 |
 | US West Streaming Optimized | 89 |
 | New Zealand | 75 |
-| NL Netherlands Streaming Optimized | 63 |
+| NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
@@ -54,8 +54,8 @@ View the IP list [here](/servers.json)
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
-| Mexico | 49 |
 | Andorra | 48 |
+| Mexico | 48 |
 | Taiwan | 46 |
 | US Iowa | 45 |
 | Vietnam | 44 |
