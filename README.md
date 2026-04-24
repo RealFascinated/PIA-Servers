@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,223-blue)
+![Servers](https://img.shields.io/badge/servers-12,252-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_05:59:05_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_06:59:05_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,39 +13,39 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 815 |
+| Netherlands | 818 |
 | US New York | 612 |
 | US Washington DC | 611 |
-| US Chicago | 606 |
+| US Chicago | 608 |
 | US Atlanta | 585 |
-| US Texas | 554 |
-| CA Toronto | 497 |
-| US East | 489 |
-| CA Montreal | 476 |
+| US Texas | 556 |
+| CA Toronto | 500 |
+| US East | 491 |
+| CA Montreal | 478 |
 | US Las Vegas | 472 |
-| CA Vancouver | 468 |
-| US Silicon Valley | 456 |
+| CA Vancouver | 467 |
+| US Silicon Valley | 458 |
 | US California | 448 |
 | US Florida | 403 |
-| Switzerland | 276 |
-| US Denver | 252 |
-| CA Ontario | 232 |
-| US West | 175 |
-| US Houston | 168 |
-| DE Germany Streaming Optimized | 145 |
-| India | 114 |
+| Switzerland | 279 |
+| US Denver | 253 |
+| CA Ontario | 231 |
+| US West | 174 |
+| US Houston | 170 |
+| DE Germany Streaming Optimized | 146 |
+| India | 116 |
+| US East Streaming Optimized | 105 |
 | UK Streaming Optimized | 105 |
-| US East Streaming Optimized | 103 |
-| Bahamas | 91 |
+| Bahamas | 93 |
 | Panama | 89 |
+| US West Streaming Optimized | 88 |
 | Luxembourg | 87 |
-| US West Streaming Optimized | 87 |
 | New Zealand | 84 |
-| NL Netherlands Streaming Optimized | 65 |
+| NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
+| US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| US Baltimore | 59 |
 | US Wilmington | 58 |
 | US Missouri | 58 |
 | Ecuador | 57 |
