@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,071-blue)
+![Servers](https://img.shields.io/badge/servers-12,077-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_16:57:06_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_17:57:06_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,28 +13,28 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 837 |
-| US New York | 617 |
-| US Washington DC | 616 |
-| US Chicago | 598 |
-| US Atlanta | 579 |
+| Netherlands | 840 |
+| US New York | 616 |
+| US Washington DC | 615 |
+| US Chicago | 597 |
+| US Atlanta | 580 |
 | US Texas | 547 |
-| CA Toronto | 494 |
-| US East | 490 |
-| CA Montreal | 466 |
+| CA Toronto | 493 |
+| US East | 492 |
+| CA Montreal | 463 |
 | CA Vancouver | 461 |
-| US Las Vegas | 448 |
-| US California | 444 |
-| US Silicon Valley | 442 |
-| US Florida | 387 |
-| Switzerland | 264 |
-| US Denver | 245 |
-| CA Ontario | 220 |
+| US Las Vegas | 449 |
+| US Silicon Valley | 445 |
+| US California | 443 |
+| US Florida | 386 |
+| Switzerland | 265 |
+| US Denver | 247 |
+| CA Ontario | 222 |
 | US Houston | 173 |
-| DE Germany Streaming Optimized | 164 |
-| US West | 129 |
+| DE Germany Streaming Optimized | 167 |
+| US West | 127 |
 | India | 117 |
-| US East Streaming Optimized | 117 |
+| US East Streaming Optimized | 115 |
 | UK Streaming Optimized | 112 |
 | Bahamas | 97 |
 | Luxembourg | 93 |
@@ -58,7 +58,7 @@ View the IP list [here](/servers.json)
 | US Iowa | 45 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
-| New Zealand | 43 |
+| New Zealand | 42 |
 | US Ohio | 41 |
 | Liechtenstein | 41 |
 | US West Virginia | 40 |
@@ -113,9 +113,9 @@ View the IP list [here](/servers.json)
 | US Rhode Island | 18 |
 | US Seattle | 16 |
 | AU Perth | 16 |
+| AU Brisbane | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
-| AU Brisbane | 13 |
 | Mongolia | 12 |
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
