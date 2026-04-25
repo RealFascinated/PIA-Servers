@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,116-blue)
+![Servers](https://img.shields.io/badge/servers-12,108-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Apr_24_23:55:43_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_00:55:52_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 814 |
+| Netherlands | 815 |
 | US New York | 615 |
-| US Washington DC | 613 |
-| US Chicago | 593 |
+| US Washington DC | 615 |
+| US Chicago | 594 |
 | US Atlanta | 581 |
-| US Texas | 547 |
-| US East | 492 |
-| CA Toronto | 488 |
-| CA Montreal | 475 |
-| US Las Vegas | 466 |
+| US Texas | 548 |
+| US East | 493 |
+| CA Toronto | 489 |
+| CA Montreal | 472 |
 | CA Vancouver | 465 |
-| US Silicon Valley | 450 |
-| US California | 440 |
-| US Florida | 393 |
+| US Las Vegas | 465 |
+| US Silicon Valley | 447 |
+| US California | 439 |
+| US Florida | 391 |
 | Switzerland | 271 |
-| US Denver | 252 |
-| CA Ontario | 224 |
+| US Denver | 253 |
+| CA Ontario | 222 |
 | US Houston | 169 |
 | DE Germany Streaming Optimized | 158 |
-| US West | 147 |
+| US West | 146 |
 | India | 117 |
-| US East Streaming Optimized | 113 |
+| US East Streaming Optimized | 111 |
 | UK Streaming Optimized | 108 |
 | Bahamas | 95 |
+| Luxembourg | 92 |
+| US West Streaming Optimized | 92 |
 | Panama | 91 |
-| Luxembourg | 91 |
-| US West Streaming Optimized | 91 |
 | NL Netherlands Streaming Optimized | 65 |
-| New Zealand | 61 |
+| US Missouri | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| US Missouri | 59 |
+| New Zealand | 59 |
 | Ecuador | 57 |
 | US Pennsylvania | 57 |
 | US Wilmington | 56 |
@@ -66,10 +66,10 @@ View the IP list [here](/servers.json)
 | US Michigan | 40 |
 | Turkey | 39 |
 | Morocco | 38 |
-| Mexico | 37 |
 | Malta | 37 |
 | Chile | 36 |
 | Philippines | 35 |
+| Mexico | 35 |
 | Costa Rica | 35 |
 | Algeria | 34 |
 | Hong Kong | 32 |
