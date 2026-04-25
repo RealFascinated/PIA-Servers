@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,139-blue)
+![Servers](https://img.shields.io/badge/servers-12,085-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_04:56:13_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_05:56:24_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 825 |
-| US Washington DC | 620 |
-| US New York | 617 |
-| US Chicago | 596 |
-| US Atlanta | 582 |
-| US Texas | 552 |
-| US East | 494 |
-| CA Toronto | 488 |
-| CA Montreal | 472 |
-| CA Vancouver | 465 |
-| US Las Vegas | 462 |
-| US Silicon Valley | 450 |
-| US California | 440 |
-| US Florida | 394 |
-| Switzerland | 269 |
-| US Denver | 252 |
-| CA Ontario | 220 |
-| US Houston | 171 |
-| DE Germany Streaming Optimized | 162 |
-| US West | 143 |
-| India | 118 |
-| US East Streaming Optimized | 115 |
-| UK Streaming Optimized | 108 |
-| Bahamas | 96 |
-| US West Streaming Optimized | 95 |
+| Netherlands | 820 |
+| US Washington DC | 621 |
+| US New York | 615 |
+| US Chicago | 593 |
+| US Atlanta | 580 |
+| US Texas | 547 |
+| US East | 491 |
+| CA Toronto | 487 |
+| CA Montreal | 470 |
+| CA Vancouver | 462 |
+| US Las Vegas | 458 |
+| US Silicon Valley | 446 |
+| US California | 435 |
+| US Florida | 393 |
+| Switzerland | 267 |
+| US Denver | 251 |
+| CA Ontario | 219 |
+| US Houston | 170 |
+| DE Germany Streaming Optimized | 160 |
+| US West | 141 |
+| India | 117 |
+| US East Streaming Optimized | 114 |
+| UK Streaming Optimized | 107 |
+| Bahamas | 97 |
+| US West Streaming Optimized | 94 |
 | Panama | 93 |
 | Luxembourg | 92 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -50,10 +50,10 @@ View the IP list [here](/servers.json)
 | US Pennsylvania | 57 |
 | US Wilmington | 56 |
 | Uruguay | 56 |
-| New Zealand | 56 |
 | US Connecticut | 56 |
 | Austria | 55 |
 | Lithuania | 55 |
+| New Zealand | 53 |
 | Andorra | 48 |
 | Taiwan | 46 |
 | US Iowa | 45 |
