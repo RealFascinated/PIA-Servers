@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,117-blue)
+![Servers](https://img.shields.io/badge/servers-12,123-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_21:57:36_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_22:57:46_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,29 +13,29 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 846 |
-| US New York | 623 |
-| US Washington DC | 623 |
+| Netherlands | 849 |
+| US New York | 622 |
+| US Washington DC | 621 |
 | US Chicago | 602 |
-| US Atlanta | 579 |
-| US Texas | 544 |
-| US East | 497 |
-| CA Toronto | 491 |
-| CA Vancouver | 466 |
-| CA Montreal | 462 |
-| US Silicon Valley | 453 |
-| US Las Vegas | 451 |
-| US California | 436 |
-| US Florida | 388 |
-| Switzerland | 269 |
-| US Denver | 247 |
+| US Atlanta | 584 |
+| US Texas | 545 |
+| US East | 494 |
+| CA Toronto | 493 |
+| CA Vancouver | 463 |
+| CA Montreal | 463 |
+| US Silicon Valley | 456 |
+| US Las Vegas | 453 |
+| US California | 434 |
+| US Florida | 387 |
+| Switzerland | 268 |
+| US Denver | 249 |
 | CA Ontario | 226 |
-| US Houston | 174 |
-| DE Germany Streaming Optimized | 170 |
+| US Houston | 173 |
+| DE Germany Streaming Optimized | 172 |
 | US West | 121 |
 | India | 117 |
 | US East Streaming Optimized | 117 |
-| UK Streaming Optimized | 110 |
+| UK Streaming Optimized | 111 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 95 |
 | Panama | 93 |
@@ -62,10 +62,10 @@ View the IP list [here](/servers.json)
 | Liechtenstein | 41 |
 | US West Virginia | 40 |
 | US Wisconsin | 40 |
-| New Zealand | 40 |
 | US Michigan | 40 |
 | Turkey | 39 |
 | Morocco | 38 |
+| New Zealand | 38 |
 | Malta | 37 |
 | Chile | 36 |
 | Philippines | 35 |
