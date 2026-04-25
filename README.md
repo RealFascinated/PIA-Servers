@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,107-blue)
+![Servers](https://img.shields.io/badge/servers-12,139-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_03:56:14_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_04:56:13_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 821 |
-| US Washington DC | 617 |
-| US New York | 616 |
-| US Chicago | 593 |
-| US Atlanta | 581 |
-| US Texas | 547 |
-| US East | 493 |
-| CA Toronto | 487 |
+| Netherlands | 825 |
+| US Washington DC | 620 |
+| US New York | 617 |
+| US Chicago | 596 |
+| US Atlanta | 582 |
+| US Texas | 552 |
+| US East | 494 |
+| CA Toronto | 488 |
 | CA Montreal | 472 |
 | CA Vancouver | 465 |
-| US Las Vegas | 461 |
+| US Las Vegas | 462 |
 | US Silicon Valley | 450 |
-| US California | 439 |
-| US Florida | 392 |
-| Switzerland | 267 |
+| US California | 440 |
+| US Florida | 394 |
+| Switzerland | 269 |
 | US Denver | 252 |
 | CA Ontario | 220 |
-| US Houston | 169 |
-| DE Germany Streaming Optimized | 160 |
-| US West | 144 |
+| US Houston | 171 |
+| DE Germany Streaming Optimized | 162 |
+| US West | 143 |
 | India | 118 |
-| US East Streaming Optimized | 114 |
-| UK Streaming Optimized | 107 |
+| US East Streaming Optimized | 115 |
+| UK Streaming Optimized | 108 |
 | Bahamas | 96 |
-| US West Streaming Optimized | 93 |
-| Panama | 92 |
+| US West Streaming Optimized | 95 |
+| Panama | 93 |
 | Luxembourg | 92 |
 | NL Netherlands Streaming Optimized | 66 |
 | US Missouri | 60 |
@@ -72,8 +72,8 @@ View the IP list [here](/servers.json)
 | Costa Rica | 35 |
 | Algeria | 34 |
 | Hong Kong | 32 |
-| Mexico | 32 |
 | US South Carolina | 31 |
+| Mexico | 31 |
 | Bangladesh | 31 |
 | DK Streaming Optimized | 28 |
 | Guatemala | 28 |
