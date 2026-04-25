@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,086-blue)
+![Servers](https://img.shields.io/badge/servers-12,107-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_02:56:03_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Apr_25_03:56:14_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,34 +13,34 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 818 |
+| Netherlands | 821 |
+| US Washington DC | 617 |
 | US New York | 616 |
-| US Washington DC | 614 |
 | US Chicago | 593 |
-| US Atlanta | 580 |
+| US Atlanta | 581 |
 | US Texas | 547 |
-| US East | 492 |
-| CA Toronto | 488 |
-| CA Montreal | 473 |
-| CA Vancouver | 464 |
-| US Las Vegas | 462 |
-| US Silicon Valley | 447 |
-| US California | 437 |
+| US East | 493 |
+| CA Toronto | 487 |
+| CA Montreal | 472 |
+| CA Vancouver | 465 |
+| US Las Vegas | 461 |
+| US Silicon Valley | 450 |
+| US California | 439 |
 | US Florida | 392 |
-| Switzerland | 265 |
-| US Denver | 251 |
-| CA Ontario | 219 |
+| Switzerland | 267 |
+| US Denver | 252 |
+| CA Ontario | 220 |
 | US Houston | 169 |
-| DE Germany Streaming Optimized | 158 |
+| DE Germany Streaming Optimized | 160 |
 | US West | 144 |
 | India | 118 |
-| US East Streaming Optimized | 113 |
-| UK Streaming Optimized | 108 |
-| Bahamas | 95 |
+| US East Streaming Optimized | 114 |
+| UK Streaming Optimized | 107 |
+| Bahamas | 96 |
+| US West Streaming Optimized | 93 |
+| Panama | 92 |
 | Luxembourg | 92 |
-| US West Streaming Optimized | 92 |
-| Panama | 91 |
-| NL Netherlands Streaming Optimized | 65 |
+| NL Netherlands Streaming Optimized | 66 |
 | US Missouri | 60 |
 | CA Ontario Streaming Optimized | 60 |
 | US Baltimore | 60 |
