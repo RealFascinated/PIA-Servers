@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,100-blue)
+![Servers](https://img.shields.io/badge/servers-12,110-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_05:58:27_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_06:58:26_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,25 +13,25 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 853 |
+| Netherlands | 854 |
 | US New York | 620 |
-| US Washington DC | 617 |
-| US Chicago | 608 |
-| US Atlanta | 580 |
+| US Washington DC | 618 |
+| US Chicago | 607 |
+| US Atlanta | 582 |
 | US Texas | 545 |
 | US East | 492 |
-| CA Toronto | 491 |
-| CA Montreal | 468 |
-| CA Vancouver | 464 |
-| US Silicon Valley | 452 |
+| CA Toronto | 490 |
+| CA Montreal | 470 |
+| CA Vancouver | 462 |
+| US Silicon Valley | 455 |
 | US Las Vegas | 449 |
-| US California | 438 |
-| US Florida | 395 |
-| Switzerland | 270 |
-| US Denver | 244 |
-| CA Ontario | 223 |
-| US Houston | 173 |
-| DE Germany Streaming Optimized | 171 |
+| US California | 441 |
+| US Florida | 397 |
+| Switzerland | 271 |
+| US Denver | 243 |
+| CA Ontario | 222 |
+| US Houston | 176 |
+| DE Germany Streaming Optimized | 172 |
 | US East Streaming Optimized | 118 |
 | India | 117 |
 | US West | 114 |
@@ -73,12 +73,12 @@ View the IP list [here](/servers.json)
 | Hong Kong | 32 |
 | US South Carolina | 31 |
 | Bangladesh | 31 |
-| New Zealand | 29 |
 | DK Streaming Optimized | 28 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
+| New Zealand | 27 |
 | Macao | 26 |
 | Argentina | 26 |
 | Egypt | 26 |
@@ -96,7 +96,6 @@ View the IP list [here](/servers.json)
 | US Wyoming | 21 |
 | US Kansas | 20 |
 | US Minnesota | 20 |
-| Mexico | 20 |
 | US Mississippi | 20 |
 | US Nebraska | 20 |
 | US Oregon | 20 |
@@ -106,6 +105,7 @@ View the IP list [here](/servers.json)
 | US Montana | 20 |
 | US Alabama | 20 |
 | US Louisiana | 20 |
+| Mexico | 19 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
 | US Maine | 18 |
