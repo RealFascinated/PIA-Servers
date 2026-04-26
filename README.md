@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,146-blue)
+![Servers](https://img.shields.io/badge/servers-12,100-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_04:58:18_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_05:58:27_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 857 |
-| US New York | 623 |
-| US Washington DC | 619 |
-| US Chicago | 610 |
-| US Atlanta | 583 |
-| US Texas | 546 |
-| US East | 495 |
-| CA Toronto | 494 |
-| CA Montreal | 467 |
-| CA Vancouver | 465 |
-| US Silicon Valley | 456 |
-| US Las Vegas | 452 |
+| Netherlands | 853 |
+| US New York | 620 |
+| US Washington DC | 617 |
+| US Chicago | 608 |
+| US Atlanta | 580 |
+| US Texas | 545 |
+| US East | 492 |
+| CA Toronto | 491 |
+| CA Montreal | 468 |
+| CA Vancouver | 464 |
+| US Silicon Valley | 452 |
+| US Las Vegas | 449 |
 | US California | 438 |
-| US Florida | 398 |
+| US Florida | 395 |
 | Switzerland | 270 |
-| US Denver | 248 |
-| CA Ontario | 227 |
-| DE Germany Streaming Optimized | 174 |
-| US Houston | 174 |
+| US Denver | 244 |
+| CA Ontario | 223 |
+| US Houston | 173 |
+| DE Germany Streaming Optimized | 171 |
 | US East Streaming Optimized | 118 |
 | India | 117 |
-| US West | 115 |
+| US West | 114 |
 | UK Streaming Optimized | 112 |
 | Bahamas | 97 |
-| US West Streaming Optimized | 95 |
+| US West Streaming Optimized | 94 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -93,10 +93,10 @@ View the IP list [here](/servers.json)
 | Monaco | 22 |
 | US Alaska | 22 |
 | US Virginia | 21 |
-| Mexico | 21 |
 | US Wyoming | 21 |
 | US Kansas | 20 |
 | US Minnesota | 20 |
+| Mexico | 20 |
 | US Mississippi | 20 |
 | US Nebraska | 20 |
 | US Oregon | 20 |
