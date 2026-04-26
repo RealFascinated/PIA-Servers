@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,091-blue)
+![Servers](https://img.shields.io/badge/servers-12,073-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_07:58:37_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_08:58:37_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 853 |
-| US New York | 618 |
-| US Washington DC | 617 |
-| US Chicago | 605 |
-| US Atlanta | 580 |
-| US Texas | 545 |
-| US East | 492 |
-| CA Toronto | 489 |
+| Netherlands | 855 |
+| US New York | 616 |
+| US Washington DC | 614 |
+| US Chicago | 603 |
+| US Atlanta | 583 |
+| US Texas | 543 |
+| US East | 491 |
+| CA Toronto | 488 |
 | CA Montreal | 469 |
-| CA Vancouver | 460 |
+| CA Vancouver | 456 |
 | US Silicon Valley | 455 |
-| US Las Vegas | 448 |
+| US Las Vegas | 450 |
 | US California | 442 |
 | US Florida | 394 |
-| Switzerland | 270 |
-| US Denver | 241 |
-| CA Ontario | 222 |
-| US Houston | 177 |
-| DE Germany Streaming Optimized | 171 |
-| US East Streaming Optimized | 118 |
+| Switzerland | 269 |
+| US Denver | 242 |
+| CA Ontario | 219 |
+| US Houston | 173 |
+| DE Germany Streaming Optimized | 172 |
 | India | 117 |
-| US West | 113 |
+| US East Streaming Optimized | 117 |
 | UK Streaming Optimized | 112 |
-| Bahamas | 97 |
+| US West | 110 |
+| Bahamas | 98 |
 | US West Streaming Optimized | 95 |
 | Panama | 93 |
 | Luxembourg | 93 |
@@ -105,10 +105,10 @@ View the IP list [here](/servers.json)
 | US Montana | 20 |
 | US Alabama | 20 |
 | US Louisiana | 20 |
-| Mexico | 19 |
 | US New Mexico | 19 |
 | US North Carolina | 19 |
 | US Maine | 18 |
+| Mexico | 18 |
 | US North Dakota | 18 |
 | US Rhode Island | 18 |
 | US Seattle | 16 |
