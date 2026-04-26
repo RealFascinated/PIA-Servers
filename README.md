@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,110-blue)
+![Servers](https://img.shields.io/badge/servers-12,091-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_06:58:26_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_07:58:37_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 854 |
-| US New York | 620 |
-| US Washington DC | 618 |
-| US Chicago | 607 |
-| US Atlanta | 582 |
+| Netherlands | 853 |
+| US New York | 618 |
+| US Washington DC | 617 |
+| US Chicago | 605 |
+| US Atlanta | 580 |
 | US Texas | 545 |
 | US East | 492 |
-| CA Toronto | 490 |
-| CA Montreal | 470 |
-| CA Vancouver | 462 |
+| CA Toronto | 489 |
+| CA Montreal | 469 |
+| CA Vancouver | 460 |
 | US Silicon Valley | 455 |
-| US Las Vegas | 449 |
-| US California | 441 |
-| US Florida | 397 |
-| Switzerland | 271 |
-| US Denver | 243 |
+| US Las Vegas | 448 |
+| US California | 442 |
+| US Florida | 394 |
+| Switzerland | 270 |
+| US Denver | 241 |
 | CA Ontario | 222 |
-| US Houston | 176 |
-| DE Germany Streaming Optimized | 172 |
+| US Houston | 177 |
+| DE Germany Streaming Optimized | 171 |
 | US East Streaming Optimized | 118 |
 | India | 117 |
-| US West | 114 |
+| US West | 113 |
 | UK Streaming Optimized | 112 |
 | Bahamas | 97 |
-| US West Streaming Optimized | 94 |
+| US West Streaming Optimized | 95 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -78,9 +78,9 @@ View the IP list [here](/servers.json)
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
-| New Zealand | 27 |
 | Macao | 26 |
 | Argentina | 26 |
+| New Zealand | 26 |
 | Egypt | 26 |
 | Montenegro | 26 |
 | Armenia | 24 |
