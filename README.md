@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,083-blue)
+![Servers](https://img.shields.io/badge/servers-12,101-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_21:59:57_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_22:55:08_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,24 +13,24 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 856 |
-| US New York | 620 |
-| US Chicago | 614 |
-| US Washington DC | 603 |
-| US Atlanta | 576 |
-| US Texas | 542 |
-| CA Toronto | 498 |
+| Netherlands | 857 |
+| US New York | 622 |
+| US Chicago | 615 |
+| US Washington DC | 604 |
+| US Atlanta | 575 |
+| US Texas | 541 |
+| CA Toronto | 500 |
 | US East | 496 |
-| CA Montreal | 472 |
-| US Silicon Valley | 464 |
-| CA Vancouver | 449 |
-| US Las Vegas | 444 |
-| US California | 438 |
-| US Florida | 386 |
-| Switzerland | 268 |
+| CA Montreal | 474 |
+| US Silicon Valley | 465 |
+| CA Vancouver | 452 |
+| US Las Vegas | 446 |
+| US California | 441 |
+| US Florida | 385 |
+| Switzerland | 270 |
 | US Denver | 254 |
-| CA Ontario | 223 |
-| US Houston | 176 |
+| CA Ontario | 224 |
+| US Houston | 178 |
 | DE Germany Streaming Optimized | 174 |
 | US East Streaming Optimized | 119 |
 | India | 118 |
@@ -90,10 +90,10 @@ View the IP list [here](/servers.json)
 | Kazakhstan | 23 |
 | US Arkansas | 22 |
 | Monaco | 22 |
-| New Zealand | 22 |
 | US Alaska | 22 |
 | US Virginia | 21 |
 | US Wyoming | 21 |
+| New Zealand | 21 |
 | US Kansas | 20 |
 | US Minnesota | 20 |
 | US Mississippi | 20 |
@@ -113,8 +113,8 @@ View the IP list [here](/servers.json)
 | US Seattle | 16 |
 | AU Perth | 16 |
 | AU Brisbane | 15 |
-| Mexico | 15 |
 | South Korea | 14 |
+| Mexico | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
 | UK London | 12 |
