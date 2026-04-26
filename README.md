@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,080-blue)
+![Servers](https://img.shields.io/badge/servers-12,076-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_16:59:37_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_17:59:37_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,29 +13,29 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 850 |
-| US New York | 621 |
-| US Chicago | 614 |
-| US Washington DC | 606 |
-| US Atlanta | 580 |
+| Netherlands | 856 |
+| US New York | 619 |
+| US Chicago | 615 |
+| US Washington DC | 605 |
+| US Atlanta | 578 |
 | US Texas | 542 |
-| US East | 498 |
-| CA Toronto | 496 |
-| CA Montreal | 471 |
+| US East | 500 |
+| CA Toronto | 500 |
+| CA Montreal | 472 |
 | US Silicon Valley | 462 |
-| CA Vancouver | 452 |
-| US California | 446 |
-| US Las Vegas | 440 |
-| US Florida | 391 |
+| CA Vancouver | 448 |
+| US California | 443 |
+| US Las Vegas | 439 |
+| US Florida | 390 |
 | Switzerland | 264 |
-| US Denver | 244 |
-| CA Ontario | 220 |
-| US Houston | 174 |
-| DE Germany Streaming Optimized | 172 |
-| US East Streaming Optimized | 119 |
+| US Denver | 247 |
+| CA Ontario | 219 |
+| US Houston | 173 |
+| DE Germany Streaming Optimized | 171 |
+| US East Streaming Optimized | 118 |
 | India | 117 |
 | UK Streaming Optimized | 113 |
-| US West | 108 |
+| US West | 107 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
 | Panama | 93 |
@@ -86,11 +86,11 @@ View the IP list [here](/servers.json)
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
-| New Zealand | 24 |
 | US Idaho | 23 |
 | Kazakhstan | 23 |
 | US Arkansas | 22 |
 | Monaco | 22 |
+| New Zealand | 22 |
 | US Alaska | 22 |
 | US Virginia | 21 |
 | US Wyoming | 21 |
