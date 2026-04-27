@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,084-blue)
+![Servers](https://img.shields.io/badge/servers-12,080-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_27_09:56:09_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_27_10:56:08_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,31 +14,31 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 864 |
-| US Chicago | 616 |
-| US New York | 615 |
+| US New York | 613 |
+| US Chicago | 613 |
 | US Washington DC | 594 |
 | US Atlanta | 572 |
-| US Texas | 539 |
-| CA Toronto | 501 |
-| US East | 487 |
-| CA Montreal | 467 |
-| US Silicon Valley | 463 |
-| CA Vancouver | 446 |
+| US Texas | 542 |
+| CA Toronto | 503 |
+| US East | 486 |
+| CA Montreal | 468 |
+| US Silicon Valley | 464 |
+| CA Vancouver | 447 |
 | US California | 436 |
 | US Las Vegas | 434 |
 | US Florida | 391 |
-| Switzerland | 272 |
+| Switzerland | 270 |
 | US Denver | 257 |
-| CA Ontario | 233 |
-| US Houston | 184 |
+| CA Ontario | 232 |
+| US Houston | 185 |
 | DE Germany Streaming Optimized | 176 |
 | US East Streaming Optimized | 120 |
 | India | 118 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
-| US West | 94 |
 | Panama | 93 |
+| US West | 93 |
 | Luxembourg | 93 |
 | NL Netherlands Streaming Optimized | 66 |
 | US Missouri | 62 |
@@ -111,14 +111,14 @@ View the IP list [here](/servers.json)
 | US Rhode Island | 18 |
 | US Seattle | 16 |
 | AU Perth | 16 |
-| New Zealand | 16 |
 | AU Brisbane | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
+| New Zealand | 14 |
 | Mongolia | 12 |
-| Mexico | 12 |
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
+| Mexico | 11 |
 | Sri Lanka | 11 |
 | Estonia | 8 |
 | Singapore | 7 |
