@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,148-blue)
+![Servers](https://img.shields.io/badge/servers-12,105-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_27_20:55:44_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Apr_27_21:56:03_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 871 |
-| US New York | 616 |
-| US Chicago | 610 |
-| US Washington DC | 594 |
+| Netherlands | 867 |
+| US New York | 612 |
+| US Chicago | 607 |
+| US Washington DC | 591 |
 | US Atlanta | 583 |
 | US Texas | 547 |
-| CA Toronto | 507 |
-| US East | 488 |
-| CA Montreal | 474 |
-| US Silicon Valley | 470 |
-| CA Vancouver | 448 |
-| US California | 442 |
-| US Las Vegas | 432 |
-| US Florida | 396 |
+| CA Toronto | 502 |
+| US East | 487 |
+| CA Montreal | 471 |
+| US Silicon Valley | 469 |
+| CA Vancouver | 446 |
+| US California | 438 |
+| US Las Vegas | 429 |
+| US Florida | 395 |
 | Switzerland | 278 |
-| US Denver | 260 |
+| US Denver | 259 |
 | CA Ontario | 240 |
-| US Houston | 192 |
+| US Houston | 191 |
 | DE Germany Streaming Optimized | 179 |
 | US East Streaming Optimized | 120 |
-| India | 114 |
 | UK Streaming Optimized | 113 |
+| India | 109 |
 | Bahamas | 98 |
-| US West Streaming Optimized | 96 |
+| US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| US West | 88 |
+| US West | 87 |
 | NL Netherlands Streaming Optimized | 66 |
 | US Missouri | 62 |
 | US Baltimore | 62 |
@@ -114,12 +114,12 @@ View the IP list [here](/servers.json)
 | AU Brisbane | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
-| New Zealand | 13 |
 | Mongolia | 12 |
 | UK London | 12 |
+| New Zealand | 12 |
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
-| Mexico | 10 |
+| Mexico | 9 |
 | Estonia | 8 |
 | Singapore | 7 |
 | France | 7 |
