@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,101-blue)
+![Servers](https://img.shields.io/badge/servers-12,100-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_22:55:08_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Apr_26_23:55:07_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,29 +13,29 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 857 |
-| US New York | 622 |
-| US Chicago | 615 |
-| US Washington DC | 604 |
-| US Atlanta | 575 |
+| Netherlands | 859 |
+| US New York | 623 |
+| US Chicago | 614 |
+| US Washington DC | 605 |
+| US Atlanta | 573 |
 | US Texas | 541 |
-| CA Toronto | 500 |
-| US East | 496 |
-| CA Montreal | 474 |
+| CA Toronto | 502 |
+| US East | 497 |
+| CA Montreal | 473 |
 | US Silicon Valley | 465 |
-| CA Vancouver | 452 |
-| US Las Vegas | 446 |
-| US California | 441 |
-| US Florida | 385 |
-| Switzerland | 270 |
-| US Denver | 254 |
-| CA Ontario | 224 |
+| CA Vancouver | 450 |
+| US Las Vegas | 444 |
+| US California | 440 |
+| US Florida | 388 |
+| Switzerland | 271 |
+| US Denver | 253 |
+| CA Ontario | 223 |
 | US Houston | 178 |
-| DE Germany Streaming Optimized | 174 |
+| DE Germany Streaming Optimized | 175 |
 | US East Streaming Optimized | 119 |
 | India | 118 |
 | UK Streaming Optimized | 113 |
-| US West | 103 |
+| US West | 102 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
 | Panama | 93 |
@@ -93,7 +93,6 @@ View the IP list [here](/servers.json)
 | US Alaska | 22 |
 | US Virginia | 21 |
 | US Wyoming | 21 |
-| New Zealand | 21 |
 | US Kansas | 20 |
 | US Minnesota | 20 |
 | US Mississippi | 20 |
@@ -103,6 +102,7 @@ View the IP list [here](/servers.json)
 | US Oklahoma | 20 |
 | US Vermont | 20 |
 | US Montana | 20 |
+| New Zealand | 20 |
 | US Alabama | 20 |
 | US Louisiana | 20 |
 | US New Mexico | 19 |
