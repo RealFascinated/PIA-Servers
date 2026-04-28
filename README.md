@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,206-blue)
+![Servers](https://img.shields.io/badge/servers-12,179-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_28_05:55:57_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Apr_28_06:56:13_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 872 |
+| Netherlands | 874 |
 | US New York | 624 |
-| US Chicago | 619 |
-| US Washington DC | 596 |
-| US Atlanta | 593 |
-| US Texas | 546 |
+| US Chicago | 613 |
+| US Washington DC | 593 |
+| US Atlanta | 591 |
+| US Texas | 543 |
 | CA Toronto | 507 |
 | US East | 491 |
-| CA Montreal | 474 |
-| US Silicon Valley | 471 |
-| CA Vancouver | 460 |
+| CA Montreal | 471 |
+| US Silicon Valley | 469 |
+| CA Vancouver | 461 |
 | US Las Vegas | 443 |
 | US California | 441 |
 | US Florida | 400 |
-| Switzerland | 283 |
-| US Denver | 264 |
-| CA Ontario | 246 |
+| Switzerland | 282 |
+| US Denver | 263 |
+| CA Ontario | 242 |
 | US Houston | 193 |
 | DE Germany Streaming Optimized | 180 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
-| India | 104 |
+| India | 101 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| US West | 84 |
+| US West | 83 |
 | NL Netherlands Streaming Optimized | 66 |
 | US Missouri | 62 |
 | US Baltimore | 62 |
@@ -118,7 +118,7 @@ View the IP list [here](/servers.json)
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
-| New Zealand | 10 |
+| New Zealand | 9 |
 | Estonia | 8 |
 | Mexico | 8 |
 | Singapore | 7 |
