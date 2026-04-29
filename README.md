@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,144-blue)
+![Servers](https://img.shields.io/badge/servers-12,115-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_29_06:56:10_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_29_07:56:26_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,24 +13,24 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 876 |
+| Netherlands | 872 |
 | US New York | 626 |
-| US Chicago | 612 |
-| US Atlanta | 588 |
-| US Washington DC | 582 |
-| US Texas | 541 |
-| CA Toronto | 511 |
-| US East | 486 |
-| CA Vancouver | 465 |
+| US Chicago | 611 |
+| US Atlanta | 590 |
+| US Washington DC | 579 |
+| US Texas | 540 |
+| CA Toronto | 509 |
+| US East | 487 |
+| CA Vancouver | 464 |
 | CA Montreal | 460 |
-| US Silicon Valley | 458 |
-| US Las Vegas | 444 |
+| US Silicon Valley | 455 |
+| US Las Vegas | 441 |
 | US California | 435 |
-| US Florida | 393 |
-| Switzerland | 283 |
+| US Florida | 391 |
+| Switzerland | 282 |
 | US Denver | 260 |
 | CA Ontario | 253 |
-| US Houston | 194 |
+| US Houston | 193 |
 | DE Germany Streaming Optimized | 182 |
 | US East Streaming Optimized | 120 |
 | UK Streaming Optimized | 113 |
@@ -39,7 +39,7 @@ View the IP list [here](/servers.json)
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| US West | 74 |
+| US West | 73 |
 | NL Netherlands Streaming Optimized | 66 |
 | US Missouri | 62 |
 | US Baltimore | 62 |
@@ -110,14 +110,14 @@ View the IP list [here](/servers.json)
 | US New Mexico | 19 |
 | US Rhode Island | 18 |
 | US Seattle | 16 |
-| AU Perth | 16 |
-| AU Brisbane | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
+| AU Brisbane | 12 |
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
+| AU Perth | 10 |
 | Estonia | 8 |
 | Singapore | 7 |
 | Mexico | 7 |
