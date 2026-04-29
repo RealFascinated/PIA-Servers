@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,124-blue)
+![Servers](https://img.shields.io/badge/servers-12,111-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_29_09:56:31_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_29_10:56:30_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,24 +13,24 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 875 |
-| US New York | 625 |
-| US Chicago | 611 |
-| US Atlanta | 585 |
-| US Washington DC | 581 |
-| US Texas | 539 |
+| Netherlands | 876 |
+| US New York | 626 |
+| US Chicago | 609 |
+| US Atlanta | 586 |
+| US Washington DC | 580 |
+| US Texas | 541 |
 | CA Toronto | 509 |
-| US East | 488 |
-| CA Vancouver | 464 |
-| US Silicon Valley | 461 |
-| CA Montreal | 461 |
-| US Las Vegas | 445 |
-| US California | 435 |
-| US Florida | 394 |
-| Switzerland | 281 |
+| US East | 489 |
+| CA Vancouver | 465 |
+| CA Montreal | 464 |
+| US Silicon Valley | 460 |
+| US Las Vegas | 447 |
+| US California | 431 |
+| US Florida | 395 |
+| Switzerland | 279 |
 | US Denver | 258 |
-| CA Ontario | 252 |
-| US Houston | 193 |
+| CA Ontario | 250 |
+| US Houston | 194 |
 | DE Germany Streaming Optimized | 181 |
 | US East Streaming Optimized | 120 |
 | India | 115 |
@@ -113,11 +113,9 @@ View the IP list [here](/servers.json)
 | South Korea | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
-| AU Brisbane | 12 |
 | UK London | 12 |
 | SE Streaming Optimized | 11 |
 | Sri Lanka | 11 |
-| AU Perth | 10 |
 | Estonia | 8 |
 | Singapore | 7 |
 | Mexico | 7 |
@@ -130,6 +128,7 @@ View the IP list [here](/servers.json)
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
+| AU Brisbane | 5 |
 | ES Madrid | 5 |
 | Belgium | 5 |
 | Latvia | 5 |
@@ -166,6 +165,7 @@ View the IP list [here](/servers.json)
 | Colombia | 2 |
 | US Honolulu | 2 |
 | Norway | 2 |
+| AU Perth | 2 |
 | Slovakia | 2 |
 | North Macedonia | 2 |
 | US Massachusetts | 2 |
