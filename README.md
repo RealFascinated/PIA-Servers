@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-12,151-blue)
+![Servers](https://img.shields.io/badge/servers-12,124-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_29_08:56:21_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Apr_29_09:56:31_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 876 |
-| US New York | 627 |
-| US Chicago | 615 |
-| US Atlanta | 590 |
+| Netherlands | 875 |
+| US New York | 625 |
+| US Chicago | 611 |
+| US Atlanta | 585 |
 | US Washington DC | 581 |
-| US Texas | 542 |
-| CA Toronto | 512 |
-| US East | 489 |
-| CA Vancouver | 465 |
+| US Texas | 539 |
+| CA Toronto | 509 |
+| US East | 488 |
+| CA Vancouver | 464 |
+| US Silicon Valley | 461 |
 | CA Montreal | 461 |
-| US Silicon Valley | 459 |
-| US Las Vegas | 446 |
+| US Las Vegas | 445 |
 | US California | 435 |
-| US Florida | 396 |
-| Switzerland | 283 |
-| US Denver | 260 |
-| CA Ontario | 253 |
+| US Florida | 394 |
+| Switzerland | 281 |
+| US Denver | 258 |
+| CA Ontario | 252 |
 | US Houston | 193 |
-| DE Germany Streaming Optimized | 182 |
+| DE Germany Streaming Optimized | 181 |
 | US East Streaming Optimized | 120 |
-| India | 113 |
+| India | 115 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
@@ -128,7 +128,6 @@ View the IP list [here](/servers.json)
 | DE Berlin | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
-| New Zealand | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
 | ES Madrid | 5 |
@@ -137,6 +136,7 @@ View the IP list [here](/servers.json)
 | Poland | 4 |
 | United Arab Emirates | 4 |
 | Bulgaria | 4 |
+| New Zealand | 4 |
 | US Salt Lake City | 4 |
 | Albania | 3 |
 | Saudi Arabia | 3 |
