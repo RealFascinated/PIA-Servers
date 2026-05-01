@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,933-blue)
+![Servers](https://img.shields.io/badge/servers-11,947-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_01_07:55:39_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_01_08:55:35_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 850 |
-| US New York | 611 |
+| Netherlands | 852 |
+| US New York | 610 |
 | US Chicago | 602 |
-| US Atlanta | 583 |
-| US Washington DC | 563 |
-| US Texas | 513 |
-| CA Toronto | 497 |
-| US East | 477 |
-| CA Vancouver | 462 |
+| US Atlanta | 581 |
+| US Washington DC | 560 |
+| US Texas | 517 |
+| CA Toronto | 501 |
+| US East | 478 |
+| CA Vancouver | 460 |
 | US Silicon Valley | 456 |
-| CA Montreal | 445 |
-| US Las Vegas | 444 |
-| US California | 418 |
+| US Las Vegas | 446 |
+| CA Montreal | 446 |
+| US California | 420 |
 | US Florida | 393 |
-| Switzerland | 278 |
+| Switzerland | 279 |
 | US Denver | 270 |
-| CA Ontario | 245 |
-| US Houston | 193 |
-| DE Germany Streaming Optimized | 183 |
+| CA Ontario | 246 |
+| US Houston | 194 |
+| DE Germany Streaming Optimized | 184 |
 | US East Streaming Optimized | 120 |
-| India | 116 |
+| India | 117 |
 | UK Streaming Optimized | 113 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
@@ -125,13 +125,13 @@ View the IP list [here](/servers.json)
 | AU Melbourne | 7 |
 | US Salt Lake City | 7 |
 | DE Berlin | 6 |
+| IT Milano | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
 | AU Brisbane | 5 |
 | ES Madrid | 5 |
 | Belgium | 5 |
-| IT Milano | 5 |
 | Latvia | 5 |
 | Poland | 4 |
 | United Arab Emirates | 4 |
