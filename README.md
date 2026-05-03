@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,927-blue)
+![Servers](https://img.shields.io/badge/servers-11,923-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_May_03_08:56:35_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_May_03_09:56:36_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -16,16 +16,16 @@ View the IP list [here](/servers.json)
 | Netherlands | 858 |
 | US New York | 602 |
 | US Chicago | 589 |
-| US Atlanta | 586 |
-| US Washington DC | 572 |
+| US Atlanta | 584 |
+| US Washington DC | 570 |
 | US Texas | 521 |
 | CA Toronto | 514 |
-| US East | 491 |
+| US East | 493 |
 | US Las Vegas | 470 |
 | US Silicon Valley | 456 |
 | CA Vancouver | 455 |
 | CA Montreal | 442 |
-| US California | 402 |
+| US California | 401 |
 | US Florida | 375 |
 | US Denver | 267 |
 | Switzerland | 264 |
@@ -60,9 +60,9 @@ View the IP list [here](/servers.json)
 | US Ohio | 43 |
 | US Michigan | 42 |
 | Liechtenstein | 41 |
-| US West | 40 |
 | US West Virginia | 40 |
 | US Wisconsin | 40 |
+| US West | 39 |
 | Turkey | 38 |
 | Morocco | 38 |
 | Malta | 37 |
