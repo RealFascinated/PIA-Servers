@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,477-blue)
+![Servers](https://img.shields.io/badge/servers-11,405-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_May_05_02:55:43_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_May_05_03:55:54_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,23 +13,23 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 843 |
-| US Atlanta | 582 |
-| US New York | 567 |
-| US Chicago | 562 |
-| US Washington DC | 541 |
+| Netherlands | 841 |
+| US Atlanta | 576 |
+| US New York | 568 |
+| US Chicago | 555 |
+| US Washington DC | 536 |
 | US Texas | 510 |
-| CA Toronto | 509 |
+| CA Toronto | 507 |
 | US East | 476 |
-| US Las Vegas | 461 |
-| CA Vancouver | 444 |
-| US Silicon Valley | 443 |
-| CA Montreal | 432 |
-| US California | 390 |
-| US Florida | 368 |
-| US Denver | 267 |
+| US Las Vegas | 458 |
+| CA Vancouver | 443 |
+| US Silicon Valley | 440 |
+| CA Montreal | 431 |
+| US California | 389 |
+| US Florida | 366 |
+| US Denver | 268 |
 | Switzerland | 258 |
-| CA Ontario | 238 |
+| CA Ontario | 237 |
 | US Houston | 193 |
 | DE Germany Streaming Optimized | 184 |
 | US East Streaming Optimized | 120 |
@@ -38,83 +38,83 @@ View the IP list [here](/servers.json)
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
 | Panama | 93 |
-| Luxembourg | 93 |
+| Luxembourg | 92 |
 | NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 59 |
 | US Missouri | 59 |
-| US Baltimore | 59 |
 | Ukraine | 58 |
-| Ecuador | 57 |
-| US Pennsylvania | 57 |
+| US Baltimore | 58 |
+| Ecuador | 56 |
 | Uruguay | 56 |
+| US Pennsylvania | 56 |
 | US Wilmington | 55 |
 | Austria | 55 |
-| Lithuania | 54 |
-| US Connecticut | 52 |
+| Lithuania | 55 |
+| US Connecticut | 51 |
 | Andorra | 48 |
-| Vietnam | 43 |
+| Taiwan | 45 |
 | US Iowa | 43 |
-| Taiwan | 43 |
-| Isle OF Man | 41 |
-| US Michigan | 41 |
-| US Ohio | 40 |
+| Vietnam | 42 |
+| Isle OF Man | 42 |
 | Liechtenstein | 40 |
-| US Wisconsin | 40 |
+| US Michigan | 40 |
+| US West Virginia | 39 |
+| US Wisconsin | 39 |
+| US Ohio | 38 |
 | Turkey | 38 |
-| US West Virginia | 38 |
 | Morocco | 37 |
 | Malta | 37 |
 | US West | 36 |
-| Chile | 36 |
-| Algeria | 33 |
+| Chile | 35 |
+| Costa Rica | 33 |
 | Philippines | 32 |
-| Costa Rica | 32 |
-| Hong Kong | 31 |
+| Algeria | 32 |
+| Hong Kong | 32 |
 | US South Carolina | 30 |
 | Bangladesh | 30 |
 | DK Streaming Optimized | 28 |
 | FI Streaming Optimized | 27 |
 | Guatemala | 26 |
 | Peru | 26 |
-| Armenia | 24 |
-| Cyprus | 24 |
 | Argentina | 24 |
+| Armenia | 23 |
+| Cyprus | 23 |
+| Macao | 23 |
 | Montenegro | 23 |
 | Bolivia | 23 |
-| Cambodia | 22 |
-| Macao | 22 |
 | Kazakhstan | 22 |
-| Bosnia And Herzegovina | 21 |
-| US Virginia | 20 |
-| Monaco | 20 |
-| US Oklahoma | 19 |
+| Cambodia | 21 |
+| Monaco | 21 |
+| Bosnia And Herzegovina | 20 |
+| US Virginia | 19 |
 | Egypt | 19 |
-| US Idaho | 18 |
-| US Oregon | 18 |
-| US Rhode Island | 18 |
-| US South Dakota | 18 |
-| US Wyoming | 18 |
-| US Arkansas | 17 |
+| US Oklahoma | 18 |
+| US Oregon | 17 |
+| US Rhode Island | 17 |
+| US Wyoming | 17 |
 | US Vermont | 17 |
 | US Seattle | 16 |
-| US Minnesota | 16 |
 | US New Mexico | 16 |
-| US Mississippi | 15 |
-| US North Carolina | 15 |
+| US South Dakota | 16 |
+| US Arkansas | 15 |
+| US Idaho | 15 |
+| US Minnesota | 15 |
 | Nepal | 14 |
 | South Korea | 13 |
-| US Kansas | 13 |
-| US Nebraska | 13 |
-| US Maine | 12 |
-| Mongolia | 12 |
-| US Alaska | 12 |
+| US Mississippi | 13 |
+| Mongolia | 11 |
+| US Nebraska | 11 |
 | UK London | 11 |
-| US North Dakota | 11 |
+| US North Carolina | 11 |
 | Sri Lanka | 11 |
-| US Montana | 11 |
-| US Alabama | 11 |
-| US Louisiana | 11 |
+| US Alaska | 11 |
+| US Kansas | 10 |
+| US Maine | 10 |
+| US North Dakota | 10 |
+| US Montana | 10 |
+| US Alabama | 10 |
+| US Louisiana | 9 |
 | Estonia | 8 |
 | Singapore | 7 |
 | Mexico | 7 |
