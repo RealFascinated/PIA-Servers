@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,251-blue)
+![Servers](https://img.shields.io/badge/servers-10,260-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_13:58:13_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_14:58:24_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 794 |
-| US Atlanta | 566 |
-| US Chicago | 510 |
+| Netherlands | 796 |
+| US Atlanta | 565 |
 | US New York | 509 |
-| US Washington DC | 499 |
-| CA Toronto | 488 |
-| US Texas | 474 |
-| US Las Vegas | 449 |
-| US East | 445 |
-| CA Vancouver | 421 |
-| CA Montreal | 415 |
-| US Silicon Valley | 411 |
+| US Chicago | 509 |
+| US Washington DC | 503 |
+| CA Toronto | 489 |
+| US Texas | 477 |
+| US Las Vegas | 450 |
+| US East | 448 |
+| CA Montreal | 418 |
+| CA Vancouver | 417 |
+| US Silicon Valley | 413 |
 | US California | 388 |
 | US Florida | 341 |
-| Switzerland | 248 |
 | US Denver | 248 |
+| Switzerland | 246 |
 | CA Ontario | 216 |
-| DE Germany Streaming Optimized | 165 |
-| US Houston | 165 |
+| US Houston | 167 |
+| DE Germany Streaming Optimized | 161 |
 | India | 112 |
-| UK Streaming Optimized | 107 |
+| UK Streaming Optimized | 105 |
 | US East Streaming Optimized | 102 |
 | Bahamas | 92 |
-| US West Streaming Optimized | 90 |
-| Panama | 89 |
+| Panama | 90 |
+| US West Streaming Optimized | 89 |
 | Luxembourg | 85 |
 | NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
@@ -65,12 +65,12 @@ View the IP list [here](/servers.json)
 | Peru | 28 |
 | Bolivia | 28 |
 | US South Carolina | 26 |
+| Bosnia And Herzegovina | 26 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
-| Bosnia And Herzegovina | 24 |
 | US Virginia | 23 |
 | US Wyoming | 23 |
 | Kazakhstan | 23 |
