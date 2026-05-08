@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,247-blue)
+![Servers](https://img.shields.io/badge/servers-10,294-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_09:57:56_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_10:57:52_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,31 +14,31 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 794 |
-| US Atlanta | 564 |
-| US New York | 511 |
-| US Chicago | 507 |
-| US Washington DC | 504 |
-| CA Toronto | 487 |
-| US Texas | 469 |
-| US Las Vegas | 451 |
+| US Atlanta | 566 |
+| US New York | 515 |
+| US Chicago | 513 |
+| US Washington DC | 503 |
+| CA Toronto | 488 |
+| US Texas | 474 |
+| US Las Vegas | 452 |
 | US East | 447 |
-| CA Vancouver | 419 |
-| CA Montreal | 414 |
-| US Silicon Valley | 409 |
-| US California | 390 |
-| US Florida | 340 |
-| US Denver | 250 |
-| Switzerland | 244 |
-| CA Ontario | 216 |
-| DE Germany Streaming Optimized | 166 |
-| US Houston | 166 |
+| CA Vancouver | 421 |
+| CA Montreal | 416 |
+| US Silicon Valley | 415 |
+| US California | 391 |
+| US Florida | 341 |
+| US Denver | 254 |
+| Switzerland | 248 |
+| CA Ontario | 218 |
+| DE Germany Streaming Optimized | 167 |
+| US Houston | 167 |
 | India | 111 |
 | UK Streaming Optimized | 108 |
-| US East Streaming Optimized | 105 |
-| Bahamas | 90 |
+| US East Streaming Optimized | 107 |
+| Bahamas | 91 |
 | US West Streaming Optimized | 90 |
-| Panama | 87 |
-| Luxembourg | 83 |
+| Panama | 89 |
+| Luxembourg | 85 |
 | NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 59 |
@@ -82,20 +82,20 @@ View the IP list [here](/servers.json)
 | US Rhode Island | 20 |
 | US New Mexico | 19 |
 | US Seattle | 16 |
-| US Pennsylvania | 15 |
 | South Korea | 14 |
+| US Pennsylvania | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 11 |
 | Estonia | 8 |
-| Singapore | 7 |
 | Mexico | 7 |
 | France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
+| Singapore | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
