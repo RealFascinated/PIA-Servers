@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,276-blue)
+![Servers](https://img.shields.io/badge/servers-10,290-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_May_07_23:56:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_00:56:40_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 799 |
-| US Atlanta | 568 |
-| US Chicago | 507 |
+| Netherlands | 800 |
+| US Atlanta | 572 |
+| US Chicago | 508 |
 | US Washington DC | 506 |
 | US New York | 505 |
-| CA Toronto | 490 |
-| US Texas | 475 |
+| CA Toronto | 491 |
+| US Texas | 478 |
 | US East | 451 |
 | US Las Vegas | 449 |
-| CA Montreal | 419 |
-| CA Vancouver | 418 |
+| CA Vancouver | 421 |
+| CA Montreal | 420 |
 | US Silicon Valley | 402 |
-| US California | 386 |
+| US California | 387 |
 | US Florida | 336 |
-| US Denver | 253 |
-| Switzerland | 250 |
-| CA Ontario | 226 |
-| US Houston | 173 |
-| DE Germany Streaming Optimized | 167 |
+| US Denver | 254 |
+| Switzerland | 248 |
+| CA Ontario | 227 |
+| US Houston | 170 |
+| DE Germany Streaming Optimized | 166 |
+| US East Streaming Optimized | 111 |
 | India | 110 |
-| US East Streaming Optimized | 110 |
 | UK Streaming Optimized | 100 |
 | US West Streaming Optimized | 94 |
+| Bahamas | 90 |
 | Panama | 89 |
-| Bahamas | 88 |
 | Luxembourg | 86 |
 | NL Netherlands Streaming Optimized | 64 |
 | CA Ontario Streaming Optimized | 60 |
-| Ukraine | 57 |
+| Ukraine | 58 |
 | Ecuador | 57 |
 | Lithuania | 55 |
 | Uruguay | 55 |
 | Austria | 54 |
-| Venezuela | 48 |
+| Venezuela | 49 |
 | Andorra | 48 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
@@ -95,7 +95,6 @@ View the IP list [here](/servers.json)
 | UK Southampton | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
-| US Missouri | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
 | IT Milano | 6 |
@@ -106,6 +105,7 @@ View the IP list [here](/servers.json)
 | ES Madrid | 5 |
 | Belgium | 5 |
 | Latvia | 5 |
+| US Missouri | 5 |
 | Poland | 4 |
 | US New Hampshire | 4 |
 | United Arab Emirates | 4 |
