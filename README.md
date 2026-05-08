@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,297-blue)
+![Servers](https://img.shields.io/badge/servers-10,293-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_01:56:50_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_02:56:59_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 801 |
-| US Atlanta | 572 |
+| Netherlands | 803 |
+| US Atlanta | 570 |
 | US Chicago | 508 |
-| US Washington DC | 507 |
-| US New York | 503 |
-| CA Toronto | 490 |
-| US Texas | 476 |
+| US Washington DC | 508 |
+| US New York | 502 |
+| CA Toronto | 489 |
+| US Texas | 475 |
 | US East | 452 |
-| US Las Vegas | 447 |
+| US Las Vegas | 446 |
 | CA Vancouver | 420 |
-| CA Montreal | 420 |
-| US Silicon Valley | 403 |
-| US California | 387 |
-| US Florida | 336 |
-| US Denver | 254 |
-| Switzerland | 249 |
+| CA Montreal | 418 |
+| US Silicon Valley | 404 |
+| US California | 388 |
+| US Florida | 337 |
+| US Denver | 253 |
+| Switzerland | 250 |
 | CA Ontario | 224 |
 | US Houston | 172 |
 | DE Germany Streaming Optimized | 167 |
 | India | 111 |
 | US East Streaming Optimized | 111 |
-| UK Streaming Optimized | 104 |
-| US West Streaming Optimized | 94 |
-| Bahamas | 93 |
-| Panama | 90 |
-| Luxembourg | 85 |
-| NL Netherlands Streaming Optimized | 64 |
+| UK Streaming Optimized | 106 |
+| US West Streaming Optimized | 93 |
+| Bahamas | 91 |
+| Panama | 89 |
+| Luxembourg | 86 |
+| NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 58 |
 | Ecuador | 57 |
 | Lithuania | 55 |
-| Uruguay | 55 |
 | Austria | 54 |
-| Venezuela | 51 |
+| Uruguay | 54 |
+| Venezuela | 52 |
 | Andorra | 48 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
