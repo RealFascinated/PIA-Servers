@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,268-blue)
+![Servers](https://img.shields.io/badge/servers-10,230-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_11:58:02_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_12:58:18_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,32 +14,32 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 793 |
-| US Atlanta | 568 |
-| US New York | 513 |
-| US Chicago | 510 |
-| US Washington DC | 501 |
-| CA Toronto | 486 |
-| US Texas | 473 |
-| US Las Vegas | 453 |
-| US East | 444 |
+| US Atlanta | 566 |
+| US Chicago | 511 |
+| US New York | 508 |
+| US Washington DC | 500 |
+| CA Toronto | 485 |
+| US Texas | 472 |
+| US Las Vegas | 450 |
+| US East | 442 |
 | CA Vancouver | 420 |
-| CA Montreal | 416 |
-| US Silicon Valley | 411 |
-| US California | 391 |
-| US Florida | 341 |
-| US Denver | 249 |
-| Switzerland | 247 |
-| CA Ontario | 216 |
-| DE Germany Streaming Optimized | 169 |
-| US Houston | 166 |
-| India | 111 |
-| UK Streaming Optimized | 110 |
+| CA Montreal | 414 |
+| US Silicon Valley | 410 |
+| US California | 389 |
+| US Florida | 340 |
+| US Denver | 247 |
+| Switzerland | 245 |
+| CA Ontario | 214 |
+| US Houston | 165 |
+| DE Germany Streaming Optimized | 164 |
+| India | 112 |
+| UK Streaming Optimized | 107 |
 | US East Streaming Optimized | 104 |
-| Bahamas | 91 |
-| Panama | 89 |
-| US West Streaming Optimized | 88 |
+| Bahamas | 90 |
+| US West Streaming Optimized | 89 |
+| Panama | 88 |
 | Luxembourg | 84 |
-| NL Netherlands Streaming Optimized | 66 |
+| NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 59 |
 | Ecuador | 56 |
