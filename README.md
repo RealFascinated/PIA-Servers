@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,305-blue)
+![Servers](https://img.shields.io/badge/servers-10,265-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_05:57:19_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_06:57:38_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 803 |
-| US Atlanta | 570 |
+| Netherlands | 800 |
+| US Atlanta | 571 |
 | US New York | 510 |
-| US Chicago | 510 |
-| US Washington DC | 505 |
-| CA Toronto | 491 |
-| US Texas | 475 |
-| US East | 448 |
-| US Las Vegas | 447 |
+| US Chicago | 506 |
+| US Washington DC | 504 |
+| CA Toronto | 487 |
+| US Texas | 472 |
+| US Las Vegas | 446 |
+| US East | 446 |
 | CA Vancouver | 419 |
-| CA Montreal | 416 |
-| US Silicon Valley | 408 |
+| CA Montreal | 414 |
+| US Silicon Valley | 407 |
 | US California | 389 |
 | US Florida | 337 |
-| US Denver | 253 |
-| Switzerland | 249 |
-| CA Ontario | 220 |
-| US Houston | 172 |
-| DE Germany Streaming Optimized | 168 |
-| India | 112 |
-| US East Streaming Optimized | 111 |
+| US Denver | 252 |
+| Switzerland | 245 |
+| CA Ontario | 219 |
+| US Houston | 169 |
+| DE Germany Streaming Optimized | 166 |
+| India | 110 |
+| US East Streaming Optimized | 109 |
 | UK Streaming Optimized | 109 |
-| Bahamas | 93 |
-| US West Streaming Optimized | 93 |
-| Panama | 89 |
+| US West Streaming Optimized | 92 |
+| Bahamas | 91 |
+| Panama | 88 |
 | Luxembourg | 85 |
 | NL Netherlands Streaming Optimized | 64 |
 | CA Ontario Streaming Optimized | 60 |
@@ -133,7 +133,6 @@ View the IP list [here](/servers.json)
 | US Salt Lake City | 3 |
 | Qatar | 3 |
 | China | 3 |
-| US Baltimore | 3 |
 | Ireland | 3 |
 | AU Adelaide | 2 |
 | Moldova | 2 |
@@ -176,6 +175,7 @@ View the IP list [here](/servers.json)
 | US Alabama | 2 |
 | Egypt | 2 |
 | US Connecticut | 2 |
+| US Baltimore | 2 |
 | Israel | 2 |
 | US Alaska | 2 |
 | US Louisiana | 2 |
