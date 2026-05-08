@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,293-blue)
+![Servers](https://img.shields.io/badge/servers-10,280-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_02:56:59_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_03:57:09_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,22 +13,22 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 803 |
+| Netherlands | 802 |
 | US Atlanta | 570 |
-| US Chicago | 508 |
-| US Washington DC | 508 |
-| US New York | 502 |
-| CA Toronto | 489 |
-| US Texas | 475 |
-| US East | 452 |
+| US Chicago | 509 |
+| US Washington DC | 507 |
+| US New York | 503 |
+| CA Toronto | 488 |
+| US Texas | 473 |
+| US East | 451 |
 | US Las Vegas | 446 |
-| CA Vancouver | 420 |
-| CA Montreal | 418 |
+| CA Vancouver | 418 |
+| CA Montreal | 417 |
 | US Silicon Valley | 404 |
-| US California | 388 |
-| US Florida | 337 |
+| US California | 389 |
+| US Florida | 335 |
 | US Denver | 253 |
-| Switzerland | 250 |
+| Switzerland | 248 |
 | CA Ontario | 224 |
 | US Houston | 172 |
 | DE Germany Streaming Optimized | 167 |
@@ -38,7 +38,7 @@ View the IP list [here](/servers.json)
 | US West Streaming Optimized | 93 |
 | Bahamas | 91 |
 | Panama | 89 |
-| Luxembourg | 86 |
+| Luxembourg | 85 |
 | NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 58 |
@@ -92,7 +92,6 @@ View the IP list [here](/servers.json)
 | Singapore | 7 |
 | Mexico | 7 |
 | France | 7 |
-| UK Southampton | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
@@ -104,6 +103,7 @@ View the IP list [here](/servers.json)
 | AU Brisbane | 5 |
 | ES Madrid | 5 |
 | Belgium | 5 |
+| UK Southampton | 5 |
 | Latvia | 5 |
 | US Missouri | 5 |
 | Poland | 4 |
