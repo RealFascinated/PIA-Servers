@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,220-blue)
+![Servers](https://img.shields.io/badge/servers-10,266-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_15:58:34_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_08_16:58:34_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,35 +14,35 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 793 |
-| US Atlanta | 560 |
-| US New York | 507 |
-| US Chicago | 505 |
-| US Washington DC | 500 |
-| CA Toronto | 489 |
-| US Texas | 476 |
-| US Las Vegas | 449 |
-| US East | 445 |
-| CA Vancouver | 416 |
-| CA Montreal | 415 |
-| US Silicon Valley | 412 |
+| US Atlanta | 563 |
+| US New York | 509 |
+| US Chicago | 507 |
+| US Washington DC | 499 |
+| CA Toronto | 491 |
+| US Texas | 478 |
+| US East | 452 |
+| US Las Vegas | 450 |
+| CA Montreal | 420 |
+| CA Vancouver | 419 |
+| US Silicon Valley | 414 |
 | US California | 388 |
-| US Florida | 340 |
+| US Florida | 341 |
+| US Denver | 246 |
 | Switzerland | 245 |
-| US Denver | 245 |
-| CA Ontario | 217 |
-| US Houston | 161 |
-| DE Germany Streaming Optimized | 158 |
-| India | 111 |
-| UK Streaming Optimized | 105 |
-| US East Streaming Optimized | 102 |
+| CA Ontario | 219 |
+| US Houston | 164 |
+| DE Germany Streaming Optimized | 160 |
+| India | 112 |
+| UK Streaming Optimized | 108 |
+| US East Streaming Optimized | 105 |
 | Bahamas | 92 |
 | Panama | 90 |
 | US West Streaming Optimized | 88 |
 | Luxembourg | 86 |
-| NL Netherlands Streaming Optimized | 63 |
+| NL Netherlands Streaming Optimized | 64 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 59 |
-| Venezuela | 56 |
+| Venezuela | 57 |
 | Ecuador | 56 |
 | Uruguay | 56 |
 | Austria | 55 |
