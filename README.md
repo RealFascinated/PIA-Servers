@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,320-blue)
+![Servers](https://img.shields.io/badge/servers-10,328-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_May_09_07:55:17_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_May_09_08:55:27_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 785 |
-| US Atlanta | 553 |
-| US New York | 530 |
+| Netherlands | 786 |
+| US Atlanta | 555 |
+| US New York | 528 |
 | US Chicago | 519 |
 | US Washington DC | 498 |
-| CA Toronto | 492 |
-| US Texas | 475 |
-| US East | 449 |
+| CA Toronto | 495 |
+| US Texas | 478 |
+| US East | 451 |
 | US Las Vegas | 445 |
-| CA Montreal | 426 |
-| CA Vancouver | 419 |
-| US Silicon Valley | 416 |
-| US California | 394 |
-| US Florida | 350 |
-| Switzerland | 252 |
-| US Denver | 244 |
+| CA Montreal | 424 |
+| CA Vancouver | 418 |
+| US Silicon Valley | 417 |
+| US California | 396 |
+| US Florida | 348 |
+| Switzerland | 250 |
+| US Denver | 243 |
 | CA Ontario | 215 |
-| US Houston | 161 |
-| DE Germany Streaming Optimized | 157 |
+| US Houston | 163 |
+| DE Germany Streaming Optimized | 160 |
 | India | 116 |
-| US East Streaming Optimized | 114 |
+| US East Streaming Optimized | 115 |
 | UK Streaming Optimized | 113 |
-| Bahamas | 94 |
-| US West Streaming Optimized | 94 |
-| Luxembourg | 92 |
+| Bahamas | 95 |
+| US West Streaming Optimized | 93 |
+| Luxembourg | 91 |
 | Panama | 90 |
 | NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
@@ -83,8 +83,8 @@ View the IP list [here](/servers.json)
 | US New Mexico | 19 |
 | US Seattle | 16 |
 | South Korea | 14 |
-| US Pennsylvania | 14 |
 | Nepal | 14 |
+| US Pennsylvania | 13 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 11 |
