@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,415-blue)
+![Servers](https://img.shields.io/badge/servers-10,414-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_May_09_16:56:08_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_May_09_17:56:20_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,26 +14,26 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 794 |
-| US Atlanta | 556 |
-| US New York | 544 |
-| US Chicago | 530 |
-| US Washington DC | 515 |
-| CA Toronto | 490 |
-| US Texas | 483 |
-| US East | 458 |
-| US Las Vegas | 442 |
-| CA Montreal | 421 |
-| US Silicon Valley | 420 |
-| CA Vancouver | 418 |
+| US Atlanta | 558 |
+| US New York | 546 |
+| US Chicago | 529 |
+| US Washington DC | 521 |
+| CA Toronto | 488 |
+| US Texas | 481 |
+| US East | 456 |
+| US Las Vegas | 443 |
+| CA Montreal | 422 |
+| CA Vancouver | 419 |
+| US Silicon Valley | 418 |
 | US California | 392 |
-| US Florida | 352 |
-| Switzerland | 266 |
-| US Denver | 238 |
-| CA Ontario | 208 |
+| US Florida | 354 |
+| Switzerland | 265 |
+| US Denver | 235 |
+| CA Ontario | 207 |
 | US Houston | 169 |
-| DE Germany Streaming Optimized | 166 |
+| DE Germany Streaming Optimized | 165 |
+| US East Streaming Optimized | 118 |
 | India | 117 |
-| US East Streaming Optimized | 117 |
 | UK Streaming Optimized | 116 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
@@ -99,7 +99,6 @@ View the IP list [here](/servers.json)
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
-| AU Brisbane | 5 |
 | ES Madrid | 5 |
 | Norway | 5 |
 | Belgium | 5 |
@@ -120,6 +119,7 @@ View the IP list [here](/servers.json)
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
+| AU Brisbane | 3 |
 | Nigeria | 3 |
 | Australia Streaming Optimized | 3 |
 | JP Tokyo | 3 |
