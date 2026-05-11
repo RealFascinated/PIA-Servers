@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,514-blue)
+![Servers](https://img.shields.io/badge/servers-10,518-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_May_11_00:56:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_May_11_01:56:50_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,25 +13,25 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 796 |
+| Netherlands | 795 |
 | US New York | 575 |
-| US Washington DC | 557 |
-| US Chicago | 549 |
-| US Atlanta | 548 |
-| US Texas | 485 |
-| CA Toronto | 471 |
-| US East | 460 |
-| US Las Vegas | 435 |
-| CA Vancouver | 431 |
-| CA Montreal | 427 |
-| US California | 416 |
-| US Silicon Valley | 410 |
-| US Florida | 349 |
-| Switzerland | 265 |
-| US Denver | 232 |
-| CA Ontario | 214 |
-| US Houston | 171 |
-| DE Germany Streaming Optimized | 164 |
+| US Washington DC | 556 |
+| US Chicago | 550 |
+| US Atlanta | 547 |
+| US Texas | 487 |
+| CA Toronto | 473 |
+| US East | 458 |
+| US Las Vegas | 436 |
+| CA Vancouver | 429 |
+| CA Montreal | 428 |
+| US California | 417 |
+| US Silicon Valley | 413 |
+| US Florida | 350 |
+| Switzerland | 266 |
+| US Denver | 231 |
+| CA Ontario | 212 |
+| US Houston | 173 |
+| DE Germany Streaming Optimized | 163 |
 | UK Streaming Optimized | 121 |
 | India | 117 |
 | US East Streaming Optimized | 117 |
@@ -138,8 +138,8 @@ View the IP list [here](/servers.json)
 | Moldova | 2 |
 | Philippines | 2 |
 | US Arkansas | 2 |
-| US Ohio | 2 |
 | US Idaho | 2 |
+| US Ohio | 2 |
 | Indonesia | 2 |
 | US Kansas | 2 |
 | US Wilmington | 2 |
@@ -157,8 +157,8 @@ View the IP list [here](/servers.json)
 | Bulgaria | 2 |
 | US Iowa | 2 |
 | US North Carolina | 2 |
-| US North Dakota | 2 |
 | Slovakia | 2 |
+| US North Dakota | 2 |
 | North Macedonia | 2 |
 | US Massachusetts | 2 |
 | Croatia | 2 |
@@ -175,7 +175,7 @@ View the IP list [here](/servers.json)
 | Egypt | 2 |
 | US Missouri | 2 |
 | US Connecticut | 2 |
-| US Baltimore | 2 |
 | Israel | 2 |
+| US Baltimore | 2 |
 | US Alaska | 2 |
 | US Louisiana | 2 |
