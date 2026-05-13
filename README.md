@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,745-blue)
+![Servers](https://img.shields.io/badge/servers-10,763-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_13_11:56:16_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_13_12:56:28_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,28 +13,28 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 808 |
+| Netherlands | 810 |
 | US New York | 586 |
-| US Chicago | 585 |
-| US Washington DC | 568 |
-| US Atlanta | 564 |
-| US Texas | 500 |
-| US East | 486 |
-| CA Toronto | 480 |
-| US Las Vegas | 450 |
-| US Silicon Valley | 436 |
+| US Chicago | 584 |
+| US Washington DC | 570 |
+| US Atlanta | 568 |
+| US Texas | 503 |
+| US East | 485 |
+| CA Toronto | 484 |
+| US Las Vegas | 453 |
+| US Silicon Valley | 438 |
 | CA Vancouver | 431 |
-| US California | 425 |
-| CA Montreal | 418 |
-| US Florida | 370 |
-| US Denver | 264 |
-| CA Ontario | 235 |
-| Switzerland | 209 |
+| US California | 420 |
+| CA Montreal | 420 |
+| US Florida | 373 |
+| US Denver | 265 |
+| CA Ontario | 237 |
+| Switzerland | 208 |
 | US Houston | 189 |
-| DE Germany Streaming Optimized | 178 |
+| DE Germany Streaming Optimized | 177 |
 | UK Streaming Optimized | 124 |
 | US East Streaming Optimized | 119 |
-| India | 112 |
+| India | 110 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
@@ -131,6 +131,7 @@ View the IP list [here](/servers.json)
 | JP Streaming Optimized | 3 |
 | Iceland | 3 |
 | US Salt Lake City | 3 |
+| Qatar | 3 |
 | China | 3 |
 | Ireland | 3 |
 | AU Adelaide | 2 |
@@ -174,7 +175,6 @@ View the IP list [here](/servers.json)
 | Egypt | 2 |
 | US Missouri | 2 |
 | US Connecticut | 2 |
-| Qatar | 2 |
 | Israel | 2 |
 | US Baltimore | 2 |
 | US Alaska | 2 |
