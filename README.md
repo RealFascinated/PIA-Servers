@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,943-blue)
+![Servers](https://img.shields.io/badge/servers-10,931-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_May_14_12:58:27_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_May_14_13:58:39_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 826 |
-| US New York | 606 |
-| US Chicago | 598 |
-| US Atlanta | 577 |
+| Netherlands | 825 |
+| US New York | 605 |
+| US Chicago | 597 |
+| US Atlanta | 576 |
 | US Washington DC | 568 |
-| US Texas | 521 |
+| US Texas | 520 |
 | CA Toronto | 497 |
-| US East | 489 |
-| US Las Vegas | 467 |
-| CA Montreal | 464 |
+| US East | 488 |
+| US Las Vegas | 465 |
+| CA Montreal | 465 |
 | US Silicon Valley | 452 |
-| CA Vancouver | 432 |
-| US California | 420 |
-| US Florida | 374 |
-| US Denver | 271 |
+| CA Vancouver | 430 |
+| US California | 421 |
+| US Florida | 375 |
+| US Denver | 270 |
 | CA Ontario | 246 |
-| Switzerland | 201 |
+| Switzerland | 200 |
 | US Houston | 190 |
 | DE Germany Streaming Optimized | 177 |
 | UK Streaming Optimized | 124 |
 | US East Streaming Optimized | 120 |
 | India | 114 |
 | Bahamas | 98 |
-| US West Streaming Optimized | 97 |
+| US West Streaming Optimized | 96 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -64,10 +64,10 @@ View the IP list [here](/servers.json)
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
-| US South Carolina | 26 |
 | Bosnia And Herzegovina | 26 |
 | Macao | 26 |
 | Montenegro | 26 |
+| US South Carolina | 25 |
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
@@ -90,11 +90,11 @@ View the IP list [here](/servers.json)
 | Sri Lanka | 11 |
 | Estonia | 8 |
 | Singapore | 7 |
-| France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
+| France | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
@@ -153,12 +153,12 @@ View the IP list [here](/servers.json)
 | US Minnesota | 2 |
 | US Mississippi | 2 |
 | US Nebraska | 2 |
-| AU Perth | 2 |
 | Bulgaria | 2 |
+| AU Perth | 2 |
 | US Iowa | 2 |
 | US North Carolina | 2 |
-| Slovakia | 2 |
 | US North Dakota | 2 |
+| Slovakia | 2 |
 | North Macedonia | 2 |
 | US Massachusetts | 2 |
 | Croatia | 2 |
