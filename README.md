@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,639-blue)
+![Servers](https://img.shields.io/badge/servers-11,629-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_May_18_20:56:53_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_May_18_21:57:05_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,25 +13,25 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 889 |
-| US Chicago | 706 |
-| US New York | 662 |
-| US Washington DC | 637 |
-| US Atlanta | 622 |
-| US Texas | 578 |
-| CA Toronto | 527 |
-| CA Montreal | 526 |
+| Netherlands | 888 |
+| US Chicago | 705 |
+| US New York | 661 |
+| US Washington DC | 635 |
+| US Atlanta | 625 |
+| US Texas | 576 |
+| CA Toronto | 528 |
+| CA Montreal | 523 |
 | US East | 521 |
 | US Silicon Valley | 497 |
-| US Las Vegas | 490 |
-| CA Vancouver | 477 |
-| US California | 443 |
-| US Florida | 422 |
-| US Denver | 276 |
+| US Las Vegas | 489 |
+| CA Vancouver | 476 |
+| US California | 444 |
+| US Florida | 423 |
+| US Denver | 277 |
 | CA Ontario | 256 |
 | US Houston | 196 |
-| Switzerland | 176 |
 | DE Germany Streaming Optimized | 175 |
+| Switzerland | 175 |
 | UK Streaming Optimized | 124 |
 | US East Streaming Optimized | 120 |
 | India | 118 |
@@ -53,8 +53,8 @@ View the IP list [here](/servers.json)
 | Liechtenstein | 41 |
 | Morocco | 38 |
 | Malta | 37 |
-| Chile | 36 |
 | Costa Rica | 35 |
+| Chile | 35 |
 | Hong Kong | 32 |
 | Taiwan | 31 |
 | US Wisconsin | 31 |
@@ -78,16 +78,16 @@ View the IP list [here](/servers.json)
 | US Oregon | 22 |
 | US Vermont | 22 |
 | US South Dakota | 21 |
-| US Rhode Island | 20 |
 | US Oklahoma | 20 |
 | US New Mexico | 19 |
+| US Rhode Island | 19 |
 | US Seattle | 16 |
-| South Korea | 14 |
 | Nepal | 14 |
+| South Korea | 13 |
 | Mongolia | 12 |
 | US Pennsylvania | 12 |
 | UK London | 12 |
-| Sri Lanka | 11 |
+| Sri Lanka | 10 |
 | Estonia | 8 |
 | Singapore | 7 |
 | France | 7 |
