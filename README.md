@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,629-blue)
+![Servers](https://img.shields.io/badge/servers-11,621-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_May_18_21:57:05_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_May_18_22:57:05_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -15,18 +15,18 @@ View the IP list [here](/servers.json)
 | ------ | ------- |
 | Netherlands | 888 |
 | US Chicago | 705 |
-| US New York | 661 |
+| US New York | 662 |
 | US Washington DC | 635 |
-| US Atlanta | 625 |
-| US Texas | 576 |
+| US Atlanta | 626 |
+| US Texas | 577 |
 | CA Toronto | 528 |
 | CA Montreal | 523 |
-| US East | 521 |
-| US Silicon Valley | 497 |
+| US East | 520 |
+| US Silicon Valley | 498 |
 | US Las Vegas | 489 |
-| CA Vancouver | 476 |
+| CA Vancouver | 478 |
 | US California | 444 |
-| US Florida | 423 |
+| US Florida | 424 |
 | US Denver | 277 |
 | CA Ontario | 256 |
 | US Houston | 196 |
@@ -50,43 +50,43 @@ View the IP list [here](/servers.json)
 | Andorra | 48 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
-| Liechtenstein | 41 |
+| Liechtenstein | 40 |
 | Morocco | 38 |
 | Malta | 37 |
 | Costa Rica | 35 |
-| Chile | 35 |
+| Chile | 34 |
 | Hong Kong | 32 |
 | Taiwan | 31 |
 | US Wisconsin | 31 |
 | Bangladesh | 31 |
 | US West Virginia | 30 |
-| Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
+| Guatemala | 27 |
 | Bosnia And Herzegovina | 26 |
 | Macao | 26 |
 | Montenegro | 26 |
-| US South Carolina | 25 |
-| Armenia | 24 |
+| US South Carolina | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
 | US Virginia | 23 |
-| US Wyoming | 23 |
+| Armenia | 23 |
 | Kazakhstan | 23 |
-| Monaco | 22 |
 | US Oregon | 22 |
-| US Vermont | 22 |
-| US South Dakota | 21 |
-| US Oklahoma | 20 |
+| US Wyoming | 22 |
+| Monaco | 21 |
+| US Vermont | 21 |
+| US South Dakota | 20 |
 | US New Mexico | 19 |
-| US Rhode Island | 19 |
+| US Rhode Island | 18 |
+| US Oklahoma | 18 |
 | US Seattle | 16 |
 | Nepal | 14 |
 | South Korea | 13 |
-| Mongolia | 12 |
 | US Pennsylvania | 12 |
 | UK London | 12 |
+| Mongolia | 10 |
 | Sri Lanka | 10 |
 | Estonia | 8 |
 | Singapore | 7 |
