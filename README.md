@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,479-blue)
+![Servers](https://img.shields.io/badge/servers-11,474-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_May_19_04:57:39_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_May_19_05:57:50_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,20 +13,20 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 879 |
-| US Chicago | 702 |
+| Netherlands | 880 |
+| US Chicago | 703 |
 | US New York | 664 |
 | US Washington DC | 628 |
-| US Atlanta | 624 |
+| US Atlanta | 620 |
 | US Texas | 575 |
-| CA Toronto | 526 |
+| CA Toronto | 525 |
 | CA Montreal | 520 |
-| US East | 518 |
-| US Silicon Valley | 499 |
-| US Las Vegas | 490 |
-| CA Vancouver | 473 |
+| US East | 519 |
+| US Silicon Valley | 500 |
+| US Las Vegas | 492 |
+| CA Vancouver | 474 |
 | US California | 445 |
-| US Florida | 427 |
+| US Florida | 426 |
 | US Denver | 276 |
 | CA Ontario | 256 |
 | US Houston | 196 |
@@ -43,51 +43,51 @@ View the IP list [here](/servers.json)
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| Ecuador | 57 |
-| Lithuania | 57 |
+| Ecuador | 56 |
+| Lithuania | 56 |
 | Austria | 55 |
 | Uruguay | 54 |
 | Andorra | 48 |
+| Vietnam | 43 |
 | Isle OF Man | 43 |
-| Vietnam | 42 |
-| Liechtenstein | 40 |
-| Morocco | 38 |
+| Liechtenstein | 39 |
+| Morocco | 36 |
 | Malta | 36 |
 | Chile | 35 |
 | Costa Rica | 33 |
 | Hong Kong | 30 |
 | Bangladesh | 30 |
 | US Wisconsin | 29 |
-| US West Virginia | 27 |
 | Peru | 27 |
-| Taiwan | 26 |
-| Bolivia | 26 |
-| FI Streaming Optimized | 25 |
-| Guatemala | 24 |
+| Bolivia | 27 |
+| US West Virginia | 26 |
+| Guatemala | 26 |
+| FI Streaming Optimized | 26 |
+| Macao | 25 |
+| Taiwan | 25 |
 | Armenia | 23 |
 | Cyprus | 23 |
-| Macao | 23 |
-| Montenegro | 23 |
-| Bosnia And Herzegovina | 22 |
-| Kazakhstan | 22 |
-| Cambodia | 21 |
-| Monaco | 21 |
+| Bosnia And Herzegovina | 23 |
+| Cambodia | 22 |
+| Monaco | 22 |
+| Kazakhstan | 20 |
+| Montenegro | 20 |
 | US South Carolina | 19 |
 | US New Mexico | 17 |
-| US Wyoming | 17 |
 | US Seattle | 16 |
-| US Oregon | 14 |
-| US Virginia | 13 |
-| South Korea | 13 |
+| US Wyoming | 16 |
+| South Korea | 14 |
+| Nepal | 14 |
+| US Oregon | 13 |
 | US Vermont | 13 |
+| US Virginia | 12 |
 | UK London | 12 |
-| Nepal | 12 |
 | Mongolia | 11 |
 | US Pennsylvania | 11 |
-| US Oklahoma | 11 |
 | Sri Lanka | 11 |
-| US Rhode Island | 10 |
+| US Oklahoma | 9 |
 | Estonia | 8 |
+| US Rhode Island | 8 |
 | US South Dakota | 8 |
 | Singapore | 7 |
 | France | 7 |
