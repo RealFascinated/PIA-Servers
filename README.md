@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,619-blue)
+![Servers](https://img.shields.io/badge/servers-11,575-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_May_18_23:57:04_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_May_19_00:57:16_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,25 +13,25 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 889 |
-| US Chicago | 705 |
-| US New York | 663 |
+| Netherlands | 886 |
+| US Chicago | 702 |
+| US New York | 662 |
 | US Washington DC | 636 |
-| US Atlanta | 626 |
-| US Texas | 578 |
-| CA Toronto | 530 |
-| US East | 522 |
-| CA Montreal | 522 |
-| US Silicon Valley | 498 |
-| US Las Vegas | 489 |
+| US Atlanta | 625 |
+| US Texas | 579 |
+| CA Toronto | 529 |
+| US East | 520 |
+| CA Montreal | 520 |
+| US Silicon Valley | 497 |
+| US Las Vegas | 490 |
 | CA Vancouver | 480 |
-| US California | 445 |
+| US California | 444 |
 | US Florida | 425 |
 | US Denver | 276 |
 | CA Ontario | 256 |
 | US Houston | 196 |
+| Switzerland | 176 |
 | DE Germany Streaming Optimized | 175 |
-| Switzerland | 175 |
 | UK Streaming Optimized | 124 |
 | US East Streaming Optimized | 120 |
 | India | 118 |
@@ -47,47 +47,47 @@ View the IP list [here](/servers.json)
 | Ecuador | 57 |
 | Uruguay | 56 |
 | Austria | 55 |
-| Andorra | 48 |
+| Andorra | 47 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
-| Liechtenstein | 41 |
-| Morocco | 38 |
+| Liechtenstein | 40 |
+| Morocco | 37 |
 | Malta | 37 |
 | Costa Rica | 35 |
 | Chile | 34 |
-| Hong Kong | 32 |
+| Hong Kong | 31 |
 | Taiwan | 31 |
 | US Wisconsin | 31 |
-| Bangladesh | 31 |
 | US West Virginia | 30 |
-| Guatemala | 28 |
+| Bangladesh | 29 |
 | FI Streaming Optimized | 28 |
+| Bolivia | 28 |
+| Guatemala | 27 |
 | Peru | 27 |
-| Bosnia And Herzegovina | 26 |
 | Macao | 26 |
-| Montenegro | 26 |
-| Bolivia | 26 |
+| Bosnia And Herzegovina | 25 |
 | US South Carolina | 24 |
 | Cambodia | 24 |
-| Cyprus | 24 |
-| Kazakhstan | 23 |
-| US Virginia | 22 |
+| Cyprus | 23 |
+| Montenegro | 23 |
 | Armenia | 22 |
-| US Oregon | 22 |
-| Monaco | 21 |
-| US Wyoming | 21 |
-| US South Dakota | 19 |
+| US Oregon | 20 |
+| US Wyoming | 20 |
+| Kazakhstan | 20 |
+| Monaco | 19 |
 | US Vermont | 19 |
-| US Rhode Island | 17 |
-| US Oklahoma | 17 |
+| US Virginia | 17 |
 | US Seattle | 16 |
 | US New Mexico | 16 |
-| South Korea | 14 |
-| Nepal | 13 |
+| US Rhode Island | 16 |
+| US South Dakota | 16 |
+| US Oklahoma | 15 |
+| South Korea | 13 |
 | US Pennsylvania | 12 |
 | UK London | 12 |
-| Sri Lanka | 11 |
-| Mongolia | 9 |
+| Nepal | 11 |
+| Mongolia | 10 |
+| Sri Lanka | 10 |
 | Estonia | 8 |
 | Singapore | 7 |
 | France | 7 |
