@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,147-blue)
+![Servers](https://img.shields.io/badge/servers-11,171-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_20_08:59:56_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_20_09:59:51_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,61 +14,61 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 866 |
-| US Chicago | 689 |
-| US New York | 653 |
+| US Chicago | 688 |
+| US New York | 655 |
 | US Washington DC | 626 |
-| US Atlanta | 611 |
+| US Atlanta | 612 |
 | US Texas | 571 |
-| CA Toronto | 523 |
-| US East | 516 |
+| CA Toronto | 524 |
+| US East | 517 |
 | CA Montreal | 512 |
-| US Las Vegas | 493 |
+| US Las Vegas | 494 |
 | US Silicon Valley | 493 |
-| CA Vancouver | 482 |
-| US California | 442 |
-| US Florida | 432 |
+| CA Vancouver | 481 |
+| US California | 443 |
+| US Florida | 435 |
 | US Denver | 272 |
 | CA Ontario | 257 |
-| US Houston | 194 |
+| US Houston | 195 |
 | DE Germany Streaming Optimized | 173 |
-| Switzerland | 162 |
+| Switzerland | 161 |
+| US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 118 |
-| US East Streaming Optimized | 117 |
 | India | 116 |
-| Bahamas | 94 |
-| US West Streaming Optimized | 93 |
-| Luxembourg | 89 |
-| Panama | 88 |
-| NL Netherlands Streaming Optimized | 62 |
-| Venezuela | 58 |
-| Ecuador | 54 |
-| CA Ontario Streaming Optimized | 54 |
-| Ukraine | 53 |
+| US West Streaming Optimized | 94 |
+| Bahamas | 93 |
+| Luxembourg | 88 |
+| Panama | 87 |
+| NL Netherlands Streaming Optimized | 64 |
+| Venezuela | 57 |
+| CA Ontario Streaming Optimized | 56 |
+| Ecuador | 55 |
 | Austria | 52 |
-| Uruguay | 48 |
-| Andorra | 46 |
+| Ukraine | 51 |
+| Uruguay | 51 |
+| Andorra | 44 |
 | Vietnam | 40 |
-| Liechtenstein | 38 |
+| Liechtenstein | 39 |
 | Isle OF Man | 38 |
-| Chile | 34 |
-| Malta | 34 |
+| Chile | 36 |
+| Malta | 36 |
+| Morocco | 35 |
+| Costa Rica | 34 |
 | Lithuania | 33 |
-| Costa Rica | 33 |
-| Morocco | 33 |
 | Hong Kong | 31 |
-| Bangladesh | 29 |
+| Bangladesh | 31 |
+| Guatemala | 27 |
+| FI Streaming Optimized | 27 |
 | Peru | 27 |
-| Bosnia And Herzegovina | 26 |
-| Guatemala | 26 |
-| FI Streaming Optimized | 26 |
-| Bolivia | 26 |
-| Macao | 25 |
-| Montenegro | 25 |
+| Bolivia | 27 |
+| Macao | 26 |
+| Montenegro | 26 |
+| Bosnia And Herzegovina | 25 |
 | Armenia | 24 |
-| Cambodia | 24 |
+| Cambodia | 23 |
 | Cyprus | 23 |
+| Kazakhstan | 23 |
 | Monaco | 22 |
-| Kazakhstan | 22 |
 | US New Mexico | 19 |
 | US Seattle | 16 |
 | South Korea | 14 |
