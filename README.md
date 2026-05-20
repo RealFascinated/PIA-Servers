@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,192-blue)
+![Servers](https://img.shields.io/badge/servers-11,147-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_May_20_07:59:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_May_20_08:59:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,60 +13,60 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 869 |
-| US Chicago | 691 |
-| US New York | 656 |
-| US Washington DC | 628 |
+| Netherlands | 866 |
+| US Chicago | 689 |
+| US New York | 653 |
+| US Washington DC | 626 |
 | US Atlanta | 611 |
-| US Texas | 572 |
+| US Texas | 571 |
 | CA Toronto | 523 |
 | US East | 516 |
-| CA Montreal | 513 |
-| US Las Vegas | 494 |
+| CA Montreal | 512 |
+| US Las Vegas | 493 |
 | US Silicon Valley | 493 |
-| CA Vancouver | 483 |
-| US California | 443 |
-| US Florida | 433 |
-| US Denver | 273 |
-| CA Ontario | 258 |
-| US Houston | 195 |
+| CA Vancouver | 482 |
+| US California | 442 |
+| US Florida | 432 |
+| US Denver | 272 |
+| CA Ontario | 257 |
+| US Houston | 194 |
 | DE Germany Streaming Optimized | 173 |
 | Switzerland | 162 |
-| US East Streaming Optimized | 118 |
 | UK Streaming Optimized | 118 |
+| US East Streaming Optimized | 117 |
 | India | 116 |
-| Bahamas | 96 |
-| US West Streaming Optimized | 94 |
-| Panama | 91 |
-| Luxembourg | 90 |
-| NL Netherlands Streaming Optimized | 63 |
-| Venezuela | 57 |
-| Ukraine | 56 |
-| Ecuador | 55 |
-| CA Ontario Streaming Optimized | 55 |
-| Austria | 53 |
-| Uruguay | 50 |
-| Andorra | 47 |
-| Vietnam | 41 |
-| Isle OF Man | 39 |
+| Bahamas | 94 |
+| US West Streaming Optimized | 93 |
+| Luxembourg | 89 |
+| Panama | 88 |
+| NL Netherlands Streaming Optimized | 62 |
+| Venezuela | 58 |
+| Ecuador | 54 |
+| CA Ontario Streaming Optimized | 54 |
+| Ukraine | 53 |
+| Austria | 52 |
+| Uruguay | 48 |
+| Andorra | 46 |
+| Vietnam | 40 |
 | Liechtenstein | 38 |
-| Morocco | 35 |
-| Malta | 35 |
+| Isle OF Man | 38 |
 | Chile | 34 |
+| Malta | 34 |
 | Lithuania | 33 |
 | Costa Rica | 33 |
+| Morocco | 33 |
 | Hong Kong | 31 |
 | Bangladesh | 29 |
 | Peru | 27 |
-| Bolivia | 27 |
 | Bosnia And Herzegovina | 26 |
 | Guatemala | 26 |
-| Macao | 26 |
 | FI Streaming Optimized | 26 |
-| Montenegro | 26 |
+| Bolivia | 26 |
+| Macao | 25 |
+| Montenegro | 25 |
 | Armenia | 24 |
 | Cambodia | 24 |
-| Cyprus | 24 |
+| Cyprus | 23 |
 | Monaco | 22 |
 | Kazakhstan | 22 |
 | US New Mexico | 19 |
