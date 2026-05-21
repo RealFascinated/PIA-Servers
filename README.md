@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,147-blue)
+![Servers](https://img.shields.io/badge/servers-11,183-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_May_21_08:55:46_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_May_21_09:55:46_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,42 +13,42 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 867 |
-| US Chicago | 684 |
+| Netherlands | 868 |
+| US Chicago | 686 |
 | US New York | 657 |
-| US Washington DC | 628 |
+| US Washington DC | 630 |
 | US Atlanta | 609 |
-| US Texas | 572 |
-| US East | 530 |
+| US Texas | 575 |
+| US East | 531 |
 | CA Toronto | 526 |
 | CA Montreal | 503 |
-| US Silicon Valley | 498 |
-| US Las Vegas | 496 |
-| CA Vancouver | 475 |
-| US California | 447 |
+| US Silicon Valley | 500 |
+| US Las Vegas | 495 |
+| CA Vancouver | 478 |
+| US California | 451 |
 | US Florida | 425 |
-| US Denver | 271 |
+| US Denver | 273 |
 | CA Ontario | 259 |
 | US Houston | 190 |
 | DE Germany Streaming Optimized | 163 |
 | Switzerland | 153 |
 | UK Streaming Optimized | 118 |
 | India | 113 |
-| US East Streaming Optimized | 110 |
-| Bahamas | 88 |
-| US West Streaming Optimized | 86 |
-| Luxembourg | 81 |
-| Panama | 79 |
+| US East Streaming Optimized | 112 |
+| Bahamas | 91 |
+| US West Streaming Optimized | 90 |
+| Panama | 82 |
+| Luxembourg | 82 |
 | NL Netherlands Streaming Optimized | 64 |
-| CA Ontario Streaming Optimized | 58 |
-| Venezuela | 57 |
-| Ukraine | 57 |
+| CA Ontario Streaming Optimized | 59 |
+| Venezuela | 58 |
+| Ukraine | 56 |
+| Austria | 54 |
+| Ecuador | 54 |
 | Uruguay | 54 |
-| Austria | 53 |
-| Ecuador | 53 |
 | Andorra | 48 |
 | Vietnam | 44 |
-| Isle OF Man | 42 |
+| Isle OF Man | 43 |
 | Liechtenstein | 41 |
 | Chile | 40 |
 | Morocco | 38 |
