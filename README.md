@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-11,004-blue)
+![Servers](https://img.shields.io/badge/servers-11,002-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_May_21_22:55:58_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_May_21_23:55:58_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 849 |
-| US Chicago | 677 |
-| US New York | 647 |
+| Netherlands | 850 |
+| US Chicago | 674 |
+| US New York | 649 |
 | US Washington DC | 624 |
 | US Atlanta | 598 |
-| US Texas | 576 |
-| US East | 519 |
-| CA Toronto | 514 |
-| CA Montreal | 502 |
-| US Silicon Valley | 487 |
-| US Las Vegas | 482 |
-| CA Vancouver | 478 |
-| US California | 441 |
-| US Florida | 419 |
-| US Denver | 264 |
+| US Texas | 573 |
+| US East | 517 |
+| CA Toronto | 516 |
+| CA Montreal | 501 |
+| US Silicon Valley | 486 |
+| CA Vancouver | 481 |
+| US Las Vegas | 479 |
+| US California | 444 |
+| US Florida | 418 |
+| US Denver | 263 |
 | CA Ontario | 251 |
-| US Houston | 187 |
+| US Houston | 186 |
 | DE Germany Streaming Optimized | 152 |
-| Switzerland | 140 |
-| India | 110 |
+| Switzerland | 139 |
+| US East Streaming Optimized | 112 |
+| India | 111 |
 | UK Streaming Optimized | 110 |
-| US East Streaming Optimized | 110 |
+| Panama | 90 |
 | Bahamas | 89 |
 | US West Streaming Optimized | 89 |
-| Panama | 88 |
-| Luxembourg | 84 |
-| NL Netherlands Streaming Optimized | 66 |
+| Luxembourg | 85 |
+| NL Netherlands Streaming Optimized | 65 |
 | Ukraine | 59 |
 | CA Ontario Streaming Optimized | 59 |
 | Ecuador | 57 |
 | Uruguay | 56 |
-| Venezuela | 55 |
+| Venezuela | 54 |
 | Austria | 54 |
 | Andorra | 48 |
 | Vietnam | 44 |
