@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,970-blue)
+![Servers](https://img.shields.io/badge/servers-10,945-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_15:55:43_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_16:55:43_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,36 +13,36 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 867 |
-| US Chicago | 676 |
-| US New York | 643 |
-| US Washington DC | 616 |
-| US Atlanta | 599 |
-| US Texas | 568 |
+| Netherlands | 868 |
+| US Chicago | 674 |
+| US New York | 644 |
+| US Washington DC | 618 |
+| US Atlanta | 598 |
+| US Texas | 567 |
 | CA Toronto | 522 |
-| US East | 516 |
-| CA Montreal | 506 |
-| CA Vancouver | 484 |
-| US Las Vegas | 478 |
+| US East | 510 |
+| CA Montreal | 503 |
+| CA Vancouver | 481 |
+| US Las Vegas | 477 |
 | US Silicon Valley | 469 |
 | US California | 438 |
 | US Florida | 412 |
-| US Denver | 263 |
+| US Denver | 262 |
 | CA Ontario | 240 |
-| US Houston | 187 |
-| DE Germany Streaming Optimized | 142 |
-| Switzerland | 121 |
-| UK Streaming Optimized | 114 |
-| US East Streaming Optimized | 114 |
-| India | 113 |
+| US Houston | 183 |
+| DE Germany Streaming Optimized | 139 |
+| Switzerland | 120 |
+| US East Streaming Optimized | 112 |
+| India | 111 |
+| UK Streaming Optimized | 111 |
 | Bahamas | 95 |
-| US West Streaming Optimized | 91 |
-| Panama | 87 |
-| Luxembourg | 87 |
+| US West Streaming Optimized | 93 |
+| Panama | 89 |
+| Luxembourg | 86 |
 | NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
-| Venezuela | 59 |
 | Ukraine | 59 |
+| Venezuela | 58 |
 | Ecuador | 57 |
 | Uruguay | 56 |
 | Austria | 55 |
@@ -82,6 +82,7 @@ View the IP list [here](/servers.json)
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
+| Norway | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
@@ -94,7 +95,6 @@ View the IP list [here](/servers.json)
 | Poland | 4 |
 | United Arab Emirates | 4 |
 | Mexico | 4 |
-| Norway | 4 |
 | Argentina | 4 |
 | Albania | 3 |
 | SE Streaming Optimized | 3 |
