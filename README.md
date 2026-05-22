@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,964-blue)
+![Servers](https://img.shields.io/badge/servers-10,998-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_02:55:58_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_03:55:58_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,39 +13,39 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 849 |
-| US Chicago | 676 |
-| US New York | 647 |
-| US Washington DC | 617 |
+| Netherlands | 853 |
+| US Chicago | 678 |
+| US New York | 646 |
+| US Washington DC | 619 |
 | US Atlanta | 594 |
 | US Texas | 573 |
-| CA Toronto | 517 |
-| US East | 514 |
-| CA Montreal | 497 |
+| CA Toronto | 521 |
+| US East | 515 |
+| CA Montreal | 498 |
+| CA Vancouver | 486 |
 | US Silicon Valley | 485 |
-| CA Vancouver | 483 |
-| US Las Vegas | 479 |
-| US California | 441 |
-| US Florida | 417 |
-| US Denver | 260 |
-| CA Ontario | 248 |
-| US Houston | 183 |
-| DE Germany Streaming Optimized | 148 |
+| US Las Vegas | 482 |
+| US California | 443 |
+| US Florida | 418 |
+| US Denver | 262 |
+| CA Ontario | 249 |
+| US Houston | 185 |
+| DE Germany Streaming Optimized | 147 |
 | Switzerland | 136 |
 | US East Streaming Optimized | 113 |
 | India | 112 |
-| UK Streaming Optimized | 102 |
-| US West Streaming Optimized | 91 |
+| UK Streaming Optimized | 103 |
+| US West Streaming Optimized | 93 |
+| Bahamas | 90 |
 | Panama | 89 |
-| Luxembourg | 88 |
-| Bahamas | 88 |
+| Luxembourg | 89 |
 | NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 58 |
+| Venezuela | 57 |
 | Ecuador | 57 |
-| Venezuela | 56 |
 | Uruguay | 56 |
-| Austria | 54 |
+| Austria | 55 |
 | Andorra | 48 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
