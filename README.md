@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,953-blue)
+![Servers](https://img.shields.io/badge/servers-10,984-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_05:55:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_06:55:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,39 +13,39 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 850 |
-| US Chicago | 677 |
-| US New York | 640 |
+| Netherlands | 852 |
+| US Chicago | 678 |
+| US New York | 641 |
 | US Washington DC | 620 |
-| US Atlanta | 593 |
+| US Atlanta | 597 |
 | US Texas | 572 |
-| CA Toronto | 519 |
-| US East | 515 |
-| CA Montreal | 498 |
+| CA Toronto | 520 |
+| US East | 517 |
+| CA Montreal | 500 |
 | CA Vancouver | 484 |
+| US Las Vegas | 479 |
 | US Silicon Valley | 479 |
-| US Las Vegas | 478 |
-| US California | 441 |
-| US Florida | 415 |
-| US Denver | 261 |
-| CA Ontario | 248 |
+| US California | 442 |
+| US Florida | 417 |
+| US Denver | 263 |
+| CA Ontario | 250 |
 | US Houston | 184 |
-| DE Germany Streaming Optimized | 146 |
+| DE Germany Streaming Optimized | 147 |
 | Switzerland | 133 |
-| US East Streaming Optimized | 112 |
+| US East Streaming Optimized | 113 |
 | India | 111 |
-| UK Streaming Optimized | 101 |
-| US West Streaming Optimized | 93 |
-| Bahamas | 89 |
-| Panama | 88 |
-| Luxembourg | 88 |
+| UK Streaming Optimized | 104 |
+| US West Streaming Optimized | 94 |
+| Bahamas | 90 |
+| Panama | 89 |
+| Luxembourg | 89 |
 | NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 58 |
 | Ukraine | 58 |
 | Ecuador | 57 |
+| Austria | 55 |
 | Uruguay | 55 |
-| Austria | 54 |
 | Andorra | 48 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
