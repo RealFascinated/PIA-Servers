@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,932-blue)
+![Servers](https://img.shields.io/badge/servers-10,972-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_08:55:26_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_09:55:21_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,33 +13,33 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 854 |
-| US Chicago | 674 |
-| US New York | 640 |
-| US Washington DC | 613 |
-| US Atlanta | 596 |
+| Netherlands | 858 |
+| US Chicago | 676 |
+| US New York | 643 |
+| US Washington DC | 616 |
+| US Atlanta | 600 |
 | US Texas | 574 |
 | CA Toronto | 519 |
-| US East | 514 |
-| CA Montreal | 497 |
-| CA Vancouver | 479 |
-| US Silicon Valley | 475 |
-| US Las Vegas | 473 |
-| US California | 438 |
-| US Florida | 410 |
-| US Denver | 264 |
+| US East | 516 |
+| CA Montreal | 502 |
+| CA Vancouver | 481 |
+| US Silicon Valley | 476 |
+| US Las Vegas | 474 |
+| US California | 439 |
+| US Florida | 411 |
+| US Denver | 265 |
 | CA Ontario | 249 |
-| US Houston | 184 |
+| US Houston | 186 |
 | DE Germany Streaming Optimized | 144 |
 | Switzerland | 132 |
-| India | 110 |
-| US East Streaming Optimized | 110 |
-| UK Streaming Optimized | 103 |
+| India | 111 |
+| US East Streaming Optimized | 111 |
+| UK Streaming Optimized | 105 |
+| Bahamas | 94 |
 | US West Streaming Optimized | 94 |
-| Bahamas | 93 |
+| Panama | 89 |
 | Luxembourg | 89 |
-| Panama | 88 |
-| NL Netherlands Streaming Optimized | 62 |
+| NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 58 |
 | Venezuela | 57 |
@@ -176,6 +176,6 @@ View the IP list [here](/servers.json)
 | US Missouri | 2 |
 | US Connecticut | 2 |
 | US Baltimore | 2 |
+| Israel | 2 |
 | US Alaska | 2 |
 | US Louisiana | 2 |
-| Israel | 1 |
