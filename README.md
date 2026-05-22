@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,974-blue)
+![Servers](https://img.shields.io/badge/servers-10,962-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_00:55:58_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_01:55:58_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,37 +13,37 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 849 |
-| US Chicago | 672 |
-| US New York | 648 |
-| US Washington DC | 622 |
+| Netherlands | 848 |
+| US Chicago | 673 |
+| US New York | 647 |
+| US Washington DC | 618 |
 | US Atlanta | 594 |
 | US Texas | 573 |
-| CA Toronto | 515 |
-| US East | 514 |
-| CA Montreal | 501 |
-| US Silicon Valley | 486 |
+| CA Toronto | 516 |
+| US East | 513 |
+| CA Montreal | 498 |
+| US Silicon Valley | 487 |
+| CA Vancouver | 481 |
 | US Las Vegas | 480 |
-| CA Vancouver | 479 |
-| US California | 443 |
-| US Florida | 416 |
-| US Denver | 262 |
-| CA Ontario | 249 |
-| US Houston | 185 |
-| DE Germany Streaming Optimized | 150 |
-| Switzerland | 139 |
-| India | 113 |
+| US California | 442 |
+| US Florida | 419 |
+| US Denver | 259 |
+| CA Ontario | 248 |
+| US Houston | 184 |
+| DE Germany Streaming Optimized | 148 |
+| Switzerland | 137 |
+| India | 112 |
 | US East Streaming Optimized | 112 |
-| UK Streaming Optimized | 105 |
-| US West Streaming Optimized | 90 |
-| Panama | 89 |
-| Bahamas | 86 |
-| Luxembourg | 84 |
+| UK Streaming Optimized | 102 |
+| US West Streaming Optimized | 91 |
+| Panama | 88 |
+| Luxembourg | 88 |
+| Bahamas | 87 |
 | NL Netherlands Streaming Optimized | 65 |
-| CA Ontario Streaming Optimized | 59 |
-| Venezuela | 58 |
+| CA Ontario Streaming Optimized | 60 |
 | Ukraine | 58 |
 | Ecuador | 57 |
+| Venezuela | 56 |
 | Uruguay | 56 |
 | Austria | 54 |
 | Andorra | 48 |
