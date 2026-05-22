@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,984-blue)
+![Servers](https://img.shields.io/badge/servers-10,953-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_06:55:11_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_May_22_07:55:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,32 +14,32 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 852 |
-| US Chicago | 678 |
-| US New York | 641 |
-| US Washington DC | 620 |
-| US Atlanta | 597 |
-| US Texas | 572 |
-| CA Toronto | 520 |
-| US East | 517 |
-| CA Montreal | 500 |
-| CA Vancouver | 484 |
-| US Las Vegas | 479 |
-| US Silicon Valley | 479 |
-| US California | 442 |
-| US Florida | 417 |
-| US Denver | 263 |
-| CA Ontario | 250 |
+| US Chicago | 676 |
+| US New York | 640 |
+| US Washington DC | 616 |
+| US Atlanta | 595 |
+| US Texas | 574 |
+| CA Toronto | 519 |
+| US East | 516 |
+| CA Montreal | 497 |
+| CA Vancouver | 480 |
+| US Silicon Valley | 478 |
+| US Las Vegas | 476 |
+| US California | 443 |
+| US Florida | 412 |
+| US Denver | 264 |
+| CA Ontario | 249 |
 | US Houston | 184 |
-| DE Germany Streaming Optimized | 147 |
-| Switzerland | 133 |
-| US East Streaming Optimized | 113 |
-| India | 111 |
-| UK Streaming Optimized | 104 |
+| DE Germany Streaming Optimized | 146 |
+| Switzerland | 132 |
+| US East Streaming Optimized | 111 |
+| India | 110 |
+| UK Streaming Optimized | 103 |
 | US West Streaming Optimized | 94 |
-| Bahamas | 90 |
-| Panama | 89 |
+| Bahamas | 93 |
 | Luxembourg | 89 |
-| NL Netherlands Streaming Optimized | 65 |
+| Panama | 88 |
+| NL Netherlands Streaming Optimized | 62 |
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 58 |
 | Ukraine | 58 |
