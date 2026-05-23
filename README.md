@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,883-blue)
+![Servers](https://img.shields.io/badge/servers-10,889-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_May_23_02:56:25_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_May_23_03:56:36_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,36 +14,36 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 867 |
-| US Chicago | 663 |
-| US New York | 623 |
-| US Washington DC | 610 |
-| US Atlanta | 607 |
-| US Texas | 564 |
-| CA Toronto | 528 |
+| US Chicago | 664 |
+| US New York | 627 |
+| US Washington DC | 613 |
+| US Atlanta | 606 |
+| US Texas | 565 |
+| CA Toronto | 529 |
 | US East | 515 |
 | CA Montreal | 501 |
-| CA Vancouver | 483 |
-| US Las Vegas | 471 |
-| US Silicon Valley | 470 |
-| US California | 436 |
-| US Florida | 406 |
-| US Denver | 264 |
-| CA Ontario | 242 |
-| US Houston | 179 |
-| DE Germany Streaming Optimized | 128 |
+| CA Vancouver | 482 |
+| US Las Vegas | 473 |
+| US Silicon Valley | 465 |
+| US California | 435 |
+| US Florida | 407 |
+| US Denver | 263 |
+| CA Ontario | 239 |
+| US Houston | 181 |
+| DE Germany Streaming Optimized | 129 |
 | UK Streaming Optimized | 118 |
+| US East Streaming Optimized | 113 |
 | India | 112 |
-| US East Streaming Optimized | 112 |
-| Switzerland | 101 |
+| Switzerland | 100 |
 | Bahamas | 95 |
-| Panama | 91 |
-| US West Streaming Optimized | 89 |
-| Luxembourg | 86 |
+| Panama | 92 |
+| US West Streaming Optimized | 90 |
+| Luxembourg | 87 |
 | NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 59 |
 | Venezuela | 58 |
-| Ecuador | 57 |
+| Ecuador | 56 |
 | Uruguay | 56 |
 | Austria | 55 |
 | Andorra | 48 |
