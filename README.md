@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,648-blue)
+![Servers](https://img.shields.io/badge/servers-10,607-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_May_23_20:55:22_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_May_23_21:55:14_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,35 +13,35 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 851 |
-| US Chicago | 630 |
-| US Atlanta | 605 |
-| US New York | 600 |
-| US Washington DC | 591 |
-| US Texas | 558 |
-| CA Toronto | 514 |
+| Netherlands | 848 |
+| US Chicago | 626 |
+| US Atlanta | 608 |
+| US New York | 598 |
+| US Washington DC | 586 |
+| US Texas | 555 |
+| CA Toronto | 516 |
 | US East | 506 |
-| CA Montreal | 487 |
-| CA Vancouver | 477 |
-| US Las Vegas | 472 |
-| US Silicon Valley | 467 |
+| CA Montreal | 486 |
+| CA Vancouver | 473 |
+| US Las Vegas | 467 |
+| US Silicon Valley | 464 |
 | US California | 412 |
-| US Florida | 399 |
-| US Denver | 258 |
-| CA Ontario | 232 |
-| US Houston | 167 |
-| DE Germany Streaming Optimized | 121 |
-| US East Streaming Optimized | 117 |
-| India | 116 |
+| US Florida | 398 |
+| US Denver | 255 |
+| CA Ontario | 229 |
+| US Houston | 164 |
+| DE Germany Streaming Optimized | 120 |
+| India | 115 |
 | UK Streaming Optimized | 114 |
+| US East Streaming Optimized | 113 |
 | Bahamas | 94 |
+| Panama | 93 |
 | Luxembourg | 93 |
-| Panama | 92 |
-| US West Streaming Optimized | 92 |
-| NL Netherlands Streaming Optimized | 65 |
-| Switzerland | 60 |
+| US West Streaming Optimized | 91 |
+| NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 59 |
+| Switzerland | 59 |
 | Ukraine | 59 |
 | Ecuador | 57 |
 | Uruguay | 56 |
