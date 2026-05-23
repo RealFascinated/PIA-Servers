@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,904-blue)
+![Servers](https://img.shields.io/badge/servers-10,883-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_May_23_01:56:25_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_May_23_02:56:25_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,37 +13,37 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 873 |
-| US Chicago | 665 |
-| US New York | 628 |
-| US Washington DC | 613 |
-| US Atlanta | 608 |
-| US Texas | 566 |
-| CA Toronto | 527 |
+| Netherlands | 867 |
+| US Chicago | 663 |
+| US New York | 623 |
+| US Washington DC | 610 |
+| US Atlanta | 607 |
+| US Texas | 564 |
+| CA Toronto | 528 |
 | US East | 515 |
 | CA Montreal | 501 |
-| CA Vancouver | 482 |
-| US Las Vegas | 472 |
-| US Silicon Valley | 472 |
-| US California | 435 |
+| CA Vancouver | 483 |
+| US Las Vegas | 471 |
+| US Silicon Valley | 470 |
+| US California | 436 |
 | US Florida | 406 |
 | US Denver | 264 |
 | CA Ontario | 242 |
 | US Houston | 179 |
-| DE Germany Streaming Optimized | 131 |
-| UK Streaming Optimized | 119 |
-| India | 113 |
-| US East Streaming Optimized | 110 |
-| Switzerland | 102 |
-| Bahamas | 94 |
+| DE Germany Streaming Optimized | 128 |
+| UK Streaming Optimized | 118 |
+| India | 112 |
+| US East Streaming Optimized | 112 |
+| Switzerland | 101 |
+| Bahamas | 95 |
 | Panama | 91 |
 | US West Streaming Optimized | 89 |
 | Luxembourg | 86 |
-| NL Netherlands Streaming Optimized | 66 |
+| NL Netherlands Streaming Optimized | 65 |
 | CA Ontario Streaming Optimized | 60 |
 | Ukraine | 59 |
+| Venezuela | 58 |
 | Ecuador | 57 |
-| Venezuela | 56 |
 | Uruguay | 56 |
 | Austria | 55 |
 | Andorra | 48 |
