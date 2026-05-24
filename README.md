@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,630-blue)
+![Servers](https://img.shields.io/badge/servers-10,635-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_09:55:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_10:55:42_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,30 +13,30 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 851 |
+| Netherlands | 848 |
 | US Chicago | 629 |
 | US New York | 605 |
 | US Atlanta | 605 |
-| US Washington DC | 591 |
-| US Texas | 555 |
+| US Washington DC | 587 |
+| US Texas | 561 |
 | CA Toronto | 509 |
-| US East | 505 |
-| CA Montreal | 493 |
-| US Las Vegas | 473 |
-| CA Vancouver | 468 |
+| US East | 506 |
+| CA Montreal | 492 |
+| US Las Vegas | 471 |
+| CA Vancouver | 469 |
 | US Silicon Valley | 455 |
-| US California | 412 |
+| US California | 413 |
 | US Florida | 400 |
-| US Denver | 261 |
-| CA Ontario | 237 |
-| US Houston | 171 |
-| India | 117 |
-| US East Streaming Optimized | 117 |
-| DE Germany Streaming Optimized | 115 |
-| UK Streaming Optimized | 113 |
+| US Denver | 262 |
+| CA Ontario | 235 |
+| US Houston | 175 |
+| India | 118 |
+| DE Germany Streaming Optimized | 116 |
+| US East Streaming Optimized | 116 |
+| UK Streaming Optimized | 115 |
 | Bahamas | 98 |
+| US West Streaming Optimized | 94 |
 | Luxembourg | 93 |
-| US West Streaming Optimized | 93 |
 | Panama | 92 |
 | NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
@@ -46,7 +46,7 @@ View the IP list [here](/servers.json)
 | Uruguay | 56 |
 | Austria | 55 |
 | Andorra | 48 |
-| Switzerland | 48 |
+| Switzerland | 47 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
 | Liechtenstein | 41 |
