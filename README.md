@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,583-blue)
+![Servers](https://img.shields.io/badge/servers-10,563-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_19:55:13_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_20:55:23_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 865 |
-| US Chicago | 623 |
-| US New York | 597 |
-| US Atlanta | 596 |
-| US Washington DC | 579 |
-| US Texas | 560 |
-| CA Toronto | 517 |
-| US East | 509 |
-| CA Montreal | 494 |
+| Netherlands | 868 |
+| US Chicago | 622 |
+| US Atlanta | 598 |
+| US New York | 596 |
+| US Washington DC | 575 |
+| US Texas | 558 |
+| CA Toronto | 515 |
+| US East | 510 |
+| CA Montreal | 490 |
 | US Las Vegas | 472 |
-| CA Vancouver | 467 |
-| US Silicon Valley | 451 |
-| US California | 403 |
+| CA Vancouver | 465 |
+| US Silicon Valley | 452 |
+| US California | 400 |
 | US Florida | 399 |
-| US Denver | 247 |
-| CA Ontario | 228 |
-| US Houston | 179 |
+| US Denver | 246 |
+| CA Ontario | 230 |
+| US Houston | 177 |
 | US East Streaming Optimized | 119 |
 | India | 118 |
-| UK Streaming Optimized | 115 |
-| DE Germany Streaming Optimized | 114 |
+| UK Streaming Optimized | 114 |
+| DE Germany Streaming Optimized | 112 |
 | Bahamas | 97 |
 | US West Streaming Optimized | 94 |
 | Panama | 93 |
@@ -54,12 +54,12 @@ View the IP list [here](/servers.json)
 | Malta | 37 |
 | Costa Rica | 35 |
 | Hong Kong | 32 |
-| Switzerland | 31 |
 | Bangladesh | 31 |
 | Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
 | Bolivia | 28 |
+| Switzerland | 27 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Armenia | 24 |
