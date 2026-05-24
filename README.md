@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,563-blue)
+![Servers](https://img.shields.io/badge/servers-10,531-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_21:55:23_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_22:55:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 867 |
-| US Chicago | 621 |
+| Netherlands | 868 |
+| US Chicago | 623 |
 | US New York | 600 |
-| US Atlanta | 597 |
-| US Washington DC | 578 |
-| US Texas | 557 |
-| CA Toronto | 515 |
-| US East | 510 |
-| CA Montreal | 488 |
-| US Las Vegas | 471 |
-| CA Vancouver | 467 |
+| US Atlanta | 599 |
+| US Washington DC | 576 |
+| US Texas | 553 |
+| CA Toronto | 513 |
+| US East | 508 |
+| CA Montreal | 487 |
+| US Las Vegas | 465 |
+| CA Vancouver | 464 |
 | US Silicon Valley | 451 |
-| US Florida | 397 |
 | US California | 397 |
-| US Denver | 248 |
-| CA Ontario | 232 |
-| US Houston | 179 |
+| US Florida | 394 |
+| US Denver | 246 |
+| CA Ontario | 230 |
+| US Houston | 177 |
 | US East Streaming Optimized | 119 |
 | India | 118 |
-| UK Streaming Optimized | 115 |
-| DE Germany Streaming Optimized | 111 |
+| UK Streaming Optimized | 113 |
+| DE Germany Streaming Optimized | 108 |
 | Bahamas | 97 |
 | US West Streaming Optimized | 95 |
 | Panama | 93 |
@@ -61,7 +61,6 @@ View the IP list [here](/servers.json)
 | Bolivia | 28 |
 | Macao | 26 |
 | Montenegro | 26 |
-| Switzerland | 24 |
 | Armenia | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
@@ -69,6 +68,7 @@ View the IP list [here](/servers.json)
 | Kazakhstan | 23 |
 | Monaco | 22 |
 | Sri Lanka | 22 |
+| Switzerland | 21 |
 | US New Mexico | 19 |
 | US Seattle | 16 |
 | South Korea | 14 |
