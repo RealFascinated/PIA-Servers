@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,635-blue)
+![Servers](https://img.shields.io/badge/servers-10,642-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_10:55:42_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_May_24_11:55:41_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 848 |
-| US Chicago | 629 |
-| US New York | 605 |
-| US Atlanta | 605 |
-| US Washington DC | 587 |
-| US Texas | 561 |
-| CA Toronto | 509 |
+| Netherlands | 850 |
+| US Chicago | 631 |
+| US New York | 607 |
+| US Atlanta | 604 |
+| US Washington DC | 586 |
+| US Texas | 562 |
+| CA Toronto | 514 |
 | US East | 506 |
-| CA Montreal | 492 |
-| US Las Vegas | 471 |
+| CA Montreal | 493 |
+| US Las Vegas | 470 |
 | CA Vancouver | 469 |
-| US Silicon Valley | 455 |
+| US Silicon Valley | 456 |
 | US California | 413 |
-| US Florida | 400 |
-| US Denver | 262 |
-| CA Ontario | 235 |
-| US Houston | 175 |
+| US Florida | 398 |
+| US Denver | 260 |
+| CA Ontario | 234 |
+| US Houston | 176 |
 | India | 118 |
+| US East Streaming Optimized | 117 |
 | DE Germany Streaming Optimized | 116 |
-| US East Streaming Optimized | 116 |
 | UK Streaming Optimized | 115 |
 | Bahamas | 98 |
-| US West Streaming Optimized | 94 |
+| Panama | 93 |
 | Luxembourg | 93 |
-| Panama | 92 |
+| US West Streaming Optimized | 93 |
 | NL Netherlands Streaming Optimized | 66 |
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 59 |
@@ -46,7 +46,7 @@ View the IP list [here](/servers.json)
 | Uruguay | 56 |
 | Austria | 55 |
 | Andorra | 48 |
-| Switzerland | 47 |
+| Switzerland | 46 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
 | Liechtenstein | 41 |
