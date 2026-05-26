@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,555-blue)
+![Servers](https://img.shields.io/badge/servers-10,566-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_May_25_23:55:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_May_26_00:55:11_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,29 +13,29 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 872 |
-| US Chicago | 622 |
-| US New York | 610 |
-| US Atlanta | 593 |
-| US Washington DC | 582 |
-| US Texas | 545 |
-| US East | 504 |
-| CA Toronto | 496 |
+| Netherlands | 871 |
+| US Chicago | 624 |
+| US New York | 612 |
+| US Atlanta | 590 |
+| US Washington DC | 584 |
+| US Texas | 547 |
+| US East | 505 |
+| CA Toronto | 497 |
 | CA Montreal | 487 |
-| CA Vancouver | 467 |
 | US Las Vegas | 464 |
-| US Silicon Valley | 446 |
-| US California | 432 |
-| US Florida | 397 |
-| US Denver | 249 |
-| CA Ontario | 227 |
+| CA Vancouver | 463 |
+| US Silicon Valley | 447 |
+| US California | 433 |
+| US Florida | 400 |
+| US Denver | 246 |
+| CA Ontario | 228 |
 | US Houston | 173 |
-| UK Streaming Optimized | 121 |
+| UK Streaming Optimized | 122 |
 | US East Streaming Optimized | 120 |
 | India | 114 |
-| DE Germany Streaming Optimized | 100 |
+| DE Germany Streaming Optimized | 101 |
 | Bahamas | 98 |
-| US West Streaming Optimized | 96 |
+| US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -89,6 +89,7 @@ View the IP list [here](/servers.json)
 | DK Copenhagen | 5 |
 | Greenland | 5 |
 | ES Madrid | 5 |
+| US Oregon | 5 |
 | Belgium | 5 |
 | UK Southampton | 5 |
 | Latvia | 5 |
@@ -149,7 +150,6 @@ View the IP list [here](/servers.json)
 | Bulgaria | 2 |
 | US Iowa | 2 |
 | US North Carolina | 2 |
-| US Oregon | 2 |
 | Slovakia | 2 |
 | US North Dakota | 2 |
 | US Rhode Island | 2 |
