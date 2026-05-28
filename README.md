@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,574-blue)
+![Servers](https://img.shields.io/badge/servers-10,563-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_May_28_12:55:44_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_May_28_13:55:56_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 872 |
-| US Chicago | 640 |
-| US New York | 607 |
-| US Washington DC | 603 |
-| US Atlanta | 576 |
-| US Texas | 535 |
-| US East | 497 |
+| Netherlands | 870 |
+| US Chicago | 639 |
+| US New York | 609 |
+| US Washington DC | 600 |
+| US Atlanta | 574 |
+| US Texas | 534 |
+| US East | 498 |
 | CA Toronto | 492 |
-| CA Montreal | 480 |
+| CA Montreal | 481 |
 | US Las Vegas | 456 |
-| CA Vancouver | 450 |
-| US Silicon Valley | 446 |
-| US California | 431 |
-| US Florida | 388 |
-| US Denver | 265 |
+| CA Vancouver | 449 |
+| US Silicon Valley | 445 |
+| US California | 429 |
+| US Florida | 387 |
+| US Denver | 266 |
 | CA Ontario | 244 |
 | US Houston | 195 |
 | UK Streaming Optimized | 124 |
@@ -78,19 +78,19 @@ View the IP list [here](/servers.json)
 | Switzerland | 11 |
 | Estonia | 9 |
 | Singapore | 7 |
-| France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
 | Norway | 6 |
+| France | 6 |
 | IT Milano | 6 |
-| SE Stockholm | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
 | ES Madrid | 5 |
 | Belgium | 5 |
 | UK Southampton | 5 |
+| SE Stockholm | 5 |
 | Latvia | 5 |
 | South Africa | 5 |
 | Poland | 4 |
@@ -145,13 +145,13 @@ View the IP list [here](/servers.json)
 | US Minnesota | 2 |
 | US Mississippi | 2 |
 | US Nebraska | 2 |
-| AU Perth | 2 |
 | Bulgaria | 2 |
+| AU Perth | 2 |
 | US Iowa | 2 |
 | US North Carolina | 2 |
 | US Oregon | 2 |
-| Slovakia | 2 |
 | US North Dakota | 2 |
+| Slovakia | 2 |
 | US Rhode Island | 2 |
 | North Macedonia | 2 |
 | US South Dakota | 2 |
