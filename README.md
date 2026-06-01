@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,467-blue)
+![Servers](https://img.shields.io/badge/servers-10,462-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Jun_01_15:59:45_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Jun_01_16:59:55_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,19 +13,19 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 790 |
-| US Chicago | 624 |
+| Netherlands | 792 |
+| US Chicago | 627 |
 | US New York | 597 |
-| US Washington DC | 594 |
-| US Atlanta | 570 |
-| US Texas | 530 |
+| US Washington DC | 591 |
+| US Atlanta | 568 |
+| US Texas | 529 |
 | US East | 492 |
 | CA Montreal | 492 |
-| CA Toronto | 490 |
-| US Silicon Valley | 456 |
+| CA Toronto | 489 |
+| US Silicon Valley | 455 |
 | US Las Vegas | 447 |
 | US California | 447 |
-| CA Vancouver | 438 |
+| CA Vancouver | 437 |
 | US Florida | 373 |
 | US Denver | 269 |
 | CA Ontario | 255 |
@@ -111,7 +111,6 @@ View the IP list [here](/servers.json)
 | Georgia | 3 |
 | Serbia | 3 |
 | IT Streaming Optimized | 3 |
-| North Macedonia | 3 |
 | Brazil | 3 |
 | New Zealand | 3 |
 | JP Streaming Optimized | 3 |
@@ -154,6 +153,7 @@ View the IP list [here](/servers.json)
 | US North Dakota | 2 |
 | Slovakia | 2 |
 | US Rhode Island | 2 |
+| North Macedonia | 2 |
 | US South Dakota | 2 |
 | US Wyoming | 2 |
 | US Massachusetts | 2 |
