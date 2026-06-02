@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,437-blue)
+![Servers](https://img.shields.io/badge/servers-10,459-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_08:56:33_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_09:56:41_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,19 +13,19 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 796 |
-| US Chicago | 641 |
+| Netherlands | 797 |
+| US Chicago | 642 |
 | US New York | 599 |
-| US Washington DC | 583 |
-| US Atlanta | 572 |
-| US Texas | 535 |
-| US East | 494 |
+| US Washington DC | 584 |
+| US Atlanta | 573 |
+| US Texas | 536 |
+| US East | 495 |
+| CA Toronto | 493 |
 | CA Montreal | 493 |
-| CA Toronto | 492 |
-| US Silicon Valley | 464 |
-| US Las Vegas | 450 |
+| US Silicon Valley | 465 |
+| US Las Vegas | 452 |
 | US California | 441 |
-| CA Vancouver | 433 |
+| CA Vancouver | 435 |
 | US Florida | 376 |
 | US Denver | 275 |
 | CA Ontario | 257 |
@@ -46,29 +46,29 @@ View the IP list [here](/servers.json)
 | Uruguay | 55 |
 | Austria | 54 |
 | Andorra | 47 |
-| Vietnam | 43 |
-| Isle OF Man | 41 |
+| Vietnam | 44 |
+| Isle OF Man | 42 |
 | Liechtenstein | 40 |
 | Morocco | 37 |
 | Chile | 37 |
 | Malta | 35 |
 | Costa Rica | 33 |
 | US Pennsylvania | 31 |
-| Hong Kong | 29 |
-| Bangladesh | 28 |
+| Hong Kong | 30 |
+| Bangladesh | 30 |
 | Peru | 27 |
-| Bolivia | 26 |
-| Guatemala | 25 |
+| Bolivia | 27 |
+| Guatemala | 26 |
 | Macao | 24 |
 | Cambodia | 23 |
 | Cyprus | 23 |
+| Bosnia And Herzegovina | 23 |
 | Montenegro | 23 |
-| Bosnia And Herzegovina | 22 |
 | Armenia | 21 |
 | Monaco | 21 |
 | Sri Lanka | 21 |
+| Kazakhstan | 21 |
 | FI Streaming Optimized | 20 |
-| Kazakhstan | 19 |
 | US Seattle | 16 |
 | US New Mexico | 16 |
 | South Korea | 13 |
