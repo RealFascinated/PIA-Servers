@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,425-blue)
+![Servers](https://img.shields.io/badge/servers-10,408-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_21:58:32_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_22:58:42_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,69 +13,69 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 812 |
+| Netherlands | 811 |
 | US Chicago | 654 |
-| US New York | 613 |
-| US Washington DC | 578 |
+| US New York | 614 |
+| US Washington DC | 577 |
 | US Atlanta | 575 |
-| US Texas | 539 |
-| US East | 496 |
-| CA Toronto | 496 |
+| US Texas | 537 |
+| US East | 495 |
+| CA Toronto | 495 |
 | CA Montreal | 495 |
 | US Silicon Valley | 467 |
-| US Las Vegas | 455 |
-| US California | 440 |
-| CA Vancouver | 439 |
-| US Florida | 383 |
-| US Denver | 280 |
+| US Las Vegas | 454 |
+| US California | 439 |
+| CA Vancouver | 437 |
+| US Florida | 384 |
+| US Denver | 279 |
 | CA Ontario | 256 |
 | US Houston | 196 |
 | UK Streaming Optimized | 123 |
 | US East Streaming Optimized | 120 |
-| India | 117 |
+| India | 118 |
 | DE Germany Streaming Optimized | 101 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 96 |
-| Luxembourg | 93 |
+| Luxembourg | 91 |
 | Panama | 90 |
 | NL Netherlands Streaming Optimized | 58 |
 | Ukraine | 56 |
 | Venezuela | 53 |
-| CA Ontario Streaming Optimized | 53 |
-| Austria | 52 |
-| Ecuador | 52 |
+| Austria | 53 |
 | Uruguay | 51 |
-| Vietnam | 40 |
+| CA Ontario Streaming Optimized | 51 |
+| Ecuador | 50 |
+| Vietnam | 39 |
 | Isle OF Man | 39 |
 | Morocco | 36 |
 | Liechtenstein | 35 |
-| Andorra | 32 |
+| Malta | 35 |
+| Andorra | 31 |
 | US Pennsylvania | 31 |
-| Malta | 31 |
-| Hong Kong | 28 |
-| Costa Rica | 28 |
+| Costa Rica | 29 |
+| Hong Kong | 27 |
 | Bolivia | 27 |
-| Bangladesh | 27 |
-| Guatemala | 25 |
+| Guatemala | 26 |
+| Bangladesh | 26 |
 | Macao | 25 |
-| Peru | 25 |
 | Montenegro | 25 |
 | Cyprus | 24 |
-| Armenia | 23 |
-| Bosnia And Herzegovina | 23 |
+| Peru | 24 |
 | Kazakhstan | 23 |
+| Armenia | 22 |
 | Monaco | 22 |
 | Sri Lanka | 22 |
 | Cambodia | 21 |
+| Bosnia And Herzegovina | 21 |
 | US New Mexico | 19 |
-| Chile | 17 |
 | US Seattle | 16 |
+| Chile | 16 |
 | South Korea | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
 | UK London | 12 |
-| FI Streaming Optimized | 12 |
 | Switzerland | 11 |
+| FI Streaming Optimized | 11 |
 | Estonia | 7 |
 | Singapore | 7 |
 | France | 7 |
