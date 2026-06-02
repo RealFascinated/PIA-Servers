@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,483-blue)
+![Servers](https://img.shields.io/badge/servers-10,466-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_03:55:41_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_04:55:52_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,22 +13,22 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 796 |
-| US Chicago | 637 |
-| US New York | 600 |
-| US Washington DC | 591 |
-| US Atlanta | 569 |
-| US Texas | 531 |
+| Netherlands | 798 |
+| US Chicago | 638 |
+| US New York | 597 |
+| US Washington DC | 592 |
+| US Atlanta | 567 |
+| US Texas | 535 |
 | US East | 493 |
-| CA Toronto | 492 |
+| CA Toronto | 493 |
 | CA Montreal | 492 |
-| US Silicon Valley | 463 |
-| US Las Vegas | 455 |
-| US California | 444 |
-| CA Vancouver | 439 |
-| US Florida | 377 |
+| US Silicon Valley | 465 |
+| US Las Vegas | 454 |
+| US California | 442 |
+| CA Vancouver | 438 |
+| US Florida | 375 |
 | US Denver | 272 |
-| CA Ontario | 256 |
+| CA Ontario | 257 |
 | US Houston | 196 |
 | UK Streaming Optimized | 124 |
 | US East Streaming Optimized | 120 |
@@ -43,34 +43,34 @@ View the IP list [here](/servers.json)
 | Venezuela | 59 |
 | Ukraine | 59 |
 | Ecuador | 56 |
-| Uruguay | 56 |
 | Austria | 55 |
+| Uruguay | 55 |
 | Andorra | 47 |
 | Vietnam | 44 |
 | Isle OF Man | 43 |
 | Liechtenstein | 41 |
 | Chile | 39 |
-| Morocco | 38 |
+| Morocco | 37 |
 | Malta | 36 |
-| Costa Rica | 35 |
-| Hong Kong | 32 |
+| Costa Rica | 34 |
 | US Pennsylvania | 31 |
-| Bangladesh | 29 |
-| Guatemala | 28 |
+| Hong Kong | 30 |
+| Bangladesh | 28 |
+| Guatemala | 27 |
 | Peru | 27 |
 | Bolivia | 27 |
-| Macao | 25 |
-| FI Streaming Optimized | 25 |
-| Montenegro | 25 |
 | Cambodia | 24 |
-| Bosnia And Herzegovina | 24 |
-| Armenia | 23 |
+| Macao | 24 |
+| FI Streaming Optimized | 24 |
+| Bosnia And Herzegovina | 23 |
+| Montenegro | 23 |
+| Armenia | 22 |
 | Sri Lanka | 22 |
-| Kazakhstan | 22 |
-| Cyprus | 21 |
+| Kazakhstan | 21 |
 | Monaco | 20 |
+| Cyprus | 19 |
 | US Seattle | 16 |
-| US New Mexico | 16 |
+| US New Mexico | 14 |
 | Nepal | 14 |
 | South Korea | 12 |
 | UK London | 12 |
