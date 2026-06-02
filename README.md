@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,416-blue)
+![Servers](https://img.shields.io/badge/servers-10,394-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_10:56:57_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_11:57:07_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,19 +13,19 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 794 |
+| Netherlands | 793 |
 | US Chicago | 642 |
 | US New York | 599 |
 | US Washington DC | 582 |
-| US Atlanta | 569 |
-| US Texas | 535 |
+| US Atlanta | 570 |
+| US Texas | 534 |
 | US East | 493 |
 | CA Toronto | 493 |
 | CA Montreal | 493 |
 | US Silicon Valley | 466 |
-| US Las Vegas | 452 |
+| US Las Vegas | 449 |
 | US California | 438 |
-| CA Vancouver | 436 |
+| CA Vancouver | 433 |
 | US Florida | 375 |
 | US Denver | 275 |
 | CA Ontario | 255 |
@@ -42,49 +42,49 @@ View the IP list [here](/servers.json)
 | CA Ontario Streaming Optimized | 60 |
 | Venezuela | 59 |
 | Ukraine | 59 |
-| Austria | 55 |
 | Uruguay | 55 |
+| Austria | 53 |
 | Ecuador | 53 |
-| Andorra | 45 |
-| Vietnam | 43 |
-| Liechtenstein | 40 |
+| Andorra | 44 |
+| Vietnam | 42 |
 | Isle OF Man | 40 |
+| Liechtenstein | 39 |
 | Morocco | 36 |
-| Chile | 35 |
-| Malta | 33 |
+| Chile | 32 |
 | US Pennsylvania | 31 |
-| Hong Kong | 30 |
+| Malta | 31 |
 | Costa Rica | 30 |
 | Bangladesh | 30 |
+| Hong Kong | 28 |
 | Peru | 28 |
 | Guatemala | 25 |
-| Bolivia | 25 |
+| Bolivia | 24 |
 | Cambodia | 23 |
-| Macao | 23 |
+| Monaco | 22 |
+| Cyprus | 22 |
+| Bosnia And Herzegovina | 22 |
+| Macao | 22 |
 | Montenegro | 22 |
-| Armenia | 21 |
-| Monaco | 21 |
-| Cyprus | 21 |
-| Bosnia And Herzegovina | 21 |
 | Sri Lanka | 21 |
+| Armenia | 20 |
 | Kazakhstan | 20 |
-| FI Streaming Optimized | 19 |
+| FI Streaming Optimized | 18 |
 | US Seattle | 16 |
 | US New Mexico | 15 |
-| South Korea | 14 |
-| Nepal | 13 |
-| Mongolia | 12 |
+| South Korea | 13 |
+| Nepal | 12 |
 | Switzerland | 11 |
+| Mongolia | 11 |
 | UK London | 11 |
 | Estonia | 9 |
 | Singapore | 7 |
 | France | 7 |
+| AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
 | Norway | 6 |
 | IT Milano | 6 |
-| AU Sydney | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
