@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,467-blue)
+![Servers](https://img.shields.io/badge/servers-10,460-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_06:56:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_07:56:22_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 800 |
+| Netherlands | 798 |
 | US Chicago | 640 |
-| US New York | 601 |
-| US Washington DC | 589 |
-| US Atlanta | 569 |
+| US New York | 600 |
+| US Washington DC | 587 |
+| US Atlanta | 572 |
 | US Texas | 535 |
-| CA Toronto | 495 |
 | US East | 494 |
-| CA Montreal | 493 |
+| CA Montreal | 494 |
+| CA Toronto | 493 |
 | US Silicon Valley | 465 |
-| US Las Vegas | 452 |
-| US California | 444 |
-| CA Vancouver | 436 |
-| US Florida | 376 |
-| US Denver | 274 |
+| US Las Vegas | 450 |
+| US California | 445 |
+| CA Vancouver | 434 |
+| US Florida | 377 |
+| US Denver | 275 |
 | CA Ontario | 257 |
 | US Houston | 196 |
 | UK Streaming Optimized | 124 |
@@ -46,36 +46,36 @@ View the IP list [here](/servers.json)
 | Austria | 55 |
 | Uruguay | 54 |
 | Andorra | 47 |
+| Vietnam | 43 |
 | Isle OF Man | 43 |
-| Vietnam | 42 |
 | Liechtenstein | 40 |
 | Chile | 38 |
 | Morocco | 36 |
 | Malta | 36 |
-| Costa Rica | 34 |
+| Costa Rica | 33 |
 | US Pennsylvania | 31 |
 | Hong Kong | 29 |
 | Bangladesh | 28 |
-| Bolivia | 27 |
-| Guatemala | 26 |
-| Peru | 26 |
-| Cambodia | 24 |
+| Peru | 27 |
+| Bolivia | 26 |
+| Guatemala | 25 |
 | Armenia | 23 |
-| Bosnia And Herzegovina | 23 |
+| Cambodia | 23 |
+| Cyprus | 22 |
+| Bosnia And Herzegovina | 22 |
 | Macao | 22 |
-| Sri Lanka | 22 |
 | FI Streaming Optimized | 22 |
 | Montenegro | 22 |
-| Cyprus | 21 |
+| Monaco | 21 |
 | Kazakhstan | 21 |
-| Monaco | 20 |
+| Sri Lanka | 20 |
 | US Seattle | 16 |
 | US New Mexico | 15 |
 | Nepal | 14 |
-| South Korea | 13 |
+| South Korea | 12 |
+| Mongolia | 12 |
 | UK London | 12 |
 | Switzerland | 11 |
-| Mongolia | 11 |
 | Estonia | 9 |
 | Singapore | 7 |
 | France | 7 |
