@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,426-blue)
+![Servers](https://img.shields.io/badge/servers-10,412-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Jun_01_23:55:57_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_02_00:55:12_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 783 |
-| US Chicago | 626 |
+| Netherlands | 782 |
+| US Chicago | 628 |
 | US New York | 594 |
 | US Washington DC | 590 |
-| US Atlanta | 564 |
-| US Texas | 527 |
+| US Atlanta | 563 |
+| US Texas | 528 |
 | CA Montreal | 491 |
 | US East | 484 |
-| CA Toronto | 480 |
+| CA Toronto | 481 |
 | US Silicon Valley | 457 |
-| US Las Vegas | 451 |
+| US Las Vegas | 450 |
 | US California | 445 |
-| CA Vancouver | 434 |
+| CA Vancouver | 433 |
 | US Florida | 374 |
-| US Denver | 274 |
+| US Denver | 271 |
 | CA Ontario | 255 |
 | US Houston | 196 |
 | UK Streaming Optimized | 124 |
@@ -48,7 +48,7 @@ View the IP list [here](/servers.json)
 | Andorra | 49 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
-| Liechtenstein | 40 |
+| Liechtenstein | 41 |
 | Chile | 40 |
 | Morocco | 38 |
 | Malta | 37 |
@@ -56,27 +56,27 @@ View the IP list [here](/servers.json)
 | Hong Kong | 32 |
 | US Pennsylvania | 31 |
 | Bangladesh | 30 |
-| Guatemala | 28 |
 | FI Streaming Optimized | 28 |
 | Peru | 28 |
-| Bolivia | 28 |
+| Guatemala | 27 |
 | Macao | 26 |
 | Montenegro | 26 |
-| Armenia | 24 |
+| Bolivia | 26 |
 | Cambodia | 24 |
-| Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
+| Armenia | 23 |
+| Cyprus | 23 |
 | Kazakhstan | 23 |
-| Sri Lanka | 21 |
-| Monaco | 20 |
-| US New Mexico | 19 |
+| Monaco | 21 |
+| Sri Lanka | 20 |
+| US New Mexico | 18 |
 | US Seattle | 16 |
-| Nepal | 14 |
-| South Korea | 13 |
+| South Korea | 12 |
 | UK London | 12 |
+| Nepal | 12 |
 | Switzerland | 11 |
-| Mongolia | 11 |
 | Estonia | 9 |
+| Mongolia | 8 |
 | Singapore | 7 |
 | France | 7 |
 | AU Sydney | 7 |
