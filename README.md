@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,399-blue)
+![Servers](https://img.shields.io/badge/servers-10,410-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_03_07:55:06_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_03_08:55:22_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,18 +13,18 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 801 |
+| Netherlands | 802 |
 | US Chicago | 659 |
-| US New York | 621 |
-| US Washington DC | 579 |
+| US New York | 622 |
+| US Washington DC | 580 |
 | US Atlanta | 571 |
 | US Texas | 537 |
 | CA Toronto | 505 |
 | US East | 499 |
 | CA Montreal | 496 |
 | US Silicon Valley | 468 |
-| US Las Vegas | 457 |
-| CA Vancouver | 445 |
+| US Las Vegas | 458 |
+| CA Vancouver | 446 |
 | US California | 435 |
 | US Florida | 380 |
 | US Denver | 279 |
@@ -40,11 +40,11 @@ View the IP list [here](/servers.json)
 | Luxembourg | 88 |
 | NL Netherlands Streaming Optimized | 64 |
 | CA Ontario Streaming Optimized | 57 |
-| Venezuela | 52 |
-| Ukraine | 52 |
+| Venezuela | 53 |
+| Ukraine | 53 |
+| Austria | 49 |
 | Ecuador | 49 |
-| Austria | 47 |
-| Uruguay | 47 |
+| Uruguay | 48 |
 | Isle OF Man | 39 |
 | Vietnam | 38 |
 | Morocco | 36 |
@@ -64,8 +64,8 @@ View the IP list [here](/servers.json)
 | Armenia | 23 |
 | Bosnia And Herzegovina | 23 |
 | Kazakhstan | 23 |
+| Monaco | 22 |
 | Sri Lanka | 22 |
-| Monaco | 21 |
 | Andorra | 20 |
 | US New Mexico | 19 |
 | US Seattle | 16 |
