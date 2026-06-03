@@ -2,7 +2,7 @@
 
 ![Servers](https://img.shields.io/badge/servers-10,443-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_03_16:56:32_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_03_17:56:43_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,66 +14,66 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 809 |
-| US Chicago | 661 |
+| US Chicago | 663 |
 | US New York | 614 |
-| US Washington DC | 580 |
+| US Washington DC | 579 |
 | US Atlanta | 575 |
 | US Texas | 538 |
 | CA Montreal | 508 |
-| CA Toronto | 503 |
-| US East | 497 |
-| US Silicon Valley | 470 |
+| CA Toronto | 502 |
+| US East | 496 |
+| US Silicon Valley | 471 |
 | US Las Vegas | 464 |
-| CA Vancouver | 453 |
+| CA Vancouver | 452 |
 | US California | 441 |
-| US Florida | 385 |
+| US Florida | 387 |
 | US Denver | 280 |
 | CA Ontario | 260 |
 | US Houston | 195 |
-| UK Streaming Optimized | 121 |
+| UK Streaming Optimized | 122 |
 | India | 116 |
 | US East Streaming Optimized | 113 |
 | DE Germany Streaming Optimized | 99 |
 | Bahamas | 95 |
-| US West Streaming Optimized | 94 |
+| US West Streaming Optimized | 93 |
 | Luxembourg | 89 |
-| Panama | 85 |
-| NL Netherlands Streaming Optimized | 64 |
+| Panama | 82 |
+| NL Netherlands Streaming Optimized | 65 |
 | Venezuela | 58 |
-| Ecuador | 54 |
-| Ukraine | 53 |
-| Austria | 52 |
-| CA Ontario Streaming Optimized | 51 |
-| Uruguay | 49 |
+| Ecuador | 55 |
+| CA Ontario Streaming Optimized | 52 |
+| Austria | 51 |
+| Ukraine | 50 |
+| Uruguay | 50 |
 | Isle OF Man | 42 |
-| Vietnam | 40 |
-| Liechtenstein | 38 |
+| Vietnam | 41 |
+| Liechtenstein | 39 |
 | Malta | 37 |
-| Morocco | 36 |
+| Morocco | 35 |
 | Costa Rica | 34 |
-| Hong Kong | 31 |
+| Hong Kong | 32 |
 | US Pennsylvania | 31 |
-| Bangladesh | 30 |
+| Bangladesh | 31 |
 | Guatemala | 28 |
-| Peru | 28 |
+| Peru | 27 |
 | Bolivia | 27 |
 | Montenegro | 26 |
 | Macao | 25 |
 | Armenia | 24 |
+| Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
-| Cambodia | 23 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
 | US New Mexico | 19 |
-| US Seattle | 15 |
+| US Seattle | 16 |
 | South Korea | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 12 |
-| Andorra | 11 |
 | Switzerland | 11 |
+| Andorra | 9 |
 | Singapore | 7 |
 | France | 7 |
 | AU Sydney | 7 |
