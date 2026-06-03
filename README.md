@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,460-blue)
+![Servers](https://img.shields.io/badge/servers-10,443-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_03_15:56:22_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_03_16:56:32_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,66 +13,66 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 811 |
-| US Chicago | 662 |
+| Netherlands | 809 |
+| US Chicago | 661 |
 | US New York | 614 |
 | US Washington DC | 580 |
-| US Atlanta | 576 |
-| US Texas | 539 |
-| CA Montreal | 504 |
+| US Atlanta | 575 |
+| US Texas | 538 |
+| CA Montreal | 508 |
 | CA Toronto | 503 |
 | US East | 497 |
 | US Silicon Valley | 470 |
 | US Las Vegas | 464 |
 | CA Vancouver | 453 |
-| US California | 440 |
+| US California | 441 |
 | US Florida | 385 |
 | US Denver | 280 |
 | CA Ontario | 260 |
 | US Houston | 195 |
-| UK Streaming Optimized | 123 |
+| UK Streaming Optimized | 121 |
 | India | 116 |
-| US East Streaming Optimized | 114 |
-| DE Germany Streaming Optimized | 100 |
+| US East Streaming Optimized | 113 |
+| DE Germany Streaming Optimized | 99 |
 | Bahamas | 95 |
 | US West Streaming Optimized | 94 |
 | Luxembourg | 89 |
 | Panama | 85 |
-| NL Netherlands Streaming Optimized | 63 |
+| NL Netherlands Streaming Optimized | 64 |
 | Venezuela | 58 |
-| Ukraine | 54 |
 | Ecuador | 54 |
-| CA Ontario Streaming Optimized | 54 |
-| Austria | 53 |
-| Uruguay | 50 |
+| Ukraine | 53 |
+| Austria | 52 |
+| CA Ontario Streaming Optimized | 51 |
+| Uruguay | 49 |
 | Isle OF Man | 42 |
-| Vietnam | 39 |
+| Vietnam | 40 |
 | Liechtenstein | 38 |
-| Morocco | 37 |
 | Malta | 37 |
-| Costa Rica | 35 |
+| Morocco | 36 |
+| Costa Rica | 34 |
 | Hong Kong | 31 |
 | US Pennsylvania | 31 |
 | Bangladesh | 30 |
 | Guatemala | 28 |
 | Peru | 28 |
-| Bolivia | 28 |
+| Bolivia | 27 |
 | Montenegro | 26 |
 | Macao | 25 |
 | Armenia | 24 |
-| Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
+| Cambodia | 23 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
 | US New Mexico | 19 |
-| US Seattle | 16 |
-| Andorra | 15 |
+| US Seattle | 15 |
 | South Korea | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
 | UK London | 12 |
 | Sri Lanka | 12 |
+| Andorra | 11 |
 | Switzerland | 11 |
 | Singapore | 7 |
 | France | 7 |
