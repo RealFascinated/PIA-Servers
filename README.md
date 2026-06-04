@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,427-blue)
+![Servers](https://img.shields.io/badge/servers-10,448-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_10:59:43_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_11:55:05_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 811 |
-| US Chicago | 661 |
+| Netherlands | 812 |
+| US Chicago | 662 |
 | US New York | 619 |
-| US Washington DC | 584 |
+| US Washington DC | 583 |
 | US Atlanta | 576 |
-| US Texas | 542 |
+| US Texas | 543 |
 | CA Montreal | 508 |
-| CA Toronto | 500 |
-| US East | 497 |
-| US Las Vegas | 474 |
+| CA Toronto | 501 |
+| US East | 499 |
+| US Las Vegas | 477 |
 | US Silicon Valley | 466 |
-| CA Vancouver | 460 |
+| CA Vancouver | 464 |
 | US California | 433 |
-| US Florida | 399 |
+| US Florida | 400 |
 | US Denver | 277 |
 | CA Ontario | 256 |
 | US Houston | 191 |
 | UK Streaming Optimized | 112 |
 | India | 110 |
-| US East Streaming Optimized | 108 |
-| DE Germany Streaming Optimized | 98 |
-| Bahamas | 86 |
-| US West Streaming Optimized | 86 |
-| Luxembourg | 83 |
-| Panama | 80 |
+| US East Streaming Optimized | 109 |
+| DE Germany Streaming Optimized | 99 |
+| Luxembourg | 85 |
+| Bahamas | 85 |
+| US West Streaming Optimized | 84 |
+| Panama | 83 |
 | NL Netherlands Streaming Optimized | 61 |
-| CA Ontario Streaming Optimized | 58 |
+| CA Ontario Streaming Optimized | 59 |
 | Venezuela | 57 |
+| Uruguay | 55 |
+| Ukraine | 54 |
 | Ecuador | 54 |
-| Uruguay | 54 |
-| Ukraine | 53 |
-| Austria | 52 |
+| Austria | 53 |
 | Vietnam | 43 |
 | Isle OF Man | 43 |
 | Liechtenstein | 39 |
