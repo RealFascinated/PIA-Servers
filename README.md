@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,396-blue)
+![Servers](https://img.shields.io/badge/servers-10,366-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_15:55:44_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_16:56:03_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,39 +13,39 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 812 |
-| US Chicago | 660 |
+| Netherlands | 809 |
+| US Chicago | 659 |
 | US New York | 614 |
-| US Washington DC | 581 |
-| US Atlanta | 572 |
-| US Texas | 544 |
-| CA Montreal | 505 |
+| US Washington DC | 580 |
+| US Atlanta | 569 |
+| US Texas | 542 |
 | US East | 503 |
-| CA Toronto | 498 |
-| US Las Vegas | 475 |
-| US Silicon Valley | 466 |
-| CA Vancouver | 456 |
+| CA Montreal | 502 |
+| CA Toronto | 496 |
+| US Las Vegas | 474 |
+| US Silicon Valley | 464 |
+| CA Vancouver | 455 |
 | US California | 432 |
-| US Florida | 400 |
+| US Florida | 398 |
 | US Denver | 277 |
 | CA Ontario | 255 |
 | US Houston | 189 |
-| US East Streaming Optimized | 110 |
-| India | 108 |
+| India | 109 |
+| US East Streaming Optimized | 109 |
 | UK Streaming Optimized | 108 |
-| DE Germany Streaming Optimized | 99 |
-| Bahamas | 82 |
-| US West Streaming Optimized | 82 |
-| Luxembourg | 79 |
-| Panama | 75 |
-| NL Netherlands Streaming Optimized | 63 |
-| Venezuela | 57 |
+| DE Germany Streaming Optimized | 98 |
+| US West Streaming Optimized | 83 |
+| Bahamas | 80 |
+| Luxembourg | 77 |
+| Panama | 74 |
+| NL Netherlands Streaming Optimized | 61 |
 | CA Ontario Streaming Optimized | 57 |
+| Venezuela | 56 |
 | Ukraine | 56 |
-| Uruguay | 55 |
 | Austria | 53 |
+| Uruguay | 53 |
 | Ecuador | 51 |
-| Vietnam | 43 |
+| Vietnam | 44 |
 | Isle OF Man | 43 |
 | Liechtenstein | 41 |
 | Morocco | 38 |
