@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,448-blue)
+![Servers](https://img.shields.io/badge/servers-10,447-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_11:55:05_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_12:55:05_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,40 +14,40 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 812 |
-| US Chicago | 662 |
-| US New York | 619 |
-| US Washington DC | 583 |
+| US Chicago | 663 |
+| US New York | 618 |
+| US Washington DC | 585 |
 | US Atlanta | 576 |
-| US Texas | 543 |
+| US Texas | 545 |
 | CA Montreal | 508 |
-| CA Toronto | 501 |
-| US East | 499 |
+| CA Toronto | 502 |
+| US East | 501 |
 | US Las Vegas | 477 |
 | US Silicon Valley | 466 |
-| CA Vancouver | 464 |
-| US California | 433 |
-| US Florida | 400 |
+| CA Vancouver | 463 |
+| US California | 434 |
+| US Florida | 401 |
 | US Denver | 277 |
-| CA Ontario | 256 |
+| CA Ontario | 255 |
 | US Houston | 191 |
 | UK Streaming Optimized | 112 |
-| India | 110 |
-| US East Streaming Optimized | 109 |
+| India | 111 |
+| US East Streaming Optimized | 108 |
 | DE Germany Streaming Optimized | 99 |
-| Luxembourg | 85 |
-| Bahamas | 85 |
-| US West Streaming Optimized | 84 |
-| Panama | 83 |
+| Luxembourg | 83 |
+| Bahamas | 83 |
+| US West Streaming Optimized | 82 |
+| Panama | 80 |
 | NL Netherlands Streaming Optimized | 61 |
-| CA Ontario Streaming Optimized | 59 |
+| CA Ontario Streaming Optimized | 60 |
 | Venezuela | 57 |
-| Uruguay | 55 |
+| Ecuador | 55 |
 | Ukraine | 54 |
-| Ecuador | 54 |
-| Austria | 53 |
+| Uruguay | 54 |
+| Austria | 52 |
+| Isle OF Man | 44 |
 | Vietnam | 43 |
-| Isle OF Man | 43 |
-| Liechtenstein | 39 |
+| Liechtenstein | 40 |
 | Morocco | 38 |
 | Malta | 37 |
 | Costa Rica | 35 |
@@ -89,7 +89,6 @@ View the IP list [here](/servers.json)
 | UK Southampton | 5 |
 | Latvia | 5 |
 | Poland | 4 |
-| Estonia | 4 |
 | United Arab Emirates | 4 |
 | Mexico | 4 |
 | Argentina | 4 |
@@ -98,6 +97,7 @@ View the IP list [here](/servers.json)
 | SE Streaming Optimized | 3 |
 | DK Streaming Optimized | 3 |
 | Andorra | 3 |
+| Estonia | 3 |
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
@@ -127,8 +127,8 @@ View the IP list [here](/servers.json)
 | US Ohio | 2 |
 | US Idaho | 2 |
 | Indonesia | 2 |
-| US Wilmington | 2 |
 | US Kansas | 2 |
+| US Wilmington | 2 |
 | Turkey | 2 |
 | US Indiana | 2 |
 | Algeria | 2 |
