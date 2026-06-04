@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,382-blue)
+![Servers](https://img.shields.io/badge/servers-10,392-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_18:56:08_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_19:56:19_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 809 |
-| US Chicago | 659 |
-| US New York | 615 |
+| Netherlands | 811 |
+| US Chicago | 663 |
+| US New York | 614 |
 | US Washington DC | 577 |
-| US Atlanta | 571 |
-| US Texas | 543 |
-| US East | 507 |
-| CA Montreal | 502 |
+| US Atlanta | 573 |
+| US Texas | 542 |
+| US East | 510 |
+| CA Montreal | 500 |
 | CA Toronto | 498 |
-| US Las Vegas | 473 |
-| US Silicon Valley | 466 |
-| CA Vancouver | 455 |
-| US California | 430 |
+| US Las Vegas | 475 |
+| US Silicon Valley | 465 |
+| CA Vancouver | 456 |
+| US California | 432 |
 | US Florida | 399 |
-| US Denver | 279 |
+| US Denver | 278 |
 | CA Ontario | 255 |
-| US Houston | 189 |
+| US Houston | 187 |
 | India | 109 |
-| UK Streaming Optimized | 108 |
-| US East Streaming Optimized | 107 |
+| UK Streaming Optimized | 107 |
+| US East Streaming Optimized | 106 |
 | DE Germany Streaming Optimized | 98 |
-| Bahamas | 85 |
-| US West Streaming Optimized | 85 |
-| Luxembourg | 77 |
-| Panama | 76 |
-| NL Netherlands Streaming Optimized | 62 |
+| US West Streaming Optimized | 88 |
+| Bahamas | 84 |
+| Luxembourg | 78 |
+| Panama | 77 |
+| NL Netherlands Streaming Optimized | 61 |
+| Venezuela | 57 |
 | CA Ontario Streaming Optimized | 57 |
-| Venezuela | 56 |
-| Ukraine | 55 |
-| Austria | 53 |
-| Uruguay | 53 |
-| Ecuador | 52 |
+| Ecuador | 55 |
+| Ukraine | 54 |
+| Austria | 52 |
+| Uruguay | 52 |
 | Vietnam | 44 |
 | Isle OF Man | 43 |
 | Liechtenstein | 41 |
