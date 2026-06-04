@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,447-blue)
+![Servers](https://img.shields.io/badge/servers-10,441-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_12:55:05_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Thu_Jun_04_13:55:18_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,40 +14,40 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 812 |
-| US Chicago | 663 |
-| US New York | 618 |
-| US Washington DC | 585 |
-| US Atlanta | 576 |
+| US Chicago | 662 |
+| US New York | 617 |
+| US Washington DC | 581 |
+| US Atlanta | 575 |
 | US Texas | 545 |
-| CA Montreal | 508 |
-| CA Toronto | 502 |
-| US East | 501 |
-| US Las Vegas | 477 |
+| CA Montreal | 505 |
+| US East | 500 |
+| CA Toronto | 500 |
+| US Las Vegas | 478 |
 | US Silicon Valley | 466 |
-| CA Vancouver | 463 |
+| CA Vancouver | 460 |
 | US California | 434 |
 | US Florida | 401 |
-| US Denver | 277 |
+| US Denver | 278 |
 | CA Ontario | 255 |
 | US Houston | 191 |
-| UK Streaming Optimized | 112 |
-| India | 111 |
+| UK Streaming Optimized | 111 |
+| India | 109 |
 | US East Streaming Optimized | 108 |
-| DE Germany Streaming Optimized | 99 |
-| Luxembourg | 83 |
-| Bahamas | 83 |
-| US West Streaming Optimized | 82 |
-| Panama | 80 |
-| NL Netherlands Streaming Optimized | 61 |
+| DE Germany Streaming Optimized | 100 |
+| Luxembourg | 85 |
+| Bahamas | 85 |
+| US West Streaming Optimized | 83 |
+| Panama | 79 |
+| NL Netherlands Streaming Optimized | 63 |
 | CA Ontario Streaming Optimized | 60 |
-| Venezuela | 57 |
+| Venezuela | 58 |
+| Ukraine | 55 |
 | Ecuador | 55 |
-| Ukraine | 54 |
 | Uruguay | 54 |
 | Austria | 52 |
+| Vietnam | 44 |
 | Isle OF Man | 44 |
-| Vietnam | 43 |
-| Liechtenstein | 40 |
+| Liechtenstein | 41 |
 | Morocco | 38 |
 | Malta | 37 |
 | Costa Rica | 35 |
