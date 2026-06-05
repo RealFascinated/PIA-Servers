@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,296-blue)
+![Servers](https://img.shields.io/badge/servers-10,291-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_11:59:15_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_12:59:26_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -14,37 +14,37 @@ View the IP list [here](/servers.json)
 | Region | Servers |
 | ------ | ------- |
 | Netherlands | 802 |
-| US Chicago | 654 |
-| US New York | 603 |
+| US Chicago | 650 |
+| US New York | 602 |
 | US Washington DC | 580 |
 | US Atlanta | 571 |
-| US Texas | 537 |
+| US Texas | 538 |
 | US East | 514 |
-| CA Toronto | 489 |
+| CA Toronto | 488 |
 | CA Montreal | 488 |
 | US Las Vegas | 468 |
-| US Silicon Valley | 463 |
-| CA Vancouver | 452 |
-| US California | 427 |
+| US Silicon Valley | 461 |
+| CA Vancouver | 450 |
+| US California | 426 |
 | US Florida | 394 |
-| US Denver | 271 |
+| US Denver | 272 |
 | CA Ontario | 247 |
 | US Houston | 177 |
 | India | 107 |
 | UK Streaming Optimized | 101 |
-| US East Streaming Optimized | 100 |
-| DE Germany Streaming Optimized | 95 |
+| US East Streaming Optimized | 101 |
+| DE Germany Streaming Optimized | 94 |
 | US West Streaming Optimized | 89 |
-| Bahamas | 85 |
-| Luxembourg | 84 |
+| Bahamas | 87 |
+| Luxembourg | 83 |
 | Panama | 82 |
 | NL Netherlands Streaming Optimized | 62 |
 | Ukraine | 58 |
 | Ecuador | 56 |
+| Uruguay | 56 |
 | Austria | 55 |
 | CA Ontario Streaming Optimized | 55 |
 | Venezuela | 54 |
-| Uruguay | 54 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
 | Liechtenstein | 41 |
@@ -73,12 +73,12 @@ View the IP list [here](/servers.json)
 | UK London | 12 |
 | Sri Lanka | 12 |
 | Switzerland | 11 |
+| Singapore | 7 |
 | France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
-| Singapore | 6 |
 | Norway | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
