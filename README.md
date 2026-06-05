@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,346-blue)
+![Servers](https://img.shields.io/badge/servers-10,353-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_04:57:49_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_05:58:02_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,38 +13,38 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 808 |
-| US Chicago | 654 |
-| US New York | 610 |
+| Netherlands | 809 |
+| US Chicago | 652 |
+| US New York | 612 |
 | US Washington DC | 579 |
-| US Atlanta | 574 |
-| US Texas | 542 |
-| US East | 518 |
-| CA Montreal | 500 |
-| CA Toronto | 494 |
+| US Atlanta | 577 |
+| US Texas | 541 |
+| US East | 519 |
+| CA Montreal | 499 |
+| CA Toronto | 492 |
 | US Las Vegas | 472 |
-| US Silicon Valley | 463 |
-| CA Vancouver | 446 |
-| US California | 427 |
-| US Florida | 396 |
+| US Silicon Valley | 464 |
+| CA Vancouver | 450 |
+| US California | 429 |
+| US Florida | 394 |
 | US Denver | 275 |
 | CA Ontario | 250 |
-| US Houston | 181 |
+| US Houston | 179 |
 | India | 107 |
-| UK Streaming Optimized | 105 |
-| US East Streaming Optimized | 100 |
+| UK Streaming Optimized | 106 |
+| US East Streaming Optimized | 101 |
 | DE Germany Streaming Optimized | 97 |
-| US West Streaming Optimized | 88 |
 | Bahamas | 87 |
-| Panama | 80 |
-| Luxembourg | 79 |
+| US West Streaming Optimized | 87 |
+| Luxembourg | 82 |
+| Panama | 81 |
 | NL Netherlands Streaming Optimized | 60 |
-| Ukraine | 58 |
+| Ukraine | 57 |
 | Ecuador | 57 |
 | CA Ontario Streaming Optimized | 55 |
 | Austria | 54 |
 | Uruguay | 54 |
-| Venezuela | 53 |
+| Venezuela | 52 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
 | Liechtenstein | 41 |
