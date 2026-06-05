@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,337-blue)
+![Servers](https://img.shields.io/badge/servers-10,296-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_10:58:56_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_11:59:15_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,37 +13,37 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 805 |
-| US Chicago | 655 |
-| US New York | 608 |
-| US Washington DC | 582 |
-| US Atlanta | 573 |
-| US Texas | 539 |
-| US East | 519 |
-| CA Montreal | 490 |
+| Netherlands | 802 |
+| US Chicago | 654 |
+| US New York | 603 |
+| US Washington DC | 580 |
+| US Atlanta | 571 |
+| US Texas | 537 |
+| US East | 514 |
 | CA Toronto | 489 |
-| US Las Vegas | 471 |
-| US Silicon Valley | 464 |
-| CA Vancouver | 453 |
-| US California | 428 |
-| US Florida | 397 |
+| CA Montreal | 488 |
+| US Las Vegas | 468 |
+| US Silicon Valley | 463 |
+| CA Vancouver | 452 |
+| US California | 427 |
+| US Florida | 394 |
 | US Denver | 271 |
 | CA Ontario | 247 |
-| US Houston | 179 |
-| India | 108 |
-| UK Streaming Optimized | 103 |
-| US East Streaming Optimized | 102 |
+| US Houston | 177 |
+| India | 107 |
+| UK Streaming Optimized | 101 |
+| US East Streaming Optimized | 100 |
 | DE Germany Streaming Optimized | 95 |
 | US West Streaming Optimized | 89 |
-| Bahamas | 87 |
+| Bahamas | 85 |
 | Luxembourg | 84 |
-| Panama | 81 |
+| Panama | 82 |
 | NL Netherlands Streaming Optimized | 62 |
 | Ukraine | 58 |
 | Ecuador | 56 |
-| Venezuela | 55 |
 | Austria | 55 |
 | CA Ontario Streaming Optimized | 55 |
+| Venezuela | 54 |
 | Uruguay | 54 |
 | Vietnam | 44 |
 | Isle OF Man | 44 |
@@ -73,12 +73,12 @@ View the IP list [here](/servers.json)
 | UK London | 12 |
 | Sri Lanka | 12 |
 | Switzerland | 11 |
-| Singapore | 7 |
 | France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
+| Singapore | 6 |
 | Norway | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
