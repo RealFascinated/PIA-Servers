@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,396-blue)
+![Servers](https://img.shields.io/badge/servers-10,362-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_08:58:35_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_09:58:45_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 813 |
-| US Chicago | 657 |
-| US New York | 613 |
-| US Washington DC | 585 |
-| US Atlanta | 577 |
+| Netherlands | 809 |
+| US Chicago | 655 |
+| US New York | 611 |
+| US Washington DC | 583 |
+| US Atlanta | 573 |
 | US Texas | 541 |
-| US East | 521 |
-| CA Montreal | 498 |
-| CA Toronto | 492 |
-| US Las Vegas | 473 |
-| US Silicon Valley | 465 |
-| CA Vancouver | 454 |
-| US California | 429 |
-| US Florida | 398 |
+| US East | 519 |
+| CA Toronto | 493 |
+| CA Montreal | 493 |
+| US Las Vegas | 472 |
+| US Silicon Valley | 464 |
+| CA Vancouver | 452 |
+| US California | 428 |
+| US Florida | 397 |
 | US Denver | 271 |
 | CA Ontario | 247 |
-| US Houston | 182 |
-| India | 111 |
-| UK Streaming Optimized | 108 |
-| US East Streaming Optimized | 104 |
+| US Houston | 180 |
+| India | 110 |
+| UK Streaming Optimized | 106 |
+| US East Streaming Optimized | 103 |
 | DE Germany Streaming Optimized | 95 |
 | US West Streaming Optimized | 89 |
 | Bahamas | 87 |
 | Luxembourg | 83 |
-| Panama | 82 |
-| NL Netherlands Streaming Optimized | 63 |
+| Panama | 81 |
+| NL Netherlands Streaming Optimized | 62 |
 | Ukraine | 58 |
 | Venezuela | 57 |
 | Ecuador | 56 |
@@ -174,8 +174,8 @@ View the IP list [here](/servers.json)
 | Egypt | 2 |
 | US Missouri | 2 |
 | US Connecticut | 2 |
-| Israel | 2 |
 | US Baltimore | 2 |
+| Israel | 2 |
 | US Alaska | 2 |
 | US Louisiana | 2 |
 | US Vermont | 1 |
