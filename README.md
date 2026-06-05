@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,339-blue)
+![Servers](https://img.shields.io/badge/servers-10,342-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_15:59:41_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_16:59:51_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,34 +13,34 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 801 |
-| US Chicago | 654 |
-| US New York | 609 |
+| Netherlands | 800 |
+| US Chicago | 655 |
+| US New York | 608 |
 | US Washington DC | 584 |
 | US Atlanta | 582 |
 | US Texas | 542 |
-| US East | 514 |
-| CA Montreal | 486 |
+| US East | 516 |
+| CA Montreal | 487 |
 | CA Toronto | 485 |
 | US Las Vegas | 466 |
-| US Silicon Valley | 464 |
-| CA Vancouver | 453 |
-| US California | 431 |
-| US Florida | 393 |
-| US Denver | 267 |
-| CA Ontario | 245 |
-| US Houston | 176 |
+| US Silicon Valley | 463 |
+| CA Vancouver | 455 |
+| US California | 430 |
+| US Florida | 392 |
+| US Denver | 268 |
+| CA Ontario | 242 |
+| US Houston | 177 |
 | India | 114 |
-| UK Streaming Optimized | 105 |
+| UK Streaming Optimized | 108 |
 | US East Streaming Optimized | 104 |
 | DE Germany Streaming Optimized | 93 |
-| US West Streaming Optimized | 93 |
-| Bahamas | 87 |
-| Panama | 84 |
-| Luxembourg | 84 |
-| NL Netherlands Streaming Optimized | 65 |
+| US West Streaming Optimized | 91 |
+| Bahamas | 89 |
+| Luxembourg | 87 |
+| Panama | 83 |
+| NL Netherlands Streaming Optimized | 64 |
+| Venezuela | 57 |
 | Ukraine | 57 |
-| Venezuela | 56 |
 | Ecuador | 56 |
 | Uruguay | 56 |
 | Austria | 55 |
@@ -79,7 +79,6 @@ View the IP list [here](/servers.json)
 | AU Melbourne | 7 |
 | DE Berlin | 6 |
 | US West | 6 |
-| Norway | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
 | DK Copenhagen | 5 |
@@ -91,6 +90,7 @@ View the IP list [here](/servers.json)
 | Poland | 4 |
 | United Arab Emirates | 4 |
 | Mexico | 4 |
+| Norway | 4 |
 | Argentina | 4 |
 | Chile | 4 |
 | Albania | 3 |
