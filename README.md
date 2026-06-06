@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,409-blue)
+![Servers](https://img.shields.io/badge/servers-10,439-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sat_Jun_06_08:56:12_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Jun_06_09:56:22_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 809 |
-| US Chicago | 665 |
-| US New York | 614 |
+| Netherlands | 810 |
+| US Chicago | 667 |
+| US New York | 615 |
+| US Atlanta | 589 |
 | US Washington DC | 587 |
-| US Atlanta | 584 |
-| US Texas | 548 |
-| US East | 513 |
-| CA Toronto | 499 |
-| CA Montreal | 493 |
-| US Las Vegas | 463 |
-| CA Vancouver | 461 |
-| US Silicon Valley | 450 |
-| US California | 439 |
-| US Florida | 392 |
-| US Denver | 267 |
-| CA Ontario | 230 |
+| US Texas | 550 |
+| US East | 515 |
+| CA Toronto | 500 |
+| CA Montreal | 495 |
+| US Las Vegas | 465 |
+| CA Vancouver | 463 |
+| US Silicon Valley | 451 |
+| US California | 438 |
+| US Florida | 394 |
+| US Denver | 269 |
+| CA Ontario | 228 |
 | US Houston | 179 |
-| India | 111 |
-| US East Streaming Optimized | 111 |
+| India | 112 |
+| US East Streaming Optimized | 112 |
 | UK Streaming Optimized | 111 |
 | DE Germany Streaming Optimized | 94 |
-| Bahamas | 93 |
-| US West Streaming Optimized | 91 |
-| Luxembourg | 89 |
-| Panama | 87 |
+| Bahamas | 94 |
+| US West Streaming Optimized | 93 |
+| Panama | 89 |
+| Luxembourg | 88 |
 | NL Netherlands Streaming Optimized | 65 |
 | Venezuela | 59 |
 | Ukraine | 59 |
@@ -68,10 +68,10 @@ View the IP list [here](/servers.json)
 | US New Mexico | 19 |
 | US Seattle | 16 |
 | South Korea | 14 |
+| Sri Lanka | 14 |
 | Nepal | 14 |
 | Mongolia | 12 |
 | UK London | 12 |
-| Sri Lanka | 12 |
 | Switzerland | 11 |
 | Singapore | 7 |
 | France | 7 |
