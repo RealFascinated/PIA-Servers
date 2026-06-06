@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,333-blue)
+![Servers](https://img.shields.io/badge/servers-10,347-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Fri_Jun_05_23:55:59_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sat_Jun_06_00:56:13_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,40 +13,40 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 795 |
-| US Chicago | 659 |
-| US New York | 612 |
-| US Washington DC | 591 |
-| US Atlanta | 578 |
-| US Texas | 543 |
-| US East | 509 |
-| CA Toronto | 486 |
-| CA Montreal | 481 |
-| US Las Vegas | 466 |
-| US Silicon Valley | 461 |
-| CA Vancouver | 453 |
+| Netherlands | 796 |
+| US Chicago | 658 |
+| US New York | 617 |
+| US Washington DC | 588 |
+| US Atlanta | 577 |
+| US Texas | 542 |
+| US East | 510 |
+| CA Toronto | 487 |
+| CA Montreal | 482 |
+| US Las Vegas | 469 |
+| US Silicon Valley | 460 |
+| CA Vancouver | 454 |
 | US California | 435 |
-| US Florida | 393 |
+| US Florida | 391 |
 | US Denver | 264 |
 | CA Ontario | 236 |
 | US Houston | 178 |
 | India | 112 |
 | US East Streaming Optimized | 108 |
-| UK Streaming Optimized | 104 |
-| DE Germany Streaming Optimized | 93 |
-| Bahamas | 91 |
-| US West Streaming Optimized | 91 |
-| Luxembourg | 86 |
-| Panama | 85 |
+| UK Streaming Optimized | 105 |
+| DE Germany Streaming Optimized | 94 |
+| Bahamas | 92 |
+| US West Streaming Optimized | 92 |
+| Luxembourg | 88 |
+| Panama | 86 |
 | NL Netherlands Streaming Optimized | 64 |
-| Venezuela | 58 |
+| Venezuela | 59 |
 | Ukraine | 58 |
 | Ecuador | 56 |
 | Uruguay | 56 |
 | Austria | 55 |
 | CA Ontario Streaming Optimized | 55 |
+| Isle OF Man | 46 |
 | Vietnam | 44 |
-| Isle OF Man | 44 |
 | Liechtenstein | 41 |
 | Morocco | 38 |
 | Malta | 37 |
