@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,319-blue)
+![Servers](https://img.shields.io/badge/servers-10,296-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Sun_Jun_07_16:57:15_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Sun_Jun_07_17:57:26_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,32 +13,32 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 795 |
-| US Chicago | 644 |
-| US New York | 607 |
-| US Atlanta | 590 |
+| Netherlands | 792 |
+| US Chicago | 642 |
+| US New York | 605 |
+| US Atlanta | 589 |
 | US Washington DC | 575 |
-| US Texas | 551 |
-| CA Toronto | 505 |
+| US Texas | 548 |
+| CA Toronto | 503 |
 | US East | 500 |
-| CA Montreal | 484 |
-| CA Vancouver | 472 |
+| CA Montreal | 481 |
+| CA Vancouver | 471 |
 | US Las Vegas | 463 |
-| US Silicon Valley | 454 |
+| US Silicon Valley | 452 |
 | US California | 438 |
-| US Florida | 384 |
-| US Denver | 258 |
-| CA Ontario | 179 |
-| US Houston | 171 |
+| US Florida | 382 |
+| US Denver | 257 |
+| CA Ontario | 178 |
+| US Houston | 167 |
 | US East Streaming Optimized | 118 |
 | India | 116 |
 | UK Streaming Optimized | 115 |
-| DE Germany Streaming Optimized | 96 |
+| DE Germany Streaming Optimized | 95 |
 | Bahamas | 94 |
 | US West Streaming Optimized | 94 |
 | Panama | 93 |
 | Luxembourg | 92 |
-| NL Netherlands Streaming Optimized | 65 |
+| NL Netherlands Streaming Optimized | 66 |
 | Venezuela | 59 |
 | Ukraine | 59 |
 | Ecuador | 57 |
@@ -51,8 +51,8 @@ View the IP list [here](/servers.json)
 | Morocco | 38 |
 | Malta | 37 |
 | Costa Rica | 35 |
+| US Pennsylvania | 35 |
 | Hong Kong | 32 |
-| US Pennsylvania | 31 |
 | Bangladesh | 31 |
 | Guatemala | 28 |
 | Peru | 28 |
