@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,209-blue)
+![Servers](https://img.shields.io/badge/servers-10,207-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Mon_Jun_08_16:56:33_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Mon_Jun_08_17:56:33_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 799 |
-| US Chicago | 628 |
-| US New York | 602 |
-| US Atlanta | 587 |
-| US Washington DC | 571 |
+| Netherlands | 804 |
+| US Chicago | 627 |
+| US New York | 607 |
+| US Atlanta | 585 |
+| US Washington DC | 568 |
 | US Texas | 539 |
-| CA Toronto | 500 |
-| US East | 497 |
-| CA Montreal | 483 |
-| US Las Vegas | 467 |
+| CA Toronto | 501 |
+| US East | 498 |
+| CA Montreal | 484 |
+| US Las Vegas | 469 |
 | CA Vancouver | 459 |
 | US Silicon Valley | 443 |
-| US California | 419 |
-| US Florida | 385 |
-| US Denver | 252 |
-| US Houston | 177 |
-| CA Ontario | 144 |
+| US California | 417 |
+| US Florida | 386 |
+| US Denver | 253 |
+| US Houston | 178 |
+| CA Ontario | 141 |
 | UK Streaming Optimized | 120 |
-| India | 116 |
-| US East Streaming Optimized | 114 |
-| DE Germany Streaming Optimized | 99 |
+| India | 118 |
+| US East Streaming Optimized | 115 |
+| DE Germany Streaming Optimized | 98 |
 | Bahamas | 96 |
 | US West Streaming Optimized | 94 |
 | Panama | 93 |
-| Luxembourg | 91 |
+| Luxembourg | 92 |
 | NL Netherlands Streaming Optimized | 66 |
 | Venezuela | 59 |
 | Ukraine | 59 |
@@ -51,7 +51,6 @@ View the IP list [here](/servers.json)
 | Morocco | 38 |
 | Malta | 37 |
 | Costa Rica | 35 |
-| US Pennsylvania | 35 |
 | Hong Kong | 32 |
 | Bangladesh | 31 |
 | Guatemala | 28 |
@@ -63,6 +62,7 @@ View the IP list [here](/servers.json)
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Bosnia And Herzegovina | 24 |
+| US Pennsylvania | 23 |
 | Kazakhstan | 23 |
 | Monaco | 22 |
 | US New Mexico | 19 |
