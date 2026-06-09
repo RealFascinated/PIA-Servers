@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,269-blue)
+![Servers](https://img.shields.io/badge/servers-10,221-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_09_00:57:55_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_09_01:58:13_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,27 +13,27 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 820 |
-| US Chicago | 636 |
-| US New York | 614 |
-| US Atlanta | 584 |
-| US Washington DC | 578 |
-| US Texas | 546 |
-| CA Toronto | 507 |
-| US East | 497 |
-| CA Montreal | 485 |
-| CA Vancouver | 466 |
-| US Las Vegas | 466 |
-| US Silicon Valley | 441 |
-| US California | 415 |
-| US Florida | 394 |
-| US Denver | 253 |
+| Netherlands | 816 |
+| US Chicago | 634 |
+| US New York | 611 |
+| US Atlanta | 582 |
+| US Washington DC | 574 |
+| US Texas | 544 |
+| CA Toronto | 504 |
+| US East | 492 |
+| CA Montreal | 483 |
+| US Las Vegas | 465 |
+| CA Vancouver | 462 |
+| US Silicon Valley | 439 |
+| US California | 414 |
+| US Florida | 390 |
+| US Denver | 250 |
 | US Houston | 182 |
-| CA Ontario | 138 |
-| UK Streaming Optimized | 122 |
+| CA Ontario | 135 |
+| UK Streaming Optimized | 121 |
 | India | 118 |
 | US East Streaming Optimized | 117 |
-| DE Germany Streaming Optimized | 97 |
+| DE Germany Streaming Optimized | 96 |
 | Bahamas | 96 |
 | US West Streaming Optimized | 96 |
 | Panama | 93 |
@@ -100,7 +100,6 @@ View the IP list [here](/servers.json)
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
-| Lithuania | 3 |
 | AU Brisbane | 3 |
 | Nigeria | 3 |
 | Australia Streaming Optimized | 3 |
@@ -134,6 +133,7 @@ View the IP list [here](/servers.json)
 | Algeria | 2 |
 | US South Carolina | 2 |
 | Portugal | 2 |
+| Lithuania | 2 |
 | US Maine | 2 |
 | Hungary | 2 |
 | Greece | 2 |
