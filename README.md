@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,196-blue)
+![Servers](https://img.shields.io/badge/servers-10,157-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_09_11:56:50_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_09_12:57:02_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,26 +13,26 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 815 |
-| US Chicago | 630 |
-| US New York | 613 |
-| US Atlanta | 588 |
-| US Washington DC | 568 |
-| US Texas | 542 |
-| CA Toronto | 500 |
-| US East | 489 |
-| CA Montreal | 480 |
-| CA Vancouver | 463 |
+| Netherlands | 813 |
+| US Chicago | 626 |
+| US New York | 610 |
+| US Atlanta | 586 |
+| US Washington DC | 566 |
+| US Texas | 540 |
+| CA Toronto | 499 |
+| US East | 484 |
+| CA Montreal | 481 |
 | US Las Vegas | 463 |
-| US Silicon Valley | 440 |
-| US California | 416 |
-| US Florida | 392 |
-| US Denver | 251 |
-| US Houston | 181 |
+| CA Vancouver | 461 |
+| US Silicon Valley | 436 |
+| US California | 414 |
+| US Florida | 391 |
+| US Denver | 248 |
+| US Houston | 179 |
 | UK Streaming Optimized | 123 |
-| CA Ontario | 118 |
 | US East Streaming Optimized | 118 |
-| India | 113 |
+| CA Ontario | 116 |
+| India | 111 |
 | DE Germany Streaming Optimized | 98 |
 | Bahamas | 97 |
 | US West Streaming Optimized | 96 |
@@ -102,7 +102,6 @@ View the IP list [here](/servers.json)
 | FI Helsinki | 3 |
 | Lithuania | 3 |
 | AU Brisbane | 3 |
-| Nigeria | 3 |
 | Australia Streaming Optimized | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
@@ -141,6 +140,7 @@ View the IP list [here](/servers.json)
 | US Tennessee | 2 |
 | Colombia | 2 |
 | US Honolulu | 2 |
+| Nigeria | 2 |
 | US Minnesota | 2 |
 | US Mississippi | 2 |
 | US Nebraska | 2 |
