@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-10,207-blue)
+![Servers](https://img.shields.io/badge/servers-10,216-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_09_04:55:26_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Tue_Jun_09_05:55:38_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,29 +13,29 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 811 |
-| US Chicago | 636 |
+| Netherlands | 812 |
+| US Chicago | 635 |
 | US New York | 610 |
-| US Atlanta | 586 |
-| US Washington DC | 570 |
+| US Atlanta | 588 |
+| US Washington DC | 572 |
 | US Texas | 547 |
-| CA Toronto | 499 |
-| US East | 490 |
+| CA Toronto | 497 |
+| US East | 489 |
 | CA Montreal | 481 |
+| CA Vancouver | 467 |
 | US Las Vegas | 464 |
-| CA Vancouver | 462 |
 | US Silicon Valley | 441 |
 | US California | 414 |
-| US Florida | 391 |
-| US Denver | 248 |
+| US Florida | 393 |
+| US Denver | 247 |
 | US Houston | 183 |
-| CA Ontario | 129 |
+| CA Ontario | 128 |
 | UK Streaming Optimized | 121 |
-| US East Streaming Optimized | 117 |
-| India | 116 |
+| US East Streaming Optimized | 119 |
+| India | 115 |
 | DE Germany Streaming Optimized | 97 |
 | Bahamas | 97 |
-| US West Streaming Optimized | 96 |
+| US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
 | NL Netherlands Streaming Optimized | 66 |
@@ -100,6 +100,7 @@ View the IP list [here](/servers.json)
 | Saudi Arabia | 3 |
 | UK Manchester | 3 |
 | FI Helsinki | 3 |
+| Lithuania | 3 |
 | AU Brisbane | 3 |
 | Nigeria | 3 |
 | Australia Streaming Optimized | 3 |
@@ -133,7 +134,6 @@ View the IP list [here](/servers.json)
 | Algeria | 2 |
 | US South Carolina | 2 |
 | Portugal | 2 |
-| Lithuania | 2 |
 | US Maine | 2 |
 | Hungary | 2 |
 | Greece | 2 |
