@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-9,928-blue)
+![Servers](https://img.shields.io/badge/servers-9,937-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_10_10:57:15_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_10_11:57:27_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,31 +13,31 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 800 |
-| US Chicago | 615 |
-| US New York | 594 |
+| Netherlands | 802 |
+| US Chicago | 618 |
+| US New York | 596 |
 | US Atlanta | 574 |
 | US Washington DC | 559 |
 | US Texas | 522 |
 | CA Toronto | 496 |
-| US East | 482 |
+| US East | 483 |
 | CA Montreal | 460 |
-| CA Vancouver | 457 |
-| US Las Vegas | 438 |
+| CA Vancouver | 458 |
+| US Las Vegas | 435 |
 | US Silicon Valley | 410 |
 | US California | 393 |
-| US Florida | 384 |
-| US Denver | 231 |
-| US Houston | 173 |
+| US Florida | 388 |
+| US Denver | 235 |
+| US Houston | 171 |
 | UK Streaming Optimized | 123 |
 | US East Streaming Optimized | 120 |
-| India | 114 |
+| India | 113 |
 | DE Germany Streaming Optimized | 99 |
 | Bahamas | 98 |
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| CA Ontario | 81 |
+| CA Ontario | 80 |
 | NL Netherlands Streaming Optimized | 66 |
 | Venezuela | 59 |
 | Ukraine | 59 |
@@ -104,7 +104,6 @@ View the IP list [here](/servers.json)
 | FI Helsinki | 3 |
 | Lithuania | 3 |
 | AU Brisbane | 3 |
-| Nigeria | 3 |
 | Australia Streaming Optimized | 3 |
 | JP Tokyo | 3 |
 | Georgia | 3 |
@@ -141,6 +140,7 @@ View the IP list [here](/servers.json)
 | US Tennessee | 2 |
 | Colombia | 2 |
 | US Honolulu | 2 |
+| Nigeria | 2 |
 | US Minnesota | 2 |
 | US Mississippi | 2 |
 | US Nebraska | 2 |
