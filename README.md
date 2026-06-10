@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-9,938-blue)
+![Servers](https://img.shields.io/badge/servers-9,944-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_10_07:56:40_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_10_08:56:53_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 802 |
-| US Chicago | 615 |
-| US New York | 595 |
+| Netherlands | 804 |
+| US Chicago | 618 |
+| US New York | 597 |
 | US Atlanta | 575 |
 | US Washington DC | 563 |
-| US Texas | 520 |
-| CA Toronto | 497 |
+| US Texas | 519 |
+| CA Toronto | 496 |
 | US East | 481 |
-| CA Vancouver | 460 |
-| CA Montreal | 460 |
-| US Las Vegas | 441 |
-| US Silicon Valley | 415 |
-| US California | 393 |
-| US Florida | 380 |
-| US Denver | 230 |
+| CA Montreal | 462 |
+| CA Vancouver | 459 |
+| US Las Vegas | 439 |
+| US Silicon Valley | 414 |
+| US California | 392 |
+| US Florida | 382 |
+| US Denver | 232 |
 | US Houston | 171 |
 | UK Streaming Optimized | 123 |
 | US East Streaming Optimized | 120 |
@@ -37,7 +37,7 @@ View the IP list [here](/servers.json)
 | US West Streaming Optimized | 97 |
 | Panama | 93 |
 | Luxembourg | 93 |
-| CA Ontario | 84 |
+| CA Ontario | 83 |
 | NL Netherlands Streaming Optimized | 66 |
 | Venezuela | 59 |
 | Ukraine | 59 |
@@ -81,6 +81,7 @@ View the IP list [here](/servers.json)
 | US West | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
+| Saudi Arabia | 5 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
 | ES Madrid | 5 |
@@ -89,7 +90,6 @@ View the IP list [here](/servers.json)
 | Latvia | 5 |
 | Poland | 4 |
 | United Arab Emirates | 4 |
-| Saudi Arabia | 4 |
 | Mexico | 4 |
 | Norway | 4 |
 | Argentina | 4 |
