@@ -1,8 +1,8 @@
 # PIA Server List
 
-![Servers](https://img.shields.io/badge/servers-9,944-blue)
+![Servers](https://img.shields.io/badge/servers-9,934-blue)
 ![Regions](https://img.shields.io/badge/regions-166-blue)
-![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_10_08:56:53_UTC_2026-blue)
+![Last update](https://img.shields.io/badge/last_updated-Wed_Jun_10_09:57:03_UTC_2026-blue)
 
 This is a list of the OpenVPN servers provided by Private Internet Access (PIA). The list is updated hourly. </br>
 Servers that have not been active in the last 2 weeks will be automatically removed. </br>
@@ -13,21 +13,21 @@ View the IP list [here](/servers.json)
 
 | Region | Servers |
 | ------ | ------- |
-| Netherlands | 804 |
-| US Chicago | 618 |
+| Netherlands | 801 |
+| US Chicago | 615 |
 | US New York | 597 |
-| US Atlanta | 575 |
-| US Washington DC | 563 |
-| US Texas | 519 |
+| US Atlanta | 574 |
+| US Washington DC | 560 |
+| US Texas | 520 |
 | CA Toronto | 496 |
-| US East | 481 |
-| CA Montreal | 462 |
+| US East | 482 |
 | CA Vancouver | 459 |
+| CA Montreal | 459 |
 | US Las Vegas | 439 |
 | US Silicon Valley | 414 |
-| US California | 392 |
-| US Florida | 382 |
-| US Denver | 232 |
+| US California | 393 |
+| US Florida | 381 |
+| US Denver | 231 |
 | US Houston | 171 |
 | UK Streaming Optimized | 123 |
 | US East Streaming Optimized | 120 |
@@ -77,11 +77,11 @@ View the IP list [here](/servers.json)
 | France | 7 |
 | AU Sydney | 7 |
 | AU Melbourne | 7 |
+| Saudi Arabia | 6 |
 | DE Berlin | 6 |
 | US West | 6 |
 | IT Milano | 6 |
 | SE Stockholm | 6 |
-| Saudi Arabia | 5 |
 | DK Copenhagen | 5 |
 | Greenland | 5 |
 | ES Madrid | 5 |
@@ -94,6 +94,7 @@ View the IP list [here](/servers.json)
 | Norway | 4 |
 | Argentina | 4 |
 | Chile | 4 |
+| Qatar | 4 |
 | Albania | 3 |
 | SE Streaming Optimized | 3 |
 | DK Streaming Optimized | 3 |
@@ -115,7 +116,6 @@ View the IP list [here](/servers.json)
 | JP Streaming Optimized | 3 |
 | Iceland | 3 |
 | US Salt Lake City | 3 |
-| Qatar | 3 |
 | China | 3 |
 | Ireland | 3 |
 | AU Adelaide | 2 |
